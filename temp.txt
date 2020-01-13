@@ -1,0 +1,11 @@
+Localizing Fault
+Fault Localizaton done!
+Preparing Testcases
+Correct Patch Generated!
+Elapsed time: 53.64321276 seconds
+File no 3903
+helper
+end
+Total Candidate Patches: 6371
+Correct Patch Rank: 126
+SHESH
