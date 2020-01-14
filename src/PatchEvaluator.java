@@ -2,10 +2,18 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
+import java.io.InputStreamReader;
 import java.net.URL;
 import java.net.URLClassLoader;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Set;
+import java.util.concurrent.ExecutionException;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.Future;
+import java.util.concurrent.TimeUnit;
+import java.util.concurrent.TimeoutException;
 
 import org.eclipse.jdt.core.dom.ASTNode;
 import org.eclipse.jdt.core.dom.CompilationUnit;
@@ -20,7 +28,7 @@ public class PatchEvaluator {
 	private static PatchEvaluator patchEvaluator;
 	ArrayList<TestCase> testCases;
 	Compiler compiler;
-
+	
 	private PatchEvaluator() {
 		this.testCases = new ArrayList<TestCase>();
 	}
@@ -76,6 +84,7 @@ public class PatchEvaluator {
 		File srcDir = new File("output/"); //new File("digit/"+ "bin/");
 		URL testUrl = null;
 		URL srcUrl = null;
+		
 		try {
 			testUrl = testDir.toURI().toURL();
 			srcUrl = srcDir.toURI().toURL();
@@ -98,15 +107,61 @@ public class PatchEvaluator {
 				//				JUnitListener listener = new JUnitListener();
 				//				runner.addListener(listener);
 				JUnitCore runner = new JUnitCore();
-				Result result = runner.run(request);
+				Result result = runner.run(request);  
+//				ExecutorService executor = Executors.newFixedThreadPool(2);
+//
+//			    Future<?> future = executor.submit(new Runnable() {
+//			        @Override
+//			        public void run() {
+//			        	result = runner.run(request);             //        <-- your job
+//			        }
+//			    });
+//
+//			    executor.shutdown();            //        <-- reject all further submissions
+//
+//			    try {
+//			        future.get(65, TimeUnit.SECONDS);  //     <-- wait 8 seconds to finish
+//			    } catch (InterruptedException e) {    //     <-- possible error cases
+//			        System.out.println("job was interrupted");
+//			    } catch (ExecutionException e) {
+//			        System.out.println("caught exception: " + e.getCause());
+//			    } catch (TimeoutException e) {
+//			        future.cancel(true);              //     <-- interrupt the job
+//			        System.out.println("timeout");
+//			    }
+//
+//			    // wait all unfinished tasks for 2 sec
+//			    if(!executor.awaitTermination(2, TimeUnit.SECONDS)){
+//			        // force them to quit by interrupting
+//			        executor.shutdownNow();
+//			    }
+			    
+//			    Thread processReader = new Thread(){
+//					public void run() {
+//				result = runner.run(request);  
+//					}
+//				};
+//				long timeToWait = 1000 * 60;
+//		        long startTime = System.currentTimeMillis();
+//				processReader.start();
+//				
+//				while (processReader.isAlive()) {
+//	                if (threadTimer(startTime, timeToWait, processReader)) {
+//	                    System.out.println("Thread time-up!!!!!");
+//	                    
+//	                	processReader.interrupt();
+//	                	processReader.join();
+//	                }
+//	            }
+				
 				//				System.out.println(result.getFailureCount());
 				boolean pass = result.wasSuccessful();
-				//				System.out.println(pass + " in "+ testCase.methodName+ " from "+testCase.className);
+//				System.out.println(pass + " in "+ testCase.methodName+ " from "+testCase.className);
 				if(pass == false) {
-					//					for (Failure failure : result.getFailures()) {
-					//						System.out.println(failure.getException());
-					//						System.out.println(failure.getDescription());
-					//					}
+//					for (Failure failure : result.getFailures()) {
+//						System.out.println(failure.getException());
+//						System.out.println(failure.getDescription());
+//					}
 					//					testCase.index++;
 					//					Collections.sort(testClasses);
 					return false;
@@ -120,6 +175,10 @@ public class PatchEvaluator {
 		//		System.out.println("DONE");
 		return true;
 	}
+	
+//	private boolean threadTimer(long startTime, long timeToWait, Thread thread) {
+//        return ((System.currentTimeMillis() - startTime) > timeToWait) && thread.isAlive();
+//    }
 
 	void processPatches(long startingTime) {
 		PatchGenerator patchGenerator = PatchGenerator.createPatchGenerator();
@@ -129,9 +188,17 @@ public class PatchEvaluator {
 		this.writeCandidatePatches();
 
 		for(int i=0; i<patchGenerator.candidatePatchesList.size(); i++) { //candidatePatches.size()
+			Set<Thread> threadSet = Thread.getAllStackTraces().keySet();
+//			System.out.println(threadSet);
+			for(Thread t : threadSet) {
+				if(t.getName().equals("Time-limited test")) {
+					t.stop();
+					System.out.println("Stop " + t.getName());
+				}
+			}
 			long currentTime = System.nanoTime();
 			CandidatePatch candidatePatch = patchGenerator.candidatePatchesList.get(i);
-//			System.out.println("Patch no: "+(i+1)+ " " + candidatePatch.initialRank);
+			System.out.println("Patch no: "+(i+1)+ " " + candidatePatch.initialRank);
 			File project = new File(patchGenerator.candidatePatchesDirectory+"/"+candidatePatch.initialRank);
 			
 			if(correctPatchFound == true) {
@@ -174,7 +241,7 @@ public class PatchEvaluator {
 
 	void writeCandidatePatches() {
 		Program program = Program.createProgram();
-		File newfile = new File(program.sourceFilesDirectory+"/ComL.csv");
+		File newfile = new File(program.sourceFilesDirectory+"ComL.csv");
 		PatchGenerator patchGenerator = PatchGenerator.createPatchGenerator();
 		try {
 			FileWriter fileWrite = new FileWriter(newfile.getAbsolutePath());

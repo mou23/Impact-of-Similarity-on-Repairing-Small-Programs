@@ -1,8 +1,5 @@
 Test,Pass-Fail,Runtime(ns)
-buggy_java_programs.HANOI_TEST#test_0,FAIL,107545882
-buggy_java_programs.HANOI_TEST#test_1,FAIL,301281054
-buggy_java_programs.HANOI_TEST#test_2,FAIL,30510334
-buggy_java_programs.HANOI_TEST#test_3,FAIL,22610876
-buggy_java_programs.HANOI_TEST#test_4,FAIL,122346676
-buggy_java_programs.HANOI_TEST#test_5,FAIL,33046269
-buggy_java_programs.HANOI_TEST#test_6,FAIL,63113136
+buggy_java_programs.KHEAPSORT_TEST#test_0,PASS,184734526
+buggy_java_programs.KHEAPSORT_TEST#test_1,FAIL,501347937
+buggy_java_programs.KHEAPSORT_TEST#test_2,FAIL,127449337
+buggy_java_programs.KHEAPSORT_TEST#test_3,FAIL,34530625

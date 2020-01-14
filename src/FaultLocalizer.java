@@ -28,7 +28,7 @@ public class FaultLocalizer {
 		try {			
 //			ProcessBuilder builder = new ProcessBuilder("java", "-jar", "lib/com.gzoltar-1.6.1-java7-jar-with-dependencies.jar", "-Dgzoltar_data_dir=fault/",  "-DclassesDir=digit003/bin/", "-DtestsDir=digit003/test/", "-Dcoefficients=JACCARD", "-diagnose");//, "-DtestsDir=E:/fault-localization-research-master/src/triangle/target/test-classes/triangle/");
 			Program program = Program.createProgram();
-			ProcessBuilder builder = new ProcessBuilder("java", "-jar", "lib/com.gzoltar-1.6.1-java7-jar-with-dependencies.jar", "-Dgzoltar_data_dir=fault/",  "-DclassesDir=" + program.sourceClassFilesDirectory, "-DtestsDir=" + program.testClassFilesDirectory, "-Dcoefficients=OCHIAI", "-diagnose");//, "-DtestsDir=E:/fault-localization-research-master/src/triangle/target/test-classes/triangle/");
+			ProcessBuilder builder = new ProcessBuilder("java", "-jar", "lib/com.gzoltar-1.6.1-java7-jar-with-dependencies.jar", "-Dgzoltar_data_dir=fault/",  "-DclassesDir=" + program.sourceClassFilesDirectory, "-DtestsDir=" + program.testClassFilesDirectory, "-Dcoefficients=OCHIAI", "-diagnose");//, "-Dnumber_of_test_runs_in_parallel=1",  "-DtestsDir=E:/fault-localization-research-master/src/triangle/target/test-classes/triangle/");
 			process = builder.start();
 			final InputStream inputStream = process.getInputStream();
 			

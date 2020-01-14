@@ -8,7 +8,7 @@ public class RepairedBugChecker {
 	}
 
 	public static void runProject() {
-		File folder = new File("dataset2/");
+		File folder = new File("dataset/");
 		File[] listOfFiles = folder.listFiles();
 		try {
 			for (int i = 0; i < listOfFiles.length; i++) {
@@ -31,7 +31,9 @@ public class RepairedBugChecker {
 				System.out.println("Preparing Testcases");
 				PatchEvaluator patchEvaluator = PatchEvaluator.createPatchEvaluator();
 				patchEvaluator.prepareTestClasses();
+				System.out.println("Generating Patches");
 				scanDirectory(new File(program.sourceFilesDirectory));
+				System.out.println("Evaluating Patches");
 				patchEvaluator.processPatches(startingTime);
 				System.out.println("\n\n");
 			}
