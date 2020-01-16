@@ -1,5 +1,6 @@
 Test,Pass-Fail,Runtime(ns)
-buggy_java_programs.KHEAPSORT_TEST#test_0,PASS,184734526
-buggy_java_programs.KHEAPSORT_TEST#test_1,FAIL,501347937
-buggy_java_programs.KHEAPSORT_TEST#test_2,FAIL,127449337
-buggy_java_programs.KHEAPSORT_TEST#test_3,FAIL,34530625
+buggy_java_programs.WRAP_TEST#test_0,FAIL,46409095
+buggy_java_programs.WRAP_TEST#test_1,FAIL,47478437
+buggy_java_programs.WRAP_TEST#test_2,FAIL,33119644
+buggy_java_programs.WRAP_TEST#test_3,FAIL,41262040
+buggy_java_programs.WRAP_TEST#test_4,FAIL,34858514

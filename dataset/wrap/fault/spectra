@@ -1,0 +1,14 @@
+Component,OCHIAI
+buggy_java_programs[WRAP.java<buggy_java_programs.WRAP{<init>()V#13,0.00000000000000000000000000000000
+buggy_java_programs[WRAP.java<buggy_java_programs.WRAP{main([Ljava/lang/String;)V#15,0.00000000000000000000000000000000
+buggy_java_programs[WRAP.java<buggy_java_programs.WRAP{main([Ljava/lang/String;)V#16,0.00000000000000000000000000000000
+buggy_java_programs[WRAP.java<buggy_java_programs.WRAP{wrap(Ljava/lang/String;I)Ljava/util/ArrayList;#19,1.00000000000000000000000000000000
+buggy_java_programs[WRAP.java<buggy_java_programs.WRAP{wrap(Ljava/lang/String;I)Ljava/util/ArrayList;#22,1.00000000000000000000000000000000
+buggy_java_programs[WRAP.java<buggy_java_programs.WRAP{wrap(Ljava/lang/String;I)Ljava/util/ArrayList;#23,1.00000000000000000000000000000000
+buggy_java_programs[WRAP.java<buggy_java_programs.WRAP{wrap(Ljava/lang/String;I)Ljava/util/ArrayList;#24,1.00000000000000000000000000000000
+buggy_java_programs[WRAP.java<buggy_java_programs.WRAP{wrap(Ljava/lang/String;I)Ljava/util/ArrayList;#25,0.00000000000000000000000000000000
+buggy_java_programs[WRAP.java<buggy_java_programs.WRAP{wrap(Ljava/lang/String;I)Ljava/util/ArrayList;#27,1.00000000000000000000000000000000
+buggy_java_programs[WRAP.java<buggy_java_programs.WRAP{wrap(Ljava/lang/String;I)Ljava/util/ArrayList;#28,1.00000000000000000000000000000000
+buggy_java_programs[WRAP.java<buggy_java_programs.WRAP{wrap(Ljava/lang/String;I)Ljava/util/ArrayList;#29,1.00000000000000000000000000000000
+buggy_java_programs[WRAP.java<buggy_java_programs.WRAP{wrap(Ljava/lang/String;I)Ljava/util/ArrayList;#30,1.00000000000000000000000000000000
+buggy_java_programs[WRAP.java<buggy_java_programs.WRAP{wrap(Ljava/lang/String;I)Ljava/util/ArrayList;#32,1.00000000000000000000000000000000

@@ -33,6 +33,7 @@ public class RepairedBugChecker {
 				patchEvaluator.prepareTestClasses();
 				System.out.println("Generating Patches");
 				scanDirectory(new File(program.sourceFilesDirectory));
+				System.out.println("Total Patches: "+ patchGenerator.candidatePatchesList.size());
 				System.out.println("Evaluating Patches");
 				patchEvaluator.processPatches(startingTime);
 				System.out.println("\n\n");

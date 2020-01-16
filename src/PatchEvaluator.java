@@ -78,7 +78,7 @@ public class PatchEvaluator {
 	}
 
 	public boolean evaluatePatch() {
-		//		System.out.println("Evaluating");
+//		System.out.println("Evaluating");
 		Program program = Program.createProgram();
 		File testDir = new File(program.testClassFilesDirectory); //new File("digit/" + "test/");
 		File srcDir = new File("output/"); //new File("digit/"+ "bin/");
@@ -104,10 +104,12 @@ public class PatchEvaluator {
 				TestCase testCase = this.testCases.get(i);
 				Class testClass = Class.forName(testCase.className, true, classLoader);
 				Request request = Request.method(testClass, testCase.methodName);
+				System.out.println(testCase.methodName);
 				//				JUnitListener listener = new JUnitListener();
 				//				runner.addListener(listener);
 				JUnitCore runner = new JUnitCore();
 				Result result = runner.run(request);  
+				
 //				ExecutorService executor = Executors.newFixedThreadPool(2);
 //
 //			    Future<?> future = executor.submit(new Runnable() {
@@ -156,7 +158,7 @@ public class PatchEvaluator {
 				
 				//				System.out.println(result.getFailureCount());
 				boolean pass = result.wasSuccessful();
-//				System.out.println(pass + " in "+ testCase.methodName+ " from "+testCase.className);
+				System.out.println(pass + " in "+ testCase.methodName+ " from "+testCase.className);
 				if(pass == false) {
 //					for (Failure failure : result.getFailures()) {
 //						System.out.println(failure.getException());
@@ -193,7 +195,7 @@ public class PatchEvaluator {
 			for(Thread t : threadSet) {
 				if(t.getName().equals("Time-limited test")) {
 					t.stop();
-					System.out.println("Stop " + t.getName());
+//					System.out.println("Stop " + t.getName());
 				}
 			}
 			long currentTime = System.nanoTime();

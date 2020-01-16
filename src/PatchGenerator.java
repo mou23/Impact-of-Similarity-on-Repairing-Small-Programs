@@ -107,7 +107,7 @@ public class PatchGenerator {
  			CompilationUnit compilationUnitCopy = (CompilationUnit)ASTNode.copySubtree(compilationUnit.getAST(), compilationUnit);
 
  			ASTRewrite rewriter = ASTRewrite.create(compilationUnitCopy.getAST()); //compilationUnit.getAST();
- 			System.out.println("Concrete Patch " + i);
+// 			System.out.println("Concrete Patch " + i);
  			this.generateConcretePatch(rewriter, candidatePatchesList.get(i));			
 		}
 		this.count = patchGenerator.candidatePatchesList.size();
