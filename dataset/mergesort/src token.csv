@@ -1,0 +1,780 @@
+mergesort,SIMPLE_NAME, line no: 44,MERGESORT,SIMPLE_NAME, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0
+mergesort,SIMPLE_NAME, line no: 47,MERGESORT,SIMPLE_NAME, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.8, 0.0, 0.0, 0.0, 0.8, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,mergesort(left),METHOD_INVOCATION, 0.8, 0.0, 0.0, 0.0, 0.8, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,left=mergesort(left),ASSIGNMENT, 0.8, 0.0, 0.0, 0.0, 0.8, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,arr.subList(0 middle),METHOD_INVOCATION, 0.8, 0.0, 0.0, 0.0, 0.8, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,mergesort(right),METHOD_INVOCATION, 0.8, 0.0, 0.0, 0.0, 0.8, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,right=mergesort(right),ASSIGNMENT, 0.8, 0.0, 0.0, 0.0, 0.8, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,arr.subList(0 middle),METHOD_INVOCATION, 0.75, 0.0, 0.0, 0.0, 0.75, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.75, 0.0, 0.0, 0.0, 0.75, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.75, 0.0, 0.0, 0.0, 0.75, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.75, 0.0, 0.0, 0.0, 0.75, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,arr.size(),METHOD_INVOCATION, 0.7142857142857143, 0.0, 0.0, 0.0, 0.7142857142857143, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,arr.size() == 0,INFIX_EXPRESSION, 0.7142857142857143, 0.0, 0.0, 0.0, 0.7142857142857143, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,arr.size() / 2,INFIX_EXPRESSION, 0.7142857142857143, 0.0, 0.0, 0.0, 0.7142857142857143, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,arr.size(),METHOD_INVOCATION, 0.7142857142857143, 0.0, 0.0, 0.0, 0.7142857142857143, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,arr.size() == 0,INFIX_EXPRESSION, 0.7142857142857143, 0.0, 0.0, 0.0, 0.7142857142857143, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,arr.size() / 2,INFIX_EXPRESSION, 0.7142857142857143, 0.0, 0.0, 0.0, 0.7142857142857143, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.7142857142857143, 0.0, 0.0, 0.0, 0.7142857142857143, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.7142857142857143, 0.0, 0.0, 0.0, 0.7142857142857143, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,arr.size() == 0,INFIX_EXPRESSION, 0.7142857142857143, 0.0, 0.0, 0.0, 0.7142857142857143, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,arr.size() / 2,INFIX_EXPRESSION, 0.7142857142857143, 0.0, 0.0, 0.0, 0.7142857142857143, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,left.size(),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,right.size(),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,left.size(),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,right.size(),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,right=mergesort(right),ASSIGNMENT, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,left.size(),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,right.size(),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,left=mergesort(left),ASSIGNMENT, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,left.subList(i left.size()),METHOD_INVOCATION, 0.6363636363636364, 0.0, 0.0, 0.0, 0.6363636363636364, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,right.subList(j right.size()),METHOD_INVOCATION, 0.6363636363636364, 0.0, 0.0, 0.0, 0.6363636363636364, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.6153846153846154, 0.0, 0.0, 0.0, 0.6153846153846154, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.6153846153846154, 0.0, 0.0, 0.0, 0.6153846153846154, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,right.subList(j right.size()),METHOD_INVOCATION, 0.6153846153846154, 0.0, 0.0, 0.0, 0.6153846153846154, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,arr.subList(0 middle),METHOD_INVOCATION, 0.6153846153846154, 0.0, 0.0, 0.0, 0.6153846153846154, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.6153846153846154, 0.0, 0.0, 0.0, 0.6153846153846154, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,mergesort(right),METHOD_INVOCATION, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,mergesort(left),METHOD_INVOCATION, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,arr.size() / 2,INFIX_EXPRESSION, 0.5555555555555556, 0.0, 0.0, 0.0, 0.5555555555555556, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.5555555555555556, 0.0, 0.0, 0.0, 0.5555555555555556, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,arr.size() == 0,INFIX_EXPRESSION, 0.5555555555555556, 0.0, 0.0, 0.0, 0.5555555555555556, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.5555555555555556, 0.0, 0.0, 0.0, 0.5555555555555556, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,arr.size(),METHOD_INVOCATION, 0.5555555555555556, 0.0, 0.0, 0.0, 0.5555555555555556, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.5555555555555556, 0.0, 0.0, 0.0, 0.5555555555555556, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,left.subList(i left.size()).isEmpty(),METHOD_INVOCATION, 0.5384615384615384, 0.0, 0.0, 0.0, 0.5384615384615384, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,left.size(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,right.size(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,i < left.size(),INFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,j < right.size(),INFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,left.size(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,right.size(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,i < left.size(),INFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,j < right.size(),INFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,left.subList(i left.size()),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+addAll,SIMPLE_NAME, line no: 43,add,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,left.subList(i left.size()),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,right.subList(j right.size()),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,mergesort(right),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,left.size(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,right=mergesort(right),ASSIGNMENT, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,left.subList(i left.size()),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+addAll,SIMPLE_NAME, line no: 46,add,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,i < left.size(),INFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,j < right.size(),INFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,mergesort(left),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,right.size(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,left=mergesort(left),ASSIGNMENT, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,arr.subList(0 middle),METHOD_INVOCATION, 0.45454545454545453, 0.0, 0.0, 0.0, 0.45454545454545453, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.45454545454545453, 0.0, 0.0, 0.0, 0.45454545454545453, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.45454545454545453, 0.0, 0.0, 0.0, 0.45454545454545453, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,arr.size() == 0,INFIX_EXPRESSION, 0.45454545454545453, 0.0, 0.0, 0.0, 0.45454545454545453, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,arr.size() == 0,INFIX_EXPRESSION, 0.45454545454545453, 0.0, 0.0, 0.0, 0.45454545454545453, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,arr.size() / 2,INFIX_EXPRESSION, 0.45454545454545453, 0.0, 0.0, 0.0, 0.45454545454545453, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,left.subList(i left.size()).isEmpty(),METHOD_INVOCATION, 0.4375, 0.0, 0.0, 0.0, 0.4375, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,left.subList(i left.size()).isEmpty(),METHOD_INVOCATION, 0.4375, 0.0, 0.0, 0.0, 0.4375, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.42857142857142855, 0.0, 0.0, 0.0, 0.42857142857142855, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,left.subList(i left.size()).isEmpty(),METHOD_INVOCATION, 0.42857142857142855, 0.0, 0.0, 0.0, 0.42857142857142855, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,left.size(),METHOD_INVOCATION, 0.42857142857142855, 0.0, 0.0, 0.0, 0.42857142857142855, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,left.get(i),METHOD_INVOCATION, 0.42857142857142855, 0.0, 0.0, 0.0, 0.42857142857142855, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,merge(left right),METHOD_INVOCATION, 0.42857142857142855, 0.0, 0.0, 0.0, 0.42857142857142855, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,right.size(),METHOD_INVOCATION, 0.42857142857142855, 0.0, 0.0, 0.0, 0.42857142857142855, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,right.get(j),METHOD_INVOCATION, 0.42857142857142855, 0.0, 0.0, 0.0, 0.42857142857142855, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,merge(left right),METHOD_INVOCATION, 0.42857142857142855, 0.0, 0.0, 0.0, 0.42857142857142855, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.42105263157894735, 0.0, 0.0, 0.0, 0.42105263157894735, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.4166666666666667, 0.0, 0.0, 0.0, 0.4166666666666667, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.4166666666666667, 0.0, 0.0, 0.0, 0.4166666666666667, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,right.size(),METHOD_INVOCATION, 0.4166666666666667, 0.0, 0.0, 0.0, 0.4166666666666667, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,arr.size(),METHOD_INVOCATION, 0.4166666666666667, 0.0, 0.0, 0.0, 0.4166666666666667, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.4166666666666667, 0.0, 0.0, 0.0, 0.4166666666666667, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.4117647058823529, 0.0, 0.0, 0.0, 0.4117647058823529, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,i < left.size(),INFIX_EXPRESSION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,j < right.size(),INFIX_EXPRESSION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,left.subList(i left.size()),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,right.subList(j right.size()),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,arr.subList(0 middle),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,i < left.size(),INFIX_EXPRESSION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,j < right.size(),INFIX_EXPRESSION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,left.subList(i left.size()),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,right.subList(j right.size()),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,arr.subList(0 middle),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,right.subList(j right.size()),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,arr.size(),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,left.size(),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,right.size(),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,left.subList(i left.size()),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,right.subList(j right.size()),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,arr.subList(0 middle),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,left.get(i),METHOD_INVOCATION, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,right.get(j),METHOD_INVOCATION, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,left.get(i),METHOD_INVOCATION, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,right.get(j),METHOD_INVOCATION, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,left.get(i),METHOD_INVOCATION, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,merge(left right),METHOD_INVOCATION, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,i < left.size(),INFIX_EXPRESSION, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,left.get(i),METHOD_INVOCATION, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,right.get(j),METHOD_INVOCATION, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,right.get(j),METHOD_INVOCATION, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,merge(left right),METHOD_INVOCATION, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,j < right.size(),INFIX_EXPRESSION, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,i < left.size() && j < right.size(),INFIX_EXPRESSION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,i < left.size() && j < right.size(),INFIX_EXPRESSION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,i < left.size() && j < right.size(),INFIX_EXPRESSION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.35714285714285715, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.35714285714285715, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.35714285714285715, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,arr.size() == 0,INFIX_EXPRESSION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.35714285714285715, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,j < right.size(),INFIX_EXPRESSION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.35714285714285715, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,arr.size() == 0,INFIX_EXPRESSION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.35714285714285715, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,arr.size() / 2,INFIX_EXPRESSION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.35714285714285715, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.35, 0.0, 0.0, 0.0, 0.35, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.35, 0.0, 0.0, 0.0, 0.35, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,left.subList(i left.size()),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,right.subList(j right.size()),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,left.subList(i left.size()).isEmpty(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,left.subList(i left.size()),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,right.subList(j right.size()),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,arr.subList(0 middle),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,left.subList(i left.size()).isEmpty(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+ArrayList,SIMPLE_NAME, line no: 42,subList,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+ArrayList,SIMPLE_NAME, line no: 42,subList,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,result.add(left.get(i)),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,arr.size() / 2,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+subList,SIMPLE_NAME, line no: 43,ArrayList,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,i < left.size(),INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,result.add(left.get(i)),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+ArrayList,SIMPLE_NAME, line no: 45,subList,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+ArrayList,SIMPLE_NAME, line no: 45,subList,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,result.add(right.get(j)),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,i < left.size(),INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,j < right.size(),INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+subList,SIMPLE_NAME, line no: 46,ArrayList,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,left.subList(i left.size()).isEmpty(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,j < right.size(),INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,result.add(right.get(j)),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,i < left.size() && j < right.size(),INFIX_EXPRESSION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,i < left.size() && j < right.size(),INFIX_EXPRESSION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,left.size(),METHOD_INVOCATION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,arr.size(),METHOD_INVOCATION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,left.size(),METHOD_INVOCATION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,left.get(i),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,right.get(j),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,result.add(left.get(i)),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,result.add(right.get(j)),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,left.get(i),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,right.get(j),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,result.add(left.get(i)),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,result.add(right.get(j)),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,result.add(left.get(i)),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,left.get(i) <= right.get(j),INFIX_EXPRESSION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,left.subList(i left.size()),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,result.add(left.get(i)),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,result.add(right.get(j)),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,result.add(right.get(j)),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,left.get(i) <= right.get(j),INFIX_EXPRESSION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,right.subList(j right.size()),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,i < left.size() && j < right.size(),INFIX_EXPRESSION, 0.29411764705882354, 0.0, 0.0, 0.0, 0.29411764705882354, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,left.subList(i left.size()).isEmpty(),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,mergesort(left),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,mergesort(right),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,left.subList(i left.size()).isEmpty(),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,mergesort(left),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,mergesort(right),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,left.get(i),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,merge(left right),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,right.size(),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,arr.size(),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,right.get(j),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,merge(left right),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,mergesort(left),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,mergesort(right),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,left.size(),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,arr.size(),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,left.get(i) <= right.get(j),INFIX_EXPRESSION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,left.get(i) <= right.get(j),INFIX_EXPRESSION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,left.size(),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,right.size(),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,left.get(i) <= right.get(j),INFIX_EXPRESSION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,left.subList(i left.size()),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,i < left.size() && j < right.size(),INFIX_EXPRESSION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,left.get(i) <= right.get(j),INFIX_EXPRESSION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,left.get(i) <= right.get(j),INFIX_EXPRESSION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,right.subList(j right.size()),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,i < left.size() && j < right.size(),INFIX_EXPRESSION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.26666666666666666, 0.0, 0.0, 0.0, 0.26666666666666666, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,i < left.size(),INFIX_EXPRESSION, 0.26666666666666666, 0.0, 0.0, 0.0, 0.26666666666666666, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,arr.size() / 2,INFIX_EXPRESSION, 0.26666666666666666, 0.0, 0.0, 0.0, 0.26666666666666666, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,i < left.size(),INFIX_EXPRESSION, 0.26666666666666666, 0.0, 0.0, 0.0, 0.26666666666666666, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,i < left.size() && j < right.size(),INFIX_EXPRESSION, 0.26666666666666666, 0.0, 0.0, 0.0, 0.26666666666666666, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,result.add(left.get(i)),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,result.add(right.get(j)),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,left=mergesort(left),ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,right=mergesort(right),ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,result.add(left.get(i)),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,result.add(right.get(j)),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,left=mergesort(left),ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,right=mergesort(right),ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+left,SIMPLE_NAME, line no: 42,mergesort(left),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,result.add(right.get(j)),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+left,SIMPLE_NAME, line no: 43,mergesort(left),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,left.get(i),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,right.get(j),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,merge(left right),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,i < left.size() && j < right.size(),INFIX_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,right.size(),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,arr.size(),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+left,SIMPLE_NAME, line no: 44,mergesort(left),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,MERGESORT,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,left,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,right.get(j),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,left.subList(i left.size()).isEmpty(),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,mergesort,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+mergesort,SIMPLE_NAME, line no: 44,mergesort(left),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+mergesort,SIMPLE_NAME, line no: 44,mergesort(right),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+left,SIMPLE_NAME, line no: 44,mergesort(left),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+right,SIMPLE_NAME, line no: 45,mergesort(right),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,result.add(left.get(i)),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+right,SIMPLE_NAME, line no: 46,mergesort(right),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,left.get(i),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,right.get(j),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,merge(left right),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,left=mergesort(left),ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,right=mergesort(right),ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,i < left.size() && j < right.size(),INFIX_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,left.size(),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,arr.size(),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+right,SIMPLE_NAME, line no: 47,mergesort(right),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,MERGESORT,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,right,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,left.get(i),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,mergesort,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+mergesort,SIMPLE_NAME, line no: 47,mergesort(left),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+mergesort,SIMPLE_NAME, line no: 47,mergesort(right),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+right,SIMPLE_NAME, line no: 47,mergesort(right),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,left.get(i) <= right.get(j),INFIX_EXPRESSION, 0.23529411764705882, 0.0, 0.0, 0.0, 0.23529411764705882, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,left.get(i) <= right.get(j),INFIX_EXPRESSION, 0.23529411764705882, 0.0, 0.0, 0.0, 0.23529411764705882, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,left.get(i) <= right.get(j),INFIX_EXPRESSION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,left.get(i) <= right.get(j),INFIX_EXPRESSION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,i < left.size(),INFIX_EXPRESSION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,j < right.size(),INFIX_EXPRESSION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,mergesort(left),METHOD_INVOCATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,i < left.size(),INFIX_EXPRESSION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,j < right.size(),INFIX_EXPRESSION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,left.subList(i left.size()).isEmpty(),METHOD_INVOCATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,i < left.size(),INFIX_EXPRESSION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,j < right.size(),INFIX_EXPRESSION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,mergesort(right),METHOD_INVOCATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,mergesort(left),METHOD_INVOCATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,mergesort(right),METHOD_INVOCATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,merge(left right),METHOD_INVOCATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,mergesort(left),METHOD_INVOCATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,mergesort(right),METHOD_INVOCATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,merge(left right),METHOD_INVOCATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+ArrayList,SIMPLE_NAME, line no: 42,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,ArrayList,SIMPLE_NAME, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+ArrayList,SIMPLE_NAME, line no: 42,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,i < left.size() && j < right.size(),INFIX_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,subList,SIMPLE_NAME, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+subList,SIMPLE_NAME, line no: 43,left.subList(i left.size()),METHOD_INVOCATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+subList,SIMPLE_NAME, line no: 43,right.subList(j right.size()),METHOD_INVOCATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+subList,SIMPLE_NAME, line no: 43,arr.subList(0 middle),METHOD_INVOCATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+subList,SIMPLE_NAME, line no: 43,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,right.get(j),METHOD_INVOCATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,j < right.size(),INFIX_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,arr.size() == 0,INFIX_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,arr.size() / 2,INFIX_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+ArrayList,SIMPLE_NAME, line no: 45,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,ArrayList,SIMPLE_NAME, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+ArrayList,SIMPLE_NAME, line no: 45,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,subList,SIMPLE_NAME, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+subList,SIMPLE_NAME, line no: 46,left.subList(i left.size()),METHOD_INVOCATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+subList,SIMPLE_NAME, line no: 46,right.subList(j right.size()),METHOD_INVOCATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+subList,SIMPLE_NAME, line no: 46,arr.subList(0 middle),METHOD_INVOCATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+subList,SIMPLE_NAME, line no: 46,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,merge(left right),METHOD_INVOCATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,left.get(i),METHOD_INVOCATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,i < left.size(),INFIX_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,arr.size() == 0,INFIX_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,arr.size() / 2,INFIX_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,right.size(),METHOD_INVOCATION, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,left=mergesort(left),ASSIGNMENT, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,result.add(left.get(i)),METHOD_INVOCATION, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,result.add(right.get(j)),METHOD_INVOCATION, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,right=mergesort(right),ASSIGNMENT, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,result.add(left.get(i)),METHOD_INVOCATION, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,result.add(right.get(j)),METHOD_INVOCATION, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.21052631578947367, 0.0, 0.0, 0.0, 0.21052631578947367, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.21052631578947367, 0.0, 0.0, 0.0, 0.21052631578947367, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.21052631578947367, 0.0, 0.0, 0.0, 0.21052631578947367, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,left=mergesort(left),ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,right=mergesort(right),ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,size,SIMPLE_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,arr,SIMPLE_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+arr,SIMPLE_NAME, line no: 38,arr.size(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+size,SIMPLE_NAME, line no: 38,left.size(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+size,SIMPLE_NAME, line no: 38,right.size(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+size,SIMPLE_NAME, line no: 38,arr.size(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+arr,SIMPLE_NAME, line no: 39,arr.size(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,left=mergesort(left),ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,right=mergesort(right),ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,size,SIMPLE_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,arr,SIMPLE_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+arr,SIMPLE_NAME, line no: 41,arr.size(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+size,SIMPLE_NAME, line no: 41,left.size(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+size,SIMPLE_NAME, line no: 41,right.size(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+size,SIMPLE_NAME, line no: 41,arr.size(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+left,SIMPLE_NAME, line no: 42,left.size(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+left,SIMPLE_NAME, line no: 42,left=mergesort(left),ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,left.subList(i left.size()),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,right.subList(j right.size()),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,arr.subList(0 middle),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,right.get(j),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+left,SIMPLE_NAME, line no: 43,left.size(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+left,SIMPLE_NAME, line no: 43,left=mergesort(left),ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,left.get(i) <= right.get(j),INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+arr,SIMPLE_NAME, line no: 43,arr.size(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,MERGESORT,SIMPLE_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,left,SIMPLE_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,j < right.size(),INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,mergesort,SIMPLE_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,arr.size() == 0,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,arr.size() / 2,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+left,SIMPLE_NAME, line no: 44,left.size(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+left,SIMPLE_NAME, line no: 44,left=mergesort(left),ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,result.add(right.get(j)),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+mergesort,SIMPLE_NAME, line no: 44,left=mergesort(left),ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+mergesort,SIMPLE_NAME, line no: 44,right=mergesort(right),ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+left,SIMPLE_NAME, line no: 44,left.size(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+left,SIMPLE_NAME, line no: 44,left=mergesort(left),ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+right,SIMPLE_NAME, line no: 45,right.size(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+right,SIMPLE_NAME, line no: 45,right=mergesort(right),ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,left.subList(i left.size()),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,right.subList(j right.size()),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,arr.subList(0 middle),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,left.get(i),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+right,SIMPLE_NAME, line no: 46,right.size(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+right,SIMPLE_NAME, line no: 46,right=mergesort(right),ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,left.get(i) <= right.get(j),INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+arr,SIMPLE_NAME, line no: 46,arr.size(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,size,SIMPLE_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,arr,SIMPLE_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+arr,SIMPLE_NAME, line no: 46,arr.size(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+size,SIMPLE_NAME, line no: 46,left.size(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+size,SIMPLE_NAME, line no: 46,right.size(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+size,SIMPLE_NAME, line no: 46,arr.size(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,MERGESORT,SIMPLE_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,right,SIMPLE_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,i < left.size(),INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,mergesort,SIMPLE_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,arr.size() == 0,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,arr.size() / 2,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+right,SIMPLE_NAME, line no: 47,right.size(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+right,SIMPLE_NAME, line no: 47,right=mergesort(right),ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,result.add(left.get(i)),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+mergesort,SIMPLE_NAME, line no: 47,left=mergesort(left),ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+mergesort,SIMPLE_NAME, line no: 47,right=mergesort(right),ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+right,SIMPLE_NAME, line no: 47,right.size(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+right,SIMPLE_NAME, line no: 47,right=mergesort(right),ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.19047619047619047, 0.0, 0.0, 0.0, 0.19047619047619047, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.19047619047619047, 0.0, 0.0, 0.0, 0.19047619047619047, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,i < left.size() && j < right.size(),INFIX_EXPRESSION, 0.1875, 0.0, 0.0, 0.0, 0.1875, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,j < right.size(),INFIX_EXPRESSION, 0.1875, 0.0, 0.0, 0.0, 0.1875, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,i < left.size() && j < right.size(),INFIX_EXPRESSION, 0.1875, 0.0, 0.0, 0.0, 0.1875, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.1875, 0.0, 0.0, 0.0, 0.1875, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,i < left.size() && j < right.size(),INFIX_EXPRESSION, 0.1875, 0.0, 0.0, 0.0, 0.1875, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.1875, 0.0, 0.0, 0.0, 0.1875, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,merge(left right),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,merge(left right),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,mergesort(left),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,mergesort(right),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,mergesort(left),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,mergesort(right),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+subList,SIMPLE_NAME, line no: 43,left.subList(i left.size()).isEmpty(),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,result.add(right.get(j)),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,right.subList(j right.size()),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,arr.subList(0 middle),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,mergesort(left),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,mergesort(right),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,mergesort(left),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,mergesort(right),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+subList,SIMPLE_NAME, line no: 46,left.subList(i left.size()).isEmpty(),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,result.add(left.get(i)),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,left.subList(i left.size()),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,arr.subList(0 middle),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,left.subList(i left.size()).isEmpty(),METHOD_INVOCATION, 0.17647058823529413, 0.0, 0.0, 0.0, 0.17647058823529413, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.17647058823529413, 0.0, 0.0, 0.0, 0.17647058823529413, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,left.subList(i left.size()).isEmpty(),METHOD_INVOCATION, 0.17647058823529413, 0.0, 0.0, 0.0, 0.17647058823529413, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.17647058823529413, 0.0, 0.0, 0.0, 0.17647058823529413, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+left,SIMPLE_NAME, line no: 42,left.get(i),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+left,SIMPLE_NAME, line no: 42,merge(left right),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,left.size(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,right.size(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,arr.size(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,left=mergesort(left),ASSIGNMENT, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,right=mergesort(right),ASSIGNMENT, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,addAll,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,subList,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+left,SIMPLE_NAME, line no: 43,left.get(i),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+left,SIMPLE_NAME, line no: 43,merge(left right),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+addAll,SIMPLE_NAME, line no: 43,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+addAll,SIMPLE_NAME, line no: 43,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,left=mergesort(left),ASSIGNMENT, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,right=mergesort(right),ASSIGNMENT, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+subList,SIMPLE_NAME, line no: 43,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+subList,SIMPLE_NAME, line no: 43,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,right.subList(j right.size()),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,arr.subList(0 middle),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+left,SIMPLE_NAME, line no: 44,left.get(i),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+left,SIMPLE_NAME, line no: 44,merge(left right),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+left,SIMPLE_NAME, line no: 44,left.get(i),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+left,SIMPLE_NAME, line no: 44,merge(left right),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+right,SIMPLE_NAME, line no: 45,right.get(j),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+right,SIMPLE_NAME, line no: 45,merge(left right),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,left.size(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,right.size(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,arr.size(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,left=mergesort(left),ASSIGNMENT, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,right=mergesort(right),ASSIGNMENT, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,addAll,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,subList,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+right,SIMPLE_NAME, line no: 46,right.get(j),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+right,SIMPLE_NAME, line no: 46,merge(left right),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+addAll,SIMPLE_NAME, line no: 46,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+addAll,SIMPLE_NAME, line no: 46,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,left=mergesort(left),ASSIGNMENT, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,right=mergesort(right),ASSIGNMENT, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+subList,SIMPLE_NAME, line no: 46,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+subList,SIMPLE_NAME, line no: 46,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,left.subList(i left.size()),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,arr.subList(0 middle),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+right,SIMPLE_NAME, line no: 47,right.get(j),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+right,SIMPLE_NAME, line no: 47,merge(left right),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+right,SIMPLE_NAME, line no: 47,right.get(j),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+right,SIMPLE_NAME, line no: 47,merge(left right),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.15789473684210525, 0.0, 0.0, 0.0, 0.15789473684210525, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.15789473684210525, 0.0, 0.0, 0.0, 0.15789473684210525, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,left.get(i),METHOD_INVOCATION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,right.get(j),METHOD_INVOCATION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,merge(left right),METHOD_INVOCATION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,left.get(i),METHOD_INVOCATION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,right.get(j),METHOD_INVOCATION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,merge(left right),METHOD_INVOCATION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,left.subList(i left.size()).isEmpty(),METHOD_INVOCATION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.15, 0.0, 0.0, 0.0, 0.15, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.15, 0.0, 0.0, 0.0, 0.15, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,0,NUMBER_LITERAL, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,size,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,arr,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+arr.size(),METHOD_INVOCATION, line no: 38,java.util,QUALIFIED_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+arr,SIMPLE_NAME, line no: 38,arr.size() == 0,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+arr,SIMPLE_NAME, line no: 38,arr.size() / 2,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+size,SIMPLE_NAME, line no: 38,i < left.size(),INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+size,SIMPLE_NAME, line no: 38,j < right.size(),INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+size,SIMPLE_NAME, line no: 38,arr.size() == 0,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+size,SIMPLE_NAME, line no: 38,arr.size() / 2,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+0,NUMBER_LITERAL, line no: 38,arr.size() == 0,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+arr,SIMPLE_NAME, line no: 39,arr.size() == 0,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+arr,SIMPLE_NAME, line no: 39,arr.size() / 2,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,size,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,arr,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,2,NUMBER_LITERAL, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+arr.size(),METHOD_INVOCATION, line no: 41,java.util,QUALIFIED_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+arr,SIMPLE_NAME, line no: 41,arr.size() == 0,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+arr,SIMPLE_NAME, line no: 41,arr.size() / 2,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+size,SIMPLE_NAME, line no: 41,i < left.size(),INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+size,SIMPLE_NAME, line no: 41,j < right.size(),INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+size,SIMPLE_NAME, line no: 41,arr.size() == 0,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+size,SIMPLE_NAME, line no: 41,arr.size() / 2,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+2,NUMBER_LITERAL, line no: 41,arr.size() / 2,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+left,SIMPLE_NAME, line no: 42,i < left.size(),INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,arr.size() == 0,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,arr.size() / 2,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,mergesort(right),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+left,SIMPLE_NAME, line no: 43,i < left.size(),INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+arr,SIMPLE_NAME, line no: 43,arr.size() == 0,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+arr,SIMPLE_NAME, line no: 43,arr.size() / 2,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+0,NUMBER_LITERAL, line no: 43,arr.size() == 0,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+left,SIMPLE_NAME, line no: 44,i < left.size(),INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+mergesort(left),METHOD_INVOCATION, line no: 44,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+left,SIMPLE_NAME, line no: 44,i < left.size(),INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+right,SIMPLE_NAME, line no: 45,j < right.size(),INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,arr.size() == 0,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,arr.size() / 2,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,mergesort(left),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+right,SIMPLE_NAME, line no: 46,j < right.size(),INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+arr,SIMPLE_NAME, line no: 46,arr.size() == 0,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+arr,SIMPLE_NAME, line no: 46,arr.size() / 2,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+arr.size(),METHOD_INVOCATION, line no: 46,java.util,QUALIFIED_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+arr,SIMPLE_NAME, line no: 46,arr.size() == 0,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+arr,SIMPLE_NAME, line no: 46,arr.size() / 2,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+size,SIMPLE_NAME, line no: 46,i < left.size(),INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+size,SIMPLE_NAME, line no: 46,j < right.size(),INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+size,SIMPLE_NAME, line no: 46,arr.size() == 0,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+size,SIMPLE_NAME, line no: 46,arr.size() / 2,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,left.subList(i left.size()).isEmpty(),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+right,SIMPLE_NAME, line no: 47,j < right.size(),INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+mergesort(right),METHOD_INVOCATION, line no: 47,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+right,SIMPLE_NAME, line no: 47,j < right.size(),INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,result.add(left.get(i)),METHOD_INVOCATION, 0.13333333333333333, 0.0, 0.0, 0.0, 0.13333333333333333, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,result.add(right.get(j)),METHOD_INVOCATION, 0.13333333333333333, 0.0, 0.0, 0.0, 0.13333333333333333, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,right=mergesort(right),ASSIGNMENT, 0.13333333333333333, 0.0, 0.0, 0.0, 0.13333333333333333, 1.0
+subList,SIMPLE_NAME, line no: 43,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.13333333333333333, 0.0, 0.0, 0.0, 0.13333333333333333, 1.0
+left=mergesort(left),ASSIGNMENT, line no: 44,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.13333333333333333, 0.0, 0.0, 0.0, 0.13333333333333333, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,result.add(left.get(i)),METHOD_INVOCATION, 0.13333333333333333, 0.0, 0.0, 0.0, 0.13333333333333333, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,result.add(right.get(j)),METHOD_INVOCATION, 0.13333333333333333, 0.0, 0.0, 0.0, 0.13333333333333333, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,left=mergesort(left),ASSIGNMENT, 0.13333333333333333, 0.0, 0.0, 0.0, 0.13333333333333333, 1.0
+subList,SIMPLE_NAME, line no: 46,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.13333333333333333, 0.0, 0.0, 0.0, 0.13333333333333333, 1.0
+right=mergesort(right),ASSIGNMENT, line no: 47,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.13333333333333333, 0.0, 0.0, 0.0, 0.13333333333333333, 1.0
+left,SIMPLE_NAME, line no: 42,result.add(left.get(i)),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,left.get(i) <= right.get(j),INFIX_EXPRESSION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+left,SIMPLE_NAME, line no: 43,result.add(left.get(i)),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+left,SIMPLE_NAME, line no: 44,result.add(left.get(i)),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+left,SIMPLE_NAME, line no: 44,result.add(left.get(i)),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+right,SIMPLE_NAME, line no: 45,result.add(right.get(j)),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,left.get(i) <= right.get(j),INFIX_EXPRESSION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+right,SIMPLE_NAME, line no: 46,result.add(right.get(j)),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+right,SIMPLE_NAME, line no: 47,result.add(right.get(j)),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+right,SIMPLE_NAME, line no: 47,result.add(right.get(j)),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+arr.size() == 0,INFIX_EXPRESSION, line no: 38,java.util,QUALIFIED_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+arr,SIMPLE_NAME, line no: 38,arr.subList(0 middle),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+arr,SIMPLE_NAME, line no: 38,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+size,SIMPLE_NAME, line no: 38,left.subList(i left.size()),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+size,SIMPLE_NAME, line no: 38,right.subList(j right.size()),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+size,SIMPLE_NAME, line no: 38,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+0,NUMBER_LITERAL, line no: 38,arr.subList(0 middle),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+arr,SIMPLE_NAME, line no: 39,arr.subList(0 middle),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+arr,SIMPLE_NAME, line no: 39,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+middle,SIMPLE_NAME, line no: 41,arr.subList(0 middle),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+middle,SIMPLE_NAME, line no: 41,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+arr.size() / 2,INFIX_EXPRESSION, line no: 41,java.util,QUALIFIED_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+arr,SIMPLE_NAME, line no: 41,arr.subList(0 middle),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+arr,SIMPLE_NAME, line no: 41,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+size,SIMPLE_NAME, line no: 41,left.subList(i left.size()),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+size,SIMPLE_NAME, line no: 41,right.subList(j right.size()),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+size,SIMPLE_NAME, line no: 41,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+Integer,SIMPLE_NAME, line no: 42,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+left,SIMPLE_NAME, line no: 42,left.get(i) <= right.get(j),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+left,SIMPLE_NAME, line no: 42,left.subList(i left.size()),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,Integer,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,100,NUMBER_LITERAL, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+Integer,SIMPLE_NAME, line no: 42,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+100,NUMBER_LITERAL, line no: 42,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+left,SIMPLE_NAME, line no: 43,left.get(i) <= right.get(j),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+left,SIMPLE_NAME, line no: 43,left.subList(i left.size()),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+addAll,SIMPLE_NAME, line no: 43,result.add(left.get(i)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+addAll,SIMPLE_NAME, line no: 43,result.add(right.get(j)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+addAll,SIMPLE_NAME, line no: 43,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,0,NUMBER_LITERAL, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,arr,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,middle,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+arr,SIMPLE_NAME, line no: 43,arr.subList(0 middle),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+arr,SIMPLE_NAME, line no: 43,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+subList,SIMPLE_NAME, line no: 43,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+0,NUMBER_LITERAL, line no: 43,arr.subList(0 middle),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+middle,SIMPLE_NAME, line no: 43,arr.subList(0 middle),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+middle,SIMPLE_NAME, line no: 43,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+left,SIMPLE_NAME, line no: 44,left.get(i) <= right.get(j),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+left,SIMPLE_NAME, line no: 44,left.subList(i left.size()),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+left,SIMPLE_NAME, line no: 44,left.get(i) <= right.get(j),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+left,SIMPLE_NAME, line no: 44,left.subList(i left.size()),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+Integer,SIMPLE_NAME, line no: 45,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+right,SIMPLE_NAME, line no: 45,left.get(i) <= right.get(j),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+right,SIMPLE_NAME, line no: 45,right.subList(j right.size()),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,Integer,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,100,NUMBER_LITERAL, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+Integer,SIMPLE_NAME, line no: 45,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+100,NUMBER_LITERAL, line no: 45,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+right,SIMPLE_NAME, line no: 46,left.get(i) <= right.get(j),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+right,SIMPLE_NAME, line no: 46,right.subList(j right.size()),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+addAll,SIMPLE_NAME, line no: 46,result.add(left.get(i)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+addAll,SIMPLE_NAME, line no: 46,result.add(right.get(j)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+addAll,SIMPLE_NAME, line no: 46,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,size,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,arr,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,middle,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+arr,SIMPLE_NAME, line no: 46,arr.subList(0 middle),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+arr,SIMPLE_NAME, line no: 46,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+subList,SIMPLE_NAME, line no: 46,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+middle,SIMPLE_NAME, line no: 46,arr.subList(0 middle),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+middle,SIMPLE_NAME, line no: 46,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+arr,SIMPLE_NAME, line no: 46,arr.subList(0 middle),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+arr,SIMPLE_NAME, line no: 46,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+size,SIMPLE_NAME, line no: 46,left.subList(i left.size()),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+size,SIMPLE_NAME, line no: 46,right.subList(j right.size()),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+size,SIMPLE_NAME, line no: 46,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+right,SIMPLE_NAME, line no: 47,left.get(i) <= right.get(j),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+right,SIMPLE_NAME, line no: 47,right.subList(j right.size()),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+right,SIMPLE_NAME, line no: 47,left.get(i) <= right.get(j),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+right,SIMPLE_NAME, line no: 47,right.subList(j right.size()),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+size,SIMPLE_NAME, line no: 38,i < left.size() && j < right.size(),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+size,SIMPLE_NAME, line no: 41,i < left.size() && j < right.size(),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ArrayList,SIMPLE_NAME, line no: 42,left.subList(i left.size()),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ArrayList,SIMPLE_NAME, line no: 42,right.subList(j right.size()),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ArrayList,SIMPLE_NAME, line no: 42,arr.subList(0 middle),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ArrayList,SIMPLE_NAME, line no: 42,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+left,SIMPLE_NAME, line no: 42,i < left.size() && j < right.size(),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 42,subList,SIMPLE_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ArrayList,SIMPLE_NAME, line no: 42,left.subList(i left.size()),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ArrayList,SIMPLE_NAME, line no: 42,right.subList(j right.size()),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ArrayList,SIMPLE_NAME, line no: 42,arr.subList(0 middle),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ArrayList,SIMPLE_NAME, line no: 42,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+left,SIMPLE_NAME, line no: 43,i < left.size() && j < right.size(),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,ArrayList,SIMPLE_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+subList,SIMPLE_NAME, line no: 43,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+left,SIMPLE_NAME, line no: 44,i < left.size() && j < right.size(),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+left,SIMPLE_NAME, line no: 44,i < left.size() && j < right.size(),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ArrayList,SIMPLE_NAME, line no: 45,left.subList(i left.size()),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ArrayList,SIMPLE_NAME, line no: 45,right.subList(j right.size()),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ArrayList,SIMPLE_NAME, line no: 45,arr.subList(0 middle),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ArrayList,SIMPLE_NAME, line no: 45,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+right,SIMPLE_NAME, line no: 45,i < left.size() && j < right.size(),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 45,subList,SIMPLE_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ArrayList,SIMPLE_NAME, line no: 45,left.subList(i left.size()),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ArrayList,SIMPLE_NAME, line no: 45,right.subList(j right.size()),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ArrayList,SIMPLE_NAME, line no: 45,arr.subList(0 middle),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ArrayList,SIMPLE_NAME, line no: 45,arr.subList(middle arr.size()),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+right,SIMPLE_NAME, line no: 46,i < left.size() && j < right.size(),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,ArrayList,SIMPLE_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+subList,SIMPLE_NAME, line no: 46,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+size,SIMPLE_NAME, line no: 46,i < left.size() && j < right.size(),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+right,SIMPLE_NAME, line no: 47,i < left.size() && j < right.size(),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+right,SIMPLE_NAME, line no: 47,i < left.size() && j < right.size(),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+size,SIMPLE_NAME, line no: 38,left.subList(i left.size()).isEmpty(),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+size,SIMPLE_NAME, line no: 41,left.subList(i left.size()).isEmpty(),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+left,SIMPLE_NAME, line no: 42,left.subList(i left.size()).isEmpty(),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+left,SIMPLE_NAME, line no: 43,left.subList(i left.size()).isEmpty(),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+arr.subList(0 middle),METHOD_INVOCATION, line no: 43,java.util,QUALIFIED_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+left,SIMPLE_NAME, line no: 44,left.subList(i left.size()).isEmpty(),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+left,SIMPLE_NAME, line no: 44,left.subList(i left.size()).isEmpty(),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+arr.subList(middle arr.size()),METHOD_INVOCATION, line no: 46,java.util,QUALIFIED_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+size,SIMPLE_NAME, line no: 46,left.subList(i left.size()).isEmpty(),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+arr,SIMPLE_NAME, line no: 38,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+arr,SIMPLE_NAME, line no: 38,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+size,SIMPLE_NAME, line no: 38,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+0,NUMBER_LITERAL, line no: 38,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+arr,SIMPLE_NAME, line no: 39,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+arr,SIMPLE_NAME, line no: 39,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+middle,SIMPLE_NAME, line no: 41,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+middle,SIMPLE_NAME, line no: 41,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+arr,SIMPLE_NAME, line no: 41,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+arr,SIMPLE_NAME, line no: 41,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+size,SIMPLE_NAME, line no: 41,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+ArrayList,SIMPLE_NAME, line no: 42,left.subList(i left.size()).isEmpty(),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+left,SIMPLE_NAME, line no: 42,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+ArrayList,SIMPLE_NAME, line no: 42,left.subList(i left.size()).isEmpty(),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,left,SIMPLE_NAME, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,0,NUMBER_LITERAL, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,add,SIMPLE_NAME, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,arr,SIMPLE_NAME, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,middle,SIMPLE_NAME, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+left,SIMPLE_NAME, line no: 43,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+arr,SIMPLE_NAME, line no: 43,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+arr,SIMPLE_NAME, line no: 43,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+0,NUMBER_LITERAL, line no: 43,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+middle,SIMPLE_NAME, line no: 43,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+middle,SIMPLE_NAME, line no: 43,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+left,SIMPLE_NAME, line no: 44,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+left,SIMPLE_NAME, line no: 44,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+ArrayList,SIMPLE_NAME, line no: 45,left.subList(i left.size()).isEmpty(),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+right,SIMPLE_NAME, line no: 45,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+ArrayList,SIMPLE_NAME, line no: 45,left.subList(i left.size()).isEmpty(),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,right,SIMPLE_NAME, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,size,SIMPLE_NAME, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,add,SIMPLE_NAME, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,arr,SIMPLE_NAME, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,middle,SIMPLE_NAME, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+right,SIMPLE_NAME, line no: 46,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+arr,SIMPLE_NAME, line no: 46,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+arr,SIMPLE_NAME, line no: 46,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+middle,SIMPLE_NAME, line no: 46,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+middle,SIMPLE_NAME, line no: 46,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+arr,SIMPLE_NAME, line no: 46,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+arr,SIMPLE_NAME, line no: 46,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+size,SIMPLE_NAME, line no: 46,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+right,SIMPLE_NAME, line no: 47,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+right,SIMPLE_NAME, line no: 47,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+ArrayList,SIMPLE_NAME, line no: 42,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+ArrayList,SIMPLE_NAME, line no: 42,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+ArrayList,SIMPLE_NAME, line no: 42,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+ArrayList,SIMPLE_NAME, line no: 42,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,ArrayList,SIMPLE_NAME, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+ArrayList,SIMPLE_NAME, line no: 45,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+ArrayList,SIMPLE_NAME, line no: 45,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+ArrayList,SIMPLE_NAME, line no: 45,left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+ArrayList,SIMPLE_NAME, line no: 45,right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,ArrayList,SIMPLE_NAME, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+left.addAll(arr.subList(0 middle)),METHOD_INVOCATION, line no: 43,java.util,QUALIFIED_NAME, 0.07142857142857142, 0.0, 0.0, 0.0, 0.07142857142857142, 1.0
+right.addAll(arr.subList(middle arr.size())),METHOD_INVOCATION, line no: 46,java.util,QUALIFIED_NAME, 0.07142857142857142, 0.0, 0.0, 0.0, 0.07142857142857142, 1.0
+size,SIMPLE_NAME, line no: 38,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.06666666666666667, 0.0, 0.0, 0.0, 0.06666666666666667, 1.0
+size,SIMPLE_NAME, line no: 41,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.06666666666666667, 0.0, 0.0, 0.0, 0.06666666666666667, 1.0
+left,SIMPLE_NAME, line no: 42,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.06666666666666667, 0.0, 0.0, 0.0, 0.06666666666666667, 1.0
+left,SIMPLE_NAME, line no: 43,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.06666666666666667, 0.0, 0.0, 0.0, 0.06666666666666667, 1.0
+left,SIMPLE_NAME, line no: 44,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.06666666666666667, 0.0, 0.0, 0.0, 0.06666666666666667, 1.0
+left,SIMPLE_NAME, line no: 44,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.06666666666666667, 0.0, 0.0, 0.0, 0.06666666666666667, 1.0
+right,SIMPLE_NAME, line no: 45,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.06666666666666667, 0.0, 0.0, 0.0, 0.06666666666666667, 1.0
+right,SIMPLE_NAME, line no: 46,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.06666666666666667, 0.0, 0.0, 0.0, 0.06666666666666667, 1.0
+size,SIMPLE_NAME, line no: 46,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.06666666666666667, 0.0, 0.0, 0.0, 0.06666666666666667, 1.0
+right,SIMPLE_NAME, line no: 47,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.06666666666666667, 0.0, 0.0, 0.0, 0.06666666666666667, 1.0
+right,SIMPLE_NAME, line no: 47,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.06666666666666667, 0.0, 0.0, 0.0, 0.06666666666666667, 1.0
+ArrayList,SIMPLE_NAME, line no: 42,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+ArrayList,SIMPLE_NAME, line no: 42,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+ArrayList,SIMPLE_NAME, line no: 45,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+ArrayList,SIMPLE_NAME, line no: 45,left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size()),CONDITIONAL_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+size,SIMPLE_NAME, line no: 38,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.05555555555555555, 0.0, 0.0, 0.0, 0.05555555555555555, 1.0
+size,SIMPLE_NAME, line no: 41,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.05555555555555555, 0.0, 0.0, 0.0, 0.05555555555555555, 1.0
+left,SIMPLE_NAME, line no: 42,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.05555555555555555, 0.0, 0.0, 0.0, 0.05555555555555555, 1.0
+left,SIMPLE_NAME, line no: 43,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.05555555555555555, 0.0, 0.0, 0.0, 0.05555555555555555, 1.0
+left,SIMPLE_NAME, line no: 44,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.05555555555555555, 0.0, 0.0, 0.0, 0.05555555555555555, 1.0
+left,SIMPLE_NAME, line no: 44,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.05555555555555555, 0.0, 0.0, 0.0, 0.05555555555555555, 1.0
+right,SIMPLE_NAME, line no: 45,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.05555555555555555, 0.0, 0.0, 0.0, 0.05555555555555555, 1.0
+right,SIMPLE_NAME, line no: 46,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.05555555555555555, 0.0, 0.0, 0.0, 0.05555555555555555, 1.0
+size,SIMPLE_NAME, line no: 46,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.05555555555555555, 0.0, 0.0, 0.0, 0.05555555555555555, 1.0
+right,SIMPLE_NAME, line no: 47,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.05555555555555555, 0.0, 0.0, 0.0, 0.05555555555555555, 1.0
+right,SIMPLE_NAME, line no: 47,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.05555555555555555, 0.0, 0.0, 0.0, 0.05555555555555555, 1.0
+ArrayList,SIMPLE_NAME, line no: 42,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.05263157894736842, 0.0, 0.0, 0.0, 0.05263157894736842, 1.0
+ArrayList,SIMPLE_NAME, line no: 42,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.05263157894736842, 0.0, 0.0, 0.0, 0.05263157894736842, 1.0
+ArrayList,SIMPLE_NAME, line no: 45,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.05263157894736842, 0.0, 0.0, 0.0, 0.05263157894736842, 1.0
+ArrayList,SIMPLE_NAME, line no: 45,result.addAll(left.subList(i left.size()).isEmpty() ? right.subList(j right.size()) : left.subList(i left.size())),METHOD_INVOCATION, 0.05263157894736842, 0.0, 0.0, 0.0, 0.05263157894736842, 1.0

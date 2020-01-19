@@ -104,7 +104,7 @@ public class PatchEvaluator {
 				TestCase testCase = this.testCases.get(i);
 				Class testClass = Class.forName(testCase.className, true, classLoader);
 				Request request = Request.method(testClass, testCase.methodName);
-				System.out.println(testCase.methodName);
+//				System.out.println(testCase.methodName);
 				//				JUnitListener listener = new JUnitListener();
 				//				runner.addListener(listener);
 				JUnitCore runner = new JUnitCore();
@@ -158,7 +158,7 @@ public class PatchEvaluator {
 				
 				//				System.out.println(result.getFailureCount());
 				boolean pass = result.wasSuccessful();
-				System.out.println(pass + " in "+ testCase.methodName+ " from "+testCase.className);
+//				System.out.println(pass + " in "+ testCase.methodName+ " from "+testCase.className);
 				if(pass == false) {
 //					for (Failure failure : result.getFailures()) {
 //						System.out.println(failure.getException());
@@ -200,7 +200,7 @@ public class PatchEvaluator {
 			}
 			long currentTime = System.nanoTime();
 			CandidatePatch candidatePatch = patchGenerator.candidatePatchesList.get(i);
-			System.out.println("Patch no: "+(i+1)+ " " + candidatePatch.initialRank);
+//			System.out.println("Patch no: "+(i+1)+ " " + candidatePatch.initialRank);
 			File project = new File(patchGenerator.candidatePatchesDirectory+"/"+candidatePatch.initialRank);
 			
 			if(correctPatchFound == true) {
@@ -243,7 +243,7 @@ public class PatchEvaluator {
 
 	void writeCandidatePatches() {
 		Program program = Program.createProgram();
-		File newfile = new File(program.sourceFilesDirectory+"ComL.csv");
+		File newfile = new File(program.sourceFilesDirectory+" token.csv");
 		PatchGenerator patchGenerator = PatchGenerator.createPatchGenerator();
 		try {
 			FileWriter fileWrite = new FileWriter(newfile.getAbsolutePath());

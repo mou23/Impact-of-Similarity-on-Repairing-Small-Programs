@@ -3,10 +3,10 @@ import java.io.File;
 public class MyMain {
 	public static void main(String[] args) throws Exception {
 		Program program = Program.createProgram();
-		program.sourceFilesDirectory = "dataset/wrap/src"; //"grade001/src/main";//"digit003/src/main"; //"syl002/src/main";//
-		program.sourceClassFilesDirectory = "dataset/wrap/bin"; //"grade001/bin";//"syl002/bin";//
+		program.sourceFilesDirectory = "dataset/bucketsort/src"; //"grade001/src/main";//"digit003/src/main"; //"syl002/src/main";//
+		program.sourceClassFilesDirectory = "dataset/bucketsort/bin"; //"grade001/bin";//"syl002/bin";//
 //		program.testFilesDirectory = "dataset/shortest_path_length/src"; //"grade001/src/test";//"syl002/src/test";//
-		program.testClassFilesDirectory = "dataset/wrap/test"; //"grade001/test";//"syl002/test";//
+		program.testClassFilesDirectory = "dataset/bucketsort/test"; //"grade001/test";//"syl002/test";//
 		long startingTime = System.nanoTime();
 		System.out.println("Localizing Fault");
 		FaultLocalizer faultLocalizer = FaultLocalizer.createFaultLocalizer();

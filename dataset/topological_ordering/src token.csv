@@ -1,0 +1,1035 @@
+Node,SIMPLE_NAME, line no: 6,node,SIMPLE_NAME, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0
+Node,SIMPLE_NAME, line no: 6,node,SIMPLE_NAME, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0
+Node,SIMPLE_NAME, line no: 7,node,SIMPLE_NAME, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0
+node,SIMPLE_NAME, line no: 7,Node,SIMPLE_NAME, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0
+node,SIMPLE_NAME, line no: 8,Node,SIMPLE_NAME, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0
+node,SIMPLE_NAME, line no: 9,Node,SIMPLE_NAME, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0
+Node,SIMPLE_NAME, line no: 15,node,SIMPLE_NAME, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0
+node,SIMPLE_NAME, line no: 15,Node,SIMPLE_NAME, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0
+Node,SIMPLE_NAME, line no: 16,node,SIMPLE_NAME, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0
+node,SIMPLE_NAME, line no: 16,Node,SIMPLE_NAME, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.9166666666666666, 0.0, 0.0, 0.0, 0.9166666666666666, 1.0
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.9166666666666666, 0.0, 0.0, 0.0, 0.9166666666666666, 1.0
+!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, line no: 17,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.8888888888888888, 0.0, 0.0, 0.0, 0.8888888888888888, 1.0
+orderedNodes.contains(nextNode),METHOD_INVOCATION, line no: 17,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.8888888888888888, 0.0, 0.0, 0.0, 0.8888888888888888, 1.0
+new ArrayList<>(),CLASS_INSTANCE_CREATION, line no: 21,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.875, 0.0, 0.0, 0.0, 0.875, 1.0
+new ArrayList<>(),CLASS_INSTANCE_CREATION, line no: 22,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.875, 0.0, 0.0, 0.0, 0.875, 1.0
+orderedNodes.add(node),METHOD_INVOCATION, line no: 9,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.875, 0.0, 0.0, 0.0, 0.875, 1.0
+node.getSuccessors(),METHOD_INVOCATION, line no: 16,nextNode.getSuccessors(),METHOD_INVOCATION, 0.8571428571428571, 0.0, 0.0, 0.0, 0.8571428571428571, 1.0
+nextNode.getSuccessors(),METHOD_INVOCATION, line no: 17,node.getSuccessors(),METHOD_INVOCATION, 0.8571428571428571, 0.0, 0.0, 0.0, 0.8571428571428571, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, line no: 17,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.8461538461538461, 0.0, 0.0, 0.0, 0.8461538461538461, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, line no: 17,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.8461538461538461, 0.0, 0.0, 0.0, 0.8461538461538461, 1.0
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.8333333333333334, 0.0, 0.0, 0.0, 0.8333333333333334, 1.0
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,this.successors=new ArrayList<>(),ASSIGNMENT, 0.8333333333333334, 0.0, 0.0, 0.0, 0.8333333333333334, 1.0
+this.value=value,ASSIGNMENT, line no: 19,this.value=null,ASSIGNMENT, 0.8, 0.0, 0.0, 0.0, 0.8, 1.0
+this.successor=null,ASSIGNMENT, line no: 20,this.successor=successor,ASSIGNMENT, 0.8, 0.0, 0.0, 0.0, 0.8, 1.0
+orderedNodes.contains(nextNode),METHOD_INVOCATION, line no: 17,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.7777777777777778, 0.0, 0.0, 0.0, 0.7777777777777778, 1.0
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.7692307692307693, 0.0, 0.0, 0.0, 0.7692307692307693, 1.0
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.7692307692307693, 0.0, 0.0, 0.0, 0.7692307692307693, 1.0
+this.value=value,ASSIGNMENT, line no: 19,this.value,FIELD_ACCESS, 0.75, 0.0, 0.0, 0.0, 0.75, 1.0
+this.value,FIELD_ACCESS, line no: 19,this.value=value,ASSIGNMENT, 0.75, 0.0, 0.0, 0.0, 0.75, 1.0
+this.successor,FIELD_ACCESS, line no: 20,this.successor=successor,ASSIGNMENT, 0.75, 0.0, 0.0, 0.0, 0.75, 1.0
+this.successors,FIELD_ACCESS, line no: 21,this.successors=successors,ASSIGNMENT, 0.75, 0.0, 0.0, 0.0, 0.75, 1.0
+this.predecessors,FIELD_ACCESS, line no: 22,this.predecessors=predecessors,ASSIGNMENT, 0.75, 0.0, 0.0, 0.0, 0.75, 1.0
+this.successors=successors,ASSIGNMENT, line no: 50,this.successors,FIELD_ACCESS, 0.75, 0.0, 0.0, 0.0, 0.75, 1.0
+this.successors,FIELD_ACCESS, line no: 50,this.successors=successors,ASSIGNMENT, 0.75, 0.0, 0.0, 0.0, 0.75, 1.0
+this.predecessors=predecessors,ASSIGNMENT, line no: 54,this.predecessors,FIELD_ACCESS, 0.75, 0.0, 0.0, 0.0, 0.75, 1.0
+this.predecessors,FIELD_ACCESS, line no: 54,this.predecessors=predecessors,ASSIGNMENT, 0.75, 0.0, 0.0, 0.0, 0.75, 1.0
+node.getPredecessors().isEmpty(),METHOD_INVOCATION, line no: 8,node.getPredecessors(),METHOD_INVOCATION, 0.75, 0.0, 0.0, 0.0, 0.75, 1.0
+node.getPredecessors(),METHOD_INVOCATION, line no: 8,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.75, 0.0, 0.0, 0.0, 0.75, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, line no: 17,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.7272727272727273, 0.0, 0.0, 0.0, 0.7272727272727273, 1.0
+orderedNodes.contains(nextNode),METHOD_INVOCATION, line no: 17,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.7272727272727273, 0.0, 0.0, 0.0, 0.7272727272727273, 1.0
+orderedNodes.add(nextNode),METHOD_INVOCATION, line no: 18,orderedNodes.add(node),METHOD_INVOCATION, 0.7144345083117604, 0.0, 0.0, 0.0, 0.875, 0.8164965809277261
+node.getPredecessors(),METHOD_INVOCATION, line no: 8,node.getSuccessors(),METHOD_INVOCATION, 0.7142857142857143, 0.0, 0.0, 0.0, 0.7142857142857143, 1.0
+node.getSuccessors(),METHOD_INVOCATION, line no: 16,node.getPredecessors(),METHOD_INVOCATION, 0.7142857142857143, 0.0, 0.0, 0.0, 0.7142857142857143, 1.0
+!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, line no: 17,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.7, 0.0, 0.0, 0.0, 0.7, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, line no: 17,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.6923076923076923, 0.0, 0.0, 0.0, 0.6923076923076923, 1.0
+!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, line no: 17,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.6923076923076923, 0.0, 0.0, 0.0, 0.6923076923076923, 1.0
+this.successor=null,ASSIGNMENT, line no: 20,this.value=null,ASSIGNMENT, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+orderedNodes.add(node),METHOD_INVOCATION, line no: 9,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+listSize,SIMPLE_NAME, line no: 13,listSize++,POSTFIX_EXPRESSION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+listSize,SIMPLE_NAME, line no: 14,listSize++,POSTFIX_EXPRESSION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, line no: 17,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, line no: 17,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+orderedNodes.contains(nextNode),METHOD_INVOCATION, line no: 17,orderedNodes.add(node),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,new ArrayList<>(),CLASS_INSTANCE_CREATION, 0.6363636363636364, 0.0, 0.0, 0.0, 0.6363636363636364, 1.0
+new ArrayList<>(),CLASS_INSTANCE_CREATION, line no: 21,this.successors=new ArrayList<>(),ASSIGNMENT, 0.6363636363636364, 0.0, 0.0, 0.0, 0.6363636363636364, 1.0
+new ArrayList<>(),CLASS_INSTANCE_CREATION, line no: 21,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.6363636363636364, 0.0, 0.0, 0.0, 0.6363636363636364, 1.0
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,new ArrayList<>(),CLASS_INSTANCE_CREATION, 0.6363636363636364, 0.0, 0.0, 0.0, 0.6363636363636364, 1.0
+new ArrayList<>(),CLASS_INSTANCE_CREATION, line no: 22,this.successors=new ArrayList<>(),ASSIGNMENT, 0.6363636363636364, 0.0, 0.0, 0.0, 0.6363636363636364, 1.0
+new ArrayList<>(),CLASS_INSTANCE_CREATION, line no: 22,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.6363636363636364, 0.0, 0.0, 0.0, 0.6363636363636364, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, line no: 17,nextNode.getSuccessors(),METHOD_INVOCATION, 0.6363636363636364, 0.0, 0.0, 0.0, 0.6363636363636364, 1.0
+nextNode.getSuccessors(),METHOD_INVOCATION, line no: 17,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.6363636363636364, 0.0, 0.0, 0.0, 0.6363636363636364, 1.0
+orderedNodes.add(nextNode),METHOD_INVOCATION, line no: 18,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.6350528962771204, 0.0, 0.0, 0.0, 0.7777777777777778, 0.8164965809277261
+node.getPredecessors(),METHOD_INVOCATION, line no: 8,nextNode.getSuccessors(),METHOD_INVOCATION, 0.625, 0.0, 0.0, 0.0, 0.625, 1.0
+orderedNodes.add(node),METHOD_INVOCATION, line no: 9,orderedNodes.size(),METHOD_INVOCATION, 0.625, 0.0, 0.0, 0.0, 0.625, 1.0
+orderedNodes.size(),METHOD_INVOCATION, line no: 13,orderedNodes.add(node),METHOD_INVOCATION, 0.625, 0.0, 0.0, 0.0, 0.625, 1.0
+orderedNodes.size(),METHOD_INVOCATION, line no: 13,orderedNodes.get(i),METHOD_INVOCATION, 0.625, 0.0, 0.0, 0.0, 0.625, 1.0
+orderedNodes.get(i),METHOD_INVOCATION, line no: 15,orderedNodes.size(),METHOD_INVOCATION, 0.625, 0.0, 0.0, 0.0, 0.625, 1.0
+nextNode.getSuccessors(),METHOD_INVOCATION, line no: 17,node.getPredecessors(),METHOD_INVOCATION, 0.625, 0.0, 0.0, 0.0, 0.625, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, line no: 17,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.6153846153846154, 0.0, 0.0, 0.0, 0.6153846153846154, 1.0
+orderedNodes.contains(nextNode),METHOD_INVOCATION, line no: 17,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.6153846153846154, 0.0, 0.0, 0.0, 0.6153846153846154, 1.0
+this.value=value,ASSIGNMENT, line no: 19,this.successor=successor,ASSIGNMENT, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+this.value=value,ASSIGNMENT, line no: 19,this.successors=successors,ASSIGNMENT, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+this.value=value,ASSIGNMENT, line no: 19,this.predecessors=predecessors,ASSIGNMENT, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+this.value,FIELD_ACCESS, line no: 19,this.value=null,ASSIGNMENT, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+this.successor=null,ASSIGNMENT, line no: 20,this.successor,FIELD_ACCESS, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+this.successor,FIELD_ACCESS, line no: 20,this.successor=null,ASSIGNMENT, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+this.successors=successors,ASSIGNMENT, line no: 50,this.value=value,ASSIGNMENT, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+this.successors=successors,ASSIGNMENT, line no: 50,this.successor=successor,ASSIGNMENT, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+this.successors=successors,ASSIGNMENT, line no: 50,this.predecessors=predecessors,ASSIGNMENT, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+this.predecessors=predecessors,ASSIGNMENT, line no: 54,this.value=value,ASSIGNMENT, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+this.predecessors=predecessors,ASSIGNMENT, line no: 54,this.successor=successor,ASSIGNMENT, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+this.predecessors=predecessors,ASSIGNMENT, line no: 54,this.successors=successors,ASSIGNMENT, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+orderedNodes.add(node),METHOD_INVOCATION, line no: 9,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, line no: 17,orderedNodes.add(node),METHOD_INVOCATION, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.5833333333333334, 0.0, 0.0, 0.0, 0.5833333333333334, 1.0
+new ArrayList<>(),CLASS_INSTANCE_CREATION, line no: 21,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.5833333333333334, 0.0, 0.0, 0.0, 0.5833333333333334, 1.0
+new ArrayList<>(),CLASS_INSTANCE_CREATION, line no: 21,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.5833333333333334, 0.0, 0.0, 0.0, 0.5833333333333334, 1.0
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.5833333333333334, 0.0, 0.0, 0.0, 0.5833333333333334, 1.0
+new ArrayList<>(),CLASS_INSTANCE_CREATION, line no: 22,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.5833333333333334, 0.0, 0.0, 0.0, 0.5833333333333334, 1.0
+new ArrayList<>(),CLASS_INSTANCE_CREATION, line no: 22,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.5833333333333334, 0.0, 0.0, 0.0, 0.5833333333333334, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, line no: 17,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.5833333333333334, 0.0, 0.0, 0.0, 0.5833333333333334, 1.0
+orderedNodes.add(nextNode),METHOD_INVOCATION, line no: 18,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.5715476066494083, 0.0, 0.0, 0.0, 0.7, 0.8164965809277261
+node.getPredecessors().isEmpty(),METHOD_INVOCATION, line no: 8,node.getSuccessors(),METHOD_INVOCATION, 0.5555555555555556, 0.0, 0.0, 0.0, 0.5555555555555556, 1.0
+orderedNodes.add(node),METHOD_INVOCATION, line no: 9,orderedNodes.get(i),METHOD_INVOCATION, 0.5555555555555556, 0.0, 0.0, 0.0, 0.5555555555555556, 1.0
+orderedNodes.size(),METHOD_INVOCATION, line no: 13,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.5555555555555556, 0.0, 0.0, 0.0, 0.5555555555555556, 1.0
+orderedNodes.size(),METHOD_INVOCATION, line no: 13,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.5555555555555556, 0.0, 0.0, 0.0, 0.5555555555555556, 1.0
+orderedNodes.get(i),METHOD_INVOCATION, line no: 15,orderedNodes.add(node),METHOD_INVOCATION, 0.5555555555555556, 0.0, 0.0, 0.0, 0.5555555555555556, 1.0
+node.getSuccessors(),METHOD_INVOCATION, line no: 16,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.5555555555555556, 0.0, 0.0, 0.0, 0.5555555555555556, 1.0
+orderedNodes.contains(nextNode),METHOD_INVOCATION, line no: 17,orderedNodes.size(),METHOD_INVOCATION, 0.5555555555555556, 0.0, 0.0, 0.0, 0.5555555555555556, 1.0
+node.getSuccessors(),METHOD_INVOCATION, line no: 16,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.5454545454545454, 0.0, 0.0, 0.0, 0.5454545454545454, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, line no: 17,node.getSuccessors(),METHOD_INVOCATION, 0.5454545454545454, 0.0, 0.0, 0.0, 0.5454545454545454, 1.0
+listSize++,POSTFIX_EXPRESSION, line no: 19,listSize,SIMPLE_NAME, 0.5443310539518174, 0.0, 0.0, 0.0, 0.6666666666666666, 0.8164965809277261
+listSize,SIMPLE_NAME, line no: 19,listSize++,POSTFIX_EXPRESSION, 0.5443310539518174, 0.0, 0.0, 0.0, 0.6666666666666666, 0.8164965809277261
+orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, line no: 17,nextNode.getSuccessors(),METHOD_INVOCATION, 0.5384615384615384, 0.0, 0.0, 0.0, 0.5384615384615384, 1.0
+nextNode.getSuccessors(),METHOD_INVOCATION, line no: 17,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.5384615384615384, 0.0, 0.0, 0.0, 0.5384615384615384, 1.0
+value,SIMPLE_NAME, line no: 18,getValue,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+this.value=value,ASSIGNMENT, line no: 19,this.successor=null,ASSIGNMENT, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+this.value,FIELD_ACCESS, line no: 19,this.successor,FIELD_ACCESS, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+this.value,FIELD_ACCESS, line no: 19,this.successors,FIELD_ACCESS, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+this.value,FIELD_ACCESS, line no: 19,this.predecessors,FIELD_ACCESS, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+value,SIMPLE_NAME, line no: 19,getValue,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+value,SIMPLE_NAME, line no: 19,getValue,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+this.successor=null,ASSIGNMENT, line no: 20,this.value=value,ASSIGNMENT, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+this.successor=null,ASSIGNMENT, line no: 20,this.successors=successors,ASSIGNMENT, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+this.successor=null,ASSIGNMENT, line no: 20,this.predecessors=predecessors,ASSIGNMENT, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+this.successor,FIELD_ACCESS, line no: 20,this.successors,FIELD_ACCESS, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+this.successor,FIELD_ACCESS, line no: 20,this.predecessors,FIELD_ACCESS, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+this.successor,FIELD_ACCESS, line no: 20,this.value,FIELD_ACCESS, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+successor,SIMPLE_NAME, line no: 20,setSuccessor,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+successor,SIMPLE_NAME, line no: 20,getSuccessor,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+this.successors,FIELD_ACCESS, line no: 21,this.successor,FIELD_ACCESS, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+this.successors,FIELD_ACCESS, line no: 21,this.predecessors,FIELD_ACCESS, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+this.successors,FIELD_ACCESS, line no: 21,this.value,FIELD_ACCESS, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+successors,SIMPLE_NAME, line no: 21,setSuccessors,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+successors,SIMPLE_NAME, line no: 21,getSuccessors,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+this.predecessors,FIELD_ACCESS, line no: 22,this.successor,FIELD_ACCESS, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+this.predecessors,FIELD_ACCESS, line no: 22,this.successors,FIELD_ACCESS, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+this.predecessors,FIELD_ACCESS, line no: 22,this.value,FIELD_ACCESS, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+predecessors,SIMPLE_NAME, line no: 22,setPredecessors,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+predecessors,SIMPLE_NAME, line no: 22,getPredecessors,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+value,SIMPLE_NAME, line no: 42,getValue,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+this.successors=successors,ASSIGNMENT, line no: 50,this.successor=null,ASSIGNMENT, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+this.successors=successors,ASSIGNMENT, line no: 50,this.value=null,ASSIGNMENT, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+this.successors,FIELD_ACCESS, line no: 50,this.successor,FIELD_ACCESS, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+this.successors,FIELD_ACCESS, line no: 50,this.predecessors,FIELD_ACCESS, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+this.successors,FIELD_ACCESS, line no: 50,this.value,FIELD_ACCESS, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+successors,SIMPLE_NAME, line no: 50,setSuccessors,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+successors,SIMPLE_NAME, line no: 50,getSuccessors,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+successors,SIMPLE_NAME, line no: 50,setSuccessors,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+successors,SIMPLE_NAME, line no: 50,getSuccessors,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+this.predecessors=predecessors,ASSIGNMENT, line no: 54,this.successor=null,ASSIGNMENT, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+this.predecessors=predecessors,ASSIGNMENT, line no: 54,this.value=null,ASSIGNMENT, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+this.predecessors,FIELD_ACCESS, line no: 54,this.successor,FIELD_ACCESS, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+this.predecessors,FIELD_ACCESS, line no: 54,this.successors,FIELD_ACCESS, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+this.predecessors,FIELD_ACCESS, line no: 54,this.value,FIELD_ACCESS, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+predecessors,SIMPLE_NAME, line no: 54,setPredecessors,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+predecessors,SIMPLE_NAME, line no: 54,getPredecessors,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+predecessors,SIMPLE_NAME, line no: 54,setPredecessors,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+predecessors,SIMPLE_NAME, line no: 54,getPredecessors,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+successors,SIMPLE_NAME, line no: 62,setSuccessors,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+successors,SIMPLE_NAME, line no: 62,getSuccessors,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+predecessors,SIMPLE_NAME, line no: 65,setPredecessors,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+predecessors,SIMPLE_NAME, line no: 65,getPredecessors,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+ArrayList,SIMPLE_NAME, line no: 6,List,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+Node,SIMPLE_NAME, line no: 6,nextNode,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+ArrayList,SIMPLE_NAME, line no: 6,List,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+Node,SIMPLE_NAME, line no: 6,nextNode,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+Node,SIMPLE_NAME, line no: 7,nextNode,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+node,SIMPLE_NAME, line no: 7,nextNode,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+node.getPredecessors().isEmpty(),METHOD_INVOCATION, line no: 8,nextNode.getSuccessors(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+node,SIMPLE_NAME, line no: 8,nextNode,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+getPredecessors,SIMPLE_NAME, line no: 8,get,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+orderedNodes.add(node),METHOD_INVOCATION, line no: 9,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+node,SIMPLE_NAME, line no: 9,nextNode,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+listSize,SIMPLE_NAME, line no: 13,List,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+listSize,SIMPLE_NAME, line no: 13,size,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+listSize,SIMPLE_NAME, line no: 13,i < listSize,INFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+orderedNodes.size(),METHOD_INVOCATION, line no: 13,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+size,SIMPLE_NAME, line no: 13,listSize,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+i,SIMPLE_NAME, line no: 14,i++,POSTFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+i < listSize,INFIX_EXPRESSION, line no: 14,listSize,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+i,SIMPLE_NAME, line no: 14,i++,POSTFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+listSize,SIMPLE_NAME, line no: 14,List,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+listSize,SIMPLE_NAME, line no: 14,size,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+listSize,SIMPLE_NAME, line no: 14,i < listSize,INFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+i++,POSTFIX_EXPRESSION, line no: 14,i,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+i,SIMPLE_NAME, line no: 14,i++,POSTFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+Node,SIMPLE_NAME, line no: 15,nextNode,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+node,SIMPLE_NAME, line no: 15,nextNode,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+orderedNodes.get(i),METHOD_INVOCATION, line no: 15,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+orderedNodes.get(i),METHOD_INVOCATION, line no: 15,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+orderedNodes.get(i),METHOD_INVOCATION, line no: 15,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+get,SIMPLE_NAME, line no: 15,getPredecessors,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+get,SIMPLE_NAME, line no: 15,getSuccessors,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+i,SIMPLE_NAME, line no: 15,i++,POSTFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+Node,SIMPLE_NAME, line no: 16,nextNode,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+nextNode,SIMPLE_NAME, line no: 16,Node,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+nextNode,SIMPLE_NAME, line no: 16,node,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+node,SIMPLE_NAME, line no: 16,nextNode,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+getSuccessors,SIMPLE_NAME, line no: 16,get,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, line no: 17,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, line no: 17,orderedNodes.add(node),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, line no: 17,orderedNodes.get(i),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+containsAll,SIMPLE_NAME, line no: 17,contains,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+nextNode.getSuccessors(),METHOD_INVOCATION, line no: 17,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+nextNode.getSuccessors(),METHOD_INVOCATION, line no: 17,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+nextNode.getSuccessors(),METHOD_INVOCATION, line no: 17,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+nextNode,SIMPLE_NAME, line no: 17,Node,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+nextNode,SIMPLE_NAME, line no: 17,node,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+getSuccessors,SIMPLE_NAME, line no: 17,get,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, line no: 17,orderedNodes.size(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+orderedNodes.contains(nextNode),METHOD_INVOCATION, line no: 17,orderedNodes.get(i),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+orderedNodes.contains(nextNode),METHOD_INVOCATION, line no: 17,nextNode.getSuccessors(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+contains,SIMPLE_NAME, line no: 17,containsAll,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+nextNode,SIMPLE_NAME, line no: 17,Node,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+nextNode,SIMPLE_NAME, line no: 17,node,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+orderedNodes.add(nextNode),METHOD_INVOCATION, line no: 18,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.4762896722078403, 0.0, 0.0, 0.0, 0.5833333333333334, 0.8164965809277261
+node.getSuccessors(),METHOD_INVOCATION, line no: 16,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.46153846153846156, 0.0, 0.0, 0.0, 0.46153846153846156, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, line no: 17,node.getSuccessors(),METHOD_INVOCATION, 0.46153846153846156, 0.0, 0.0, 0.0, 0.46153846153846156, 1.0
+orderedNodes.get(i),METHOD_INVOCATION, line no: 15,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.45454545454545453, 0.0, 0.0, 0.0, 0.45454545454545453, 1.0
+nextNode.getSuccessors(),METHOD_INVOCATION, line no: 17,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.45454545454545453, 0.0, 0.0, 0.0, 0.45454545454545453, 1.0
+!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, line no: 17,orderedNodes.get(i),METHOD_INVOCATION, 0.45454545454545453, 0.0, 0.0, 0.0, 0.45454545454545453, 1.0
+!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, line no: 17,nextNode.getSuccessors(),METHOD_INVOCATION, 0.45454545454545453, 0.0, 0.0, 0.0, 0.45454545454545453, 1.0
+orderedNodes.add(nextNode),METHOD_INVOCATION, line no: 18,orderedNodes.size(),METHOD_INVOCATION, 0.4536092116265145, 0.0, 0.0, 0.0, 0.5555555555555556, 0.8164965809277261
+node.getPredecessors(),METHOD_INVOCATION, line no: 8,orderedNodes.add(node),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+node.getPredecessors(),METHOD_INVOCATION, line no: 8,orderedNodes.get(i),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+orderedNodes.add(node),METHOD_INVOCATION, line no: 9,node.getPredecessors(),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+orderedNodes.add(node),METHOD_INVOCATION, line no: 9,node.getSuccessors(),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+orderedNodes.get(i),METHOD_INVOCATION, line no: 15,node.getPredecessors(),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+orderedNodes.get(i),METHOD_INVOCATION, line no: 15,node.getSuccessors(),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+node.getSuccessors(),METHOD_INVOCATION, line no: 16,orderedNodes.add(node),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+node.getSuccessors(),METHOD_INVOCATION, line no: 16,orderedNodes.get(i),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+orderedNodes.add(node),METHOD_INVOCATION, line no: 9,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.42857142857142855, 0.0, 0.0, 0.0, 0.42857142857142855, 1.0
+orderedNodes.get(i),METHOD_INVOCATION, line no: 15,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.42857142857142855, 0.0, 0.0, 0.0, 0.42857142857142855, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, line no: 17,orderedNodes.add(node),METHOD_INVOCATION, 0.42857142857142855, 0.0, 0.0, 0.0, 0.42857142857142855, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, line no: 17,orderedNodes.get(i),METHOD_INVOCATION, 0.42857142857142855, 0.0, 0.0, 0.0, 0.42857142857142855, 1.0
+node.getPredecessors(),METHOD_INVOCATION, line no: 8,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.4166666666666667, 0.0, 0.0, 0.0, 0.4166666666666667, 1.0
+orderedNodes.size(),METHOD_INVOCATION, line no: 13,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.4166666666666667, 0.0, 0.0, 0.0, 0.4166666666666667, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, line no: 17,node.getPredecessors(),METHOD_INVOCATION, 0.4166666666666667, 0.0, 0.0, 0.0, 0.4166666666666667, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, line no: 17,orderedNodes.size(),METHOD_INVOCATION, 0.4166666666666667, 0.0, 0.0, 0.0, 0.4166666666666667, 1.0
+orderedNodes.add(nextNode),METHOD_INVOCATION, line no: 18,orderedNodes.get(i),METHOD_INVOCATION, 0.4082482904638631, 0.0, 0.0, 0.0, 0.5, 0.8164965809277261
+orderedNodes.add(nextNode),METHOD_INVOCATION, line no: 18,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.4082482904638631, 0.0, 0.0, 0.0, 0.5, 0.8164965809277261
+orderedNodes.add(nextNode),METHOD_INVOCATION, line no: 18,nextNode.getSuccessors(),METHOD_INVOCATION, 0.4082482904638631, 0.0, 0.0, 0.0, 0.5, 0.8164965809277261
+nextNode,SIMPLE_NAME, line no: 18,Node,SIMPLE_NAME, 0.4082482904638631, 0.0, 0.0, 0.0, 0.5, 0.8164965809277261
+nextNode,SIMPLE_NAME, line no: 18,node,SIMPLE_NAME, 0.4082482904638631, 0.0, 0.0, 0.0, 0.5, 0.8164965809277261
+listSize,SIMPLE_NAME, line no: 19,List,SIMPLE_NAME, 0.4082482904638631, 0.0, 0.0, 0.0, 0.5, 0.8164965809277261
+listSize,SIMPLE_NAME, line no: 19,size,SIMPLE_NAME, 0.4082482904638631, 0.0, 0.0, 0.0, 0.5, 0.8164965809277261
+listSize,SIMPLE_NAME, line no: 19,i < listSize,INFIX_EXPRESSION, 0.4082482904638631, 0.0, 0.0, 0.0, 0.5, 0.8164965809277261
+this.value=value,ASSIGNMENT, line no: 19,this.successor,FIELD_ACCESS, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+this.value=value,ASSIGNMENT, line no: 19,this.successors,FIELD_ACCESS, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+this.value=value,ASSIGNMENT, line no: 19,this.predecessors,FIELD_ACCESS, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+this.value,FIELD_ACCESS, line no: 19,this.successor=successor,ASSIGNMENT, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+this.value,FIELD_ACCESS, line no: 19,this.successors=successors,ASSIGNMENT, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+this.value,FIELD_ACCESS, line no: 19,this.predecessors=predecessors,ASSIGNMENT, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+this.successor,FIELD_ACCESS, line no: 20,this.value=value,ASSIGNMENT, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+this.successor,FIELD_ACCESS, line no: 20,this.successors=successors,ASSIGNMENT, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+this.successor,FIELD_ACCESS, line no: 20,this.predecessors=predecessors,ASSIGNMENT, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+this.successors,FIELD_ACCESS, line no: 21,this.value=value,ASSIGNMENT, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+this.successors,FIELD_ACCESS, line no: 21,this.successor=successor,ASSIGNMENT, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+this.successors,FIELD_ACCESS, line no: 21,this.predecessors=predecessors,ASSIGNMENT, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+this.predecessors,FIELD_ACCESS, line no: 22,this.value=value,ASSIGNMENT, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+this.predecessors,FIELD_ACCESS, line no: 22,this.successor=successor,ASSIGNMENT, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+this.predecessors,FIELD_ACCESS, line no: 22,this.successors=successors,ASSIGNMENT, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+this.successors=successors,ASSIGNMENT, line no: 50,this.successor,FIELD_ACCESS, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+this.successors=successors,ASSIGNMENT, line no: 50,this.predecessors,FIELD_ACCESS, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+this.successors=successors,ASSIGNMENT, line no: 50,this.value,FIELD_ACCESS, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+this.successors,FIELD_ACCESS, line no: 50,this.value=value,ASSIGNMENT, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+this.successors,FIELD_ACCESS, line no: 50,this.successor=successor,ASSIGNMENT, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+this.successors,FIELD_ACCESS, line no: 50,this.predecessors=predecessors,ASSIGNMENT, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+this.predecessors=predecessors,ASSIGNMENT, line no: 54,this.successor,FIELD_ACCESS, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+this.predecessors=predecessors,ASSIGNMENT, line no: 54,this.successors,FIELD_ACCESS, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+this.predecessors=predecessors,ASSIGNMENT, line no: 54,this.value,FIELD_ACCESS, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+this.predecessors,FIELD_ACCESS, line no: 54,this.value=value,ASSIGNMENT, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+this.predecessors,FIELD_ACCESS, line no: 54,this.successor=successor,ASSIGNMENT, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+this.predecessors,FIELD_ACCESS, line no: 54,this.successors=successors,ASSIGNMENT, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+node.getPredecessors(),METHOD_INVOCATION, line no: 8,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+node.getPredecessors(),METHOD_INVOCATION, line no: 8,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+orderedNodes.add(node),METHOD_INVOCATION, line no: 9,nextNode.getSuccessors(),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+i < listSize,INFIX_EXPRESSION, line no: 14,listSize++,POSTFIX_EXPRESSION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+orderedNodes.get(i),METHOD_INVOCATION, line no: 15,nextNode.getSuccessors(),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+node.getSuccessors(),METHOD_INVOCATION, line no: 16,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+node.getSuccessors(),METHOD_INVOCATION, line no: 16,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+nextNode.getSuccessors(),METHOD_INVOCATION, line no: 17,orderedNodes.add(node),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+nextNode.getSuccessors(),METHOD_INVOCATION, line no: 17,orderedNodes.get(i),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+orderedNodes.contains(nextNode),METHOD_INVOCATION, line no: 17,node.getPredecessors(),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+orderedNodes.contains(nextNode),METHOD_INVOCATION, line no: 17,node.getSuccessors(),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,this.successors=successors,ASSIGNMENT, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,this.predecessors=predecessors,ASSIGNMENT, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+this.successors=successors,ASSIGNMENT, line no: 50,this.successors=new ArrayList<>(),ASSIGNMENT, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+this.predecessors=predecessors,ASSIGNMENT, line no: 54,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+node.getPredecessors().isEmpty(),METHOD_INVOCATION, line no: 8,orderedNodes.add(node),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+node.getPredecessors().isEmpty(),METHOD_INVOCATION, line no: 8,orderedNodes.get(i),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+node.getPredecessors(),METHOD_INVOCATION, line no: 8,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+orderedNodes.add(node),METHOD_INVOCATION, line no: 9,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+orderedNodes.get(i),METHOD_INVOCATION, line no: 15,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+node.getSuccessors(),METHOD_INVOCATION, line no: 16,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, line no: 17,node.getPredecessors(),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, line no: 17,node.getSuccessors(),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+node.getPredecessors().isEmpty(),METHOD_INVOCATION, line no: 8,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.35714285714285715, 1.0
+node.getPredecessors(),METHOD_INVOCATION, line no: 8,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.35714285714285715, 1.0
+orderedNodes.size(),METHOD_INVOCATION, line no: 13,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.35714285714285715, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, line no: 17,node.getPredecessors(),METHOD_INVOCATION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.35714285714285715, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, line no: 17,orderedNodes.size(),METHOD_INVOCATION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.35714285714285715, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, line no: 17,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.35714285714285715, 1.0
+value,SIMPLE_NAME, line no: 18,this.value,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this.value,FIELD_ACCESS, line no: 19,value,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this.value,FIELD_ACCESS, line no: 19,this.successor=null,ASSIGNMENT, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this.value,FIELD_ACCESS, line no: 19,this,THIS_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 19,this.successor,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 19,this.successors,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 19,this.predecessors,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 19,this.value,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+value,SIMPLE_NAME, line no: 19,this.value,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+value,SIMPLE_NAME, line no: 19,this.value,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this.successor=null,ASSIGNMENT, line no: 20,this.successors,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this.successor=null,ASSIGNMENT, line no: 20,this.predecessors,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this.successor=null,ASSIGNMENT, line no: 20,this.value,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this.successor,FIELD_ACCESS, line no: 20,successor,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this.successor,FIELD_ACCESS, line no: 20,this,THIS_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this.successor,FIELD_ACCESS, line no: 20,this.value=null,ASSIGNMENT, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 20,this.successor,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 20,this.successors,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 20,this.predecessors,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 20,this.value,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+successor,SIMPLE_NAME, line no: 20,this.successor,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this.successors,FIELD_ACCESS, line no: 21,successors,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this.successors,FIELD_ACCESS, line no: 21,this.successor=null,ASSIGNMENT, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this.successors,FIELD_ACCESS, line no: 21,this,THIS_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this.successors,FIELD_ACCESS, line no: 21,this.value=null,ASSIGNMENT, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 21,this.successor,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 21,this.successors,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 21,this.predecessors,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 21,this.value,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+successors,SIMPLE_NAME, line no: 21,this.successors,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this.predecessors,FIELD_ACCESS, line no: 22,predecessors,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this.predecessors,FIELD_ACCESS, line no: 22,this.successor=null,ASSIGNMENT, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this.predecessors,FIELD_ACCESS, line no: 22,this,THIS_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this.predecessors,FIELD_ACCESS, line no: 22,this.value=null,ASSIGNMENT, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 22,this.successor,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 22,this.successors,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 22,this.predecessors,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 22,this.value,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+predecessors,SIMPLE_NAME, line no: 22,this.predecessors,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+value,SIMPLE_NAME, line no: 42,this.value,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this.successors=successors,ASSIGNMENT, line no: 50,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this.successors,FIELD_ACCESS, line no: 50,successors,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this.successors,FIELD_ACCESS, line no: 50,this.successor=null,ASSIGNMENT, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this.successors,FIELD_ACCESS, line no: 50,this,THIS_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this.successors,FIELD_ACCESS, line no: 50,this.value=null,ASSIGNMENT, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 50,this.successor,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 50,this.successors,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 50,this.predecessors,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 50,this.value,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+successors,SIMPLE_NAME, line no: 50,this.successors,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+successors,SIMPLE_NAME, line no: 50,this.successors,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this.predecessors=predecessors,ASSIGNMENT, line no: 54,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this.predecessors,FIELD_ACCESS, line no: 54,predecessors,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this.predecessors,FIELD_ACCESS, line no: 54,this.successor=null,ASSIGNMENT, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this.predecessors,FIELD_ACCESS, line no: 54,this,THIS_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this.predecessors,FIELD_ACCESS, line no: 54,this.value=null,ASSIGNMENT, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 54,this.successor,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 54,this.successors,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 54,this.predecessors,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 54,this.value,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+predecessors,SIMPLE_NAME, line no: 54,this.predecessors,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+predecessors,SIMPLE_NAME, line no: 54,this.predecessors,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+successors,SIMPLE_NAME, line no: 62,this.successors,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+predecessors,SIMPLE_NAME, line no: 65,this.predecessors,FIELD_ACCESS, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+ArrayList,SIMPLE_NAME, line no: 6,listSize,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+orderedNodes,SIMPLE_NAME, line no: 6,orderedNodes.size(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+ArrayList,SIMPLE_NAME, line no: 6,listSize,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+node.getPredecessors().isEmpty(),METHOD_INVOCATION, line no: 8,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+node.getPredecessors().isEmpty(),METHOD_INVOCATION, line no: 8,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+node.getPredecessors(),METHOD_INVOCATION, line no: 8,getPredecessors,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+node.getPredecessors(),METHOD_INVOCATION, line no: 8,orderedNodes.size(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+getPredecessors,SIMPLE_NAME, line no: 8,node.getPredecessors(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+getPredecessors,SIMPLE_NAME, line no: 8,getSuccessors,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+orderedNodes,SIMPLE_NAME, line no: 9,orderedNodes.size(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+listSize,SIMPLE_NAME, line no: 13,ArrayList,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+orderedNodes.size(),METHOD_INVOCATION, line no: 13,orderedNodes,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+orderedNodes.size(),METHOD_INVOCATION, line no: 13,node.getPredecessors(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+orderedNodes.size(),METHOD_INVOCATION, line no: 13,node.getSuccessors(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+orderedNodes,SIMPLE_NAME, line no: 13,orderedNodes.size(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+size,SIMPLE_NAME, line no: 13,listSize++,POSTFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+listSize,SIMPLE_NAME, line no: 14,ArrayList,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+orderedNodes,SIMPLE_NAME, line no: 15,orderedNodes.size(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+node.getSuccessors(),METHOD_INVOCATION, line no: 16,orderedNodes.size(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+node.getSuccessors(),METHOD_INVOCATION, line no: 16,getSuccessors,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+getSuccessors,SIMPLE_NAME, line no: 16,getPredecessors,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+getSuccessors,SIMPLE_NAME, line no: 16,node.getSuccessors(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+orderedNodes,SIMPLE_NAME, line no: 17,orderedNodes.size(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+getSuccessors,SIMPLE_NAME, line no: 17,getPredecessors,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+getSuccessors,SIMPLE_NAME, line no: 17,node.getSuccessors(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+orderedNodes.contains(nextNode),METHOD_INVOCATION, line no: 17,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+orderedNodes,SIMPLE_NAME, line no: 17,orderedNodes.size(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+orderedNodes,SIMPLE_NAME, line no: 23,orderedNodes.size(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+orderedNodes.add(nextNode),METHOD_INVOCATION, line no: 18,node.getPredecessors(),METHOD_INVOCATION, 0.3265986323710905, 0.0, 0.0, 0.0, 0.4, 0.8164965809277261
+orderedNodes.add(nextNode),METHOD_INVOCATION, line no: 18,node.getSuccessors(),METHOD_INVOCATION, 0.3265986323710905, 0.0, 0.0, 0.0, 0.4, 0.8164965809277261
+listSize++,POSTFIX_EXPRESSION, line no: 19,i < listSize,INFIX_EXPRESSION, 0.3265986323710905, 0.0, 0.0, 0.0, 0.4, 0.8164965809277261
+node.getPredecessors().isEmpty(),METHOD_INVOCATION, line no: 8,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.3125, 0.0, 0.0, 0.0, 0.3125, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, line no: 17,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.3125, 0.0, 0.0, 0.0, 0.3125, 1.0
+node.getPredecessors().isEmpty(),METHOD_INVOCATION, line no: 8,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, line no: 17,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+orderedNodes.size(),METHOD_INVOCATION, line no: 13,nextNode.getSuccessors(),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+nextNode.getSuccessors(),METHOD_INVOCATION, line no: 17,orderedNodes.size(),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+new ArrayList<>(),CLASS_INSTANCE_CREATION, line no: 21,ArrayList,SIMPLE_NAME, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,new ArrayList<>(),CLASS_INSTANCE_CREATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+new ArrayList<>(),CLASS_INSTANCE_CREATION, line no: 22,ArrayList,SIMPLE_NAME, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,new ArrayList<>(),CLASS_INSTANCE_CREATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+orderedNodes,SIMPLE_NAME, line no: 6,orderedNodes.add(node),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+orderedNodes,SIMPLE_NAME, line no: 6,orderedNodes.get(i),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+orderedNodes.add(node),METHOD_INVOCATION, line no: 9,orderedNodes,SIMPLE_NAME, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+orderedNodes,SIMPLE_NAME, line no: 9,orderedNodes.add(node),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+orderedNodes,SIMPLE_NAME, line no: 9,orderedNodes.get(i),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+orderedNodes,SIMPLE_NAME, line no: 13,orderedNodes.add(node),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+orderedNodes,SIMPLE_NAME, line no: 13,orderedNodes.get(i),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+orderedNodes.get(i),METHOD_INVOCATION, line no: 15,orderedNodes,SIMPLE_NAME, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+orderedNodes,SIMPLE_NAME, line no: 15,orderedNodes.add(node),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+orderedNodes,SIMPLE_NAME, line no: 15,orderedNodes.get(i),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+nextNode,SIMPLE_NAME, line no: 16,nextNode.getSuccessors(),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+getSuccessors,SIMPLE_NAME, line no: 16,nextNode.getSuccessors(),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+orderedNodes,SIMPLE_NAME, line no: 17,orderedNodes.add(node),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+orderedNodes,SIMPLE_NAME, line no: 17,orderedNodes.get(i),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+nextNode.getSuccessors(),METHOD_INVOCATION, line no: 17,nextNode,SIMPLE_NAME, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+nextNode.getSuccessors(),METHOD_INVOCATION, line no: 17,getSuccessors,SIMPLE_NAME, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+nextNode,SIMPLE_NAME, line no: 17,nextNode.getSuccessors(),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+getSuccessors,SIMPLE_NAME, line no: 17,nextNode.getSuccessors(),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+orderedNodes,SIMPLE_NAME, line no: 17,orderedNodes.add(node),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+orderedNodes,SIMPLE_NAME, line no: 17,orderedNodes.get(i),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+nextNode,SIMPLE_NAME, line no: 17,nextNode.getSuccessors(),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+orderedNodes,SIMPLE_NAME, line no: 23,orderedNodes.add(node),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+orderedNodes,SIMPLE_NAME, line no: 23,orderedNodes.get(i),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,this.successors,FIELD_ACCESS, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+this.successors,FIELD_ACCESS, line no: 21,this.successors=new ArrayList<>(),ASSIGNMENT, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,this.predecessors,FIELD_ACCESS, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+this.predecessors,FIELD_ACCESS, line no: 22,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+this.successors,FIELD_ACCESS, line no: 50,this.successors=new ArrayList<>(),ASSIGNMENT, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+this.predecessors,FIELD_ACCESS, line no: 54,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+new ArrayList<Node>(),CLASS_INSTANCE_CREATION, line no: 6,node.getPredecessors(),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+new ArrayList<Node>(),CLASS_INSTANCE_CREATION, line no: 6,node.getSuccessors(),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+node.getPredecessors().isEmpty(),METHOD_INVOCATION, line no: 8,orderedNodes.size(),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+node.getPredecessors(),METHOD_INVOCATION, line no: 8,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+orderedNodes.size(),METHOD_INVOCATION, line no: 13,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+node.getSuccessors(),METHOD_INVOCATION, line no: 16,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+orderedNodes.add(nextNode),METHOD_INVOCATION, line no: 18,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.2721655269759087, 0.0, 0.0, 0.0, 0.3333333333333333, 0.8164965809277261
+orderedNodes,SIMPLE_NAME, line no: 18,orderedNodes.size(),METHOD_INVOCATION, 0.2721655269759087, 0.0, 0.0, 0.0, 0.3333333333333333, 0.8164965809277261
+listSize++,POSTFIX_EXPRESSION, line no: 19,List,SIMPLE_NAME, 0.2721655269759087, 0.0, 0.0, 0.0, 0.3333333333333333, 0.8164965809277261
+listSize++,POSTFIX_EXPRESSION, line no: 19,size,SIMPLE_NAME, 0.2721655269759087, 0.0, 0.0, 0.0, 0.3333333333333333, 0.8164965809277261
+listSize,SIMPLE_NAME, line no: 19,ArrayList,SIMPLE_NAME, 0.2721655269759087, 0.0, 0.0, 0.0, 0.3333333333333333, 0.8164965809277261
+value,SIMPLE_NAME, line no: 18,this.value=value,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.value=value,ASSIGNMENT, line no: 19,value,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.value=value,ASSIGNMENT, line no: 19,this,THIS_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.value=value,ASSIGNMENT, line no: 19,this.successors=new ArrayList<>(),ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.value=value,ASSIGNMENT, line no: 19,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.value,FIELD_ACCESS, line no: 19,getValue,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this,THIS_EXPRESSION, line no: 19,this.value=value,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this,THIS_EXPRESSION, line no: 19,this.successor=successor,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this,THIS_EXPRESSION, line no: 19,this.successors=successors,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this,THIS_EXPRESSION, line no: 19,this.predecessors=predecessors,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+value,SIMPLE_NAME, line no: 19,this.value=value,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+value,SIMPLE_NAME, line no: 19,this.value=value,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.successor,FIELD_ACCESS, line no: 20,setSuccessor,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.successor,FIELD_ACCESS, line no: 20,getSuccessor,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this,THIS_EXPRESSION, line no: 20,this.value=value,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this,THIS_EXPRESSION, line no: 20,this.successor=successor,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this,THIS_EXPRESSION, line no: 20,this.successors=successors,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this,THIS_EXPRESSION, line no: 20,this.predecessors=predecessors,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+successor,SIMPLE_NAME, line no: 20,this.successor=successor,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,this.value=value,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,this.successor=successor,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,this.predecessors=predecessors,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.successors,FIELD_ACCESS, line no: 21,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.successors,FIELD_ACCESS, line no: 21,setSuccessors,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.successors,FIELD_ACCESS, line no: 21,getSuccessors,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this,THIS_EXPRESSION, line no: 21,this.value=value,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this,THIS_EXPRESSION, line no: 21,this.successor=successor,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this,THIS_EXPRESSION, line no: 21,this.successors=successors,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this,THIS_EXPRESSION, line no: 21,this.predecessors=predecessors,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+successors,SIMPLE_NAME, line no: 21,this.successors=successors,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,this.value=value,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,this.successor=successor,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,this.successors=successors,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.predecessors,FIELD_ACCESS, line no: 22,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.predecessors,FIELD_ACCESS, line no: 22,setPredecessors,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.predecessors,FIELD_ACCESS, line no: 22,getPredecessors,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this,THIS_EXPRESSION, line no: 22,this.value=value,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this,THIS_EXPRESSION, line no: 22,this.successor=successor,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this,THIS_EXPRESSION, line no: 22,this.successors=successors,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this,THIS_EXPRESSION, line no: 22,this.predecessors=predecessors,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+predecessors,SIMPLE_NAME, line no: 22,this.predecessors=predecessors,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+value,SIMPLE_NAME, line no: 42,this.value=value,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.successors=successors,ASSIGNMENT, line no: 50,successors,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.successors=successors,ASSIGNMENT, line no: 50,this,THIS_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.successors=successors,ASSIGNMENT, line no: 50,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.successors,FIELD_ACCESS, line no: 50,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.successors,FIELD_ACCESS, line no: 50,setSuccessors,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.successors,FIELD_ACCESS, line no: 50,getSuccessors,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this,THIS_EXPRESSION, line no: 50,this.value=value,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this,THIS_EXPRESSION, line no: 50,this.successor=successor,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this,THIS_EXPRESSION, line no: 50,this.successors=successors,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this,THIS_EXPRESSION, line no: 50,this.predecessors=predecessors,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+successors,SIMPLE_NAME, line no: 50,this.successors=successors,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+successors,SIMPLE_NAME, line no: 50,this.successors=successors,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.predecessors=predecessors,ASSIGNMENT, line no: 54,predecessors,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.predecessors=predecessors,ASSIGNMENT, line no: 54,this,THIS_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.predecessors=predecessors,ASSIGNMENT, line no: 54,this.successors=new ArrayList<>(),ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.predecessors,FIELD_ACCESS, line no: 54,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.predecessors,FIELD_ACCESS, line no: 54,setPredecessors,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this.predecessors,FIELD_ACCESS, line no: 54,getPredecessors,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this,THIS_EXPRESSION, line no: 54,this.value=value,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this,THIS_EXPRESSION, line no: 54,this.successor=successor,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this,THIS_EXPRESSION, line no: 54,this.successors=successors,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+this,THIS_EXPRESSION, line no: 54,this.predecessors=predecessors,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+predecessors,SIMPLE_NAME, line no: 54,this.predecessors=predecessors,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+predecessors,SIMPLE_NAME, line no: 54,this.predecessors=predecessors,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+successors,SIMPLE_NAME, line no: 62,this.successors=successors,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+predecessors,SIMPLE_NAME, line no: 65,this.predecessors=predecessors,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+ArrayList,SIMPLE_NAME, line no: 6,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+ArrayList,SIMPLE_NAME, line no: 6,listSize++,POSTFIX_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+orderedNodes,SIMPLE_NAME, line no: 6,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+orderedNodes,SIMPLE_NAME, line no: 6,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+new ArrayList<Node>(),CLASS_INSTANCE_CREATION, line no: 6,ArrayList,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+new ArrayList<Node>(),CLASS_INSTANCE_CREATION, line no: 6,orderedNodes.add(node),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+new ArrayList<Node>(),CLASS_INSTANCE_CREATION, line no: 6,nextNode.getSuccessors(),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+ArrayList,SIMPLE_NAME, line no: 6,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+ArrayList,SIMPLE_NAME, line no: 6,listSize++,POSTFIX_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+node.getPredecessors().isEmpty(),METHOD_INVOCATION, line no: 8,getPredecessors,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+node.getPredecessors().isEmpty(),METHOD_INVOCATION, line no: 8,isEmpty,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+getPredecessors,SIMPLE_NAME, line no: 8,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+isEmpty,SIMPLE_NAME, line no: 8,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+orderedNodes.add(node),METHOD_INVOCATION, line no: 9,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+orderedNodes,SIMPLE_NAME, line no: 9,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+orderedNodes,SIMPLE_NAME, line no: 9,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+orderedNodes,SIMPLE_NAME, line no: 13,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+orderedNodes,SIMPLE_NAME, line no: 13,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+size,SIMPLE_NAME, line no: 13,i < listSize,INFIX_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+int i=0,VARIABLE_DECLARATION_EXPRESSION, line no: 14,i,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+int i=0,VARIABLE_DECLARATION_EXPRESSION, line no: 14,0,NUMBER_LITERAL, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+i,SIMPLE_NAME, line no: 14,int i=0,VARIABLE_DECLARATION_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+i,SIMPLE_NAME, line no: 14,i < listSize,INFIX_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+0,NUMBER_LITERAL, line no: 14,int i=0,VARIABLE_DECLARATION_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+i < listSize,INFIX_EXPRESSION, line no: 14,List,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+i < listSize,INFIX_EXPRESSION, line no: 14,size,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+i < listSize,INFIX_EXPRESSION, line no: 14,i,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+i,SIMPLE_NAME, line no: 14,int i=0,VARIABLE_DECLARATION_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+i,SIMPLE_NAME, line no: 14,i < listSize,INFIX_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+i++,POSTFIX_EXPRESSION, line no: 14,listSize++,POSTFIX_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+i,SIMPLE_NAME, line no: 14,int i=0,VARIABLE_DECLARATION_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+i,SIMPLE_NAME, line no: 14,i < listSize,INFIX_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+orderedNodes,SIMPLE_NAME, line no: 15,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+orderedNodes,SIMPLE_NAME, line no: 15,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+i,SIMPLE_NAME, line no: 15,int i=0,VARIABLE_DECLARATION_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+i,SIMPLE_NAME, line no: 15,i < listSize,INFIX_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+nextNode,SIMPLE_NAME, line no: 16,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+nextNode,SIMPLE_NAME, line no: 16,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+orderedNodes,SIMPLE_NAME, line no: 17,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+orderedNodes,SIMPLE_NAME, line no: 17,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+nextNode.getSuccessors(),METHOD_INVOCATION, line no: 17,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+nextNode,SIMPLE_NAME, line no: 17,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+nextNode,SIMPLE_NAME, line no: 17,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+orderedNodes.contains(nextNode),METHOD_INVOCATION, line no: 17,orderedNodes,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+orderedNodes.contains(nextNode),METHOD_INVOCATION, line no: 17,nextNode,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+orderedNodes,SIMPLE_NAME, line no: 17,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+orderedNodes,SIMPLE_NAME, line no: 17,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+nextNode,SIMPLE_NAME, line no: 17,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+nextNode,SIMPLE_NAME, line no: 17,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+orderedNodes,SIMPLE_NAME, line no: 23,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+orderedNodes,SIMPLE_NAME, line no: 23,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+orderedNodes,SIMPLE_NAME, line no: 18,orderedNodes.add(node),METHOD_INVOCATION, 0.23328473740792174, 0.0, 0.0, 0.0, 0.2857142857142857, 0.8164965809277261
+orderedNodes,SIMPLE_NAME, line no: 18,orderedNodes.get(i),METHOD_INVOCATION, 0.23328473740792174, 0.0, 0.0, 0.0, 0.2857142857142857, 0.8164965809277261
+nextNode,SIMPLE_NAME, line no: 18,nextNode.getSuccessors(),METHOD_INVOCATION, 0.23328473740792174, 0.0, 0.0, 0.0, 0.2857142857142857, 0.8164965809277261
+this.value=value,ASSIGNMENT, line no: 19,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+this.value=value,ASSIGNMENT, line no: 19,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+this.successor=null,ASSIGNMENT, line no: 20,this.successors=new ArrayList<>(),ASSIGNMENT, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+this.successor=null,ASSIGNMENT, line no: 20,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,this.successor=null,ASSIGNMENT, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,this.value=null,ASSIGNMENT, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,this.successor=null,ASSIGNMENT, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,this.value=null,ASSIGNMENT, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+this.successors=successors,ASSIGNMENT, line no: 50,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+this.predecessors=predecessors,ASSIGNMENT, line no: 54,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+new ArrayList<Node>(),CLASS_INSTANCE_CREATION, line no: 6,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+new ArrayList<Node>(),CLASS_INSTANCE_CREATION, line no: 6,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+new ArrayList<Node>(),CLASS_INSTANCE_CREATION, line no: 6,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+node.getPredecessors().isEmpty(),METHOD_INVOCATION, line no: 8,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+orderedNodes.contains(nextNode),METHOD_INVOCATION, line no: 17,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+orderedNodes,SIMPLE_NAME, line no: 6,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+orderedNodes,SIMPLE_NAME, line no: 9,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+orderedNodes,SIMPLE_NAME, line no: 13,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+orderedNodes,SIMPLE_NAME, line no: 15,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+nextNode,SIMPLE_NAME, line no: 16,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+orderedNodes,SIMPLE_NAME, line no: 17,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+nextNode,SIMPLE_NAME, line no: 17,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, line no: 17,orderedNodes,SIMPLE_NAME, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, line no: 17,nextNode,SIMPLE_NAME, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+orderedNodes,SIMPLE_NAME, line no: 17,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+nextNode,SIMPLE_NAME, line no: 17,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+orderedNodes,SIMPLE_NAME, line no: 23,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+this.successor=null,ASSIGNMENT, line no: 20,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+this.successor=null,ASSIGNMENT, line no: 20,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+new ArrayList<Node>(),CLASS_INSTANCE_CREATION, line no: 6,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, line no: 17,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+orderedNodes.add(nextNode),METHOD_INVOCATION, line no: 18,orderedNodes,SIMPLE_NAME, 0.20412414523193154, 0.0, 0.0, 0.0, 0.25, 0.8164965809277261
+orderedNodes.add(nextNode),METHOD_INVOCATION, line no: 18,nextNode,SIMPLE_NAME, 0.20412414523193154, 0.0, 0.0, 0.0, 0.25, 0.8164965809277261
+orderedNodes,SIMPLE_NAME, line no: 18,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.20412414523193154, 0.0, 0.0, 0.0, 0.25, 0.8164965809277261
+orderedNodes,SIMPLE_NAME, line no: 18,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.20412414523193154, 0.0, 0.0, 0.0, 0.25, 0.8164965809277261
+nextNode,SIMPLE_NAME, line no: 18,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.20412414523193154, 0.0, 0.0, 0.0, 0.25, 0.8164965809277261
+nextNode,SIMPLE_NAME, line no: 18,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.20412414523193154, 0.0, 0.0, 0.0, 0.25, 0.8164965809277261
+listSize++,POSTFIX_EXPRESSION, line no: 19,ArrayList,SIMPLE_NAME, 0.20412414523193154, 0.0, 0.0, 0.0, 0.25, 0.8164965809277261
+listSize++,POSTFIX_EXPRESSION, line no: 19,i++,POSTFIX_EXPRESSION, 0.20412414523193154, 0.0, 0.0, 0.0, 0.25, 0.8164965809277261
+value,SIMPLE_NAME, line no: 18,this.value=null,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+this.value=value,ASSIGNMENT, line no: 19,getValue,SIMPLE_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+this.value,FIELD_ACCESS, line no: 19,java.util,QUALIFIED_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+this,THIS_EXPRESSION, line no: 19,this.successor=null,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+this,THIS_EXPRESSION, line no: 19,this.value=null,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+value,SIMPLE_NAME, line no: 19,this.value=null,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+value,SIMPLE_NAME, line no: 19,this.value=null,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+this.successor=null,ASSIGNMENT, line no: 20,successor,SIMPLE_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+this.successor=null,ASSIGNMENT, line no: 20,this,THIS_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+this.successor=null,ASSIGNMENT, line no: 20,null,NULL_LITERAL, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+this.successor,FIELD_ACCESS, line no: 20,java.util,QUALIFIED_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+this,THIS_EXPRESSION, line no: 20,this.successor=null,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+this,THIS_EXPRESSION, line no: 20,this.value=null,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+successor,SIMPLE_NAME, line no: 20,this.successor=null,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+null,NULL_LITERAL, line no: 20,this.successor=null,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+null,NULL_LITERAL, line no: 20,this.value=null,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+this.successors,FIELD_ACCESS, line no: 21,java.util,QUALIFIED_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+this,THIS_EXPRESSION, line no: 21,this.successor=null,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+this,THIS_EXPRESSION, line no: 21,this.value=null,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+this.predecessors,FIELD_ACCESS, line no: 22,java.util,QUALIFIED_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+this,THIS_EXPRESSION, line no: 22,this.successor=null,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+this,THIS_EXPRESSION, line no: 22,this.value=null,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+value,SIMPLE_NAME, line no: 42,this.value=null,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+this.successors=successors,ASSIGNMENT, line no: 50,setSuccessors,SIMPLE_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+this.successors=successors,ASSIGNMENT, line no: 50,getSuccessors,SIMPLE_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+this.successors,FIELD_ACCESS, line no: 50,java.util,QUALIFIED_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+this,THIS_EXPRESSION, line no: 50,this.successor=null,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+this,THIS_EXPRESSION, line no: 50,this.value=null,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+this.predecessors=predecessors,ASSIGNMENT, line no: 54,setPredecessors,SIMPLE_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+this.predecessors=predecessors,ASSIGNMENT, line no: 54,getPredecessors,SIMPLE_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+this.predecessors,FIELD_ACCESS, line no: 54,java.util,QUALIFIED_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+this,THIS_EXPRESSION, line no: 54,this.successor=null,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+this,THIS_EXPRESSION, line no: 54,this.value=null,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+ArrayList,SIMPLE_NAME, line no: 6,i < listSize,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+new ArrayList<Node>(),CLASS_INSTANCE_CREATION, line no: 6,i < listSize,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+ArrayList,SIMPLE_NAME, line no: 6,i < listSize,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+int i=0,VARIABLE_DECLARATION_EXPRESSION, line no: 14,i++,POSTFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+i < listSize,INFIX_EXPRESSION, line no: 14,ArrayList,SIMPLE_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+i < listSize,INFIX_EXPRESSION, line no: 14,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+i < listSize,INFIX_EXPRESSION, line no: 14,i++,POSTFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+i++,POSTFIX_EXPRESSION, line no: 14,int i=0,VARIABLE_DECLARATION_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+i++,POSTFIX_EXPRESSION, line no: 14,i < listSize,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+orderedNodes.add(nextNode),METHOD_INVOCATION, line no: 18,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.18842228790639834, 0.0, 0.0, 0.0, 0.23076923076923078, 0.8164965809277261
+new ArrayList<Node>(),CLASS_INSTANCE_CREATION, line no: 6,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.1875, 0.0, 0.0, 0.0, 0.1875, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, line no: 17,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.1875, 0.0, 0.0, 0.0, 0.1875, 1.0
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,ArrayList,SIMPLE_NAME, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,this.successors=new ArrayList<>(),ASSIGNMENT, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,ArrayList,SIMPLE_NAME, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,this.successors=new ArrayList<>(),ASSIGNMENT, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+orderedNodes,SIMPLE_NAME, line no: 6,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+orderedNodes,SIMPLE_NAME, line no: 9,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+orderedNodes,SIMPLE_NAME, line no: 13,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+orderedNodes,SIMPLE_NAME, line no: 15,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+nextNode,SIMPLE_NAME, line no: 16,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+getSuccessors,SIMPLE_NAME, line no: 16,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, line no: 17,orderedNodes,SIMPLE_NAME, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, line no: 17,nextNode,SIMPLE_NAME, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, line no: 17,getSuccessors,SIMPLE_NAME, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, line no: 17,containsAll,SIMPLE_NAME, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+orderedNodes,SIMPLE_NAME, line no: 17,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+containsAll,SIMPLE_NAME, line no: 17,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+nextNode,SIMPLE_NAME, line no: 17,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+getSuccessors,SIMPLE_NAME, line no: 17,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+orderedNodes,SIMPLE_NAME, line no: 17,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+nextNode,SIMPLE_NAME, line no: 17,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+orderedNodes,SIMPLE_NAME, line no: 23,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+orderedNodes,SIMPLE_NAME, line no: 18,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.1814436846506058, 0.0, 0.0, 0.0, 0.2222222222222222, 0.8164965809277261
+nextNode,SIMPLE_NAME, line no: 18,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.1814436846506058, 0.0, 0.0, 0.0, 0.2222222222222222, 0.8164965809277261
+this.value=value,ASSIGNMENT, line no: 19,java.util,QUALIFIED_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+this.value,FIELD_ACCESS, line no: 19,this.successors=new ArrayList<>(),ASSIGNMENT, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+this.value,FIELD_ACCESS, line no: 19,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+this.successor=null,ASSIGNMENT, line no: 20,setSuccessor,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+this.successor=null,ASSIGNMENT, line no: 20,getSuccessor,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+this.successor,FIELD_ACCESS, line no: 20,this.successors=new ArrayList<>(),ASSIGNMENT, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+this.successor,FIELD_ACCESS, line no: 20,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,this.successor,FIELD_ACCESS, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,this.predecessors,FIELD_ACCESS, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,this.value,FIELD_ACCESS, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+this.successors,FIELD_ACCESS, line no: 21,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,this.successor,FIELD_ACCESS, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,this.successors,FIELD_ACCESS, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,this.value,FIELD_ACCESS, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+this.predecessors,FIELD_ACCESS, line no: 22,this.successors=new ArrayList<>(),ASSIGNMENT, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+this.successors=successors,ASSIGNMENT, line no: 50,java.util,QUALIFIED_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+this.successors,FIELD_ACCESS, line no: 50,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+this.predecessors=predecessors,ASSIGNMENT, line no: 54,java.util,QUALIFIED_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+this.predecessors,FIELD_ACCESS, line no: 54,this.successors=new ArrayList<>(),ASSIGNMENT, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+Node,SIMPLE_NAME, line no: 6,node.getPredecessors(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+Node,SIMPLE_NAME, line no: 6,node.getSuccessors(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayList<Node>(),CLASS_INSTANCE_CREATION, line no: 6,orderedNodes.size(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayList<Node>(),CLASS_INSTANCE_CREATION, line no: 6,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+Node,SIMPLE_NAME, line no: 6,node.getPredecessors(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+Node,SIMPLE_NAME, line no: 6,node.getSuccessors(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+Node,SIMPLE_NAME, line no: 7,node.getPredecessors(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+Node,SIMPLE_NAME, line no: 7,node.getSuccessors(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+node,SIMPLE_NAME, line no: 7,node.getPredecessors(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+node,SIMPLE_NAME, line no: 7,node.getSuccessors(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+node.getPredecessors(),METHOD_INVOCATION, line no: 8,Node,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+node.getPredecessors(),METHOD_INVOCATION, line no: 8,node,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+node.getPredecessors(),METHOD_INVOCATION, line no: 8,get,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+node,SIMPLE_NAME, line no: 8,node.getPredecessors(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+node,SIMPLE_NAME, line no: 8,node.getSuccessors(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+node,SIMPLE_NAME, line no: 9,node.getPredecessors(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+node,SIMPLE_NAME, line no: 9,node.getSuccessors(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+orderedNodes.size(),METHOD_INVOCATION, line no: 13,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+orderedNodes.size(),METHOD_INVOCATION, line no: 13,size,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+size,SIMPLE_NAME, line no: 13,orderedNodes.size(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+Node,SIMPLE_NAME, line no: 15,node.getPredecessors(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+Node,SIMPLE_NAME, line no: 15,node.getSuccessors(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+node,SIMPLE_NAME, line no: 15,node.getPredecessors(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+node,SIMPLE_NAME, line no: 15,node.getSuccessors(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+get,SIMPLE_NAME, line no: 15,node.getPredecessors(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+get,SIMPLE_NAME, line no: 15,node.getSuccessors(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+Node,SIMPLE_NAME, line no: 16,node.getPredecessors(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+Node,SIMPLE_NAME, line no: 16,node.getSuccessors(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+node.getSuccessors(),METHOD_INVOCATION, line no: 16,Node,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+node.getSuccessors(),METHOD_INVOCATION, line no: 16,node,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+node.getSuccessors(),METHOD_INVOCATION, line no: 16,get,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+node,SIMPLE_NAME, line no: 16,node.getPredecessors(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+node,SIMPLE_NAME, line no: 16,node.getSuccessors(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, line no: 17,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+this.value,FIELD_ACCESS, line no: 19,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+this.value,FIELD_ACCESS, line no: 19,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+this.successor,FIELD_ACCESS, line no: 20,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+this.successor,FIELD_ACCESS, line no: 20,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+this.successors,FIELD_ACCESS, line no: 21,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+this.predecessors,FIELD_ACCESS, line no: 22,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+this.successors,FIELD_ACCESS, line no: 50,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+this.predecessors,FIELD_ACCESS, line no: 54,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+orderedNodes,SIMPLE_NAME, line no: 6,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+new ArrayList<Node>(),CLASS_INSTANCE_CREATION, line no: 6,orderedNodes.get(i),METHOD_INVOCATION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+orderedNodes,SIMPLE_NAME, line no: 9,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+orderedNodes,SIMPLE_NAME, line no: 13,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+orderedNodes.get(i),METHOD_INVOCATION, line no: 15,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+orderedNodes,SIMPLE_NAME, line no: 15,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+nextNode,SIMPLE_NAME, line no: 16,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+getSuccessors,SIMPLE_NAME, line no: 16,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, line no: 17,orderedNodes,SIMPLE_NAME, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, line no: 17,nextNode,SIMPLE_NAME, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, line no: 17,getSuccessors,SIMPLE_NAME, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, line no: 17,containsAll,SIMPLE_NAME, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+orderedNodes,SIMPLE_NAME, line no: 17,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+containsAll,SIMPLE_NAME, line no: 17,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+nextNode,SIMPLE_NAME, line no: 17,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+getSuccessors,SIMPLE_NAME, line no: 17,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+orderedNodes,SIMPLE_NAME, line no: 17,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+nextNode,SIMPLE_NAME, line no: 17,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+orderedNodes,SIMPLE_NAME, line no: 23,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+orderedNodes,SIMPLE_NAME, line no: 18,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.14845392380504113, 0.0, 0.0, 0.0, 0.18181818181818182, 0.8164965809277261
+nextNode,SIMPLE_NAME, line no: 18,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.14845392380504113, 0.0, 0.0, 0.0, 0.18181818181818182, 0.8164965809277261
+this.successor=null,ASSIGNMENT, line no: 20,java.util,QUALIFIED_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+Node,SIMPLE_NAME, line no: 6,orderedNodes.add(node),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+Node,SIMPLE_NAME, line no: 6,nextNode.getSuccessors(),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+Node,SIMPLE_NAME, line no: 6,orderedNodes.add(node),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+Node,SIMPLE_NAME, line no: 6,nextNode.getSuccessors(),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+Node,SIMPLE_NAME, line no: 7,orderedNodes.add(node),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+Node,SIMPLE_NAME, line no: 7,nextNode.getSuccessors(),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+node,SIMPLE_NAME, line no: 7,orderedNodes.add(node),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+node,SIMPLE_NAME, line no: 7,nextNode.getSuccessors(),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+node.getPredecessors(),METHOD_INVOCATION, line no: 8,nextNode,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+node.getPredecessors(),METHOD_INVOCATION, line no: 8,getSuccessors,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+node,SIMPLE_NAME, line no: 8,orderedNodes.add(node),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+node,SIMPLE_NAME, line no: 8,nextNode.getSuccessors(),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+getPredecessors,SIMPLE_NAME, line no: 8,node.getSuccessors(),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+orderedNodes.add(node),METHOD_INVOCATION, line no: 9,Node,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+orderedNodes.add(node),METHOD_INVOCATION, line no: 9,node,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+orderedNodes.add(node),METHOD_INVOCATION, line no: 9,add,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+add,SIMPLE_NAME, line no: 9,orderedNodes.add(node),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+node,SIMPLE_NAME, line no: 9,orderedNodes.add(node),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+node,SIMPLE_NAME, line no: 9,nextNode.getSuccessors(),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+listSize,SIMPLE_NAME, line no: 13,orderedNodes.size(),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+orderedNodes.size(),METHOD_INVOCATION, line no: 13,listSize,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+int i=0,VARIABLE_DECLARATION_EXPRESSION, line no: 14,i < listSize,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+i,SIMPLE_NAME, line no: 14,orderedNodes.get(i),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+i < listSize,INFIX_EXPRESSION, line no: 14,int i=0,VARIABLE_DECLARATION_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+i,SIMPLE_NAME, line no: 14,orderedNodes.get(i),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+listSize,SIMPLE_NAME, line no: 14,orderedNodes.size(),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+i,SIMPLE_NAME, line no: 14,orderedNodes.get(i),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+Node,SIMPLE_NAME, line no: 15,orderedNodes.add(node),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+Node,SIMPLE_NAME, line no: 15,nextNode.getSuccessors(),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+node,SIMPLE_NAME, line no: 15,orderedNodes.add(node),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+node,SIMPLE_NAME, line no: 15,nextNode.getSuccessors(),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+orderedNodes.get(i),METHOD_INVOCATION, line no: 15,i,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+orderedNodes.get(i),METHOD_INVOCATION, line no: 15,get,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+get,SIMPLE_NAME, line no: 15,orderedNodes.get(i),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+get,SIMPLE_NAME, line no: 15,nextNode.getSuccessors(),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+i,SIMPLE_NAME, line no: 15,orderedNodes.get(i),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+Node,SIMPLE_NAME, line no: 16,orderedNodes.add(node),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+Node,SIMPLE_NAME, line no: 16,nextNode.getSuccessors(),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+nextNode,SIMPLE_NAME, line no: 16,node.getPredecessors(),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+nextNode,SIMPLE_NAME, line no: 16,node.getSuccessors(),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+node.getSuccessors(),METHOD_INVOCATION, line no: 16,getPredecessors,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+node.getSuccessors(),METHOD_INVOCATION, line no: 16,nextNode,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+node,SIMPLE_NAME, line no: 16,orderedNodes.add(node),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+node,SIMPLE_NAME, line no: 16,nextNode.getSuccessors(),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+getSuccessors,SIMPLE_NAME, line no: 16,node.getPredecessors(),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+nextNode.getSuccessors(),METHOD_INVOCATION, line no: 17,Node,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+nextNode.getSuccessors(),METHOD_INVOCATION, line no: 17,node,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+nextNode.getSuccessors(),METHOD_INVOCATION, line no: 17,get,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+nextNode,SIMPLE_NAME, line no: 17,node.getPredecessors(),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+nextNode,SIMPLE_NAME, line no: 17,node.getSuccessors(),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+getSuccessors,SIMPLE_NAME, line no: 17,node.getPredecessors(),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+nextNode,SIMPLE_NAME, line no: 17,node.getPredecessors(),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+nextNode,SIMPLE_NAME, line no: 17,node.getSuccessors(),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+orderedNodes,SIMPLE_NAME, line no: 18,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.12561485860426558, 0.0, 0.0, 0.0, 0.15384615384615385, 0.8164965809277261
+nextNode,SIMPLE_NAME, line no: 18,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.12561485860426558, 0.0, 0.0, 0.0, 0.15384615384615385, 0.8164965809277261
+Node,SIMPLE_NAME, line no: 18,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Node,SIMPLE_NAME, line no: 6,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Node,SIMPLE_NAME, line no: 6,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Node,SIMPLE_NAME, line no: 6,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Node,SIMPLE_NAME, line no: 6,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+new ArrayList<Node>(),CLASS_INSTANCE_CREATION, line no: 6,Node,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+new ArrayList<Node>(),CLASS_INSTANCE_CREATION, line no: 6,List,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+new ArrayList<Node>(),CLASS_INSTANCE_CREATION, line no: 6,node,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Node,SIMPLE_NAME, line no: 6,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Node,SIMPLE_NAME, line no: 6,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Node,SIMPLE_NAME, line no: 6,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Node,SIMPLE_NAME, line no: 6,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Node,SIMPLE_NAME, line no: 7,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Node,SIMPLE_NAME, line no: 7,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Node,SIMPLE_NAME, line no: 7,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Node,SIMPLE_NAME, line no: 7,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+node,SIMPLE_NAME, line no: 7,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+node,SIMPLE_NAME, line no: 7,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+node,SIMPLE_NAME, line no: 7,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+node,SIMPLE_NAME, line no: 7,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+node.getPredecessors().isEmpty(),METHOD_INVOCATION, line no: 8,Node,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+node.getPredecessors().isEmpty(),METHOD_INVOCATION, line no: 8,node,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+node.getPredecessors().isEmpty(),METHOD_INVOCATION, line no: 8,get,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+node.getPredecessors(),METHOD_INVOCATION, line no: 8,java.util,QUALIFIED_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+node,SIMPLE_NAME, line no: 8,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+node,SIMPLE_NAME, line no: 8,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+node,SIMPLE_NAME, line no: 8,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+node,SIMPLE_NAME, line no: 8,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+getPredecessors,SIMPLE_NAME, line no: 8,orderedNodes.get(i),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+getPredecessors,SIMPLE_NAME, line no: 8,nextNode.getSuccessors(),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+orderedNodes.add(node),METHOD_INVOCATION, line no: 9,nextNode,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+add,SIMPLE_NAME, line no: 9,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+node,SIMPLE_NAME, line no: 9,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+node,SIMPLE_NAME, line no: 9,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+node,SIMPLE_NAME, line no: 9,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+node,SIMPLE_NAME, line no: 9,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+orderedNodes.size(),METHOD_INVOCATION, line no: 13,java.util,QUALIFIED_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+orderedNodes.size(),METHOD_INVOCATION, line no: 13,listSize++,POSTFIX_EXPRESSION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+i++,POSTFIX_EXPRESSION, line no: 14,orderedNodes.get(i),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Node,SIMPLE_NAME, line no: 15,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Node,SIMPLE_NAME, line no: 15,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Node,SIMPLE_NAME, line no: 15,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Node,SIMPLE_NAME, line no: 15,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+node,SIMPLE_NAME, line no: 15,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+node,SIMPLE_NAME, line no: 15,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+node,SIMPLE_NAME, line no: 15,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+node,SIMPLE_NAME, line no: 15,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+orderedNodes.get(i),METHOD_INVOCATION, line no: 15,getPredecessors,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+orderedNodes.get(i),METHOD_INVOCATION, line no: 15,i++,POSTFIX_EXPRESSION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+orderedNodes.get(i),METHOD_INVOCATION, line no: 15,getSuccessors,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+get,SIMPLE_NAME, line no: 15,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Node,SIMPLE_NAME, line no: 16,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Node,SIMPLE_NAME, line no: 16,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Node,SIMPLE_NAME, line no: 16,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Node,SIMPLE_NAME, line no: 16,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+nextNode,SIMPLE_NAME, line no: 16,orderedNodes.add(node),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+node.getSuccessors(),METHOD_INVOCATION, line no: 16,java.util,QUALIFIED_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+node,SIMPLE_NAME, line no: 16,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+node,SIMPLE_NAME, line no: 16,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+node,SIMPLE_NAME, line no: 16,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+node,SIMPLE_NAME, line no: 16,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+getSuccessors,SIMPLE_NAME, line no: 16,orderedNodes.get(i),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+nextNode.getSuccessors(),METHOD_INVOCATION, line no: 17,getPredecessors,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+nextNode,SIMPLE_NAME, line no: 17,orderedNodes.add(node),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+getSuccessors,SIMPLE_NAME, line no: 17,orderedNodes.get(i),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+orderedNodes.contains(nextNode),METHOD_INVOCATION, line no: 17,Node,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+orderedNodes.contains(nextNode),METHOD_INVOCATION, line no: 17,node,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+orderedNodes.contains(nextNode),METHOD_INVOCATION, line no: 17,contains,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+contains,SIMPLE_NAME, line no: 17,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+nextNode,SIMPLE_NAME, line no: 17,orderedNodes.add(node),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+add,SIMPLE_NAME, line no: 18,orderedNodes.add(node),METHOD_INVOCATION, 0.11664236870396087, 0.0, 0.0, 0.0, 0.14285714285714285, 0.8164965809277261
+nextNode,SIMPLE_NAME, line no: 18,node.getPredecessors(),METHOD_INVOCATION, 0.11664236870396087, 0.0, 0.0, 0.0, 0.14285714285714285, 0.8164965809277261
+nextNode,SIMPLE_NAME, line no: 18,node.getSuccessors(),METHOD_INVOCATION, 0.11664236870396087, 0.0, 0.0, 0.0, 0.14285714285714285, 0.8164965809277261
+listSize,SIMPLE_NAME, line no: 19,orderedNodes.size(),METHOD_INVOCATION, 0.11664236870396087, 0.0, 0.0, 0.0, 0.14285714285714285, 0.8164965809277261
+Node,SIMPLE_NAME, line no: 6,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+new ArrayList<Node>(),CLASS_INSTANCE_CREATION, line no: 6,listSize,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+new ArrayList<Node>(),CLASS_INSTANCE_CREATION, line no: 6,nextNode,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+Node,SIMPLE_NAME, line no: 6,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+Node,SIMPLE_NAME, line no: 7,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+node,SIMPLE_NAME, line no: 7,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+node.getPredecessors().isEmpty(),METHOD_INVOCATION, line no: 8,nextNode,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+node.getPredecessors().isEmpty(),METHOD_INVOCATION, line no: 8,getSuccessors,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+node,SIMPLE_NAME, line no: 8,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+orderedNodes.add(node),METHOD_INVOCATION, line no: 9,java.util,QUALIFIED_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+node,SIMPLE_NAME, line no: 9,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+listSize,SIMPLE_NAME, line no: 13,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+orderedNodes.size(),METHOD_INVOCATION, line no: 13,i < listSize,INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+i < listSize,INFIX_EXPRESSION, line no: 14,orderedNodes.size(),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+listSize,SIMPLE_NAME, line no: 14,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+Node,SIMPLE_NAME, line no: 15,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+node,SIMPLE_NAME, line no: 15,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+orderedNodes.get(i),METHOD_INVOCATION, line no: 15,java.util,QUALIFIED_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+Node,SIMPLE_NAME, line no: 16,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+nextNode,SIMPLE_NAME, line no: 16,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+nextNode,SIMPLE_NAME, line no: 16,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+node,SIMPLE_NAME, line no: 16,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+getSuccessors,SIMPLE_NAME, line no: 16,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+containsAll,SIMPLE_NAME, line no: 17,orderedNodes.contains(nextNode),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+nextNode.getSuccessors(),METHOD_INVOCATION, line no: 17,java.util,QUALIFIED_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+nextNode,SIMPLE_NAME, line no: 17,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+nextNode,SIMPLE_NAME, line no: 17,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+getSuccessors,SIMPLE_NAME, line no: 17,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, line no: 17,Node,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, line no: 17,node,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, line no: 17,contains,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+orderedNodes.contains(nextNode),METHOD_INVOCATION, line no: 17,containsAll,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+contains,SIMPLE_NAME, line no: 17,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+nextNode,SIMPLE_NAME, line no: 17,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+nextNode,SIMPLE_NAME, line no: 17,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+orderedNodes.add(nextNode),METHOD_INVOCATION, line no: 18,Node,SIMPLE_NAME, 0.10206207261596577, 0.0, 0.0, 0.0, 0.125, 0.8164965809277261
+orderedNodes.add(nextNode),METHOD_INVOCATION, line no: 18,node,SIMPLE_NAME, 0.10206207261596577, 0.0, 0.0, 0.0, 0.125, 0.8164965809277261
+orderedNodes.add(nextNode),METHOD_INVOCATION, line no: 18,add,SIMPLE_NAME, 0.10206207261596577, 0.0, 0.0, 0.0, 0.125, 0.8164965809277261
+add,SIMPLE_NAME, line no: 18,orderedNodes.add(nextNode),METHOD_INVOCATION, 0.10206207261596577, 0.0, 0.0, 0.0, 0.125, 0.8164965809277261
+nextNode,SIMPLE_NAME, line no: 18,orderedNodes.add(node),METHOD_INVOCATION, 0.10206207261596577, 0.0, 0.0, 0.0, 0.125, 0.8164965809277261
+listSize++,POSTFIX_EXPRESSION, line no: 19,orderedNodes.size(),METHOD_INVOCATION, 0.10206207261596577, 0.0, 0.0, 0.0, 0.125, 0.8164965809277261
+new ArrayList<Node>(),CLASS_INSTANCE_CREATION, line no: 6,listSize++,POSTFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+node.getPredecessors().isEmpty(),METHOD_INVOCATION, line no: 8,java.util,QUALIFIED_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+int i=0,VARIABLE_DECLARATION_EXPRESSION, line no: 14,orderedNodes.get(i),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+i < listSize,INFIX_EXPRESSION, line no: 14,orderedNodes.get(i),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+orderedNodes.get(i),METHOD_INVOCATION, line no: 15,int i=0,VARIABLE_DECLARATION_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+orderedNodes.get(i),METHOD_INVOCATION, line no: 15,i < listSize,INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+containsAll,SIMPLE_NAME, line no: 17,!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, line no: 17,containsAll,SIMPLE_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+orderedNodes.contains(nextNode),METHOD_INVOCATION, line no: 17,java.util,QUALIFIED_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+this,THIS_EXPRESSION, line no: 19,this.successors=new ArrayList<>(),ASSIGNMENT, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+this,THIS_EXPRESSION, line no: 19,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+this,THIS_EXPRESSION, line no: 20,this.successors=new ArrayList<>(),ASSIGNMENT, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+this,THIS_EXPRESSION, line no: 20,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,successors,SIMPLE_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,this,THIS_EXPRESSION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+this,THIS_EXPRESSION, line no: 21,this.successors=new ArrayList<>(),ASSIGNMENT, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+this,THIS_EXPRESSION, line no: 21,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+successors,SIMPLE_NAME, line no: 21,this.successors=new ArrayList<>(),ASSIGNMENT, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,predecessors,SIMPLE_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,this,THIS_EXPRESSION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+this,THIS_EXPRESSION, line no: 22,this.successors=new ArrayList<>(),ASSIGNMENT, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+this,THIS_EXPRESSION, line no: 22,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+predecessors,SIMPLE_NAME, line no: 22,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+this,THIS_EXPRESSION, line no: 50,this.successors=new ArrayList<>(),ASSIGNMENT, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+this,THIS_EXPRESSION, line no: 50,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+successors,SIMPLE_NAME, line no: 50,this.successors=new ArrayList<>(),ASSIGNMENT, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+successors,SIMPLE_NAME, line no: 50,this.successors=new ArrayList<>(),ASSIGNMENT, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+this,THIS_EXPRESSION, line no: 54,this.successors=new ArrayList<>(),ASSIGNMENT, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+this,THIS_EXPRESSION, line no: 54,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+predecessors,SIMPLE_NAME, line no: 54,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+predecessors,SIMPLE_NAME, line no: 54,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+successors,SIMPLE_NAME, line no: 62,this.successors=new ArrayList<>(),ASSIGNMENT, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+predecessors,SIMPLE_NAME, line no: 65,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+Node,SIMPLE_NAME, line no: 6,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+Node,SIMPLE_NAME, line no: 6,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+Node,SIMPLE_NAME, line no: 7,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+node,SIMPLE_NAME, line no: 7,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+node,SIMPLE_NAME, line no: 8,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+node,SIMPLE_NAME, line no: 9,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+Node,SIMPLE_NAME, line no: 15,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+node,SIMPLE_NAME, line no: 15,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+get,SIMPLE_NAME, line no: 15,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+Node,SIMPLE_NAME, line no: 16,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+node,SIMPLE_NAME, line no: 16,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, line no: 17,Node,SIMPLE_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, line no: 17,node,SIMPLE_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, line no: 17,get,SIMPLE_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, line no: 17,contains,SIMPLE_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+!orderedNodes.contains(nextNode),PREFIX_EXPRESSION, line no: 17,java.util,QUALIFIED_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+contains,SIMPLE_NAME, line no: 17,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+nextNode,SIMPLE_NAME, line no: 18,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.0907218423253029, 0.0, 0.0, 0.0, 0.1111111111111111, 0.8164965809277261
+nextNode,SIMPLE_NAME, line no: 18,node.getPredecessors().isEmpty(),METHOD_INVOCATION, 0.0907218423253029, 0.0, 0.0, 0.0, 0.1111111111111111, 0.8164965809277261
+listSize,SIMPLE_NAME, line no: 19,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.0907218423253029, 0.0, 0.0, 0.0, 0.1111111111111111, 0.8164965809277261
+Node,SIMPLE_NAME, line no: 18,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+Node,SIMPLE_NAME, line no: 18,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 19,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 19,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 20,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 20,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,setSuccessors,SIMPLE_NAME, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,getSuccessors,SIMPLE_NAME, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 21,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 21,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+successors,SIMPLE_NAME, line no: 21,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,setPredecessors,SIMPLE_NAME, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,getPredecessors,SIMPLE_NAME, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 22,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 22,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+predecessors,SIMPLE_NAME, line no: 22,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 50,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 50,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+successors,SIMPLE_NAME, line no: 50,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+successors,SIMPLE_NAME, line no: 50,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 54,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+this,THIS_EXPRESSION, line no: 54,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+predecessors,SIMPLE_NAME, line no: 54,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+predecessors,SIMPLE_NAME, line no: 54,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+successors,SIMPLE_NAME, line no: 62,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+predecessors,SIMPLE_NAME, line no: 65,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+getPredecessors,SIMPLE_NAME, line no: 8,orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, line no: 17,getPredecessors,SIMPLE_NAME, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+orderedNodes.add(nextNode),METHOD_INVOCATION, line no: 18,java.util,QUALIFIED_NAME, 0.08164965809277262, 0.0, 0.0, 0.0, 0.1, 0.8164965809277261
+listSize++,POSTFIX_EXPRESSION, line no: 19,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.08164965809277262, 0.0, 0.0, 0.0, 0.1, 0.8164965809277261
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,java.util,QUALIFIED_NAME, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,java.util,QUALIFIED_NAME, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+Node,SIMPLE_NAME, line no: 6,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+Node,SIMPLE_NAME, line no: 6,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+Node,SIMPLE_NAME, line no: 7,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+node,SIMPLE_NAME, line no: 7,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+node,SIMPLE_NAME, line no: 8,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+node,SIMPLE_NAME, line no: 9,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+Node,SIMPLE_NAME, line no: 15,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+node,SIMPLE_NAME, line no: 15,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+get,SIMPLE_NAME, line no: 15,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+Node,SIMPLE_NAME, line no: 16,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+node,SIMPLE_NAME, line no: 16,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, line no: 17,Node,SIMPLE_NAME, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, line no: 17,node,SIMPLE_NAME, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, line no: 17,get,SIMPLE_NAME, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, line no: 17,contains,SIMPLE_NAME, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()),METHOD_INVOCATION, line no: 17,java.util,QUALIFIED_NAME, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+contains,SIMPLE_NAME, line no: 17,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+getPredecessors,SIMPLE_NAME, line no: 8,orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, 0.07142857142857142, 0.0, 0.0, 0.0, 0.07142857142857142, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, line no: 17,getPredecessors,SIMPLE_NAME, 0.07142857142857142, 0.0, 0.0, 0.0, 0.07142857142857142, 1.0
+orderedNodes.containsAll(nextNode.getSuccessors()) && !orderedNodes.contains(nextNode),INFIX_EXPRESSION, line no: 17,java.util,QUALIFIED_NAME, 0.06666666666666667, 0.0, 0.0, 0.0, 0.06666666666666667, 1.0

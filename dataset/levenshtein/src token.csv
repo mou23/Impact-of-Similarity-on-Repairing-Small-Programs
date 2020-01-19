@@ -1,0 +1,941 @@
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,levenshtein(source target.substring(1)),METHOD_INVOCATION, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,levenshtein(source.substring(1) target),METHOD_INVOCATION, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,LEVENSHTEIN,SIMPLE_NAME, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,levenshtein(source.substring(1) target),METHOD_INVOCATION, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,LEVENSHTEIN,SIMPLE_NAME, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,levenshtein(source target.substring(1)),METHOD_INVOCATION, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,levenshtein(source.substring(1) target),METHOD_INVOCATION, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,LEVENSHTEIN,SIMPLE_NAME, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,levenshtein(source target.substring(1)),METHOD_INVOCATION, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,LEVENSHTEIN,SIMPLE_NAME, 1.0, 0.0, 0.0, 0.0, 1.0, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.9166666666666666, 0.0, 0.0, 0.0, 0.9166666666666666, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.9, 0.0, 0.0, 0.0, 0.9, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.9, 0.0, 0.0, 0.0, 0.9, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.9, 0.0, 0.0, 0.0, 0.9, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.9, 0.0, 0.0, 0.0, 0.9, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.9, 0.0, 0.0, 0.0, 0.9, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.9, 0.0, 0.0, 0.0, 0.9, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.9, 0.0, 0.0, 0.0, 0.9, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.8333333333333334, 0.0, 0.0, 0.0, 0.8333333333333334, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.8181818181818182, 0.0, 0.0, 0.0, 0.8181818181818182, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.8181818181818182, 0.0, 0.0, 0.0, 0.8181818181818182, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.8181818181818182, 0.0, 0.0, 0.0, 0.8181818181818182, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.8181818181818182, 0.0, 0.0, 0.0, 0.8181818181818182, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.8181818181818182, 0.0, 0.0, 0.0, 0.8181818181818182, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.8181818181818182, 0.0, 0.0, 0.0, 0.8181818181818182, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.8181818181818182, 0.0, 0.0, 0.0, 0.8181818181818182, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.8181818181818182, 0.0, 0.0, 0.0, 0.8181818181818182, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.8181818181818182, 0.0, 0.0, 0.0, 0.8181818181818182, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.8181818181818182, 0.0, 0.0, 0.0, 0.8181818181818182, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.8181818181818182, 0.0, 0.0, 0.0, 0.8181818181818182, 1.0
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.8, 0.0, 0.0, 0.0, 1.0, 0.8
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,source.charAt(0),METHOD_INVOCATION, 0.7777777777777778, 0.0, 0.0, 0.0, 0.7777777777777778, 1.0
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,target.charAt(0),METHOD_INVOCATION, 0.7777777777777778, 0.0, 0.0, 0.0, 0.7777777777777778, 1.0
+source.charAt(0),METHOD_INVOCATION, line no: 16,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.7777777777777778, 0.0, 0.0, 0.0, 0.7777777777777778, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.7777777777777778, 0.0, 0.0, 0.0, 0.7777777777777778, 1.0
+source.charAt(0),METHOD_INVOCATION, line no: 16,target.charAt(0),METHOD_INVOCATION, 0.75, 0.0, 0.0, 0.0, 0.75, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,source.charAt(0),METHOD_INVOCATION, 0.75, 0.0, 0.0, 0.0, 0.75, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.75, 0.0, 0.0, 0.0, 0.75, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.75, 0.0, 0.0, 0.0, 0.75, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.75, 0.0, 0.0, 0.0, 0.75, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.75, 0.0, 0.0, 0.0, 0.75, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.75, 0.0, 0.0, 0.0, 0.75, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.75, 0.0, 0.0, 0.0, 0.75, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.75, 0.0, 0.0, 0.0, 0.75, 1.0
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.7333333333333334, 0.0, 0.0, 0.0, 0.9166666666666666, 0.8
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.7333333333333334, 0.0, 0.0, 0.0, 0.9166666666666666, 0.8
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.7333333333333334, 0.0, 0.0, 0.0, 0.9166666666666666, 0.8
+source.substring(1),METHOD_INVOCATION, line no: 17,target.substring(1),METHOD_INVOCATION, 0.7142857142857143, 0.0, 0.0, 0.0, 0.7142857142857143, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,source.substring(1),METHOD_INVOCATION, 0.7142857142857143, 0.0, 0.0, 0.0, 0.7142857142857143, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,source.substring(1),METHOD_INVOCATION, 0.7142857142857143, 0.0, 0.0, 0.0, 0.7142857142857143, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,target.substring(1),METHOD_INVOCATION, 0.7142857142857143, 0.0, 0.0, 0.0, 0.7142857142857143, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,source.substring(1),METHOD_INVOCATION, 0.7142857142857143, 0.0, 0.0, 0.0, 0.7142857142857143, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,target.substring(1),METHOD_INVOCATION, 0.7142857142857143, 0.0, 0.0, 0.0, 0.7142857142857143, 1.0
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,source.isEmpty(),METHOD_INVOCATION, 0.6846531968814576, 0.0, 0.0, 0.0, 0.75, 0.9128709291752769
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,target.isEmpty(),METHOD_INVOCATION, 0.6846531968814576, 0.0, 0.0, 0.0, 0.75, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 14,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.6846531968814576, 0.0, 0.0, 0.0, 0.75, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.6846531968814576, 0.0, 0.0, 0.0, 0.75, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.6846531968814576, 0.0, 0.0, 0.0, 0.75, 0.9128709291752769
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.6666666666666667, 0.0, 0.0, 0.0, 0.8333333333333334, 0.8
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,source.substring(1),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,target.substring(1),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,source.substring(1),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,target.substring(1),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,source.substring(1),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,target.substring(1),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,source.substring(1),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,target.substring(1),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.6545454545454547, 0.0, 0.0, 0.0, 0.8181818181818182, 0.8
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.6545454545454547, 0.0, 0.0, 0.0, 0.8181818181818182, 0.8
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.6545454545454547, 0.0, 0.0, 0.0, 0.8181818181818182, 0.8
+source.isEmpty(),METHOD_INVOCATION, line no: 14,target.isEmpty(),METHOD_INVOCATION, 0.6520506636966263, 0.0, 0.0, 0.0, 0.7142857142857143, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,source.isEmpty(),METHOD_INVOCATION, 0.6520506636966263, 0.0, 0.0, 0.0, 0.7142857142857143, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,target.isEmpty(),METHOD_INVOCATION, 0.6520506636966263, 0.0, 0.0, 0.0, 0.7142857142857143, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,source.length(),METHOD_INVOCATION, 0.6085806194501846, 0.0, 0.0, 0.0, 0.6666666666666666, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,target.length(),METHOD_INVOCATION, 0.6085806194501846, 0.0, 0.0, 0.0, 0.6666666666666666, 0.9128709291752769
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.6000000000000001, 0.0, 0.0, 0.0, 0.75, 0.8
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.6000000000000001, 0.0, 0.0, 0.0, 0.75, 0.8
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.6000000000000001, 0.0, 0.0, 0.0, 0.75, 0.8
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.6000000000000001, 0.0, 0.0, 0.0, 0.75, 0.8
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,source.substring(1),METHOD_INVOCATION, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,target.substring(1),METHOD_INVOCATION, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.5809178640206307, 0.0, 0.0, 0.0, 0.6363636363636364, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.5809178640206307, 0.0, 0.0, 0.0, 0.6363636363636364, 0.9128709291752769
+source.substring(1),METHOD_INVOCATION, line no: 17,source.length(),METHOD_INVOCATION, 0.5714285714285714, 0.0, 0.0, 0.0, 0.5714285714285714, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,target.length(),METHOD_INVOCATION, 0.5714285714285714, 0.0, 0.0, 0.0, 0.5714285714285714, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,target.length(),METHOD_INVOCATION, 0.5714285714285714, 0.0, 0.0, 0.0, 0.5714285714285714, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,source.length(),METHOD_INVOCATION, 0.5714285714285714, 0.0, 0.0, 0.0, 0.5714285714285714, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,target.length(),METHOD_INVOCATION, 0.5714285714285714, 0.0, 0.0, 0.0, 0.5714285714285714, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,source.length(),METHOD_INVOCATION, 0.5714285714285714, 0.0, 0.0, 0.0, 0.5714285714285714, 1.0
+source.isEmpty(),METHOD_INVOCATION, line no: 14,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.5477225575051661, 0.0, 0.0, 0.0, 0.6, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.5477225575051661, 0.0, 0.0, 0.0, 0.6, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,source.isEmpty(),METHOD_INVOCATION, 0.5477225575051661, 0.0, 0.0, 0.0, 0.6, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,target.isEmpty(),METHOD_INVOCATION, 0.5477225575051661, 0.0, 0.0, 0.0, 0.6, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.5477225575051661, 0.0, 0.0, 0.0, 0.6, 0.9128709291752769
+source.substring(1),METHOD_INVOCATION, line no: 17,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.5454545454545454, 0.0, 0.0, 0.0, 0.5454545454545454, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.5454545454545454, 0.0, 0.0, 0.0, 0.5454545454545454, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.5454545454545454, 0.0, 0.0, 0.0, 0.5454545454545454, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.5454545454545454, 0.0, 0.0, 0.0, 0.5454545454545454, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,source.substring(1),METHOD_INVOCATION, 0.5454545454545454, 0.0, 0.0, 0.0, 0.5454545454545454, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,target.substring(1),METHOD_INVOCATION, 0.5454545454545454, 0.0, 0.0, 0.0, 0.5454545454545454, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.5454545454545454, 0.0, 0.0, 0.0, 0.5454545454545454, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.5454545454545454, 0.0, 0.0, 0.0, 0.5454545454545454, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.5454545454545454, 0.0, 0.0, 0.0, 0.5454545454545454, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.5454545454545454, 0.0, 0.0, 0.0, 0.5454545454545454, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.5454545454545454, 0.0, 0.0, 0.0, 0.5454545454545454, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.5454545454545454, 0.0, 0.0, 0.0, 0.5454545454545454, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.5454545454545454, 0.0, 0.0, 0.0, 0.5454545454545454, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.5454545454545454, 0.0, 0.0, 0.0, 0.5454545454545454, 1.0
+source.isEmpty(),METHOD_INVOCATION, line no: 14,source.length(),METHOD_INVOCATION, 0.521640530957301, 0.0, 0.0, 0.0, 0.5714285714285714, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,target.length(),METHOD_INVOCATION, 0.521640530957301, 0.0, 0.0, 0.0, 0.5714285714285714, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,source.length(),METHOD_INVOCATION, 0.521640530957301, 0.0, 0.0, 0.0, 0.5714285714285714, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,target.isEmpty(),METHOD_INVOCATION, 0.521640530957301, 0.0, 0.0, 0.0, 0.5714285714285714, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,target.substring(1),METHOD_INVOCATION, 0.521640530957301, 0.0, 0.0, 0.0, 0.5714285714285714, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,source.isEmpty(),METHOD_INVOCATION, 0.521640530957301, 0.0, 0.0, 0.0, 0.5714285714285714, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,source.substring(1),METHOD_INVOCATION, 0.521640530957301, 0.0, 0.0, 0.0, 0.5714285714285714, 0.9128709291752769
+source.charAt(0),METHOD_INVOCATION, line no: 16,source.length(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,target.length(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,source.isEmpty(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,target.isEmpty(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,target.isEmpty(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,source.isEmpty(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,target.isEmpty(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,source.isEmpty(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+source.isEmpty(),METHOD_INVOCATION, line no: 14,source.substring(1),METHOD_INVOCATION, 0.45643546458763845, 0.0, 0.0, 0.0, 0.5, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,target.substring(1),METHOD_INVOCATION, 0.45643546458763845, 0.0, 0.0, 0.0, 0.5, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,target.length(),METHOD_INVOCATION, 0.45643546458763845, 0.0, 0.0, 0.0, 0.5, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,source.length(),METHOD_INVOCATION, 0.45643546458763845, 0.0, 0.0, 0.0, 0.5, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,source.substring(1),METHOD_INVOCATION, 0.45643546458763845, 0.0, 0.0, 0.0, 0.5, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.45643546458763845, 0.0, 0.0, 0.0, 0.5, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,target.charAt(0),METHOD_INVOCATION, 0.45643546458763845, 0.0, 0.0, 0.0, 0.5, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.45643546458763845, 0.0, 0.0, 0.0, 0.5, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,source.charAt(0),METHOD_INVOCATION, 0.45643546458763845, 0.0, 0.0, 0.0, 0.5, 0.9128709291752769
+source.charAt(0),METHOD_INVOCATION, line no: 16,source.isEmpty(),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+source.charAt(0),METHOD_INVOCATION, line no: 16,source.substring(1),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,target.isEmpty(),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,target.substring(1),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,source.charAt(0),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,target.charAt(0),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,target.charAt(0),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,source.charAt(0),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,target.charAt(0),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,source.charAt(0),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,source.substring(1),METHOD_INVOCATION, 0.43636363636363634, 0.0, 0.0, 0.0, 0.5454545454545454, 0.8
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,target.substring(1),METHOD_INVOCATION, 0.43636363636363634, 0.0, 0.0, 0.0, 0.5454545454545454, 0.8
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.4166666666666667, 0.0, 0.0, 0.0, 0.4166666666666667, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.4166666666666667, 0.0, 0.0, 0.0, 0.4166666666666667, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.4166666666666667, 0.0, 0.0, 0.0, 0.4166666666666667, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.4166666666666667, 0.0, 0.0, 0.0, 0.4166666666666667, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.4166666666666667, 0.0, 0.0, 0.0, 0.4166666666666667, 1.0
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,target.length(),METHOD_INVOCATION, 0.40572041296678973, 0.0, 0.0, 0.0, 0.4444444444444444, 0.9128709291752769
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,source.length(),METHOD_INVOCATION, 0.40572041296678973, 0.0, 0.0, 0.0, 0.4444444444444444, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 14,source.charAt(0),METHOD_INVOCATION, 0.40572041296678973, 0.0, 0.0, 0.0, 0.4444444444444444, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,target.charAt(0),METHOD_INVOCATION, 0.40572041296678973, 0.0, 0.0, 0.0, 0.4444444444444444, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,source.charAt(0),METHOD_INVOCATION, 0.40572041296678973, 0.0, 0.0, 0.0, 0.4444444444444444, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.40572041296678973, 0.0, 0.0, 0.0, 0.4444444444444444, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.40572041296678973, 0.0, 0.0, 0.0, 0.4444444444444444, 0.9128709291752769
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,target.length(),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,source.length(),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,target.length(),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,source.length(),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,source.substring(1),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.5, 0.8
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,target.substring(1),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.5, 0.8
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,target.length(),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,source.length(),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,target.length(),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,source.length(),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,target.length(),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,source.length(),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.38461538461538464, 0.0, 0.0, 0.0, 0.38461538461538464, 1.0
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.38461538461538464, 0.0, 0.0, 0.0, 0.38461538461538464, 1.0
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.38461538461538464, 0.0, 0.0, 0.0, 0.38461538461538464, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.38461538461538464, 0.0, 0.0, 0.0, 0.38461538461538464, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.38461538461538464, 0.0, 0.0, 0.0, 0.38461538461538464, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.38461538461538464, 0.0, 0.0, 0.0, 0.38461538461538464, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.38461538461538464, 0.0, 0.0, 0.0, 0.38461538461538464, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.38461538461538464, 0.0, 0.0, 0.0, 0.38461538461538464, 1.0
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.3803628871563654, 0.0, 0.0, 0.0, 0.4166666666666667, 0.9128709291752769
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.3803628871563654, 0.0, 0.0, 0.0, 0.4166666666666667, 0.9128709291752769
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.3803628871563654, 0.0, 0.0, 0.0, 0.4166666666666667, 0.9128709291752769
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.3803628871563654, 0.0, 0.0, 0.0, 0.4166666666666667, 0.9128709291752769
+source.substring(1),METHOD_INVOCATION, line no: 17,target.length(),METHOD_INVOCATION, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,source.length(),METHOD_INVOCATION, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,source.length(),METHOD_INVOCATION, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,target.length(),METHOD_INVOCATION, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,source.length(),METHOD_INVOCATION, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,target.length(),METHOD_INVOCATION, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,source.substring(1),METHOD_INVOCATION, 0.36514837167011077, 0.0, 0.0, 0.0, 0.4, 0.9128709291752769
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,target.substring(1),METHOD_INVOCATION, 0.36514837167011077, 0.0, 0.0, 0.0, 0.4, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.36514837167011077, 0.0, 0.0, 0.0, 0.4, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.36514837167011077, 0.0, 0.0, 0.0, 0.4, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.36514837167011077, 0.0, 0.0, 0.0, 0.4, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.36514837167011077, 0.0, 0.0, 0.0, 0.4, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.36514837167011077, 0.0, 0.0, 0.0, 0.4, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.36514837167011077, 0.0, 0.0, 0.0, 0.4, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.36514837167011077, 0.0, 0.0, 0.0, 0.4, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.36514837167011077, 0.0, 0.0, 0.0, 0.4, 0.9128709291752769
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,source.isEmpty(),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,target.isEmpty(),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,source.substring(1),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,target.substring(1),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+source.charAt(0),METHOD_INVOCATION, line no: 16,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,target.length(),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,source.length(),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,source.isEmpty(),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,target.isEmpty(),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,source.isEmpty(),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,target.isEmpty(),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,source.isEmpty(),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,target.isEmpty(),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,source.isEmpty(),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,target.isEmpty(),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.35714285714285715, 1.0
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.35714285714285715, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.35714285714285715, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.35714285714285715, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.35714285714285715, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.35714285714285715, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.35714285714285715, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.35714285714285715, 1.0
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.35110420352895266, 0.0, 0.0, 0.0, 0.38461538461538464, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 14,target.length(),METHOD_INVOCATION, 0.3423265984407288, 0.0, 0.0, 0.0, 0.375, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,source.length(),METHOD_INVOCATION, 0.3423265984407288, 0.0, 0.0, 0.0, 0.375, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,target.length(),METHOD_INVOCATION, 0.3423265984407288, 0.0, 0.0, 0.0, 0.375, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,source.isEmpty(),METHOD_INVOCATION, 0.3423265984407288, 0.0, 0.0, 0.0, 0.375, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,source.substring(1),METHOD_INVOCATION, 0.3423265984407288, 0.0, 0.0, 0.0, 0.375, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,target.isEmpty(),METHOD_INVOCATION, 0.3423265984407288, 0.0, 0.0, 0.0, 0.375, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,target.substring(1),METHOD_INVOCATION, 0.3423265984407288, 0.0, 0.0, 0.0, 0.375, 0.9128709291752769
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+source.charAt(0),METHOD_INVOCATION, line no: 16,target.length(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+source.charAt(0),METHOD_INVOCATION, line no: 16,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+source.charAt(0),METHOD_INVOCATION, line no: 16,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+source.charAt(0),METHOD_INVOCATION, line no: 16,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,source.length(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,source.isEmpty(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,target.isEmpty(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,source.charAt(0),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,target.charAt(0),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,target.isEmpty(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,source.isEmpty(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,target.length(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,source.length(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,source.charAt(0),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,target.charAt(0),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,source.isEmpty(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,source.charAt(0),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,target.charAt(0),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,target.isEmpty(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,source.isEmpty(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,source.charAt(0),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,target.charAt(0),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,target.isEmpty(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,source.charAt(0),METHOD_INVOCATION, 0.3319530651546462, 0.0, 0.0, 0.0, 0.36363636363636365, 0.9128709291752769
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,target.charAt(0),METHOD_INVOCATION, 0.3319530651546462, 0.0, 0.0, 0.0, 0.36363636363636365, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 14,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.3319530651546462, 0.0, 0.0, 0.0, 0.36363636363636365, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 14,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.3319530651546462, 0.0, 0.0, 0.0, 0.36363636363636365, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 14,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.3319530651546462, 0.0, 0.0, 0.0, 0.36363636363636365, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 14,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.3319530651546462, 0.0, 0.0, 0.0, 0.36363636363636365, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.3319530651546462, 0.0, 0.0, 0.0, 0.36363636363636365, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.3319530651546462, 0.0, 0.0, 0.0, 0.36363636363636365, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.3319530651546462, 0.0, 0.0, 0.0, 0.36363636363636365, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.3319530651546462, 0.0, 0.0, 0.0, 0.36363636363636365, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.3319530651546462, 0.0, 0.0, 0.0, 0.36363636363636365, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.3319530651546462, 0.0, 0.0, 0.0, 0.36363636363636365, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.3319530651546462, 0.0, 0.0, 0.0, 0.36363636363636365, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.3319530651546462, 0.0, 0.0, 0.0, 0.36363636363636365, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.3319530651546462, 0.0, 0.0, 0.0, 0.36363636363636365, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.3319530651546462, 0.0, 0.0, 0.0, 0.36363636363636365, 0.9128709291752769
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.32602533184831317, 0.0, 0.0, 0.0, 0.35714285714285715, 0.9128709291752769
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.32602533184831317, 0.0, 0.0, 0.0, 0.35714285714285715, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.32602533184831317, 0.0, 0.0, 0.0, 0.35714285714285715, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.32602533184831317, 0.0, 0.0, 0.0, 0.35714285714285715, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.32602533184831317, 0.0, 0.0, 0.0, 0.35714285714285715, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.32602533184831317, 0.0, 0.0, 0.0, 0.35714285714285715, 0.9128709291752769
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.3125, 0.0, 0.0, 0.0, 0.3125, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.3125, 0.0, 0.0, 0.0, 0.3125, 1.0
+source.charAt(0),METHOD_INVOCATION, line no: 16,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+source.charAt(0),METHOD_INVOCATION, line no: 16,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,source.charAt(0),METHOD_INVOCATION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,target.charAt(0),METHOD_INVOCATION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,source.isEmpty(),METHOD_INVOCATION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,target.isEmpty(),METHOD_INVOCATION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.3042903097250923, 0.0, 0.0, 0.0, 0.3333333333333333, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 14,isEmpty,SIMPLE_NAME, 0.3042903097250923, 0.0, 0.0, 0.0, 0.3333333333333333, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 14,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.3042903097250923, 0.0, 0.0, 0.0, 0.3333333333333333, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 14,target.substring(1),METHOD_INVOCATION, 0.3042903097250923, 0.0, 0.0, 0.0, 0.3333333333333333, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,source.isEmpty(),METHOD_INVOCATION, 0.3042903097250923, 0.0, 0.0, 0.0, 0.3333333333333333, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,target.isEmpty(),METHOD_INVOCATION, 0.3042903097250923, 0.0, 0.0, 0.0, 0.3333333333333333, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,isEmpty,SIMPLE_NAME, 0.3042903097250923, 0.0, 0.0, 0.0, 0.3333333333333333, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.3042903097250923, 0.0, 0.0, 0.0, 0.3333333333333333, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,source.substring(1),METHOD_INVOCATION, 0.3042903097250923, 0.0, 0.0, 0.0, 0.3333333333333333, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,source.isEmpty(),METHOD_INVOCATION, 0.3042903097250923, 0.0, 0.0, 0.0, 0.3333333333333333, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,target.isEmpty(),METHOD_INVOCATION, 0.3042903097250923, 0.0, 0.0, 0.0, 0.3333333333333333, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.3042903097250923, 0.0, 0.0, 0.0, 0.3333333333333333, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,source.substring(1),METHOD_INVOCATION, 0.3042903097250923, 0.0, 0.0, 0.0, 0.3333333333333333, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,target.substring(1),METHOD_INVOCATION, 0.3042903097250923, 0.0, 0.0, 0.0, 0.3333333333333333, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,isEmpty,SIMPLE_NAME, 0.3042903097250923, 0.0, 0.0, 0.0, 0.3333333333333333, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.3042903097250923, 0.0, 0.0, 0.0, 0.3333333333333333, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,target.substring(1),METHOD_INVOCATION, 0.3042903097250923, 0.0, 0.0, 0.0, 0.3333333333333333, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,source.isEmpty(),METHOD_INVOCATION, 0.3042903097250923, 0.0, 0.0, 0.0, 0.3333333333333333, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,target.isEmpty(),METHOD_INVOCATION, 0.3042903097250923, 0.0, 0.0, 0.0, 0.3333333333333333, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,source.charAt(0),METHOD_INVOCATION, 0.3042903097250923, 0.0, 0.0, 0.0, 0.3333333333333333, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.3042903097250923, 0.0, 0.0, 0.0, 0.3333333333333333, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.3042903097250923, 0.0, 0.0, 0.0, 0.3333333333333333, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,target.charAt(0),METHOD_INVOCATION, 0.3042903097250923, 0.0, 0.0, 0.0, 0.3333333333333333, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.3042903097250923, 0.0, 0.0, 0.0, 0.3333333333333333, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.3042903097250923, 0.0, 0.0, 0.0, 0.3333333333333333, 0.9128709291752769
+source.charAt(0),METHOD_INVOCATION, line no: 16,target.isEmpty(),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+source.charAt(0),METHOD_INVOCATION, line no: 16,target.substring(1),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,source.isEmpty(),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,source.substring(1),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,target.charAt(0),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,source.charAt(0),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,source.charAt(0),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,target.charAt(0),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,source.charAt(0),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,target.charAt(0),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.28571428571428575, 0.0, 0.0, 0.0, 0.35714285714285715, 0.8
+source.charAt(0),METHOD_INVOCATION, line no: 16,charAt,SIMPLE_NAME, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+source.charAt(0),METHOD_INVOCATION, line no: 16,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+source.charAt(0),METHOD_INVOCATION, line no: 16,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+charAt,SIMPLE_NAME, line no: 16,source.charAt(0),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+charAt,SIMPLE_NAME, line no: 16,target.charAt(0),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,charAt,SIMPLE_NAME, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+charAt,SIMPLE_NAME, line no: 16,source.charAt(0),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+charAt,SIMPLE_NAME, line no: 16,target.charAt(0),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,source.charAt(0),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,target.charAt(0),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.285272165367274, 0.0, 0.0, 0.0, 0.3125, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.285272165367274, 0.0, 0.0, 0.0, 0.3125, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 14,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.2808833628231621, 0.0, 0.0, 0.0, 0.3076923076923077, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 14,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.2808833628231621, 0.0, 0.0, 0.0, 0.3076923076923077, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.2808833628231621, 0.0, 0.0, 0.0, 0.3076923076923077, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.2808833628231621, 0.0, 0.0, 0.0, 0.3076923076923077, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,source.charAt(0),METHOD_INVOCATION, 0.2808833628231621, 0.0, 0.0, 0.0, 0.3076923076923077, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,target.charAt(0),METHOD_INVOCATION, 0.2808833628231621, 0.0, 0.0, 0.0, 0.3076923076923077, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.2808833628231621, 0.0, 0.0, 0.0, 0.3076923076923077, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.2808833628231621, 0.0, 0.0, 0.0, 0.3076923076923077, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.2808833628231621, 0.0, 0.0, 0.0, 0.3076923076923077, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.2808833628231621, 0.0, 0.0, 0.0, 0.3076923076923077, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 14,target.charAt(0),METHOD_INVOCATION, 0.27386127875258304, 0.0, 0.0, 0.0, 0.3, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,source.charAt(0),METHOD_INVOCATION, 0.27386127875258304, 0.0, 0.0, 0.0, 0.3, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,target.charAt(0),METHOD_INVOCATION, 0.27386127875258304, 0.0, 0.0, 0.0, 0.3, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.2684914497574344, 0.0, 0.0, 0.0, 0.29411764705882354, 0.9128709291752769
+source.charAt(0),METHOD_INVOCATION, line no: 16,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.26666666666666666, 0.0, 0.0, 0.0, 0.26666666666666666, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.26666666666666666, 0.0, 0.0, 0.0, 0.26666666666666666, 1.0
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.26666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.8
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,target.length(),METHOD_INVOCATION, 0.26666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.8
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,source.length(),METHOD_INVOCATION, 0.26666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.8
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.26666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.8
+source.isEmpty(),METHOD_INVOCATION, line no: 14,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.2608202654786505, 0.0, 0.0, 0.0, 0.2857142857142857, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.2608202654786505, 0.0, 0.0, 0.0, 0.2857142857142857, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.2608202654786505, 0.0, 0.0, 0.0, 0.2857142857142857, 0.9128709291752769
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.3125, 0.8
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.3125, 0.8
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,target.length(),METHOD_INVOCATION, 0.24615384615384617, 0.0, 0.0, 0.0, 0.3076923076923077, 0.8
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,source.length(),METHOD_INVOCATION, 0.24615384615384617, 0.0, 0.0, 0.0, 0.3076923076923077, 0.8
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,source.isEmpty(),METHOD_INVOCATION, 0.24615384615384617, 0.0, 0.0, 0.0, 0.3076923076923077, 0.8
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,target.isEmpty(),METHOD_INVOCATION, 0.24615384615384617, 0.0, 0.0, 0.0, 0.3076923076923077, 0.8
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.23529411764705885, 0.0, 0.0, 0.0, 0.29411764705882354, 0.8
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,source.isEmpty(),METHOD_INVOCATION, 0.22857142857142856, 0.0, 0.0, 0.0, 0.2857142857142857, 0.8
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,target.isEmpty(),METHOD_INVOCATION, 0.22857142857142856, 0.0, 0.0, 0.0, 0.2857142857142857, 0.8
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,source.charAt(0),METHOD_INVOCATION, 0.22857142857142856, 0.0, 0.0, 0.0, 0.2857142857142857, 0.8
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,target.charAt(0),METHOD_INVOCATION, 0.22857142857142856, 0.0, 0.0, 0.0, 0.2857142857142857, 0.8
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,isEmpty,SIMPLE_NAME, 0.22821773229381923, 0.0, 0.0, 0.0, 0.25, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.22821773229381923, 0.0, 0.0, 0.0, 0.25, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.22821773229381923, 0.0, 0.0, 0.0, 0.25, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.22821773229381923, 0.0, 0.0, 0.0, 0.25, 0.9128709291752769
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,charAt,SIMPLE_NAME, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+charAt,SIMPLE_NAME, line no: 16,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+charAt,SIMPLE_NAME, line no: 16,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,source.charAt(0),METHOD_INVOCATION, 0.21333333333333335, 0.0, 0.0, 0.0, 0.26666666666666666, 0.8
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,target.charAt(0),METHOD_INVOCATION, 0.21333333333333335, 0.0, 0.0, 0.0, 0.26666666666666666, 0.8
+source,SIMPLE_NAME, line no: 16,source.length(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+target,SIMPLE_NAME, line no: 16,target.length(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+source,SIMPLE_NAME, line no: 17,source.length(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+target,SIMPLE_NAME, line no: 17,target.length(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+source,SIMPLE_NAME, line no: 20,source.length(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+target,SIMPLE_NAME, line no: 20,target.length(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+source,SIMPLE_NAME, line no: 21,source.length(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+target,SIMPLE_NAME, line no: 21,target.length(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+source,SIMPLE_NAME, line no: 22,source.length(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+target,SIMPLE_NAME, line no: 22,target.length(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+source,SIMPLE_NAME, line no: 14,source.length(),METHOD_INVOCATION, 0.18257418583505539, 0.0, 0.0, 0.0, 0.2, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.18257418583505539, 0.0, 0.0, 0.0, 0.2, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,target.length(),METHOD_INVOCATION, 0.18257418583505539, 0.0, 0.0, 0.0, 0.2, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.18257418583505539, 0.0, 0.0, 0.0, 0.2, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,isEmpty,SIMPLE_NAME, 0.18257418583505539, 0.0, 0.0, 0.0, 0.2, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,source.length(),METHOD_INVOCATION, 0.18257418583505539, 0.0, 0.0, 0.0, 0.2, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.18257418583505539, 0.0, 0.0, 0.0, 0.2, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,target,SIMPLE_NAME, 0.18257418583505539, 0.0, 0.0, 0.0, 0.2, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,length,SIMPLE_NAME, 0.18257418583505539, 0.0, 0.0, 0.0, 0.2, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,target.length(),METHOD_INVOCATION, 0.18257418583505539, 0.0, 0.0, 0.0, 0.2, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,target.length(),METHOD_INVOCATION, 0.18257418583505539, 0.0, 0.0, 0.0, 0.2, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,source.length(),METHOD_INVOCATION, 0.18257418583505539, 0.0, 0.0, 0.0, 0.2, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,source,SIMPLE_NAME, 0.18257418583505539, 0.0, 0.0, 0.0, 0.2, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,length,SIMPLE_NAME, 0.18257418583505539, 0.0, 0.0, 0.0, 0.2, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,source.length(),METHOD_INVOCATION, 0.18257418583505539, 0.0, 0.0, 0.0, 0.2, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,target.length(),METHOD_INVOCATION, 0.18257418583505539, 0.0, 0.0, 0.0, 0.2, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,source.length(),METHOD_INVOCATION, 0.18257418583505539, 0.0, 0.0, 0.0, 0.2, 0.9128709291752769
+source,SIMPLE_NAME, line no: 16,source.isEmpty(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+source,SIMPLE_NAME, line no: 16,source.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+target,SIMPLE_NAME, line no: 16,target.isEmpty(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+target,SIMPLE_NAME, line no: 16,target.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+1,NUMBER_LITERAL, line no: 17,source.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+1,NUMBER_LITERAL, line no: 17,target.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,source,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,1,NUMBER_LITERAL, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,substring,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+source,SIMPLE_NAME, line no: 17,source.isEmpty(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+source,SIMPLE_NAME, line no: 17,source.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+substring,SIMPLE_NAME, line no: 17,source.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+substring,SIMPLE_NAME, line no: 17,target.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+1,NUMBER_LITERAL, line no: 17,source.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+1,NUMBER_LITERAL, line no: 17,target.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,target,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,1,NUMBER_LITERAL, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,substring,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+target,SIMPLE_NAME, line no: 17,target.isEmpty(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+target,SIMPLE_NAME, line no: 17,target.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+substring,SIMPLE_NAME, line no: 17,source.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+substring,SIMPLE_NAME, line no: 17,target.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+1,NUMBER_LITERAL, line no: 17,source.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+1,NUMBER_LITERAL, line no: 17,target.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+1,NUMBER_LITERAL, line no: 19,source.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+1,NUMBER_LITERAL, line no: 19,target.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+source,SIMPLE_NAME, line no: 20,source.isEmpty(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+source,SIMPLE_NAME, line no: 20,source.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,target,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,1,NUMBER_LITERAL, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,substring,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+target,SIMPLE_NAME, line no: 20,target.isEmpty(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+target,SIMPLE_NAME, line no: 20,target.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+substring,SIMPLE_NAME, line no: 20,source.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+substring,SIMPLE_NAME, line no: 20,target.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+1,NUMBER_LITERAL, line no: 20,source.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+1,NUMBER_LITERAL, line no: 20,target.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,source,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,1,NUMBER_LITERAL, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,substring,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+source,SIMPLE_NAME, line no: 21,source.isEmpty(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+source,SIMPLE_NAME, line no: 21,source.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+substring,SIMPLE_NAME, line no: 21,source.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+substring,SIMPLE_NAME, line no: 21,target.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+1,NUMBER_LITERAL, line no: 21,source.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+1,NUMBER_LITERAL, line no: 21,target.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,target,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,1,NUMBER_LITERAL, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,substring,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+target,SIMPLE_NAME, line no: 21,target.isEmpty(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+target,SIMPLE_NAME, line no: 21,target.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+substring,SIMPLE_NAME, line no: 21,source.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+substring,SIMPLE_NAME, line no: 21,target.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+1,NUMBER_LITERAL, line no: 21,source.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+1,NUMBER_LITERAL, line no: 21,target.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,source,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,1,NUMBER_LITERAL, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,substring,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+source,SIMPLE_NAME, line no: 22,source.isEmpty(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+source,SIMPLE_NAME, line no: 22,source.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+substring,SIMPLE_NAME, line no: 22,source.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+substring,SIMPLE_NAME, line no: 22,target.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+1,NUMBER_LITERAL, line no: 22,source.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+1,NUMBER_LITERAL, line no: 22,target.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+target,SIMPLE_NAME, line no: 22,target.isEmpty(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+target,SIMPLE_NAME, line no: 22,target.substring(1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+source.isEmpty(),METHOD_INVOCATION, line no: 14,source,SIMPLE_NAME, 0.15214515486254615, 0.0, 0.0, 0.0, 0.16666666666666666, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,source.isEmpty(),METHOD_INVOCATION, 0.15214515486254615, 0.0, 0.0, 0.0, 0.16666666666666666, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,source.substring(1),METHOD_INVOCATION, 0.15214515486254615, 0.0, 0.0, 0.0, 0.16666666666666666, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,target,SIMPLE_NAME, 0.15214515486254615, 0.0, 0.0, 0.0, 0.16666666666666666, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,target.isEmpty(),METHOD_INVOCATION, 0.15214515486254615, 0.0, 0.0, 0.0, 0.16666666666666666, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,target.substring(1),METHOD_INVOCATION, 0.15214515486254615, 0.0, 0.0, 0.0, 0.16666666666666666, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,source,SIMPLE_NAME, 0.15214515486254615, 0.0, 0.0, 0.0, 0.16666666666666666, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,source.isEmpty(),METHOD_INVOCATION, 0.15214515486254615, 0.0, 0.0, 0.0, 0.16666666666666666, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,source.substring(1),METHOD_INVOCATION, 0.15214515486254615, 0.0, 0.0, 0.0, 0.16666666666666666, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,target.isEmpty(),METHOD_INVOCATION, 0.15214515486254615, 0.0, 0.0, 0.0, 0.16666666666666666, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,target.substring(1),METHOD_INVOCATION, 0.15214515486254615, 0.0, 0.0, 0.0, 0.16666666666666666, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,source.isEmpty(),METHOD_INVOCATION, 0.15214515486254615, 0.0, 0.0, 0.0, 0.16666666666666666, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,source.substring(1),METHOD_INVOCATION, 0.15214515486254615, 0.0, 0.0, 0.0, 0.16666666666666666, 0.9128709291752769
+source.charAt(0),METHOD_INVOCATION, line no: 16,source,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+source.charAt(0),METHOD_INVOCATION, line no: 16,0,NUMBER_LITERAL, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+source,SIMPLE_NAME, line no: 16,source.charAt(0),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+0,NUMBER_LITERAL, line no: 16,source.charAt(0),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+0,NUMBER_LITERAL, line no: 16,target.charAt(0),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,target,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,0,NUMBER_LITERAL, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+target,SIMPLE_NAME, line no: 16,target.charAt(0),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+0,NUMBER_LITERAL, line no: 16,source.charAt(0),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+0,NUMBER_LITERAL, line no: 16,target.charAt(0),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+source,SIMPLE_NAME, line no: 17,source.charAt(0),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+target,SIMPLE_NAME, line no: 17,target.charAt(0),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+source,SIMPLE_NAME, line no: 20,source.charAt(0),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+target,SIMPLE_NAME, line no: 20,target.charAt(0),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+source,SIMPLE_NAME, line no: 21,source.charAt(0),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+target,SIMPLE_NAME, line no: 21,target.charAt(0),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+source,SIMPLE_NAME, line no: 22,source.charAt(0),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+target,SIMPLE_NAME, line no: 22,target.charAt(0),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+source,SIMPLE_NAME, line no: 14,source.charAt(0),METHOD_INVOCATION, 0.13041013273932525, 0.0, 0.0, 0.0, 0.14285714285714285, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,target.charAt(0),METHOD_INVOCATION, 0.13041013273932525, 0.0, 0.0, 0.0, 0.14285714285714285, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,source.charAt(0),METHOD_INVOCATION, 0.13041013273932525, 0.0, 0.0, 0.0, 0.14285714285714285, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,java.util,QUALIFIED_NAME, 0.13041013273932525, 0.0, 0.0, 0.0, 0.14285714285714285, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,target.charAt(0),METHOD_INVOCATION, 0.13041013273932525, 0.0, 0.0, 0.0, 0.14285714285714285, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,java.util,QUALIFIED_NAME, 0.13041013273932525, 0.0, 0.0, 0.0, 0.14285714285714285, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,source.charAt(0),METHOD_INVOCATION, 0.13041013273932525, 0.0, 0.0, 0.0, 0.14285714285714285, 0.9128709291752769
+source,SIMPLE_NAME, line no: 16,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+target,SIMPLE_NAME, line no: 16,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,java.util,QUALIFIED_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+source,SIMPLE_NAME, line no: 17,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,java.util,QUALIFIED_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+target,SIMPLE_NAME, line no: 17,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+source,SIMPLE_NAME, line no: 20,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,java.util,QUALIFIED_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+target,SIMPLE_NAME, line no: 20,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,java.util,QUALIFIED_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+source,SIMPLE_NAME, line no: 21,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,java.util,QUALIFIED_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+target,SIMPLE_NAME, line no: 21,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,java.util,QUALIFIED_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+source,SIMPLE_NAME, line no: 22,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+target,SIMPLE_NAME, line no: 22,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,source,SIMPLE_NAME, 0.11410886614690961, 0.0, 0.0, 0.0, 0.125, 0.9128709291752769
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,target,SIMPLE_NAME, 0.11410886614690961, 0.0, 0.0, 0.0, 0.125, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 14,java.util,QUALIFIED_NAME, 0.11410886614690961, 0.0, 0.0, 0.0, 0.125, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.11410886614690961, 0.0, 0.0, 0.0, 0.125, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,java.util,QUALIFIED_NAME, 0.11410886614690961, 0.0, 0.0, 0.0, 0.125, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.11410886614690961, 0.0, 0.0, 0.0, 0.125, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,java.util,QUALIFIED_NAME, 0.11410886614690961, 0.0, 0.0, 0.0, 0.125, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.11410886614690961, 0.0, 0.0, 0.0, 0.125, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.11410886614690961, 0.0, 0.0, 0.0, 0.125, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.11410886614690961, 0.0, 0.0, 0.0, 0.125, 0.9128709291752769
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,source,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,target,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,0,NUMBER_LITERAL, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+source.charAt(0),METHOD_INVOCATION, line no: 16,java.util,QUALIFIED_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+source,SIMPLE_NAME, line no: 16,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+source,SIMPLE_NAME, line no: 16,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+source,SIMPLE_NAME, line no: 16,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+source,SIMPLE_NAME, line no: 16,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+0,NUMBER_LITERAL, line no: 16,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,java.util,QUALIFIED_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+target,SIMPLE_NAME, line no: 16,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+target,SIMPLE_NAME, line no: 16,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+target,SIMPLE_NAME, line no: 16,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+target,SIMPLE_NAME, line no: 16,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+0,NUMBER_LITERAL, line no: 16,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+1,NUMBER_LITERAL, line no: 17,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+1,NUMBER_LITERAL, line no: 17,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+1,NUMBER_LITERAL, line no: 17,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,LEVENSHTEIN,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,levenshtein,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,source,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,target,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,1,NUMBER_LITERAL, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,substring,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+source,SIMPLE_NAME, line no: 17,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+source,SIMPLE_NAME, line no: 17,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+source,SIMPLE_NAME, line no: 17,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+source,SIMPLE_NAME, line no: 17,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+substring,SIMPLE_NAME, line no: 17,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+substring,SIMPLE_NAME, line no: 17,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+substring,SIMPLE_NAME, line no: 17,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+1,NUMBER_LITERAL, line no: 17,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+1,NUMBER_LITERAL, line no: 17,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+1,NUMBER_LITERAL, line no: 17,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+target,SIMPLE_NAME, line no: 17,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+target,SIMPLE_NAME, line no: 17,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+target,SIMPLE_NAME, line no: 17,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+target,SIMPLE_NAME, line no: 17,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+substring,SIMPLE_NAME, line no: 17,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+substring,SIMPLE_NAME, line no: 17,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+substring,SIMPLE_NAME, line no: 17,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+1,NUMBER_LITERAL, line no: 17,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+1,NUMBER_LITERAL, line no: 17,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+1,NUMBER_LITERAL, line no: 17,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+1,NUMBER_LITERAL, line no: 19,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+1,NUMBER_LITERAL, line no: 19,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+1,NUMBER_LITERAL, line no: 19,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,LEVENSHTEIN,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,levenshtein,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,source,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,target,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,1,NUMBER_LITERAL, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,substring,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+source,SIMPLE_NAME, line no: 20,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+source,SIMPLE_NAME, line no: 20,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+source,SIMPLE_NAME, line no: 20,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+source,SIMPLE_NAME, line no: 20,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+target,SIMPLE_NAME, line no: 20,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+target,SIMPLE_NAME, line no: 20,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+target,SIMPLE_NAME, line no: 20,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+target,SIMPLE_NAME, line no: 20,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+substring,SIMPLE_NAME, line no: 20,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+substring,SIMPLE_NAME, line no: 20,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+substring,SIMPLE_NAME, line no: 20,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+1,NUMBER_LITERAL, line no: 20,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+1,NUMBER_LITERAL, line no: 20,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+1,NUMBER_LITERAL, line no: 20,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,LEVENSHTEIN,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,levenshtein,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,source,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,target,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,1,NUMBER_LITERAL, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,substring,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+source,SIMPLE_NAME, line no: 21,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+source,SIMPLE_NAME, line no: 21,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+source,SIMPLE_NAME, line no: 21,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+source,SIMPLE_NAME, line no: 21,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+substring,SIMPLE_NAME, line no: 21,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+substring,SIMPLE_NAME, line no: 21,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+substring,SIMPLE_NAME, line no: 21,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+1,NUMBER_LITERAL, line no: 21,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+1,NUMBER_LITERAL, line no: 21,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+1,NUMBER_LITERAL, line no: 21,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+target,SIMPLE_NAME, line no: 21,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+target,SIMPLE_NAME, line no: 21,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+target,SIMPLE_NAME, line no: 21,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+target,SIMPLE_NAME, line no: 21,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+substring,SIMPLE_NAME, line no: 21,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+substring,SIMPLE_NAME, line no: 21,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+substring,SIMPLE_NAME, line no: 21,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+1,NUMBER_LITERAL, line no: 21,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+1,NUMBER_LITERAL, line no: 21,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+1,NUMBER_LITERAL, line no: 21,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,LEVENSHTEIN,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,levenshtein,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,source,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,target,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,1,NUMBER_LITERAL, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,substring,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+source,SIMPLE_NAME, line no: 22,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+source,SIMPLE_NAME, line no: 22,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+source,SIMPLE_NAME, line no: 22,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+source,SIMPLE_NAME, line no: 22,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+substring,SIMPLE_NAME, line no: 22,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+substring,SIMPLE_NAME, line no: 22,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+substring,SIMPLE_NAME, line no: 22,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+1,NUMBER_LITERAL, line no: 22,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+1,NUMBER_LITERAL, line no: 22,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+1,NUMBER_LITERAL, line no: 22,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+target,SIMPLE_NAME, line no: 22,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+target,SIMPLE_NAME, line no: 22,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+target,SIMPLE_NAME, line no: 22,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+target,SIMPLE_NAME, line no: 22,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+source,SIMPLE_NAME, line no: 14,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.10143010324169743, 0.0, 0.0, 0.0, 0.1111111111111111, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.10143010324169743, 0.0, 0.0, 0.0, 0.1111111111111111, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.10143010324169743, 0.0, 0.0, 0.0, 0.1111111111111111, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.10143010324169743, 0.0, 0.0, 0.0, 0.1111111111111111, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.10143010324169743, 0.0, 0.0, 0.0, 0.1111111111111111, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.10143010324169743, 0.0, 0.0, 0.0, 0.1111111111111111, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.10143010324169743, 0.0, 0.0, 0.0, 0.1111111111111111, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.10143010324169743, 0.0, 0.0, 0.0, 0.1111111111111111, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.10143010324169743, 0.0, 0.0, 0.0, 0.1111111111111111, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.10143010324169743, 0.0, 0.0, 0.0, 0.1111111111111111, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.10143010324169743, 0.0, 0.0, 0.0, 0.1111111111111111, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.10143010324169743, 0.0, 0.0, 0.0, 0.1111111111111111, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.10143010324169743, 0.0, 0.0, 0.0, 0.1111111111111111, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.10143010324169743, 0.0, 0.0, 0.0, 0.1111111111111111, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.10143010324169743, 0.0, 0.0, 0.0, 0.1111111111111111, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.10143010324169743, 0.0, 0.0, 0.0, 0.1111111111111111, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.10143010324169743, 0.0, 0.0, 0.0, 0.1111111111111111, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.10143010324169743, 0.0, 0.0, 0.0, 0.1111111111111111, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.10143010324169743, 0.0, 0.0, 0.0, 0.1111111111111111, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.10143010324169743, 0.0, 0.0, 0.0, 0.1111111111111111, 0.9128709291752769
+source,SIMPLE_NAME, line no: 16,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+source,SIMPLE_NAME, line no: 16,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+target,SIMPLE_NAME, line no: 16,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+target,SIMPLE_NAME, line no: 16,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,LEVENSHTEIN,SIMPLE_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,levenshtein,SIMPLE_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,source,SIMPLE_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,target,SIMPLE_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,1,NUMBER_LITERAL, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,substring,SIMPLE_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+1,NUMBER_LITERAL, line no: 17,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+source,SIMPLE_NAME, line no: 17,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+source,SIMPLE_NAME, line no: 17,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+substring,SIMPLE_NAME, line no: 17,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+1,NUMBER_LITERAL, line no: 17,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+target,SIMPLE_NAME, line no: 17,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+target,SIMPLE_NAME, line no: 17,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+substring,SIMPLE_NAME, line no: 17,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+1,NUMBER_LITERAL, line no: 17,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+1,NUMBER_LITERAL, line no: 19,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+source,SIMPLE_NAME, line no: 20,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+source,SIMPLE_NAME, line no: 20,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+target,SIMPLE_NAME, line no: 20,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+target,SIMPLE_NAME, line no: 20,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+substring,SIMPLE_NAME, line no: 20,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+1,NUMBER_LITERAL, line no: 20,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+source,SIMPLE_NAME, line no: 21,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+source,SIMPLE_NAME, line no: 21,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+substring,SIMPLE_NAME, line no: 21,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+1,NUMBER_LITERAL, line no: 21,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+target,SIMPLE_NAME, line no: 21,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+target,SIMPLE_NAME, line no: 21,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+substring,SIMPLE_NAME, line no: 21,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+1,NUMBER_LITERAL, line no: 21,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+source,SIMPLE_NAME, line no: 22,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+source,SIMPLE_NAME, line no: 22,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+substring,SIMPLE_NAME, line no: 22,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+1,NUMBER_LITERAL, line no: 22,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+target,SIMPLE_NAME, line no: 22,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+target,SIMPLE_NAME, line no: 22,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,java.util,QUALIFIED_NAME, 0.09128709291752769, 0.0, 0.0, 0.0, 0.1, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.09128709291752769, 0.0, 0.0, 0.0, 0.1, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.09128709291752769, 0.0, 0.0, 0.0, 0.1, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.09128709291752769, 0.0, 0.0, 0.0, 0.1, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.09128709291752769, 0.0, 0.0, 0.0, 0.1, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,source,SIMPLE_NAME, 0.09128709291752769, 0.0, 0.0, 0.0, 0.1, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,target,SIMPLE_NAME, 0.09128709291752769, 0.0, 0.0, 0.0, 0.1, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,length,SIMPLE_NAME, 0.09128709291752769, 0.0, 0.0, 0.0, 0.1, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.09128709291752769, 0.0, 0.0, 0.0, 0.1, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.09128709291752769, 0.0, 0.0, 0.0, 0.1, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.09128709291752769, 0.0, 0.0, 0.0, 0.1, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.09128709291752769, 0.0, 0.0, 0.0, 0.1, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.09128709291752769, 0.0, 0.0, 0.0, 0.1, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.09128709291752769, 0.0, 0.0, 0.0, 0.1, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.09128709291752769, 0.0, 0.0, 0.0, 0.1, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.09128709291752769, 0.0, 0.0, 0.0, 0.1, 0.9128709291752769
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,java.util,QUALIFIED_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+source,SIMPLE_NAME, line no: 16,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+source,SIMPLE_NAME, line no: 16,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+target,SIMPLE_NAME, line no: 16,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+target,SIMPLE_NAME, line no: 16,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+1,NUMBER_LITERAL, line no: 17,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+1,NUMBER_LITERAL, line no: 17,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,java.util,QUALIFIED_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+source,SIMPLE_NAME, line no: 17,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+source,SIMPLE_NAME, line no: 17,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+substring,SIMPLE_NAME, line no: 17,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+substring,SIMPLE_NAME, line no: 17,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+1,NUMBER_LITERAL, line no: 17,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+1,NUMBER_LITERAL, line no: 17,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+target,SIMPLE_NAME, line no: 17,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+target,SIMPLE_NAME, line no: 17,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+substring,SIMPLE_NAME, line no: 17,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+substring,SIMPLE_NAME, line no: 17,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+1,NUMBER_LITERAL, line no: 17,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+1,NUMBER_LITERAL, line no: 17,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+1,NUMBER_LITERAL, line no: 19,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+1,NUMBER_LITERAL, line no: 19,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+Math,SIMPLE_NAME, line no: 19,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+Math,SIMPLE_NAME, line no: 19,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+min,SIMPLE_NAME, line no: 19,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+min,SIMPLE_NAME, line no: 19,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,LEVENSHTEIN,SIMPLE_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,levenshtein,SIMPLE_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,source,SIMPLE_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,target,SIMPLE_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,1,NUMBER_LITERAL, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,substring,SIMPLE_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,Math,SIMPLE_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,min,SIMPLE_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+Math,SIMPLE_NAME, line no: 19,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+Math,SIMPLE_NAME, line no: 19,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+min,SIMPLE_NAME, line no: 19,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+min,SIMPLE_NAME, line no: 19,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,java.util,QUALIFIED_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+source,SIMPLE_NAME, line no: 20,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+source,SIMPLE_NAME, line no: 20,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+target,SIMPLE_NAME, line no: 20,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+target,SIMPLE_NAME, line no: 20,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+substring,SIMPLE_NAME, line no: 20,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+substring,SIMPLE_NAME, line no: 20,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+1,NUMBER_LITERAL, line no: 20,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+1,NUMBER_LITERAL, line no: 20,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,java.util,QUALIFIED_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+source,SIMPLE_NAME, line no: 21,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+source,SIMPLE_NAME, line no: 21,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+substring,SIMPLE_NAME, line no: 21,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+substring,SIMPLE_NAME, line no: 21,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+1,NUMBER_LITERAL, line no: 21,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+1,NUMBER_LITERAL, line no: 21,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+target,SIMPLE_NAME, line no: 21,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+target,SIMPLE_NAME, line no: 21,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+substring,SIMPLE_NAME, line no: 21,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+substring,SIMPLE_NAME, line no: 21,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+1,NUMBER_LITERAL, line no: 21,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+1,NUMBER_LITERAL, line no: 21,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,java.util,QUALIFIED_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+source,SIMPLE_NAME, line no: 22,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+source,SIMPLE_NAME, line no: 22,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+substring,SIMPLE_NAME, line no: 22,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+substring,SIMPLE_NAME, line no: 22,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+1,NUMBER_LITERAL, line no: 22,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+1,NUMBER_LITERAL, line no: 22,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+target,SIMPLE_NAME, line no: 22,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+target,SIMPLE_NAME, line no: 22,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+source,SIMPLE_NAME, line no: 16,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+target,SIMPLE_NAME, line no: 16,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,java.util,QUALIFIED_NAME, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+1,NUMBER_LITERAL, line no: 17,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+source,SIMPLE_NAME, line no: 17,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+substring,SIMPLE_NAME, line no: 17,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+1,NUMBER_LITERAL, line no: 17,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+target,SIMPLE_NAME, line no: 17,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+substring,SIMPLE_NAME, line no: 17,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+1,NUMBER_LITERAL, line no: 17,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+1,NUMBER_LITERAL, line no: 19,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+Math,SIMPLE_NAME, line no: 19,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+min,SIMPLE_NAME, line no: 19,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+Math,SIMPLE_NAME, line no: 19,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+min,SIMPLE_NAME, line no: 19,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+source,SIMPLE_NAME, line no: 20,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+target,SIMPLE_NAME, line no: 20,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+substring,SIMPLE_NAME, line no: 20,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+1,NUMBER_LITERAL, line no: 20,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+source,SIMPLE_NAME, line no: 21,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+substring,SIMPLE_NAME, line no: 21,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+1,NUMBER_LITERAL, line no: 21,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+target,SIMPLE_NAME, line no: 21,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+substring,SIMPLE_NAME, line no: 21,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+1,NUMBER_LITERAL, line no: 21,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+source,SIMPLE_NAME, line no: 22,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+substring,SIMPLE_NAME, line no: 22,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+1,NUMBER_LITERAL, line no: 22,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+target,SIMPLE_NAME, line no: 22,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+source,SIMPLE_NAME, line no: 14,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.08298826628866154, 0.0, 0.0, 0.0, 0.09090909090909091, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.08298826628866154, 0.0, 0.0, 0.0, 0.09090909090909091, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.08298826628866154, 0.0, 0.0, 0.0, 0.09090909090909091, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.08298826628866154, 0.0, 0.0, 0.0, 0.09090909090909091, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.08298826628866154, 0.0, 0.0, 0.0, 0.09090909090909091, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.08298826628866154, 0.0, 0.0, 0.0, 0.09090909090909091, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.08298826628866154, 0.0, 0.0, 0.0, 0.09090909090909091, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.08298826628866154, 0.0, 0.0, 0.0, 0.09090909090909091, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.08298826628866154, 0.0, 0.0, 0.0, 0.09090909090909091, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.08298826628866154, 0.0, 0.0, 0.0, 0.09090909090909091, 0.9128709291752769
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,java.util,QUALIFIED_NAME, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+source,SIMPLE_NAME, line no: 14,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.07607257743127308, 0.0, 0.0, 0.0, 0.08333333333333333, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.07607257743127308, 0.0, 0.0, 0.0, 0.08333333333333333, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,java.util,QUALIFIED_NAME, 0.07607257743127308, 0.0, 0.0, 0.0, 0.08333333333333333, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.07607257743127308, 0.0, 0.0, 0.0, 0.08333333333333333, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.07607257743127308, 0.0, 0.0, 0.0, 0.08333333333333333, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.07607257743127308, 0.0, 0.0, 0.0, 0.08333333333333333, 0.9128709291752769
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,LEVENSHTEIN,SIMPLE_NAME, 0.07272727272727274, 0.0, 0.0, 0.0, 0.09090909090909091, 0.8
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,levenshtein,SIMPLE_NAME, 0.07272727272727274, 0.0, 0.0, 0.0, 0.09090909090909091, 0.8
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,source,SIMPLE_NAME, 0.07272727272727274, 0.0, 0.0, 0.0, 0.09090909090909091, 0.8
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,target,SIMPLE_NAME, 0.07272727272727274, 0.0, 0.0, 0.0, 0.09090909090909091, 0.8
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,1,NUMBER_LITERAL, 0.07272727272727274, 0.0, 0.0, 0.0, 0.09090909090909091, 0.8
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,substring,SIMPLE_NAME, 0.07272727272727274, 0.0, 0.0, 0.0, 0.09090909090909091, 0.8
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,Math,SIMPLE_NAME, 0.07272727272727274, 0.0, 0.0, 0.0, 0.09090909090909091, 0.8
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,min,SIMPLE_NAME, 0.07272727272727274, 0.0, 0.0, 0.0, 0.09090909090909091, 0.8
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,LEVENSHTEIN,SIMPLE_NAME, 0.06666666666666667, 0.0, 0.0, 0.0, 0.08333333333333333, 0.8
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,levenshtein,SIMPLE_NAME, 0.06666666666666667, 0.0, 0.0, 0.0, 0.08333333333333333, 0.8
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,source,SIMPLE_NAME, 0.06666666666666667, 0.0, 0.0, 0.0, 0.08333333333333333, 0.8
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,target,SIMPLE_NAME, 0.06666666666666667, 0.0, 0.0, 0.0, 0.08333333333333333, 0.8
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,1,NUMBER_LITERAL, 0.06666666666666667, 0.0, 0.0, 0.0, 0.08333333333333333, 0.8
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,substring,SIMPLE_NAME, 0.06666666666666667, 0.0, 0.0, 0.0, 0.08333333333333333, 0.8
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,Math,SIMPLE_NAME, 0.06666666666666667, 0.0, 0.0, 0.0, 0.08333333333333333, 0.8
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,min,SIMPLE_NAME, 0.06666666666666667, 0.0, 0.0, 0.0, 0.08333333333333333, 0.8
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,java.util,QUALIFIED_NAME, 0.06153846153846154, 0.0, 0.0, 0.0, 0.07692307692307693, 0.8
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,java.util,QUALIFIED_NAME, 0.05714285714285714, 0.0, 0.0, 0.0, 0.07142857142857142, 0.8

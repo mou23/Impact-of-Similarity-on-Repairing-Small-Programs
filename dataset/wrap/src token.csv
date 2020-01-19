@@ -1,0 +1,250 @@
+text=text.substring(end),ASSIGNMENT, line no: 28,text.substring(end),METHOD_INVOCATION, 0.8571428571428571, 0.0, 0.0, 0.0, 0.8571428571428571, 1.0
+text.substring(end),METHOD_INVOCATION, line no: 28,text=text.substring(end),ASSIGNMENT, 0.8571428571428571, 0.0, 0.0, 0.0, 0.8571428571428571, 1.0
+line=text.substring(0 end),ASSIGNMENT, line no: 27,text.substring(0 end),METHOD_INVOCATION, 0.8, 0.0, 0.0, 0.0, 0.8, 1.0
+text.substring(0 end),METHOD_INVOCATION, line no: 27,line=text.substring(0 end),ASSIGNMENT, 0.8, 0.0, 0.0, 0.0, 0.8, 1.0
+text.substring(0 end),METHOD_INVOCATION, line no: 27,text.substring(end),METHOD_INVOCATION, 0.75, 0.0, 0.0, 0.0, 0.75, 1.0
+text.substring(end),METHOD_INVOCATION, line no: 28,text.substring(0 end),METHOD_INVOCATION, 0.75, 0.0, 0.0, 0.0, 0.75, 1.0
+text.length() > cols,INFIX_EXPRESSION, line no: 22,text.length(),METHOD_INVOCATION, 0.7142857142857143, 0.0, 0.0, 0.0, 0.7142857142857143, 1.0
+text.length(),METHOD_INVOCATION, line no: 22,text.length() > cols,INFIX_EXPRESSION, 0.7142857142857143, 0.0, 0.0, 0.0, 0.7142857142857143, 1.0
+line=text.substring(0 end),ASSIGNMENT, line no: 27,text=text.substring(end),ASSIGNMENT, 0.7, 0.0, 0.0, 0.0, 0.7, 1.0
+text=text.substring(end),ASSIGNMENT, line no: 28,line=text.substring(0 end),ASSIGNMENT, 0.7, 0.0, 0.0, 0.0, 0.7, 1.0
+text.substring(0 end),METHOD_INVOCATION, line no: 27,text=text.substring(end),ASSIGNMENT, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+text=text.substring(end),ASSIGNMENT, line no: 28,text.substring(0 end),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+line=text.substring(0 end),ASSIGNMENT, line no: 27,text.substring(end),METHOD_INVOCATION, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+text.substring(end),METHOD_INVOCATION, line no: 28,line=text.substring(0 end),ASSIGNMENT, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+text.length(),METHOD_INVOCATION, line no: 22,text.substring(end),METHOD_INVOCATION, 0.5714285714285714, 0.0, 0.0, 0.0, 0.5714285714285714, 1.0
+text.substring(end),METHOD_INVOCATION, line no: 28,text.length(),METHOD_INVOCATION, 0.5714285714285714, 0.0, 0.0, 0.0, 0.5714285714285714, 1.0
+text.lastIndexOf(" " cols),METHOD_INVOCATION, line no: 23,"abc".lastIndexOf("c" 30),METHOD_INVOCATION, 0.5384615384615384, 0.0, 0.0, 0.0, 0.5384615384615384, 1.0
+text.length(),METHOD_INVOCATION, line no: 22,text=text.substring(end),ASSIGNMENT, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+end == -1,INFIX_EXPRESSION, line no: 24,-1,PREFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+-1,PREFIX_EXPRESSION, line no: 24,end == -1,INFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+-1,PREFIX_EXPRESSION, line no: 24,1,NUMBER_LITERAL, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+1,NUMBER_LITERAL, line no: 24,-1,PREFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+text=text.substring(end),ASSIGNMENT, line no: 28,text.length(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+text.length() > cols,INFIX_EXPRESSION, line no: 22,text.substring(end),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+text.length(),METHOD_INVOCATION, line no: 22,text.substring(0 end),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+text.substring(0 end),METHOD_INVOCATION, line no: 27,text.length(),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+text.substring(end),METHOD_INVOCATION, line no: 28,text.length() > cols,INFIX_EXPRESSION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+text.lastIndexOf(" " cols),METHOD_INVOCATION, line no: 23,System.out.println("abc".lastIndexOf("c" 30)),METHOD_INVOCATION, 0.4375, 0.0, 0.0, 0.0, 0.4375, 1.0
+text.length() > cols,INFIX_EXPRESSION, line no: 22,text.lastIndexOf(" " cols),METHOD_INVOCATION, 0.4166666666666667, 0.0, 0.0, 0.0, 0.4166666666666667, 1.0
+text.lastIndexOf(" " cols),METHOD_INVOCATION, line no: 23,text.length() > cols,INFIX_EXPRESSION, 0.4166666666666667, 0.0, 0.0, 0.0, 0.4166666666666667, 1.0
+text.length() > cols,INFIX_EXPRESSION, line no: 22,text=text.substring(end),ASSIGNMENT, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+text=text.substring(end),ASSIGNMENT, line no: 28,text.length() > cols,INFIX_EXPRESSION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+text.lastIndexOf(" " cols),METHOD_INVOCATION, line no: 23,text.substring(0 end),METHOD_INVOCATION, 0.38461538461538464, 0.0, 0.0, 0.0, 0.38461538461538464, 1.0
+text.substring(0 end),METHOD_INVOCATION, line no: 27,text.lastIndexOf(" " cols),METHOD_INVOCATION, 0.38461538461538464, 0.0, 0.0, 0.0, 0.38461538461538464, 1.0
+text.length(),METHOD_INVOCATION, line no: 22,lines.add(line),METHOD_INVOCATION, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+lines.add(line),METHOD_INVOCATION, line no: 29,text.length(),METHOD_INVOCATION, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+text.length() > cols,INFIX_EXPRESSION, line no: 22,text.substring(0 end),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+text.length(),METHOD_INVOCATION, line no: 22,text.lastIndexOf(" " cols),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+text.length(),METHOD_INVOCATION, line no: 22,line=text.substring(0 end),ASSIGNMENT, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+text.lastIndexOf(" " cols),METHOD_INVOCATION, line no: 23,text.length(),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+line=text.substring(0 end),ASSIGNMENT, line no: 27,text.length(),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+text.substring(0 end),METHOD_INVOCATION, line no: 27,text.length() > cols,INFIX_EXPRESSION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+cols,SIMPLE_NAME, line no: 22,end=cols,ASSIGNMENT, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+end,SIMPLE_NAME, line no: 23,end=cols,ASSIGNMENT, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+text.lastIndexOf(" " cols),METHOD_INVOCATION, line no: 23,line=text.substring(0 end),ASSIGNMENT, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+text.lastIndexOf(" " cols),METHOD_INVOCATION, line no: 23,text.substring(end),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+cols,SIMPLE_NAME, line no: 23,end=cols,ASSIGNMENT, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+end,SIMPLE_NAME, line no: 24,end=cols,ASSIGNMENT, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+line=text.substring(0 end),ASSIGNMENT, line no: 27,text.lastIndexOf(" " cols),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+line=text.substring(0 end),ASSIGNMENT, line no: 27,lines.add(line),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+end,SIMPLE_NAME, line no: 27,end=cols,ASSIGNMENT, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+text.substring(end),METHOD_INVOCATION, line no: 28,text.lastIndexOf(" " cols),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+text.substring(end),METHOD_INVOCATION, line no: 28,lines.add(line),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+end,SIMPLE_NAME, line no: 28,end=cols,ASSIGNMENT, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+lines.add(line),METHOD_INVOCATION, line no: 29,line=text.substring(0 end),ASSIGNMENT, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+lines.add(line),METHOD_INVOCATION, line no: 29,text.substring(end),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+text.length() > cols,INFIX_EXPRESSION, line no: 22,line=text.substring(0 end),ASSIGNMENT, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+text.lastIndexOf(" " cols),METHOD_INVOCATION, line no: 23,text=text.substring(end),ASSIGNMENT, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+line=text.substring(0 end),ASSIGNMENT, line no: 27,text.length() > cols,INFIX_EXPRESSION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+text=text.substring(end),ASSIGNMENT, line no: 28,text.lastIndexOf(" " cols),METHOD_INVOCATION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+text.length() > cols,INFIX_EXPRESSION, line no: 22,lines.add(line),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+text.lastIndexOf(" " cols),METHOD_INVOCATION, line no: 23,lastIndexOf,SIMPLE_NAME, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+lastIndexOf,SIMPLE_NAME, line no: 23,"abc".lastIndexOf("c" 30),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+lastIndexOf,SIMPLE_NAME, line no: 23,text.lastIndexOf(" " cols),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+text=text.substring(end),ASSIGNMENT, line no: 28,lines.add(line),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+lines.add(line),METHOD_INVOCATION, line no: 29,text.length() > cols,INFIX_EXPRESSION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+lines.add(line),METHOD_INVOCATION, line no: 29,text=text.substring(end),ASSIGNMENT, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+text.substring(0 end),METHOD_INVOCATION, line no: 27,"abc".lastIndexOf("c" 30),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+text.substring(0 end),METHOD_INVOCATION, line no: 27,lines.add(line),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+lines.add(line),METHOD_INVOCATION, line no: 29,text.substring(0 end),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,new ArrayList<String>(),CLASS_INSTANCE_CREATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+new ArrayList<String>(),CLASS_INSTANCE_CREATION, line no: 19,ArrayList,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+new ArrayList<String>(),CLASS_INSTANCE_CREATION, line no: 19,text.length() > cols,INFIX_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,new ArrayList<String>(),CLASS_INSTANCE_CREATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+text.length() > cols,INFIX_EXPRESSION, line no: 22,new ArrayList<String>(),CLASS_INSTANCE_CREATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+text.length(),METHOD_INVOCATION, line no: 22,"abc".lastIndexOf("c" 30),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+end,SIMPLE_NAME, line no: 23,end == -1,INFIX_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+end == -1,INFIX_EXPRESSION, line no: 24,end,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+end == -1,INFIX_EXPRESSION, line no: 24,1,NUMBER_LITERAL, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+end,SIMPLE_NAME, line no: 24,end == -1,INFIX_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+1,NUMBER_LITERAL, line no: 24,end == -1,INFIX_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+line=text.substring(0 end),ASSIGNMENT, line no: 27,"abc".lastIndexOf("c" 30),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+end,SIMPLE_NAME, line no: 27,end == -1,INFIX_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+text=text.substring(end),ASSIGNMENT, line no: 28,end=cols,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+end,SIMPLE_NAME, line no: 28,end == -1,INFIX_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+text.substring(0 end),METHOD_INVOCATION, line no: 27,System.out.println("abc".lastIndexOf("c" 30)),METHOD_INVOCATION, 0.23529411764705882, 0.0, 0.0, 0.0, 0.23529411764705882, 1.0
+text.lastIndexOf(" " cols),METHOD_INVOCATION, line no: 23,lines.add(line),METHOD_INVOCATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+lastIndexOf,SIMPLE_NAME, line no: 23,System.out.println("abc".lastIndexOf("c" 30)),METHOD_INVOCATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+text.substring(end),METHOD_INVOCATION, line no: 28,"abc".lastIndexOf("c" 30),METHOD_INVOCATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+lines.add(line),METHOD_INVOCATION, line no: 29,"abc".lastIndexOf("c" 30),METHOD_INVOCATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+lines.add(line),METHOD_INVOCATION, line no: 29,text.lastIndexOf(" " cols),METHOD_INVOCATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+text.length() > cols,INFIX_EXPRESSION, line no: 22,"abc".lastIndexOf("c" 30),METHOD_INVOCATION, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+text=text.substring(end),ASSIGNMENT, line no: 28,"abc".lastIndexOf("c" 30),METHOD_INVOCATION, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+line=text.substring(0 end),ASSIGNMENT, line no: 27,System.out.println("abc".lastIndexOf("c" 30)),METHOD_INVOCATION, 0.21052631578947367, 0.0, 0.0, 0.0, 0.21052631578947367, 1.0
+text.length(),METHOD_INVOCATION, line no: 22,System.out.println("abc".lastIndexOf("c" 30)),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+text.length(),METHOD_INVOCATION, line no: 22,text,SIMPLE_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+text.length(),METHOD_INVOCATION, line no: 22,length,SIMPLE_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+text,SIMPLE_NAME, line no: 22,text.length(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+length,SIMPLE_NAME, line no: 22,text.length(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+text,SIMPLE_NAME, line no: 23,text.length(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+text,SIMPLE_NAME, line no: 27,text.length(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+text,SIMPLE_NAME, line no: 28,text.length(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+text,SIMPLE_NAME, line no: 28,text.length(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+text.substring(end),METHOD_INVOCATION, line no: 28,System.out.println("abc".lastIndexOf("c" 30)),METHOD_INVOCATION, 0.1875, 0.0, 0.0, 0.0, 0.1875, 1.0
+lines.add(line),METHOD_INVOCATION, line no: 29,System.out.println("abc".lastIndexOf("c" 30)),METHOD_INVOCATION, 0.1875, 0.0, 0.0, 0.0, 0.1875, 1.0
+new ArrayList<String>(),CLASS_INSTANCE_CREATION, line no: 19,text.length(),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+text.length(),METHOD_INVOCATION, line no: 22,new ArrayList<String>(),CLASS_INSTANCE_CREATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+line=text.substring(0 end),ASSIGNMENT, line no: 27,end=cols,ASSIGNMENT, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+text.length() > cols,INFIX_EXPRESSION, line no: 22,System.out.println("abc".lastIndexOf("c" 30)),METHOD_INVOCATION, 0.17647058823529413, 0.0, 0.0, 0.0, 0.17647058823529413, 1.0
+text=text.substring(end),ASSIGNMENT, line no: 28,System.out.println("abc".lastIndexOf("c" 30)),METHOD_INVOCATION, 0.17647058823529413, 0.0, 0.0, 0.0, 0.17647058823529413, 1.0
+lines,SIMPLE_NAME, line no: 19,lines.add(line),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayList<String>(),CLASS_INSTANCE_CREATION, line no: 19,text.substring(end),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayList<String>(),CLASS_INSTANCE_CREATION, line no: 19,lines.add(line),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+text,SIMPLE_NAME, line no: 22,text.substring(end),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+end,SIMPLE_NAME, line no: 23,text.substring(end),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+text,SIMPLE_NAME, line no: 23,text.substring(end),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+end == -1,INFIX_EXPRESSION, line no: 24,end=cols,ASSIGNMENT, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+end,SIMPLE_NAME, line no: 24,text.substring(end),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+line,SIMPLE_NAME, line no: 27,lines.add(line),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+text,SIMPLE_NAME, line no: 27,text.substring(end),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+substring,SIMPLE_NAME, line no: 27,text.substring(end),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+end,SIMPLE_NAME, line no: 27,text.substring(end),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+text,SIMPLE_NAME, line no: 28,text.substring(end),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+text.substring(end),METHOD_INVOCATION, line no: 28,text,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+text.substring(end),METHOD_INVOCATION, line no: 28,new ArrayList<String>(),CLASS_INSTANCE_CREATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+text.substring(end),METHOD_INVOCATION, line no: 28,end,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+text.substring(end),METHOD_INVOCATION, line no: 28,substring,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+text,SIMPLE_NAME, line no: 28,text.substring(end),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+substring,SIMPLE_NAME, line no: 28,text.substring(end),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+end,SIMPLE_NAME, line no: 28,text.substring(end),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+lines.add(line),METHOD_INVOCATION, line no: 29,lines,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+lines.add(line),METHOD_INVOCATION, line no: 29,new ArrayList<String>(),CLASS_INSTANCE_CREATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+lines.add(line),METHOD_INVOCATION, line no: 29,line,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+lines.add(line),METHOD_INVOCATION, line no: 29,add,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+lines,SIMPLE_NAME, line no: 29,lines.add(line),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+add,SIMPLE_NAME, line no: 29,lines.add(line),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+line,SIMPLE_NAME, line no: 29,lines.add(line),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+lines,SIMPLE_NAME, line no: 32,lines.add(line),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayList<String>(),CLASS_INSTANCE_CREATION, line no: 19,text=text.substring(end),ASSIGNMENT, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+text=text.substring(end),ASSIGNMENT, line no: 28,new ArrayList<String>(),CLASS_INSTANCE_CREATION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+new ArrayList<String>(),CLASS_INSTANCE_CREATION, line no: 19,text.substring(0 end),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+text.length() > cols,INFIX_EXPRESSION, line no: 22,text,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+text.length() > cols,INFIX_EXPRESSION, line no: 22,cols,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+text.length() > cols,INFIX_EXPRESSION, line no: 22,length,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+text.length(),METHOD_INVOCATION, line no: 22,java.util,QUALIFIED_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+text.length(),METHOD_INVOCATION, line no: 22,System.out,QUALIFIED_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+text,SIMPLE_NAME, line no: 22,text.length() > cols,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+text,SIMPLE_NAME, line no: 22,text=text.substring(end),ASSIGNMENT, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+length,SIMPLE_NAME, line no: 22,text.length() > cols,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+cols,SIMPLE_NAME, line no: 22,text.length() > cols,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+end,SIMPLE_NAME, line no: 23,text=text.substring(end),ASSIGNMENT, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+text,SIMPLE_NAME, line no: 23,text.length() > cols,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+text,SIMPLE_NAME, line no: 23,text=text.substring(end),ASSIGNMENT, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+cols,SIMPLE_NAME, line no: 23,text.length() > cols,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+end,SIMPLE_NAME, line no: 24,text=text.substring(end),ASSIGNMENT, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+text.substring(0 end),METHOD_INVOCATION, line no: 27,new ArrayList<String>(),CLASS_INSTANCE_CREATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+text,SIMPLE_NAME, line no: 27,text.length() > cols,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+text,SIMPLE_NAME, line no: 27,text=text.substring(end),ASSIGNMENT, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+substring,SIMPLE_NAME, line no: 27,text=text.substring(end),ASSIGNMENT, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+end,SIMPLE_NAME, line no: 27,text=text.substring(end),ASSIGNMENT, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+text=text.substring(end),ASSIGNMENT, line no: 28,text,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+text=text.substring(end),ASSIGNMENT, line no: 28,end,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+text=text.substring(end),ASSIGNMENT, line no: 28,substring,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+text,SIMPLE_NAME, line no: 28,text.length() > cols,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+text,SIMPLE_NAME, line no: 28,text=text.substring(end),ASSIGNMENT, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+text,SIMPLE_NAME, line no: 28,text.length() > cols,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+text,SIMPLE_NAME, line no: 28,text=text.substring(end),ASSIGNMENT, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+substring,SIMPLE_NAME, line no: 28,text=text.substring(end),ASSIGNMENT, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+end,SIMPLE_NAME, line no: 28,text=text.substring(end),ASSIGNMENT, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+String,SIMPLE_NAME, line no: 19,new ArrayList<String>(),CLASS_INSTANCE_CREATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+new ArrayList<String>(),CLASS_INSTANCE_CREATION, line no: 19,String,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+new ArrayList<String>(),CLASS_INSTANCE_CREATION, line no: 19,"abc".lastIndexOf("c" 30),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+new ArrayList<String>(),CLASS_INSTANCE_CREATION, line no: 19,text.lastIndexOf(" " cols),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+new ArrayList<String>(),CLASS_INSTANCE_CREATION, line no: 19,line=text.substring(0 end),ASSIGNMENT, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+String,SIMPLE_NAME, line no: 19,new ArrayList<String>(),CLASS_INSTANCE_CREATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+text,SIMPLE_NAME, line no: 22,text.substring(0 end),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+end,SIMPLE_NAME, line no: 23,text.substring(0 end),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+text.lastIndexOf(" " cols),METHOD_INVOCATION, line no: 23,new ArrayList<String>(),CLASS_INSTANCE_CREATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+text,SIMPLE_NAME, line no: 23,text.substring(0 end),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+end,SIMPLE_NAME, line no: 24,text.substring(0 end),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+line=text.substring(0 end),ASSIGNMENT, line no: 27,new ArrayList<String>(),CLASS_INSTANCE_CREATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+text.substring(0 end),METHOD_INVOCATION, line no: 27,text,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+text.substring(0 end),METHOD_INVOCATION, line no: 27,end,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+text.substring(0 end),METHOD_INVOCATION, line no: 27,substring,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+text.substring(0 end),METHOD_INVOCATION, line no: 27,0,NUMBER_LITERAL, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+text,SIMPLE_NAME, line no: 27,text.substring(0 end),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+substring,SIMPLE_NAME, line no: 27,text.substring(0 end),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+0,NUMBER_LITERAL, line no: 27,text.substring(0 end),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+end,SIMPLE_NAME, line no: 27,text.substring(0 end),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+text,SIMPLE_NAME, line no: 28,text.substring(0 end),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+text.substring(end),METHOD_INVOCATION, line no: 28,java.util,QUALIFIED_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+text.substring(end),METHOD_INVOCATION, line no: 28,System.out,QUALIFIED_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+text.substring(end),METHOD_INVOCATION, line no: 28,end=cols,ASSIGNMENT, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+text,SIMPLE_NAME, line no: 28,text.substring(0 end),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+substring,SIMPLE_NAME, line no: 28,text.substring(0 end),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+end,SIMPLE_NAME, line no: 28,text.substring(0 end),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+lines.add(line),METHOD_INVOCATION, line no: 29,java.util,QUALIFIED_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+lines.add(line),METHOD_INVOCATION, line no: 29,System.out,QUALIFIED_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+text.length() > cols,INFIX_EXPRESSION, line no: 22,java.util,QUALIFIED_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+text.length() > cols,INFIX_EXPRESSION, line no: 22,System.out,QUALIFIED_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+text.length() > cols,INFIX_EXPRESSION, line no: 22,end=cols,ASSIGNMENT, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+end == -1,INFIX_EXPRESSION, line no: 24,text.substring(end),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+text=text.substring(end),ASSIGNMENT, line no: 28,java.util,QUALIFIED_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+text=text.substring(end),ASSIGNMENT, line no: 28,System.out,QUALIFIED_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+text.substring(end),METHOD_INVOCATION, line no: 28,end == -1,INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+new ArrayList<String>(),CLASS_INSTANCE_CREATION, line no: 19,System.out.println("abc".lastIndexOf("c" 30)),METHOD_INVOCATION, 0.10526315789473684, 0.0, 0.0, 0.0, 0.10526315789473684, 1.0
+text,SIMPLE_NAME, line no: 22,text.lastIndexOf(" " cols),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+text,SIMPLE_NAME, line no: 22,line=text.substring(0 end),ASSIGNMENT, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+cols,SIMPLE_NAME, line no: 22,text.lastIndexOf(" " cols),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+end,SIMPLE_NAME, line no: 23,line=text.substring(0 end),ASSIGNMENT, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+text.lastIndexOf(" " cols),METHOD_INVOCATION, line no: 23,text,SIMPLE_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+text.lastIndexOf(" " cols),METHOD_INVOCATION, line no: 23,cols,SIMPLE_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+text.lastIndexOf(" " cols),METHOD_INVOCATION, line no: 23," ",STRING_LITERAL, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+text,SIMPLE_NAME, line no: 23,text.lastIndexOf(" " cols),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+text,SIMPLE_NAME, line no: 23,line=text.substring(0 end),ASSIGNMENT, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+" ",STRING_LITERAL, line no: 23,text.lastIndexOf(" " cols),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+cols,SIMPLE_NAME, line no: 23,text.lastIndexOf(" " cols),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+end == -1,INFIX_EXPRESSION, line no: 24,text=text.substring(end),ASSIGNMENT, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+end,SIMPLE_NAME, line no: 24,line=text.substring(0 end),ASSIGNMENT, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+line=text.substring(0 end),ASSIGNMENT, line no: 27,text,SIMPLE_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+line=text.substring(0 end),ASSIGNMENT, line no: 27,line,SIMPLE_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+line=text.substring(0 end),ASSIGNMENT, line no: 27,end,SIMPLE_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+line=text.substring(0 end),ASSIGNMENT, line no: 27,substring,SIMPLE_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+line=text.substring(0 end),ASSIGNMENT, line no: 27,0,NUMBER_LITERAL, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+line,SIMPLE_NAME, line no: 27,line=text.substring(0 end),ASSIGNMENT, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+text.substring(0 end),METHOD_INVOCATION, line no: 27,java.util,QUALIFIED_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+text.substring(0 end),METHOD_INVOCATION, line no: 27,System.out,QUALIFIED_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+text.substring(0 end),METHOD_INVOCATION, line no: 27,end=cols,ASSIGNMENT, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+text,SIMPLE_NAME, line no: 27,text.lastIndexOf(" " cols),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+text,SIMPLE_NAME, line no: 27,line=text.substring(0 end),ASSIGNMENT, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+substring,SIMPLE_NAME, line no: 27,line=text.substring(0 end),ASSIGNMENT, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+0,NUMBER_LITERAL, line no: 27,line=text.substring(0 end),ASSIGNMENT, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+end,SIMPLE_NAME, line no: 27,line=text.substring(0 end),ASSIGNMENT, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+text=text.substring(end),ASSIGNMENT, line no: 28,end == -1,INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+text,SIMPLE_NAME, line no: 28,text.lastIndexOf(" " cols),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+text,SIMPLE_NAME, line no: 28,line=text.substring(0 end),ASSIGNMENT, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+text,SIMPLE_NAME, line no: 28,text.lastIndexOf(" " cols),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+text,SIMPLE_NAME, line no: 28,line=text.substring(0 end),ASSIGNMENT, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+substring,SIMPLE_NAME, line no: 28,line=text.substring(0 end),ASSIGNMENT, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+end,SIMPLE_NAME, line no: 28,line=text.substring(0 end),ASSIGNMENT, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+line,SIMPLE_NAME, line no: 29,line=text.substring(0 end),ASSIGNMENT, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+end == -1,INFIX_EXPRESSION, line no: 24,text.substring(0 end),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+text.substring(0 end),METHOD_INVOCATION, line no: 27,end == -1,INFIX_EXPRESSION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+text.lastIndexOf(" " cols),METHOD_INVOCATION, line no: 23,java.util,QUALIFIED_NAME, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+text.lastIndexOf(" " cols),METHOD_INVOCATION, line no: 23,System.out,QUALIFIED_NAME, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+text.lastIndexOf(" " cols),METHOD_INVOCATION, line no: 23,end=cols,ASSIGNMENT, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+line=text.substring(0 end),ASSIGNMENT, line no: 27,java.util,QUALIFIED_NAME, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+line=text.substring(0 end),ASSIGNMENT, line no: 27,System.out,QUALIFIED_NAME, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+end == -1,INFIX_EXPRESSION, line no: 24,line=text.substring(0 end),ASSIGNMENT, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+line=text.substring(0 end),ASSIGNMENT, line no: 27,end == -1,INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0

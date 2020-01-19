@@ -1,0 +1,728 @@
+!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, line no: 27,prefix_lengths.isEmpty(),METHOD_INVOCATION, 0.8571428571428571, 0.0, 0.0, 0.0, 0.8571428571428571, 1.0
+prefix_lengths.isEmpty(),METHOD_INVOCATION, line no: 27,!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, 0.8571428571428571, 0.0, 0.0, 0.0, 0.8571428571428571, 1.0
+val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.8461538461538461, 0.0, 0.0, 0.0, 0.8461538461538461, 1.0
+arr[ends.get(length + 1)],ARRAY_ACCESS, line no: 29,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.8461538461538461, 0.0, 0.0, 0.0, 0.8461538461538461, 1.0
+arr[ends.get(j)] < val,INFIX_EXPRESSION, line no: 22,arr[ends.get(j)],ARRAY_ACCESS, 0.8181818181818182, 0.0, 0.0, 0.0, 0.8181818181818182, 1.0
+arr[ends.get(j)],ARRAY_ACCESS, line no: 22,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.8181818181818182, 0.0, 0.0, 0.0, 0.8181818181818182, 1.0
+length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.8125, 0.0, 0.0, 0.0, 0.8125, 1.0
+val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.8125, 0.0, 0.0, 0.0, 0.8125, 1.0
+arr[ends.get(length + 1)],ARRAY_ACCESS, line no: 29,ends.get(length + 1),METHOD_INVOCATION, 0.7272727272727273, 0.0, 0.0, 0.0, 0.7272727272727273, 1.0
+ends.get(length + 1),METHOD_INVOCATION, line no: 29,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.7272727272727273, 0.0, 0.0, 0.0, 0.7272727272727273, 1.0
+arr[ends.get(j)] < val,INFIX_EXPRESSION, line no: 22,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.7142857142857143, 0.0, 0.0, 0.0, 0.7142857142857143, 1.0
+val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.7142857142857143, 0.0, 0.0, 0.0, 0.7142857142857143, 1.0
+length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.6875, 0.0, 0.0, 0.0, 0.6875, 1.0
+arr[ends.get(length + 1)],ARRAY_ACCESS, line no: 29,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.6875, 0.0, 0.0, 0.0, 0.6875, 1.0
+arr[ends.get(j)],ARRAY_ACCESS, line no: 22,ends.get(j),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+arr[ends.get(j)],ARRAY_ACCESS, line no: 22,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+ends.get(j),METHOD_INVOCATION, line no: 22,arr[ends.get(j)],ARRAY_ACCESS, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+arr[ends.get(length + 1)],ARRAY_ACCESS, line no: 29,arr[ends.get(j)],ARRAY_ACCESS, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+ends.get(length + 1),METHOD_INVOCATION, line no: 29,ends.put(length + 1 i),METHOD_INVOCATION, 0.6363636363636364, 0.0, 0.0, 0.0, 0.6363636363636364, 1.0
+ends.put(length + 1 i),METHOD_INVOCATION, line no: 30,ends.get(length + 1),METHOD_INVOCATION, 0.6363636363636364, 0.0, 0.0, 0.0, 0.6363636363636364, 1.0
+val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,ends.get(length + 1),METHOD_INVOCATION, 0.6153846153846154, 0.0, 0.0, 0.0, 0.6153846153846154, 1.0
+ends.get(length + 1),METHOD_INVOCATION, line no: 29,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.6153846153846154, 0.0, 0.0, 0.0, 0.6153846153846154, 1.0
+j < longest + 1,INFIX_EXPRESSION, line no: 21,longest + 1,INFIX_EXPRESSION, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+longest + 1,INFIX_EXPRESSION, line no: 21,j < longest + 1,INFIX_EXPRESSION, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+longest + 1,INFIX_EXPRESSION, line no: 21,longest=length + 1,ASSIGNMENT, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+length + 1,INFIX_EXPRESSION, line no: 29,longest=length + 1,ASSIGNMENT, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+length + 1,INFIX_EXPRESSION, line no: 30,longest=length + 1,ASSIGNMENT, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+longest=length + 1,ASSIGNMENT, line no: 31,longest + 1,INFIX_EXPRESSION, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+longest=length + 1,ASSIGNMENT, line no: 31,length + 1,INFIX_EXPRESSION, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+length + 1,INFIX_EXPRESSION, line no: 31,longest=length + 1,ASSIGNMENT, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+arr[ends.get(j)] < val,INFIX_EXPRESSION, line no: 22,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.5882352941176471, 0.0, 0.0, 0.0, 0.5882352941176471, 1.0
+length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.5882352941176471, 0.0, 0.0, 0.0, 0.5882352941176471, 1.0
+new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, line no: 14,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.5833333333333334, 0.0, 0.0, 0.0, 0.5833333333333334, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, 0.5833333333333334, 0.0, 0.0, 0.0, 0.5833333333333334, 1.0
+!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, line no: 27,!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, 0.5833333333333334, 0.0, 0.0, 0.0, 0.5833333333333334, 1.0
+!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, line no: 27,!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, 0.5833333333333334, 0.0, 0.0, 0.0, 0.5833333333333334, 1.0
+arr[ends.get(j)] < val,INFIX_EXPRESSION, line no: 22,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.5714285714285714, 0.0, 0.0, 0.0, 0.5714285714285714, 1.0
+arr[ends.get(j)],ARRAY_ACCESS, line no: 22,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.5714285714285714, 0.0, 0.0, 0.0, 0.5714285714285714, 1.0
+val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,arr[ends.get(j)],ARRAY_ACCESS, 0.5714285714285714, 0.0, 0.0, 0.0, 0.5714285714285714, 1.0
+arr[ends.get(length + 1)],ARRAY_ACCESS, line no: 29,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.5714285714285714, 0.0, 0.0, 0.0, 0.5714285714285714, 1.0
+ends.get(j),METHOD_INVOCATION, line no: 22,ends.get(length + 1),METHOD_INVOCATION, 0.5555555555555556, 0.0, 0.0, 0.0, 0.5555555555555556, 1.0
+ends.get(length + 1),METHOD_INVOCATION, line no: 29,ends.get(j),METHOD_INVOCATION, 0.5555555555555556, 0.0, 0.0, 0.0, 0.5555555555555556, 1.0
+arr[ends.get(j)] < val,INFIX_EXPRESSION, line no: 22,ends.get(j),METHOD_INVOCATION, 0.5454545454545454, 0.0, 0.0, 0.0, 0.5454545454545454, 1.0
+ends.get(j),METHOD_INVOCATION, line no: 22,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.5454545454545454, 0.0, 0.0, 0.0, 0.5454545454545454, 1.0
+Map,SIMPLE_NAME, line no: 14,HashMap,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+HashMap,SIMPLE_NAME, line no: 14,Map,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+i,SIMPLE_NAME, line no: 17,i++,POSTFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+j,SIMPLE_NAME, line no: 21,j++,POSTFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+j,SIMPLE_NAME, line no: 21,j++,POSTFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+longest + 1,INFIX_EXPRESSION, line no: 21,length + 1,INFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+j++,POSTFIX_EXPRESSION, line no: 21,j,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+j,SIMPLE_NAME, line no: 21,j++,POSTFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+ends.get(j),METHOD_INVOCATION, line no: 22,prefix_lengths.add(j),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+j,SIMPLE_NAME, line no: 22,j++,POSTFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+prefix_lengths.add(j),METHOD_INVOCATION, line no: 23,ends.get(j),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+prefix_lengths.add(j),METHOD_INVOCATION, line no: 23,prefix_lengths.isEmpty(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+prefix_lengths.add(j),METHOD_INVOCATION, line no: 23,Collections.max(prefix_lengths),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+j,SIMPLE_NAME, line no: 23,j++,POSTFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, line no: 27,prefix_lengths.isEmpty(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, line no: 27,Collections.max(prefix_lengths),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+prefix_lengths.isEmpty(),METHOD_INVOCATION, line no: 27,prefix_lengths.add(j),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+prefix_lengths.isEmpty(),METHOD_INVOCATION, line no: 27,!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+prefix_lengths.isEmpty(),METHOD_INVOCATION, line no: 27,Collections.max(prefix_lengths),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+Collections.max(prefix_lengths),METHOD_INVOCATION, line no: 27,prefix_lengths.add(j),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+Collections.max(prefix_lengths),METHOD_INVOCATION, line no: 27,!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+Collections.max(prefix_lengths),METHOD_INVOCATION, line no: 27,prefix_lengths.isEmpty(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,ends.get(length + 1),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+arr[ends.get(length + 1)],ARRAY_ACCESS, line no: 29,ends.put(length + 1 i),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+ends.get(length + 1),METHOD_INVOCATION, line no: 29,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+length + 1,INFIX_EXPRESSION, line no: 29,longest + 1,INFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+ends.put(length + 1 i),METHOD_INVOCATION, line no: 30,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+length + 1,INFIX_EXPRESSION, line no: 30,longest + 1,INFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+i,SIMPLE_NAME, line no: 30,i++,POSTFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+length + 1,INFIX_EXPRESSION, line no: 31,longest + 1,INFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+i++,POSTFIX_EXPRESSION, line no: 34,i,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+i,SIMPLE_NAME, line no: 34,i++,POSTFIX_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+arr[ends.get(j)],ARRAY_ACCESS, line no: 22,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.47058823529411764, 0.0, 0.0, 0.0, 0.47058823529411764, 1.0
+length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,arr[ends.get(j)],ARRAY_ACCESS, 0.47058823529411764, 0.0, 0.0, 0.0, 0.47058823529411764, 1.0
+prefix_lengths.add(j),METHOD_INVOCATION, line no: 23,!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, line no: 27,prefix_lengths.add(j),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, line no: 27,Collections.max(prefix_lengths),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+Collections.max(prefix_lengths),METHOD_INVOCATION, line no: 27,!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,ends.put(length + 1 i),METHOD_INVOCATION, 0.4375, 0.0, 0.0, 0.0, 0.4375, 1.0
+ends.put(length + 1 i),METHOD_INVOCATION, line no: 30,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.4375, 0.0, 0.0, 0.0, 0.4375, 1.0
+j < longest + 1,INFIX_EXPRESSION, line no: 21,longest=length + 1,ASSIGNMENT, 0.42857142857142855, 0.0, 0.0, 0.0, 0.42857142857142855, 1.0
+longest=length + 1,ASSIGNMENT, line no: 31,j < longest + 1,INFIX_EXPRESSION, 0.42857142857142855, 0.0, 0.0, 0.0, 0.42857142857142855, 1.0
+arr[ends.get(j)],ARRAY_ACCESS, line no: 22,ends.get(length + 1),METHOD_INVOCATION, 0.4166666666666667, 0.0, 0.0, 0.0, 0.4166666666666667, 1.0
+ends.get(j),METHOD_INVOCATION, line no: 22,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.4166666666666667, 0.0, 0.0, 0.0, 0.4166666666666667, 1.0
+arr[ends.get(length + 1)],ARRAY_ACCESS, line no: 29,ends.get(j),METHOD_INVOCATION, 0.4166666666666667, 0.0, 0.0, 0.0, 0.4166666666666667, 1.0
+ends.get(length + 1),METHOD_INVOCATION, line no: 29,arr[ends.get(j)],ARRAY_ACCESS, 0.4166666666666667, 0.0, 0.0, 0.0, 0.4166666666666667, 1.0
+ends.get(length + 1),METHOD_INVOCATION, line no: 29,length + 1,INFIX_EXPRESSION, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+length + 1,INFIX_EXPRESSION, line no: 29,ends.get(length + 1),METHOD_INVOCATION, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+length + 1,INFIX_EXPRESSION, line no: 30,ends.get(length + 1),METHOD_INVOCATION, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+length + 1,INFIX_EXPRESSION, line no: 31,ends.get(length + 1),METHOD_INVOCATION, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,ends.put(length + 1 i),METHOD_INVOCATION, 0.3684210526315789, 0.0, 0.0, 0.0, 0.3684210526315789, 1.0
+ends.put(length + 1 i),METHOD_INVOCATION, line no: 30,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.3684210526315789, 0.0, 0.0, 0.0, 0.3684210526315789, 1.0
+arr[ends.get(j)],ARRAY_ACCESS, line no: 22,prefix_lengths.add(j),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+prefix_lengths.add(j),METHOD_INVOCATION, line no: 23,arr[ends.get(j)],ARRAY_ACCESS, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+arr[ends.get(j)] < val,INFIX_EXPRESSION, line no: 22,ends.get(length + 1),METHOD_INVOCATION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.35714285714285715, 1.0
+ends.get(j),METHOD_INVOCATION, line no: 22,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.35714285714285715, 1.0
+val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,ends.get(j),METHOD_INVOCATION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.35714285714285715, 1.0
+ends.get(length + 1),METHOD_INVOCATION, line no: 29,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.35714285714285715, 1.0
+longest,SIMPLE_NAME, line no: 15,longest + 1,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+longest,SIMPLE_NAME, line no: 15,length == longest,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+1,NUMBER_LITERAL, line no: 21,longest + 1,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+1,NUMBER_LITERAL, line no: 21,length + 1,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+j < longest + 1,INFIX_EXPRESSION, line no: 21,length + 1,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+longest + 1,INFIX_EXPRESSION, line no: 21,longest,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+longest + 1,INFIX_EXPRESSION, line no: 21,1,NUMBER_LITERAL, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+longest,SIMPLE_NAME, line no: 21,longest + 1,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+longest,SIMPLE_NAME, line no: 21,length == longest,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+1,NUMBER_LITERAL, line no: 21,longest + 1,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+1,NUMBER_LITERAL, line no: 21,length + 1,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+j++,POSTFIX_EXPRESSION, line no: 21,i++,POSTFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+ends.get(j),METHOD_INVOCATION, line no: 22,prefix_lengths.isEmpty(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+ends.get(j),METHOD_INVOCATION, line no: 22,Collections.max(prefix_lengths),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+ends.get(j),METHOD_INVOCATION, line no: 22,ends.put(length + 1 i),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+length,SIMPLE_NAME, line no: 27,length == longest,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+length,SIMPLE_NAME, line no: 27,length + 1,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+prefix_lengths.isEmpty(),METHOD_INVOCATION, line no: 27,ends.get(j),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+prefix_lengths.isEmpty(),METHOD_INVOCATION, line no: 27,isEmpty,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+isEmpty,SIMPLE_NAME, line no: 27,prefix_lengths.isEmpty(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+Collections.max(prefix_lengths),METHOD_INVOCATION, line no: 27,ends.get(j),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+length == longest,INFIX_EXPRESSION, line no: 29,longest,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+length == longest,INFIX_EXPRESSION, line no: 29,length,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+length == longest,INFIX_EXPRESSION, line no: 29,longest=length + 1,ASSIGNMENT, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+length,SIMPLE_NAME, line no: 29,length == longest,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+length,SIMPLE_NAME, line no: 29,length + 1,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+longest,SIMPLE_NAME, line no: 29,longest + 1,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+longest,SIMPLE_NAME, line no: 29,length == longest,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+length + 1,INFIX_EXPRESSION, line no: 29,1,NUMBER_LITERAL, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+length + 1,INFIX_EXPRESSION, line no: 29,j < longest + 1,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+length + 1,INFIX_EXPRESSION, line no: 29,length,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+length,SIMPLE_NAME, line no: 29,length == longest,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+length,SIMPLE_NAME, line no: 29,length + 1,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+1,NUMBER_LITERAL, line no: 29,longest + 1,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+1,NUMBER_LITERAL, line no: 29,length + 1,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+ends.put(length + 1 i),METHOD_INVOCATION, line no: 30,ends.get(j),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+length + 1,INFIX_EXPRESSION, line no: 30,1,NUMBER_LITERAL, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+length + 1,INFIX_EXPRESSION, line no: 30,j < longest + 1,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+length + 1,INFIX_EXPRESSION, line no: 30,length,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+length,SIMPLE_NAME, line no: 30,length == longest,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+length,SIMPLE_NAME, line no: 30,length + 1,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+1,NUMBER_LITERAL, line no: 30,longest + 1,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+1,NUMBER_LITERAL, line no: 30,length + 1,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+longest=length + 1,ASSIGNMENT, line no: 31,length == longest,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+longest,SIMPLE_NAME, line no: 31,longest + 1,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+longest,SIMPLE_NAME, line no: 31,length == longest,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+length + 1,INFIX_EXPRESSION, line no: 31,1,NUMBER_LITERAL, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+length + 1,INFIX_EXPRESSION, line no: 31,j < longest + 1,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+length + 1,INFIX_EXPRESSION, line no: 31,length,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+length,SIMPLE_NAME, line no: 31,length == longest,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+length,SIMPLE_NAME, line no: 31,length + 1,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+1,NUMBER_LITERAL, line no: 31,longest + 1,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+1,NUMBER_LITERAL, line no: 31,length + 1,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+i++,POSTFIX_EXPRESSION, line no: 34,j++,POSTFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+longest,SIMPLE_NAME, line no: 36,longest + 1,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+longest,SIMPLE_NAME, line no: 36,length == longest,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+arr[ends.get(j)] < val,INFIX_EXPRESSION, line no: 22,prefix_lengths.add(j),METHOD_INVOCATION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+prefix_lengths.add(j),METHOD_INVOCATION, line no: 23,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+ends.get(j),METHOD_INVOCATION, line no: 22,!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, line no: 27,ends.get(j),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+ends.get(length + 1),METHOD_INVOCATION, line no: 29,longest=length + 1,ASSIGNMENT, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+length + 1,INFIX_EXPRESSION, line no: 29,ends.put(length + 1 i),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+ends.put(length + 1 i),METHOD_INVOCATION, line no: 30,length + 1,INFIX_EXPRESSION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+length + 1,INFIX_EXPRESSION, line no: 30,ends.put(length + 1 i),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+longest=length + 1,ASSIGNMENT, line no: 31,ends.get(length + 1),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+length + 1,INFIX_EXPRESSION, line no: 31,ends.put(length + 1 i),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+ends.get(j),METHOD_INVOCATION, line no: 22,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.29411764705882354, 0.0, 0.0, 0.0, 0.29411764705882354, 1.0
+length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,ends.get(j),METHOD_INVOCATION, 0.29411764705882354, 0.0, 0.0, 0.0, 0.29411764705882354, 1.0
+int j=1,VARIABLE_DECLARATION_EXPRESSION, line no: 21,j < longest + 1,INFIX_EXPRESSION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+int j=1,VARIABLE_DECLARATION_EXPRESSION, line no: 21,longest=length + 1,ASSIGNMENT, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+j < longest + 1,INFIX_EXPRESSION, line no: 21,int j=1,VARIABLE_DECLARATION_EXPRESSION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+prefix_lengths.add(j),METHOD_INVOCATION, line no: 23,!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, line no: 27,prefix_lengths.add(j),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, line no: 27,isEmpty,SIMPLE_NAME, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+isEmpty,SIMPLE_NAME, line no: 27,!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+longest=length + 1,ASSIGNMENT, line no: 31,int j=1,VARIABLE_DECLARATION_EXPRESSION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+prefix_lengths.add(j),METHOD_INVOCATION, line no: 23,ends.get(length + 1),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+prefix_lengths.isEmpty(),METHOD_INVOCATION, line no: 27,ends.get(length + 1),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+Collections.max(prefix_lengths),METHOD_INVOCATION, line no: 27,ends.get(length + 1),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+arr[ends.get(length + 1)],ARRAY_ACCESS, line no: 29,length + 1,INFIX_EXPRESSION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+ends.get(length + 1),METHOD_INVOCATION, line no: 29,prefix_lengths.add(j),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+ends.get(length + 1),METHOD_INVOCATION, line no: 29,prefix_lengths.isEmpty(),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+ends.get(length + 1),METHOD_INVOCATION, line no: 29,Collections.max(prefix_lengths),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+length + 1,INFIX_EXPRESSION, line no: 29,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+length + 1,INFIX_EXPRESSION, line no: 30,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+length + 1,INFIX_EXPRESSION, line no: 31,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+arr[ends.get(j)],ARRAY_ACCESS, line no: 22,ends.put(length + 1 i),METHOD_INVOCATION, 0.26666666666666666, 0.0, 0.0, 0.0, 0.26666666666666666, 1.0
+ends.put(length + 1 i),METHOD_INVOCATION, line no: 30,arr[ends.get(j)],ARRAY_ACCESS, 0.26666666666666666, 0.0, 0.0, 0.0, 0.26666666666666666, 1.0
+int j=1,VARIABLE_DECLARATION_EXPRESSION, line no: 21,j,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+int j=1,VARIABLE_DECLARATION_EXPRESSION, line no: 21,1,NUMBER_LITERAL, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+j,SIMPLE_NAME, line no: 21,int j=1,VARIABLE_DECLARATION_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+1,NUMBER_LITERAL, line no: 21,int j=1,VARIABLE_DECLARATION_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+j,SIMPLE_NAME, line no: 21,int j=1,VARIABLE_DECLARATION_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+1,NUMBER_LITERAL, line no: 21,int j=1,VARIABLE_DECLARATION_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+j,SIMPLE_NAME, line no: 21,int j=1,VARIABLE_DECLARATION_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+arr[ends.get(j)],ARRAY_ACCESS, line no: 22,prefix_lengths.isEmpty(),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+arr[ends.get(j)],ARRAY_ACCESS, line no: 22,Collections.max(prefix_lengths),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+j,SIMPLE_NAME, line no: 22,int j=1,VARIABLE_DECLARATION_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+j,SIMPLE_NAME, line no: 23,int j=1,VARIABLE_DECLARATION_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, line no: 27,ends.get(length + 1),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+prefix_lengths.isEmpty(),METHOD_INVOCATION, line no: 27,arr[ends.get(j)],ARRAY_ACCESS, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+Collections.max(prefix_lengths),METHOD_INVOCATION, line no: 27,arr[ends.get(j)],ARRAY_ACCESS, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+ends.get(length + 1),METHOD_INVOCATION, line no: 29,!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+1,NUMBER_LITERAL, line no: 29,int j=1,VARIABLE_DECLARATION_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+ends.put(length + 1 i),METHOD_INVOCATION, line no: 30,longest=length + 1,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+1,NUMBER_LITERAL, line no: 30,int j=1,VARIABLE_DECLARATION_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+longest=length + 1,ASSIGNMENT, line no: 31,ends.put(length + 1 i),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+1,NUMBER_LITERAL, line no: 31,int j=1,VARIABLE_DECLARATION_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+j < longest + 1,INFIX_EXPRESSION, line no: 21,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.23529411764705882, 0.0, 0.0, 0.0, 0.23529411764705882, 1.0
+arr[ends.get(j)] < val,INFIX_EXPRESSION, line no: 22,ends.put(length + 1 i),METHOD_INVOCATION, 0.23529411764705882, 0.0, 0.0, 0.0, 0.23529411764705882, 1.0
+length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,j < longest + 1,INFIX_EXPRESSION, 0.23529411764705882, 0.0, 0.0, 0.0, 0.23529411764705882, 1.0
+length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,longest=length + 1,ASSIGNMENT, 0.23529411764705882, 0.0, 0.0, 0.0, 0.23529411764705882, 1.0
+ends.put(length + 1 i),METHOD_INVOCATION, line no: 30,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.23529411764705882, 0.0, 0.0, 0.0, 0.23529411764705882, 1.0
+longest=length + 1,ASSIGNMENT, line no: 31,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.23529411764705882, 0.0, 0.0, 0.0, 0.23529411764705882, 1.0
+arr[ends.get(j)],ARRAY_ACCESS, line no: 22,!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+prefix_lengths.add(j),METHOD_INVOCATION, line no: 23,ends.put(length + 1 i),METHOD_INVOCATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, line no: 27,arr[ends.get(j)],ARRAY_ACCESS, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+prefix_lengths.isEmpty(),METHOD_INVOCATION, line no: 27,ends.put(length + 1 i),METHOD_INVOCATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+Collections.max(prefix_lengths),METHOD_INVOCATION, line no: 27,ends.put(length + 1 i),METHOD_INVOCATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,length + 1,INFIX_EXPRESSION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+arr[ends.get(length + 1)],ARRAY_ACCESS, line no: 29,longest=length + 1,ASSIGNMENT, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+length + 1,INFIX_EXPRESSION, line no: 29,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+ends.put(length + 1 i),METHOD_INVOCATION, line no: 30,prefix_lengths.add(j),METHOD_INVOCATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+ends.put(length + 1 i),METHOD_INVOCATION, line no: 30,prefix_lengths.isEmpty(),METHOD_INVOCATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+ends.put(length + 1 i),METHOD_INVOCATION, line no: 30,Collections.max(prefix_lengths),METHOD_INVOCATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+length + 1,INFIX_EXPRESSION, line no: 30,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+longest=length + 1,ASSIGNMENT, line no: 31,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+length + 1,INFIX_EXPRESSION, line no: 31,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,ArrayList,SIMPLE_NAME, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+longest + 1,INFIX_EXPRESSION, line no: 21,ends.get(length + 1),METHOD_INVOCATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+ends.get(length + 1),METHOD_INVOCATION, line no: 29,longest + 1,INFIX_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+arr[ends.get(j)] < val,INFIX_EXPRESSION, line no: 22,prefix_lengths.isEmpty(),METHOD_INVOCATION, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+arr[ends.get(j)] < val,INFIX_EXPRESSION, line no: 22,Collections.max(prefix_lengths),METHOD_INVOCATION, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+prefix_lengths.add(j),METHOD_INVOCATION, line no: 23,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, line no: 27,ends.put(length + 1 i),METHOD_INVOCATION, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+prefix_lengths.isEmpty(),METHOD_INVOCATION, line no: 27,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+prefix_lengths.isEmpty(),METHOD_INVOCATION, line no: 27,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+Collections.max(prefix_lengths),METHOD_INVOCATION, line no: 27,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+Collections.max(prefix_lengths),METHOD_INVOCATION, line no: 27,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+arr[ends.get(length + 1)],ARRAY_ACCESS, line no: 29,prefix_lengths.add(j),METHOD_INVOCATION, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+arr[ends.get(length + 1)],ARRAY_ACCESS, line no: 29,prefix_lengths.isEmpty(),METHOD_INVOCATION, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+arr[ends.get(length + 1)],ARRAY_ACCESS, line no: 29,Collections.max(prefix_lengths),METHOD_INVOCATION, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+ends.put(length + 1 i),METHOD_INVOCATION, line no: 30,!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, line no: 14,HashMap,SIMPLE_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+HashMap,SIMPLE_NAME, line no: 14,new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+longest,SIMPLE_NAME, line no: 15,j < longest + 1,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+longest,SIMPLE_NAME, line no: 15,longest=length + 1,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+int j=1,VARIABLE_DECLARATION_EXPRESSION, line no: 21,j++,POSTFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+j,SIMPLE_NAME, line no: 21,j < longest + 1,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+1,NUMBER_LITERAL, line no: 21,j < longest + 1,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+1,NUMBER_LITERAL, line no: 21,longest=length + 1,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+j < longest + 1,INFIX_EXPRESSION, line no: 21,longest,SIMPLE_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+j < longest + 1,INFIX_EXPRESSION, line no: 21,j,SIMPLE_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+j < longest + 1,INFIX_EXPRESSION, line no: 21,1,NUMBER_LITERAL, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+j < longest + 1,INFIX_EXPRESSION, line no: 21,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+j,SIMPLE_NAME, line no: 21,j < longest + 1,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+longest + 1,INFIX_EXPRESSION, line no: 21,length == longest,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+longest,SIMPLE_NAME, line no: 21,j < longest + 1,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+longest,SIMPLE_NAME, line no: 21,longest=length + 1,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+1,NUMBER_LITERAL, line no: 21,j < longest + 1,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+1,NUMBER_LITERAL, line no: 21,longest=length + 1,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+j++,POSTFIX_EXPRESSION, line no: 21,int j=1,VARIABLE_DECLARATION_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+j,SIMPLE_NAME, line no: 21,j < longest + 1,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+arr[ends.get(j)] < val,INFIX_EXPRESSION, line no: 22,!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+ends.get(j),METHOD_INVOCATION, line no: 22,!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+j,SIMPLE_NAME, line no: 22,j < longest + 1,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+j,SIMPLE_NAME, line no: 23,j < longest + 1,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+length,SIMPLE_NAME, line no: 27,longest=length + 1,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, line no: 27,ends.get(j),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, line no: 27,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, line no: 27,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+length == longest,INFIX_EXPRESSION, line no: 29,longest + 1,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+length == longest,INFIX_EXPRESSION, line no: 29,length + 1,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+length,SIMPLE_NAME, line no: 29,longest=length + 1,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+longest,SIMPLE_NAME, line no: 29,j < longest + 1,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+longest,SIMPLE_NAME, line no: 29,longest=length + 1,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,j < longest + 1,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,longest=length + 1,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+arr[ends.get(length + 1)],ARRAY_ACCESS, line no: 29,!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+length + 1,INFIX_EXPRESSION, line no: 29,length == longest,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+length,SIMPLE_NAME, line no: 29,longest=length + 1,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+1,NUMBER_LITERAL, line no: 29,j < longest + 1,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+1,NUMBER_LITERAL, line no: 29,longest=length + 1,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+length + 1,INFIX_EXPRESSION, line no: 30,length == longest,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+length,SIMPLE_NAME, line no: 30,longest=length + 1,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+1,NUMBER_LITERAL, line no: 30,j < longest + 1,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+1,NUMBER_LITERAL, line no: 30,longest=length + 1,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+longest=length + 1,ASSIGNMENT, line no: 31,longest,SIMPLE_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+longest=length + 1,ASSIGNMENT, line no: 31,1,NUMBER_LITERAL, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+longest=length + 1,ASSIGNMENT, line no: 31,length,SIMPLE_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+longest=length + 1,ASSIGNMENT, line no: 31,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+longest,SIMPLE_NAME, line no: 31,j < longest + 1,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+longest,SIMPLE_NAME, line no: 31,longest=length + 1,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+length + 1,INFIX_EXPRESSION, line no: 31,length == longest,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+length,SIMPLE_NAME, line no: 31,longest=length + 1,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+1,NUMBER_LITERAL, line no: 31,j < longest + 1,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+1,NUMBER_LITERAL, line no: 31,longest=length + 1,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+longest,SIMPLE_NAME, line no: 36,j < longest + 1,INFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+longest,SIMPLE_NAME, line no: 36,longest=length + 1,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+longest + 1,INFIX_EXPRESSION, line no: 21,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.1875, 0.0, 0.0, 0.0, 0.1875, 1.0
+prefix_lengths.add(j),METHOD_INVOCATION, line no: 23,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.1875, 0.0, 0.0, 0.0, 0.1875, 1.0
+prefix_lengths.isEmpty(),METHOD_INVOCATION, line no: 27,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.1875, 0.0, 0.0, 0.0, 0.1875, 1.0
+Collections.max(prefix_lengths),METHOD_INVOCATION, line no: 27,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.1875, 0.0, 0.0, 0.0, 0.1875, 1.0
+length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,longest + 1,INFIX_EXPRESSION, 0.1875, 0.0, 0.0, 0.0, 0.1875, 1.0
+length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,length == longest,INFIX_EXPRESSION, 0.1875, 0.0, 0.0, 0.0, 0.1875, 1.0
+length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,length + 1,INFIX_EXPRESSION, 0.1875, 0.0, 0.0, 0.0, 0.1875, 1.0
+length == longest,INFIX_EXPRESSION, line no: 29,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.1875, 0.0, 0.0, 0.0, 0.1875, 1.0
+val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,prefix_lengths.add(j),METHOD_INVOCATION, 0.1875, 0.0, 0.0, 0.0, 0.1875, 1.0
+val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,prefix_lengths.isEmpty(),METHOD_INVOCATION, 0.1875, 0.0, 0.0, 0.0, 0.1875, 1.0
+val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,Collections.max(prefix_lengths),METHOD_INVOCATION, 0.1875, 0.0, 0.0, 0.0, 0.1875, 1.0
+length + 1,INFIX_EXPRESSION, line no: 29,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.1875, 0.0, 0.0, 0.0, 0.1875, 1.0
+length + 1,INFIX_EXPRESSION, line no: 30,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.1875, 0.0, 0.0, 0.0, 0.1875, 1.0
+length + 1,INFIX_EXPRESSION, line no: 31,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.1875, 0.0, 0.0, 0.0, 0.1875, 1.0
+j < longest + 1,INFIX_EXPRESSION, line no: 21,ends.get(length + 1),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+longest + 1,INFIX_EXPRESSION, line no: 21,ends.put(length + 1 i),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+ends.get(length + 1),METHOD_INVOCATION, line no: 29,j < longest + 1,INFIX_EXPRESSION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+ends.put(length + 1 i),METHOD_INVOCATION, line no: 30,longest + 1,INFIX_EXPRESSION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, line no: 14,ends.put(length + 1 i),METHOD_INVOCATION, 0.17647058823529413, 0.0, 0.0, 0.0, 0.17647058823529413, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.17647058823529413, 0.0, 0.0, 0.0, 0.17647058823529413, 1.0
+arr[ends.get(j)] < val,INFIX_EXPRESSION, line no: 22,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.17647058823529413, 0.0, 0.0, 0.0, 0.17647058823529413, 1.0
+!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, line no: 27,ends.get(length + 1),METHOD_INVOCATION, 0.17647058823529413, 0.0, 0.0, 0.0, 0.17647058823529413, 1.0
+!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, line no: 27,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.17647058823529413, 0.0, 0.0, 0.0, 0.17647058823529413, 1.0
+val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, 0.17647058823529413, 0.0, 0.0, 0.0, 0.17647058823529413, 1.0
+ends.get(length + 1),METHOD_INVOCATION, line no: 29,!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, 0.17647058823529413, 0.0, 0.0, 0.0, 0.17647058823529413, 1.0
+ends.put(length + 1 i),METHOD_INVOCATION, line no: 30,new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, 0.17647058823529413, 0.0, 0.0, 0.0, 0.17647058823529413, 1.0
+ends,SIMPLE_NAME, line no: 14,ends.get(j),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, line no: 14,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+prefix_lengths,SIMPLE_NAME, line no: 20,prefix_lengths.add(j),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+prefix_lengths,SIMPLE_NAME, line no: 20,prefix_lengths.isEmpty(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+prefix_lengths,SIMPLE_NAME, line no: 20,Collections.max(prefix_lengths),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+int j=1,VARIABLE_DECLARATION_EXPRESSION, line no: 21,longest + 1,INFIX_EXPRESSION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+int j=1,VARIABLE_DECLARATION_EXPRESSION, line no: 21,length + 1,INFIX_EXPRESSION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+j,SIMPLE_NAME, line no: 21,ends.get(j),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+j,SIMPLE_NAME, line no: 21,prefix_lengths.add(j),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+j < longest + 1,INFIX_EXPRESSION, line no: 21,j++,POSTFIX_EXPRESSION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+j,SIMPLE_NAME, line no: 21,ends.get(j),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+j,SIMPLE_NAME, line no: 21,prefix_lengths.add(j),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+longest + 1,INFIX_EXPRESSION, line no: 21,int j=1,VARIABLE_DECLARATION_EXPRESSION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+longest + 1,INFIX_EXPRESSION, line no: 21,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+j++,POSTFIX_EXPRESSION, line no: 21,j < longest + 1,INFIX_EXPRESSION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+j,SIMPLE_NAME, line no: 21,ends.get(j),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+j,SIMPLE_NAME, line no: 21,prefix_lengths.add(j),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+arr[ends.get(j)] < val,INFIX_EXPRESSION, line no: 22,new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+arr[ends.get(j)],ARRAY_ACCESS, line no: 22,!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+ends.get(j),METHOD_INVOCATION, line no: 22,ends,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+ends.get(j),METHOD_INVOCATION, line no: 22,j,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+ends.get(j),METHOD_INVOCATION, line no: 22,get,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+ends,SIMPLE_NAME, line no: 22,ends.get(j),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+get,SIMPLE_NAME, line no: 22,ends.get(j),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+j,SIMPLE_NAME, line no: 22,ends.get(j),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+j,SIMPLE_NAME, line no: 22,prefix_lengths.add(j),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+prefix_lengths.add(j),METHOD_INVOCATION, line no: 23,prefix_lengths,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+prefix_lengths.add(j),METHOD_INVOCATION, line no: 23,j,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+prefix_lengths.add(j),METHOD_INVOCATION, line no: 23,add,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+prefix_lengths,SIMPLE_NAME, line no: 23,prefix_lengths.add(j),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+prefix_lengths,SIMPLE_NAME, line no: 23,prefix_lengths.isEmpty(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+prefix_lengths,SIMPLE_NAME, line no: 23,Collections.max(prefix_lengths),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+add,SIMPLE_NAME, line no: 23,prefix_lengths.add(j),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+j,SIMPLE_NAME, line no: 23,ends.get(j),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+j,SIMPLE_NAME, line no: 23,prefix_lengths.add(j),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, line no: 27,arr[ends.get(j)],ARRAY_ACCESS, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, line no: 27,isEmpty,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+prefix_lengths.isEmpty(),METHOD_INVOCATION, line no: 27,prefix_lengths,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+prefix_lengths,SIMPLE_NAME, line no: 27,prefix_lengths.add(j),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+prefix_lengths,SIMPLE_NAME, line no: 27,prefix_lengths.isEmpty(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+prefix_lengths,SIMPLE_NAME, line no: 27,Collections.max(prefix_lengths),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+isEmpty,SIMPLE_NAME, line no: 27,!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+Collections.max(prefix_lengths),METHOD_INVOCATION, line no: 27,prefix_lengths,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+Collections.max(prefix_lengths),METHOD_INVOCATION, line no: 27,Collections,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+Collections.max(prefix_lengths),METHOD_INVOCATION, line no: 27,max,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+Collections,SIMPLE_NAME, line no: 27,Collections.max(prefix_lengths),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+max,SIMPLE_NAME, line no: 27,Collections.max(prefix_lengths),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+prefix_lengths,SIMPLE_NAME, line no: 27,prefix_lengths.add(j),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+prefix_lengths,SIMPLE_NAME, line no: 27,prefix_lengths.isEmpty(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+prefix_lengths,SIMPLE_NAME, line no: 27,Collections.max(prefix_lengths),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+arr[ends.get(length + 1)],ARRAY_ACCESS, line no: 29,longest + 1,INFIX_EXPRESSION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+ends,SIMPLE_NAME, line no: 29,ends.get(j),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+get,SIMPLE_NAME, line no: 29,ends.get(j),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+length + 1,INFIX_EXPRESSION, line no: 29,int j=1,VARIABLE_DECLARATION_EXPRESSION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+ends,SIMPLE_NAME, line no: 30,ends.get(j),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+length + 1,INFIX_EXPRESSION, line no: 30,int j=1,VARIABLE_DECLARATION_EXPRESSION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+length + 1,INFIX_EXPRESSION, line no: 31,int j=1,VARIABLE_DECLARATION_EXPRESSION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.15789473684210525, 0.0, 0.0, 0.0, 0.15789473684210525, 1.0
+prefix_lengths.add(j),METHOD_INVOCATION, line no: 23,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.15789473684210525, 0.0, 0.0, 0.0, 0.15789473684210525, 1.0
+!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, line no: 27,ends.put(length + 1 i),METHOD_INVOCATION, 0.15789473684210525, 0.0, 0.0, 0.0, 0.15789473684210525, 1.0
+prefix_lengths.isEmpty(),METHOD_INVOCATION, line no: 27,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.15789473684210525, 0.0, 0.0, 0.0, 0.15789473684210525, 1.0
+Collections.max(prefix_lengths),METHOD_INVOCATION, line no: 27,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.15789473684210525, 0.0, 0.0, 0.0, 0.15789473684210525, 1.0
+length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,prefix_lengths.add(j),METHOD_INVOCATION, 0.15789473684210525, 0.0, 0.0, 0.0, 0.15789473684210525, 1.0
+length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,prefix_lengths.isEmpty(),METHOD_INVOCATION, 0.15789473684210525, 0.0, 0.0, 0.0, 0.15789473684210525, 1.0
+length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,Collections.max(prefix_lengths),METHOD_INVOCATION, 0.15789473684210525, 0.0, 0.0, 0.0, 0.15789473684210525, 1.0
+val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.15789473684210525, 0.0, 0.0, 0.0, 0.15789473684210525, 1.0
+ends.put(length + 1 i),METHOD_INVOCATION, line no: 30,!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, 0.15789473684210525, 0.0, 0.0, 0.0, 0.15789473684210525, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,ends.get(j),METHOD_INVOCATION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,prefix_lengths.add(j),METHOD_INVOCATION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,prefix_lengths.isEmpty(),METHOD_INVOCATION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,Collections.max(prefix_lengths),METHOD_INVOCATION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+j < longest + 1,INFIX_EXPRESSION, line no: 21,ends.put(length + 1 i),METHOD_INVOCATION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+ends.get(j),METHOD_INVOCATION, line no: 22,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+prefix_lengths.add(j),METHOD_INVOCATION, line no: 23,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+prefix_lengths.isEmpty(),METHOD_INVOCATION, line no: 27,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+Collections.max(prefix_lengths),METHOD_INVOCATION, line no: 27,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+ends.put(length + 1 i),METHOD_INVOCATION, line no: 30,j < longest + 1,INFIX_EXPRESSION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, line no: 14,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.15, 0.0, 0.0, 0.0, 0.15, 1.0
+arr[ends.get(j)] < val,INFIX_EXPRESSION, line no: 22,!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, 0.15, 0.0, 0.0, 0.0, 0.15, 1.0
+!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, line no: 27,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.15, 0.0, 0.0, 0.0, 0.15, 1.0
+!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, line no: 27,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.15, 0.0, 0.0, 0.0, 0.15, 1.0
+!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, line no: 27,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.15, 0.0, 0.0, 0.0, 0.15, 1.0
+length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, 0.15, 0.0, 0.0, 0.0, 0.15, 1.0
+val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, 0.15, 0.0, 0.0, 0.0, 0.15, 1.0
+arr[ends.get(length + 1)],ARRAY_ACCESS, line no: 29,!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, 0.15, 0.0, 0.0, 0.0, 0.15, 1.0
+new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, line no: 14,ends.get(j),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, line no: 14,prefix_lengths.add(j),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, line no: 14,prefix_lengths.isEmpty(),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, line no: 14,Collections.max(prefix_lengths),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+prefix_lengths,SIMPLE_NAME, line no: 20,!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+j < longest + 1,INFIX_EXPRESSION, line no: 21,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+j < longest + 1,INFIX_EXPRESSION, line no: 21,length == longest,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+j < longest + 1,INFIX_EXPRESSION, line no: 21,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+longest + 1,INFIX_EXPRESSION, line no: 21,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+j++,POSTFIX_EXPRESSION, line no: 21,ends.get(j),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+j++,POSTFIX_EXPRESSION, line no: 21,prefix_lengths.add(j),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+arr[ends.get(j)] < val,INFIX_EXPRESSION, line no: 22,j < longest + 1,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+ends.get(j),METHOD_INVOCATION, line no: 22,new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+ends.get(j),METHOD_INVOCATION, line no: 22,j++,POSTFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+prefix_lengths.add(j),METHOD_INVOCATION, line no: 23,new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+prefix_lengths.add(j),METHOD_INVOCATION, line no: 23,j++,POSTFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+prefix_lengths,SIMPLE_NAME, line no: 23,!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, line no: 27,prefix_lengths,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, line no: 27,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+prefix_lengths.isEmpty(),METHOD_INVOCATION, line no: 27,new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+prefix_lengths,SIMPLE_NAME, line no: 27,!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+Collections.max(prefix_lengths),METHOD_INVOCATION, line no: 27,new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+prefix_lengths,SIMPLE_NAME, line no: 27,!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+length == longest,INFIX_EXPRESSION, line no: 29,j < longest + 1,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,longest + 1,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+arr[ends.get(length + 1)],ARRAY_ACCESS, line no: 29,j < longest + 1,INFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.13636363636363635, 0.0, 0.0, 0.0, 0.13636363636363635, 1.0
+!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, line no: 27,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.13636363636363635, 0.0, 0.0, 0.0, 0.13636363636363635, 1.0
+length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.13636363636363635, 0.0, 0.0, 0.0, 0.13636363636363635, 1.0
+val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, 0.13636363636363635, 0.0, 0.0, 0.0, 0.13636363636363635, 1.0
+new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, line no: 14,!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, 0.13333333333333333, 0.0, 0.0, 0.0, 0.13333333333333333, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,ends.get(length + 1),METHOD_INVOCATION, 0.13333333333333333, 0.0, 0.0, 0.0, 0.13333333333333333, 1.0
+!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, line no: 27,new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, 0.13333333333333333, 0.0, 0.0, 0.0, 0.13333333333333333, 1.0
+ends.get(length + 1),METHOD_INVOCATION, line no: 29,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.13333333333333333, 0.0, 0.0, 0.0, 0.13333333333333333, 1.0
+new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, line no: 14,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.13043478260869565, 0.0, 0.0, 0.0, 0.13043478260869565, 1.0
+length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, 0.13043478260869565, 0.0, 0.0, 0.0, 0.13043478260869565, 1.0
+ends,SIMPLE_NAME, line no: 14,ends.get(length + 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, line no: 14,ends.get(length + 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,arr[ends.get(j)],ARRAY_ACCESS, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+1,NUMBER_LITERAL, line no: 21,ends.get(length + 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+1,NUMBER_LITERAL, line no: 21,ends.get(length + 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+arr[ends.get(j)],ARRAY_ACCESS, line no: 22,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+ends.get(j),METHOD_INVOCATION, line no: 22,java.util,QUALIFIED_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+ends,SIMPLE_NAME, line no: 22,ends.get(length + 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+get,SIMPLE_NAME, line no: 22,ends.get(length + 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+prefix_lengths.add(j),METHOD_INVOCATION, line no: 23,java.util,QUALIFIED_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+length,SIMPLE_NAME, line no: 27,ends.get(length + 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+prefix_lengths.isEmpty(),METHOD_INVOCATION, line no: 27,java.util,QUALIFIED_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Collections.max(prefix_lengths),METHOD_INVOCATION, line no: 27,java.util,QUALIFIED_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+length,SIMPLE_NAME, line no: 29,ends.get(length + 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+ends.get(length + 1),METHOD_INVOCATION, line no: 29,ends,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+ends.get(length + 1),METHOD_INVOCATION, line no: 29,new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+ends.get(length + 1),METHOD_INVOCATION, line no: 29,1,NUMBER_LITERAL, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+ends.get(length + 1),METHOD_INVOCATION, line no: 29,get,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+ends.get(length + 1),METHOD_INVOCATION, line no: 29,length,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+ends,SIMPLE_NAME, line no: 29,ends.get(length + 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+get,SIMPLE_NAME, line no: 29,ends.get(length + 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+length,SIMPLE_NAME, line no: 29,ends.get(length + 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+1,NUMBER_LITERAL, line no: 29,ends.get(length + 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+ends,SIMPLE_NAME, line no: 30,ends.get(length + 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+length,SIMPLE_NAME, line no: 30,ends.get(length + 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+1,NUMBER_LITERAL, line no: 30,ends.get(length + 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+length,SIMPLE_NAME, line no: 31,ends.get(length + 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+1,NUMBER_LITERAL, line no: 31,ends.get(length + 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, line no: 27,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.12, 0.0, 0.0, 0.0, 0.12, 1.0
+length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, 0.12, 0.0, 0.0, 0.0, 0.12, 1.0
+new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, line no: 14,arr[ends.get(j)],ARRAY_ACCESS, 0.11764705882352941, 0.0, 0.0, 0.0, 0.11764705882352941, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,ends.put(length + 1 i),METHOD_INVOCATION, 0.11764705882352941, 0.0, 0.0, 0.0, 0.11764705882352941, 1.0
+arr[ends.get(j)],ARRAY_ACCESS, line no: 22,new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, 0.11764705882352941, 0.0, 0.0, 0.0, 0.11764705882352941, 1.0
+ends.put(length + 1 i),METHOD_INVOCATION, line no: 30,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.11764705882352941, 0.0, 0.0, 0.0, 0.11764705882352941, 1.0
+Integer,SIMPLE_NAME, line no: 14,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+Integer,SIMPLE_NAME, line no: 14,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+ends,SIMPLE_NAME, line no: 14,arr[ends.get(j)],ARRAY_ACCESS, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+Integer,SIMPLE_NAME, line no: 14,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+Integer,SIMPLE_NAME, line no: 14,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+100,NUMBER_LITERAL, line no: 14,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+arr,SIMPLE_NAME, line no: 18,arr[ends.get(j)],ARRAY_ACCESS, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+Integer,SIMPLE_NAME, line no: 20,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,Integer,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,100,NUMBER_LITERAL, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+Integer,SIMPLE_NAME, line no: 20,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+100,NUMBER_LITERAL, line no: 20,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+int j=1,VARIABLE_DECLARATION_EXPRESSION, line no: 21,ends.get(j),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+int j=1,VARIABLE_DECLARATION_EXPRESSION, line no: 21,prefix_lengths.add(j),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+j,SIMPLE_NAME, line no: 21,arr[ends.get(j)],ARRAY_ACCESS, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+j,SIMPLE_NAME, line no: 21,arr[ends.get(j)],ARRAY_ACCESS, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+j,SIMPLE_NAME, line no: 21,arr[ends.get(j)],ARRAY_ACCESS, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+arr[ends.get(j)],ARRAY_ACCESS, line no: 22,arr,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+arr[ends.get(j)],ARRAY_ACCESS, line no: 22,ends,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+arr[ends.get(j)],ARRAY_ACCESS, line no: 22,j,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+arr[ends.get(j)],ARRAY_ACCESS, line no: 22,get,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+arr,SIMPLE_NAME, line no: 22,arr[ends.get(j)],ARRAY_ACCESS, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+ends.get(j),METHOD_INVOCATION, line no: 22,int j=1,VARIABLE_DECLARATION_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+ends,SIMPLE_NAME, line no: 22,arr[ends.get(j)],ARRAY_ACCESS, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+get,SIMPLE_NAME, line no: 22,arr[ends.get(j)],ARRAY_ACCESS, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+j,SIMPLE_NAME, line no: 22,arr[ends.get(j)],ARRAY_ACCESS, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+prefix_lengths.add(j),METHOD_INVOCATION, line no: 23,int j=1,VARIABLE_DECLARATION_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+j,SIMPLE_NAME, line no: 23,arr[ends.get(j)],ARRAY_ACCESS, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+!prefix_lengths.isEmpty(),PREFIX_EXPRESSION, line no: 27,java.util,QUALIFIED_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+arr[ends.get(length + 1)],ARRAY_ACCESS, line no: 29,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+arr,SIMPLE_NAME, line no: 29,arr[ends.get(j)],ARRAY_ACCESS, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+ends,SIMPLE_NAME, line no: 29,arr[ends.get(j)],ARRAY_ACCESS, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+get,SIMPLE_NAME, line no: 29,arr[ends.get(j)],ARRAY_ACCESS, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+ends,SIMPLE_NAME, line no: 30,arr[ends.get(j)],ARRAY_ACCESS, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, line no: 14,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.10526315789473684, 0.0, 0.0, 0.0, 0.10526315789473684, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, 0.10526315789473684, 0.0, 0.0, 0.0, 0.10526315789473684, 1.0
+!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, line no: 27,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.10526315789473684, 0.0, 0.0, 0.0, 0.10526315789473684, 1.0
+arr[ends.get(length + 1)],ARRAY_ACCESS, line no: 29,new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, 0.10526315789473684, 0.0, 0.0, 0.0, 0.10526315789473684, 1.0
+Map,SIMPLE_NAME, line no: 14,new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+Integer,SIMPLE_NAME, line no: 14,new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+Integer,SIMPLE_NAME, line no: 14,new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ends,SIMPLE_NAME, line no: 14,ends.put(length + 1 i),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, line no: 14,Map,SIMPLE_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, line no: 14,Integer,SIMPLE_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, line no: 14,100,NUMBER_LITERAL, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, line no: 14,!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+Integer,SIMPLE_NAME, line no: 14,new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+Integer,SIMPLE_NAME, line no: 14,new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+100,NUMBER_LITERAL, line no: 14,new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+i,SIMPLE_NAME, line no: 17,ends.put(length + 1 i),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+Integer,SIMPLE_NAME, line no: 20,new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+Integer,SIMPLE_NAME, line no: 20,new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+100,NUMBER_LITERAL, line no: 20,new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+1,NUMBER_LITERAL, line no: 21,ends.put(length + 1 i),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+j < longest + 1,INFIX_EXPRESSION, line no: 21,ends.get(j),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+j < longest + 1,INFIX_EXPRESSION, line no: 21,prefix_lengths.add(j),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+1,NUMBER_LITERAL, line no: 21,ends.put(length + 1 i),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+j++,POSTFIX_EXPRESSION, line no: 21,arr[ends.get(j)],ARRAY_ACCESS, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+arr[ends.get(j)],ARRAY_ACCESS, line no: 22,j++,POSTFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ends.get(j),METHOD_INVOCATION, line no: 22,j < longest + 1,INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ends,SIMPLE_NAME, line no: 22,ends.put(length + 1 i),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+prefix_lengths.add(j),METHOD_INVOCATION, line no: 23,j < longest + 1,INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+length,SIMPLE_NAME, line no: 27,ends.put(length + 1 i),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, line no: 27,new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+length == longest,INFIX_EXPRESSION, line no: 29,ends.get(length + 1),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+length,SIMPLE_NAME, line no: 29,ends.put(length + 1 i),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ends.get(length + 1),METHOD_INVOCATION, line no: 29,java.util,QUALIFIED_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ends.get(length + 1),METHOD_INVOCATION, line no: 29,length == longest,INFIX_EXPRESSION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ends,SIMPLE_NAME, line no: 29,ends.put(length + 1 i),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+length,SIMPLE_NAME, line no: 29,ends.put(length + 1 i),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+1,NUMBER_LITERAL, line no: 29,ends.put(length + 1 i),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ends.put(length + 1 i),METHOD_INVOCATION, line no: 30,ends,SIMPLE_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ends.put(length + 1 i),METHOD_INVOCATION, line no: 30,i,SIMPLE_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ends.put(length + 1 i),METHOD_INVOCATION, line no: 30,1,NUMBER_LITERAL, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ends.put(length + 1 i),METHOD_INVOCATION, line no: 30,length,SIMPLE_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ends.put(length + 1 i),METHOD_INVOCATION, line no: 30,put,SIMPLE_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ends,SIMPLE_NAME, line no: 30,ends.put(length + 1 i),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+put,SIMPLE_NAME, line no: 30,ends.put(length + 1 i),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+length,SIMPLE_NAME, line no: 30,ends.put(length + 1 i),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+1,NUMBER_LITERAL, line no: 30,ends.put(length + 1 i),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+i,SIMPLE_NAME, line no: 30,ends.put(length + 1 i),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+length,SIMPLE_NAME, line no: 31,ends.put(length + 1 i),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+1,NUMBER_LITERAL, line no: 31,ends.put(length + 1 i),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+i,SIMPLE_NAME, line no: 34,ends.put(length + 1 i),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+ends,SIMPLE_NAME, line no: 14,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+ends,SIMPLE_NAME, line no: 14,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+val,SIMPLE_NAME, line no: 18,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+arr,SIMPLE_NAME, line no: 18,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+arr,SIMPLE_NAME, line no: 18,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+int j=1,VARIABLE_DECLARATION_EXPRESSION, line no: 21,ends.get(length + 1),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+j,SIMPLE_NAME, line no: 21,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+1,NUMBER_LITERAL, line no: 21,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+j,SIMPLE_NAME, line no: 21,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+1,NUMBER_LITERAL, line no: 21,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+j,SIMPLE_NAME, line no: 21,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+arr[ends.get(j)] < val,INFIX_EXPRESSION, line no: 22,arr,SIMPLE_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+arr[ends.get(j)] < val,INFIX_EXPRESSION, line no: 22,ends,SIMPLE_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+arr[ends.get(j)] < val,INFIX_EXPRESSION, line no: 22,val,SIMPLE_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+arr[ends.get(j)] < val,INFIX_EXPRESSION, line no: 22,j,SIMPLE_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+arr[ends.get(j)] < val,INFIX_EXPRESSION, line no: 22,get,SIMPLE_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+arr[ends.get(j)],ARRAY_ACCESS, line no: 22,java.util,QUALIFIED_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+arr,SIMPLE_NAME, line no: 22,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+arr,SIMPLE_NAME, line no: 22,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+ends,SIMPLE_NAME, line no: 22,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+ends,SIMPLE_NAME, line no: 22,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+get,SIMPLE_NAME, line no: 22,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+get,SIMPLE_NAME, line no: 22,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+j,SIMPLE_NAME, line no: 22,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+val,SIMPLE_NAME, line no: 22,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+j,SIMPLE_NAME, line no: 23,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+length,SIMPLE_NAME, line no: 27,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+length,SIMPLE_NAME, line no: 29,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+val,SIMPLE_NAME, line no: 29,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+arr[ends.get(length + 1)],ARRAY_ACCESS, line no: 29,arr,SIMPLE_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+arr[ends.get(length + 1)],ARRAY_ACCESS, line no: 29,ends,SIMPLE_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+arr[ends.get(length + 1)],ARRAY_ACCESS, line no: 29,1,NUMBER_LITERAL, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+arr[ends.get(length + 1)],ARRAY_ACCESS, line no: 29,get,SIMPLE_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+arr[ends.get(length + 1)],ARRAY_ACCESS, line no: 29,length,SIMPLE_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+arr,SIMPLE_NAME, line no: 29,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+arr,SIMPLE_NAME, line no: 29,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+ends.get(length + 1),METHOD_INVOCATION, line no: 29,int j=1,VARIABLE_DECLARATION_EXPRESSION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+ends,SIMPLE_NAME, line no: 29,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+ends,SIMPLE_NAME, line no: 29,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+get,SIMPLE_NAME, line no: 29,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+get,SIMPLE_NAME, line no: 29,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+length,SIMPLE_NAME, line no: 29,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+1,NUMBER_LITERAL, line no: 29,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+ends.put(length + 1 i),METHOD_INVOCATION, line no: 30,i++,POSTFIX_EXPRESSION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+ends,SIMPLE_NAME, line no: 30,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+ends,SIMPLE_NAME, line no: 30,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+length,SIMPLE_NAME, line no: 30,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+1,NUMBER_LITERAL, line no: 30,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+length,SIMPLE_NAME, line no: 31,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+1,NUMBER_LITERAL, line no: 31,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+i++,POSTFIX_EXPRESSION, line no: 34,ends.put(length + 1 i),METHOD_INVOCATION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+0,NUMBER_LITERAL, line no: 15,!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+0,NUMBER_LITERAL, line no: 17,!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+prefix_lengths,SIMPLE_NAME, line no: 20,!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+int j=1,VARIABLE_DECLARATION_EXPRESSION, line no: 21,arr[ends.get(j)],ARRAY_ACCESS, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+j++,POSTFIX_EXPRESSION, line no: 21,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+arr[ends.get(j)] < val,INFIX_EXPRESSION, line no: 22,j++,POSTFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+arr[ends.get(j)],ARRAY_ACCESS, line no: 22,int j=1,VARIABLE_DECLARATION_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+prefix_lengths,SIMPLE_NAME, line no: 23,!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, line no: 27,0,NUMBER_LITERAL, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, line no: 27,prefix_lengths,SIMPLE_NAME, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, line no: 27,Collections,SIMPLE_NAME, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, line no: 27,max,SIMPLE_NAME, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+prefix_lengths,SIMPLE_NAME, line no: 27,!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+Collections,SIMPLE_NAME, line no: 27,!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+max,SIMPLE_NAME, line no: 27,!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+prefix_lengths,SIMPLE_NAME, line no: 27,!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+0,NUMBER_LITERAL, line no: 27,!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+length == longest,INFIX_EXPRESSION, line no: 29,ends.put(length + 1 i),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+ends.put(length + 1 i),METHOD_INVOCATION, line no: 30,java.util,QUALIFIED_NAME, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+ends.put(length + 1 i),METHOD_INVOCATION, line no: 30,length == longest,INFIX_EXPRESSION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+ends,SIMPLE_NAME, line no: 14,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+val,SIMPLE_NAME, line no: 18,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+arr,SIMPLE_NAME, line no: 18,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,j < longest + 1,INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+int j=1,VARIABLE_DECLARATION_EXPRESSION, line no: 21,ends.put(length + 1 i),METHOD_INVOCATION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+1,NUMBER_LITERAL, line no: 21,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+j < longest + 1,INFIX_EXPRESSION, line no: 21,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+j < longest + 1,INFIX_EXPRESSION, line no: 21,arr[ends.get(j)],ARRAY_ACCESS, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+1,NUMBER_LITERAL, line no: 21,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+arr[ends.get(j)] < val,INFIX_EXPRESSION, line no: 22,java.util,QUALIFIED_NAME, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+arr[ends.get(j)],ARRAY_ACCESS, line no: 22,j < longest + 1,INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+arr,SIMPLE_NAME, line no: 22,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+ends,SIMPLE_NAME, line no: 22,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+get,SIMPLE_NAME, line no: 22,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+val,SIMPLE_NAME, line no: 22,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+length,SIMPLE_NAME, line no: 27,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+length == longest,INFIX_EXPRESSION, line no: 29,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+length,SIMPLE_NAME, line no: 29,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,arr,SIMPLE_NAME, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,ends,SIMPLE_NAME, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,val,SIMPLE_NAME, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,1,NUMBER_LITERAL, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,get,SIMPLE_NAME, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,length,SIMPLE_NAME, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+val,SIMPLE_NAME, line no: 29,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+arr[ends.get(length + 1)],ARRAY_ACCESS, line no: 29,java.util,QUALIFIED_NAME, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+arr[ends.get(length + 1)],ARRAY_ACCESS, line no: 29,length == longest,INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+arr,SIMPLE_NAME, line no: 29,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+ends,SIMPLE_NAME, line no: 29,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+get,SIMPLE_NAME, line no: 29,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+length,SIMPLE_NAME, line no: 29,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+1,NUMBER_LITERAL, line no: 29,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+ends.put(length + 1 i),METHOD_INVOCATION, line no: 30,int j=1,VARIABLE_DECLARATION_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+ends,SIMPLE_NAME, line no: 30,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+length,SIMPLE_NAME, line no: 30,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+1,NUMBER_LITERAL, line no: 30,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+length,SIMPLE_NAME, line no: 31,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+1,NUMBER_LITERAL, line no: 31,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, line no: 14,j < longest + 1,INFIX_EXPRESSION, 0.07142857142857142, 0.0, 0.0, 0.0, 0.07142857142857142, 1.0
+int j=1,VARIABLE_DECLARATION_EXPRESSION, line no: 21,arr[ends.get(j)] < val,INFIX_EXPRESSION, 0.07142857142857142, 0.0, 0.0, 0.0, 0.07142857142857142, 1.0
+int j=1,VARIABLE_DECLARATION_EXPRESSION, line no: 21,arr[ends.get(length + 1)],ARRAY_ACCESS, 0.07142857142857142, 0.0, 0.0, 0.0, 0.07142857142857142, 1.0
+j < longest + 1,INFIX_EXPRESSION, line no: 21,new HashMap<Integer Integer>(100),CLASS_INSTANCE_CREATION, 0.07142857142857142, 0.0, 0.0, 0.0, 0.07142857142857142, 1.0
+arr[ends.get(j)] < val,INFIX_EXPRESSION, line no: 22,int j=1,VARIABLE_DECLARATION_EXPRESSION, 0.07142857142857142, 0.0, 0.0, 0.0, 0.07142857142857142, 1.0
+!prefix_lengths.isEmpty() ? Collections.max(prefix_lengths) : 0,CONDITIONAL_EXPRESSION, line no: 27,java.util,QUALIFIED_NAME, 0.07142857142857142, 0.0, 0.0, 0.0, 0.07142857142857142, 1.0
+arr[ends.get(length + 1)],ARRAY_ACCESS, line no: 29,int j=1,VARIABLE_DECLARATION_EXPRESSION, 0.07142857142857142, 0.0, 0.0, 0.0, 0.07142857142857142, 1.0
+length == longest,INFIX_EXPRESSION, line no: 29,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.06666666666666667, 0.0, 0.0, 0.0, 0.06666666666666667, 1.0
+val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,java.util,QUALIFIED_NAME, 0.06666666666666667, 0.0, 0.0, 0.0, 0.06666666666666667, 1.0
+val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,length == longest,INFIX_EXPRESSION, 0.06666666666666667, 0.0, 0.0, 0.0, 0.06666666666666667, 1.0
+ends,SIMPLE_NAME, line no: 14,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+longest,SIMPLE_NAME, line no: 15,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+val,SIMPLE_NAME, line no: 18,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+arr,SIMPLE_NAME, line no: 18,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+int j=1,VARIABLE_DECLARATION_EXPRESSION, line no: 21,val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+1,NUMBER_LITERAL, line no: 21,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+longest,SIMPLE_NAME, line no: 21,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+1,NUMBER_LITERAL, line no: 21,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+arr,SIMPLE_NAME, line no: 22,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+ends,SIMPLE_NAME, line no: 22,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+get,SIMPLE_NAME, line no: 22,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+val,SIMPLE_NAME, line no: 22,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+length,SIMPLE_NAME, line no: 27,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,arr,SIMPLE_NAME, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,ends,SIMPLE_NAME, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,longest,SIMPLE_NAME, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,val,SIMPLE_NAME, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,1,NUMBER_LITERAL, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,get,SIMPLE_NAME, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,length,SIMPLE_NAME, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+length,SIMPLE_NAME, line no: 29,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+longest,SIMPLE_NAME, line no: 29,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,int j=1,VARIABLE_DECLARATION_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+val,SIMPLE_NAME, line no: 29,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+arr,SIMPLE_NAME, line no: 29,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+ends,SIMPLE_NAME, line no: 29,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+get,SIMPLE_NAME, line no: 29,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+length,SIMPLE_NAME, line no: 29,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+1,NUMBER_LITERAL, line no: 29,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+ends,SIMPLE_NAME, line no: 30,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+length,SIMPLE_NAME, line no: 30,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+1,NUMBER_LITERAL, line no: 30,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+longest,SIMPLE_NAME, line no: 31,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+length,SIMPLE_NAME, line no: 31,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+1,NUMBER_LITERAL, line no: 31,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+longest,SIMPLE_NAME, line no: 36,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,java.util,QUALIFIED_NAME, 0.05555555555555555, 0.0, 0.0, 0.0, 0.05555555555555555, 1.0
+int j=1,VARIABLE_DECLARATION_EXPRESSION, line no: 21,length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, 0.05263157894736842, 0.0, 0.0, 0.0, 0.05263157894736842, 1.0
+length == longest || val < arr[ends.get(length + 1)],INFIX_EXPRESSION, line no: 29,int j=1,VARIABLE_DECLARATION_EXPRESSION, 0.05263157894736842, 0.0, 0.0, 0.0, 0.05263157894736842, 1.0

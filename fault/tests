@@ -1,6 +1,5 @@
 Test,Pass-Fail,Runtime(ns)
-buggy_java_programs.WRAP_TEST#test_0,FAIL,46409095
-buggy_java_programs.WRAP_TEST#test_1,FAIL,47478437
-buggy_java_programs.WRAP_TEST#test_2,FAIL,33119644
-buggy_java_programs.WRAP_TEST#test_3,FAIL,41262040
-buggy_java_programs.WRAP_TEST#test_4,FAIL,34858514
+buggy_java_programs.LIS_TEST#test_0,FAIL,31921976
+buggy_java_programs.LIS_TEST#test_1,FAIL,54539760
+buggy_java_programs.LIS_TEST#test_2,FAIL,44211036
+buggy_java_programs.LIS_TEST#test_3,FAIL,35247286

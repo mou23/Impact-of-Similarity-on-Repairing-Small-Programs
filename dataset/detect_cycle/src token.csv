@@ -1,0 +1,537 @@
+hare.getSuccessor().getSuccessor(),METHOD_INVOCATION, line no: 22,hare.getSuccessor(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 1.0, 0.5
+hare.getSuccessor(),METHOD_INVOCATION, line no: 22,hare.getSuccessor().getSuccessor(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 1.0, 0.5
+Node,SIMPLE_NAME, line no: 14,node,SIMPLE_NAME, 0.4472135954999579, 0.0, 0.0, 0.0, 1.0, 0.4472135954999579
+node,SIMPLE_NAME, line no: 14,Node,SIMPLE_NAME, 0.4472135954999579, 0.0, 0.0, 0.0, 1.0, 0.4472135954999579
+Node,SIMPLE_NAME, line no: 15,node,SIMPLE_NAME, 0.4472135954999579, 0.0, 0.0, 0.0, 1.0, 0.4472135954999579
+node,SIMPLE_NAME, line no: 15,Node,SIMPLE_NAME, 0.4472135954999579, 0.0, 0.0, 0.0, 1.0, 0.4472135954999579
+hare.getSuccessor(),METHOD_INVOCATION, line no: 18,hare.getSuccessor().getSuccessor(),METHOD_INVOCATION, 0.4472135954999579, 0.0, 0.0, 0.0, 1.0, 0.4472135954999579
+tortoise=tortoise.getSuccessor(),ASSIGNMENT, line no: 21,tortoise.getSuccessor(),METHOD_INVOCATION, 0.42857142857142855, 0.0, 0.0, 0.0, 0.8571428571428571, 0.5
+tortoise.getSuccessor(),METHOD_INVOCATION, line no: 21,tortoise=tortoise.getSuccessor(),ASSIGNMENT, 0.42857142857142855, 0.0, 0.0, 0.0, 0.8571428571428571, 0.5
+hare=hare.getSuccessor().getSuccessor(),ASSIGNMENT, line no: 22,hare.getSuccessor(),METHOD_INVOCATION, 0.42857142857142855, 0.0, 0.0, 0.0, 0.8571428571428571, 0.5
+hare=hare.getSuccessor().getSuccessor(),ASSIGNMENT, line no: 22,hare.getSuccessor().getSuccessor(),METHOD_INVOCATION, 0.42857142857142855, 0.0, 0.0, 0.0, 0.8571428571428571, 0.5
+hare.getSuccessor().getSuccessor(),METHOD_INVOCATION, line no: 22,hare=hare.getSuccessor().getSuccessor(),ASSIGNMENT, 0.42857142857142855, 0.0, 0.0, 0.0, 0.8571428571428571, 0.5
+hare.getSuccessor(),METHOD_INVOCATION, line no: 22,hare=hare.getSuccessor().getSuccessor(),ASSIGNMENT, 0.42857142857142855, 0.0, 0.0, 0.0, 0.8571428571428571, 0.5
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.40994579587496144, 0.0, 0.0, 0.0, 0.9166666666666666, 0.4472135954999579
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.40994579587496144, 0.0, 0.0, 0.0, 0.9166666666666666, 0.4472135954999579
+this.value=value,ASSIGNMENT, line no: 26,this.value=null,ASSIGNMENT, 0.4, 0.0, 0.0, 0.0, 0.8, 0.5
+this.successor=successor,ASSIGNMENT, line no: 27,this.successor=null,ASSIGNMENT, 0.4, 0.0, 0.0, 0.0, 0.8, 0.5
+new ArrayList<>(),CLASS_INSTANCE_CREATION, line no: 21,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.3913118960624632, 0.0, 0.0, 0.0, 0.875, 0.4472135954999579
+new ArrayList<>(),CLASS_INSTANCE_CREATION, line no: 22,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.3913118960624632, 0.0, 0.0, 0.0, 0.875, 0.4472135954999579
+hare.getSuccessor(),METHOD_INVOCATION, line no: 18,hare=hare.getSuccessor().getSuccessor(),ASSIGNMENT, 0.3833259389999639, 0.0, 0.0, 0.0, 0.8571428571428571, 0.4472135954999579
+tortoise=tortoise.getSuccessor(),ASSIGNMENT, line no: 21,hare=hare.getSuccessor().getSuccessor(),ASSIGNMENT, 0.375, 0.0, 0.0, 0.0, 0.75, 0.5
+hare=hare.getSuccessor().getSuccessor(),ASSIGNMENT, line no: 22,tortoise=tortoise.getSuccessor(),ASSIGNMENT, 0.375, 0.0, 0.0, 0.0, 0.75, 0.5
+hare.getSuccessor().getSuccessor(),METHOD_INVOCATION, line no: 22,hare.getSuccessor() == null,INFIX_EXPRESSION, 0.375, 0.0, 0.0, 0.0, 0.75, 0.5
+hare.getSuccessor(),METHOD_INVOCATION, line no: 22,hare.getSuccessor() == null,INFIX_EXPRESSION, 0.375, 0.0, 0.0, 0.0, 0.75, 0.5
+this.value=value,ASSIGNMENT, line no: 26,this.value,FIELD_ACCESS, 0.375, 0.0, 0.0, 0.0, 0.75, 0.5
+this.value,FIELD_ACCESS, line no: 26,this.value=value,ASSIGNMENT, 0.375, 0.0, 0.0, 0.0, 0.75, 0.5
+this.successor=successor,ASSIGNMENT, line no: 27,this.successor,FIELD_ACCESS, 0.375, 0.0, 0.0, 0.0, 0.75, 0.5
+this.successor,FIELD_ACCESS, line no: 27,this.successor=successor,ASSIGNMENT, 0.375, 0.0, 0.0, 0.0, 0.75, 0.5
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.37267799624996495, 0.0, 0.0, 0.0, 0.8333333333333334, 0.4472135954999579
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,this.successors=new ArrayList<>(),ASSIGNMENT, 0.37267799624996495, 0.0, 0.0, 0.0, 0.8333333333333334, 0.4472135954999579
+this.value=value,ASSIGNMENT, line no: 19,this.value=null,ASSIGNMENT, 0.35777087639996635, 0.0, 0.0, 0.0, 0.8, 0.4472135954999579
+this.successor=null,ASSIGNMENT, line no: 20,this.successor=successor,ASSIGNMENT, 0.35777087639996635, 0.0, 0.0, 0.0, 0.8, 0.4472135954999579
+tortoise.getSuccessor(),METHOD_INVOCATION, line no: 21,hare.getSuccessor(),METHOD_INVOCATION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.7142857142857143, 0.5
+tortoise.getSuccessor(),METHOD_INVOCATION, line no: 21,hare.getSuccessor().getSuccessor(),METHOD_INVOCATION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.7142857142857143, 0.5
+hare.getSuccessor().getSuccessor(),METHOD_INVOCATION, line no: 22,tortoise.getSuccessor(),METHOD_INVOCATION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.7142857142857143, 0.5
+hare.getSuccessor(),METHOD_INVOCATION, line no: 22,tortoise.getSuccessor(),METHOD_INVOCATION, 0.35714285714285715, 0.0, 0.0, 0.0, 0.7142857142857143, 0.5
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.34401045807689073, 0.0, 0.0, 0.0, 0.7692307692307693, 0.4472135954999579
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.34401045807689073, 0.0, 0.0, 0.0, 0.7692307692307693, 0.4472135954999579
+hare.getSuccessor() == null,INFIX_EXPRESSION, line no: 18,hare.getSuccessor(),METHOD_INVOCATION, 0.33541019662496846, 0.0, 0.0, 0.0, 0.75, 0.4472135954999579
+hare.getSuccessor() == null,INFIX_EXPRESSION, line no: 18,hare.getSuccessor().getSuccessor(),METHOD_INVOCATION, 0.33541019662496846, 0.0, 0.0, 0.0, 0.75, 0.4472135954999579
+hare.getSuccessor(),METHOD_INVOCATION, line no: 18,hare.getSuccessor() == null,INFIX_EXPRESSION, 0.33541019662496846, 0.0, 0.0, 0.0, 0.75, 0.4472135954999579
+this.value=value,ASSIGNMENT, line no: 19,this.value,FIELD_ACCESS, 0.33541019662496846, 0.0, 0.0, 0.0, 0.75, 0.4472135954999579
+this.value,FIELD_ACCESS, line no: 19,this.value=value,ASSIGNMENT, 0.33541019662496846, 0.0, 0.0, 0.0, 0.75, 0.4472135954999579
+this.successor,FIELD_ACCESS, line no: 20,this.successor=successor,ASSIGNMENT, 0.33541019662496846, 0.0, 0.0, 0.0, 0.75, 0.4472135954999579
+this.successors,FIELD_ACCESS, line no: 21,this.successors=successors,ASSIGNMENT, 0.33541019662496846, 0.0, 0.0, 0.0, 0.75, 0.4472135954999579
+this.predecessors,FIELD_ACCESS, line no: 22,this.predecessors=predecessors,ASSIGNMENT, 0.33541019662496846, 0.0, 0.0, 0.0, 0.75, 0.4472135954999579
+hare=hare.getSuccessor().getSuccessor(),ASSIGNMENT, line no: 22,hare.getSuccessor() == null,INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.6666666666666666, 0.5
+hare.getSuccessor(),METHOD_INVOCATION, line no: 18,tortoise.getSuccessor(),METHOD_INVOCATION, 0.31943828249996997, 0.0, 0.0, 0.0, 0.7142857142857143, 0.4472135954999579
+tortoise=tortoise.getSuccessor(),ASSIGNMENT, line no: 21,hare.getSuccessor(),METHOD_INVOCATION, 0.3125, 0.0, 0.0, 0.0, 0.625, 0.5
+tortoise=tortoise.getSuccessor(),ASSIGNMENT, line no: 21,hare.getSuccessor().getSuccessor(),METHOD_INVOCATION, 0.3125, 0.0, 0.0, 0.0, 0.625, 0.5
+tortoise.getSuccessor(),METHOD_INVOCATION, line no: 21,hare=hare.getSuccessor().getSuccessor(),ASSIGNMENT, 0.3125, 0.0, 0.0, 0.0, 0.625, 0.5
+hare=hare.getSuccessor().getSuccessor(),ASSIGNMENT, line no: 22,tortoise.getSuccessor(),METHOD_INVOCATION, 0.3125, 0.0, 0.0, 0.0, 0.625, 0.5
+hare.getSuccessor().getSuccessor(),METHOD_INVOCATION, line no: 22,tortoise=tortoise.getSuccessor(),ASSIGNMENT, 0.3125, 0.0, 0.0, 0.0, 0.625, 0.5
+hare.getSuccessor(),METHOD_INVOCATION, line no: 22,tortoise=tortoise.getSuccessor(),ASSIGNMENT, 0.3125, 0.0, 0.0, 0.0, 0.625, 0.5
+this.value=value,ASSIGNMENT, line no: 26,this.successor=successor,ASSIGNMENT, 0.3, 0.0, 0.0, 0.0, 0.6, 0.5
+this.value=value,ASSIGNMENT, line no: 26,this.successors=successors,ASSIGNMENT, 0.3, 0.0, 0.0, 0.0, 0.6, 0.5
+this.value=value,ASSIGNMENT, line no: 26,this.predecessors=predecessors,ASSIGNMENT, 0.3, 0.0, 0.0, 0.0, 0.6, 0.5
+this.value,FIELD_ACCESS, line no: 26,this.value=null,ASSIGNMENT, 0.3, 0.0, 0.0, 0.0, 0.6, 0.5
+this.successor=successor,ASSIGNMENT, line no: 27,this.value=value,ASSIGNMENT, 0.3, 0.0, 0.0, 0.0, 0.6, 0.5
+this.successor=successor,ASSIGNMENT, line no: 27,this.successors=successors,ASSIGNMENT, 0.3, 0.0, 0.0, 0.0, 0.6, 0.5
+this.successor=successor,ASSIGNMENT, line no: 27,this.predecessors=predecessors,ASSIGNMENT, 0.3, 0.0, 0.0, 0.0, 0.6, 0.5
+this.successor,FIELD_ACCESS, line no: 27,this.successor=null,ASSIGNMENT, 0.3, 0.0, 0.0, 0.0, 0.6, 0.5
+hare.getSuccessor() == null,INFIX_EXPRESSION, line no: 18,hare=hare.getSuccessor().getSuccessor(),ASSIGNMENT, 0.2981423969999719, 0.0, 0.0, 0.0, 0.6666666666666666, 0.4472135954999579
+this.successor=null,ASSIGNMENT, line no: 20,this.value=null,ASSIGNMENT, 0.2981423969999719, 0.0, 0.0, 0.0, 0.6666666666666666, 0.4472135954999579
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,new ArrayList<>(),CLASS_INSTANCE_CREATION, 0.2845904698636096, 0.0, 0.0, 0.0, 0.6363636363636364, 0.4472135954999579
+new ArrayList<>(),CLASS_INSTANCE_CREATION, line no: 21,this.successors=new ArrayList<>(),ASSIGNMENT, 0.2845904698636096, 0.0, 0.0, 0.0, 0.6363636363636364, 0.4472135954999579
+new ArrayList<>(),CLASS_INSTANCE_CREATION, line no: 21,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.2845904698636096, 0.0, 0.0, 0.0, 0.6363636363636364, 0.4472135954999579
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,new ArrayList<>(),CLASS_INSTANCE_CREATION, 0.2845904698636096, 0.0, 0.0, 0.0, 0.6363636363636364, 0.4472135954999579
+new ArrayList<>(),CLASS_INSTANCE_CREATION, line no: 22,this.successors=new ArrayList<>(),ASSIGNMENT, 0.2845904698636096, 0.0, 0.0, 0.0, 0.6363636363636364, 0.4472135954999579
+new ArrayList<>(),CLASS_INSTANCE_CREATION, line no: 22,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.2845904698636096, 0.0, 0.0, 0.0, 0.6363636363636364, 0.4472135954999579
+hare.getSuccessor(),METHOD_INVOCATION, line no: 18,tortoise=tortoise.getSuccessor(),ASSIGNMENT, 0.2795084971874737, 0.0, 0.0, 0.0, 0.625, 0.4472135954999579
+tortoise.getSuccessor(),METHOD_INVOCATION, line no: 21,hare.getSuccessor() == null,INFIX_EXPRESSION, 0.2777777777777778, 0.0, 0.0, 0.0, 0.5555555555555556, 0.5
+this.value=value,ASSIGNMENT, line no: 19,this.successor=successor,ASSIGNMENT, 0.2683281572999747, 0.0, 0.0, 0.0, 0.6, 0.4472135954999579
+this.value=value,ASSIGNMENT, line no: 19,this.successors=successors,ASSIGNMENT, 0.2683281572999747, 0.0, 0.0, 0.0, 0.6, 0.4472135954999579
+this.value=value,ASSIGNMENT, line no: 19,this.predecessors=predecessors,ASSIGNMENT, 0.2683281572999747, 0.0, 0.0, 0.0, 0.6, 0.4472135954999579
+this.value,FIELD_ACCESS, line no: 19,this.value=null,ASSIGNMENT, 0.2683281572999747, 0.0, 0.0, 0.0, 0.6, 0.4472135954999579
+this.successor=null,ASSIGNMENT, line no: 20,this.successor,FIELD_ACCESS, 0.2683281572999747, 0.0, 0.0, 0.0, 0.6, 0.4472135954999579
+this.successor,FIELD_ACCESS, line no: 20,this.successor=null,ASSIGNMENT, 0.2683281572999747, 0.0, 0.0, 0.0, 0.6, 0.4472135954999579
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.2608745973749755, 0.0, 0.0, 0.0, 0.5833333333333334, 0.4472135954999579
+new ArrayList<>(),CLASS_INSTANCE_CREATION, line no: 21,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.2608745973749755, 0.0, 0.0, 0.0, 0.5833333333333334, 0.4472135954999579
+new ArrayList<>(),CLASS_INSTANCE_CREATION, line no: 21,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.2608745973749755, 0.0, 0.0, 0.0, 0.5833333333333334, 0.4472135954999579
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.2608745973749755, 0.0, 0.0, 0.0, 0.5833333333333334, 0.4472135954999579
+new ArrayList<>(),CLASS_INSTANCE_CREATION, line no: 22,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.2608745973749755, 0.0, 0.0, 0.0, 0.5833333333333334, 0.4472135954999579
+new ArrayList<>(),CLASS_INSTANCE_CREATION, line no: 22,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.2608745973749755, 0.0, 0.0, 0.0, 0.5833333333333334, 0.4472135954999579
+tortoise=tortoise.getSuccessor(),ASSIGNMENT, line no: 21,hare.getSuccessor() == null,INFIX_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.5, 0.5
+value,SIMPLE_NAME, line no: 25,getValue,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.5, 0.5
+successor,SIMPLE_NAME, line no: 25,setSuccessor,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.5, 0.5
+successor,SIMPLE_NAME, line no: 25,getSuccessor,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.5, 0.5
+this.value=value,ASSIGNMENT, line no: 26,this.successor=null,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.5, 0.5
+this.value,FIELD_ACCESS, line no: 26,this.successor,FIELD_ACCESS, 0.25, 0.0, 0.0, 0.0, 0.5, 0.5
+this.value,FIELD_ACCESS, line no: 26,this.successors,FIELD_ACCESS, 0.25, 0.0, 0.0, 0.0, 0.5, 0.5
+this.value,FIELD_ACCESS, line no: 26,this.predecessors,FIELD_ACCESS, 0.25, 0.0, 0.0, 0.0, 0.5, 0.5
+value,SIMPLE_NAME, line no: 26,getValue,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.5, 0.5
+value,SIMPLE_NAME, line no: 26,getValue,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.5, 0.5
+this.successor=successor,ASSIGNMENT, line no: 27,this.value=null,ASSIGNMENT, 0.25, 0.0, 0.0, 0.0, 0.5, 0.5
+this.successor,FIELD_ACCESS, line no: 27,this.successors,FIELD_ACCESS, 0.25, 0.0, 0.0, 0.0, 0.5, 0.5
+this.successor,FIELD_ACCESS, line no: 27,this.predecessors,FIELD_ACCESS, 0.25, 0.0, 0.0, 0.0, 0.5, 0.5
+this.successor,FIELD_ACCESS, line no: 27,this.value,FIELD_ACCESS, 0.25, 0.0, 0.0, 0.0, 0.5, 0.5
+successor,SIMPLE_NAME, line no: 27,setSuccessor,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.5, 0.5
+successor,SIMPLE_NAME, line no: 27,getSuccessor,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.5, 0.5
+successor,SIMPLE_NAME, line no: 27,setSuccessor,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.5, 0.5
+successor,SIMPLE_NAME, line no: 27,getSuccessor,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.5, 0.5
+hare.getSuccessor() == null,INFIX_EXPRESSION, line no: 18,tortoise.getSuccessor(),METHOD_INVOCATION, 0.24845199749997665, 0.0, 0.0, 0.0, 0.5555555555555556, 0.4472135954999579
+hare.getSuccessor() == null,INFIX_EXPRESSION, line no: 18,tortoise=tortoise.getSuccessor(),ASSIGNMENT, 0.22360679774997896, 0.0, 0.0, 0.0, 0.5, 0.4472135954999579
+value,SIMPLE_NAME, line no: 18,getValue,SIMPLE_NAME, 0.22360679774997896, 0.0, 0.0, 0.0, 0.5, 0.4472135954999579
+this.value=value,ASSIGNMENT, line no: 19,this.successor=null,ASSIGNMENT, 0.22360679774997896, 0.0, 0.0, 0.0, 0.5, 0.4472135954999579
+this.value,FIELD_ACCESS, line no: 19,this.successor,FIELD_ACCESS, 0.22360679774997896, 0.0, 0.0, 0.0, 0.5, 0.4472135954999579
+this.value,FIELD_ACCESS, line no: 19,this.successors,FIELD_ACCESS, 0.22360679774997896, 0.0, 0.0, 0.0, 0.5, 0.4472135954999579
+this.value,FIELD_ACCESS, line no: 19,this.predecessors,FIELD_ACCESS, 0.22360679774997896, 0.0, 0.0, 0.0, 0.5, 0.4472135954999579
+value,SIMPLE_NAME, line no: 19,getValue,SIMPLE_NAME, 0.22360679774997896, 0.0, 0.0, 0.0, 0.5, 0.4472135954999579
+value,SIMPLE_NAME, line no: 19,getValue,SIMPLE_NAME, 0.22360679774997896, 0.0, 0.0, 0.0, 0.5, 0.4472135954999579
+this.successor=null,ASSIGNMENT, line no: 20,this.value=value,ASSIGNMENT, 0.22360679774997896, 0.0, 0.0, 0.0, 0.5, 0.4472135954999579
+this.successor=null,ASSIGNMENT, line no: 20,this.successors=successors,ASSIGNMENT, 0.22360679774997896, 0.0, 0.0, 0.0, 0.5, 0.4472135954999579
+this.successor=null,ASSIGNMENT, line no: 20,this.predecessors=predecessors,ASSIGNMENT, 0.22360679774997896, 0.0, 0.0, 0.0, 0.5, 0.4472135954999579
+this.successor,FIELD_ACCESS, line no: 20,this.successors,FIELD_ACCESS, 0.22360679774997896, 0.0, 0.0, 0.0, 0.5, 0.4472135954999579
+this.successor,FIELD_ACCESS, line no: 20,this.predecessors,FIELD_ACCESS, 0.22360679774997896, 0.0, 0.0, 0.0, 0.5, 0.4472135954999579
+this.successor,FIELD_ACCESS, line no: 20,this.value,FIELD_ACCESS, 0.22360679774997896, 0.0, 0.0, 0.0, 0.5, 0.4472135954999579
+successor,SIMPLE_NAME, line no: 20,setSuccessor,SIMPLE_NAME, 0.22360679774997896, 0.0, 0.0, 0.0, 0.5, 0.4472135954999579
+successor,SIMPLE_NAME, line no: 20,getSuccessor,SIMPLE_NAME, 0.22360679774997896, 0.0, 0.0, 0.0, 0.5, 0.4472135954999579
+this.successors,FIELD_ACCESS, line no: 21,this.successor,FIELD_ACCESS, 0.22360679774997896, 0.0, 0.0, 0.0, 0.5, 0.4472135954999579
+this.successors,FIELD_ACCESS, line no: 21,this.predecessors,FIELD_ACCESS, 0.22360679774997896, 0.0, 0.0, 0.0, 0.5, 0.4472135954999579
+this.successors,FIELD_ACCESS, line no: 21,this.value,FIELD_ACCESS, 0.22360679774997896, 0.0, 0.0, 0.0, 0.5, 0.4472135954999579
+successors,SIMPLE_NAME, line no: 21,setSuccessors,SIMPLE_NAME, 0.22360679774997896, 0.0, 0.0, 0.0, 0.5, 0.4472135954999579
+successors,SIMPLE_NAME, line no: 21,getSuccessors,SIMPLE_NAME, 0.22360679774997896, 0.0, 0.0, 0.0, 0.5, 0.4472135954999579
+this.predecessors,FIELD_ACCESS, line no: 22,this.successor,FIELD_ACCESS, 0.22360679774997896, 0.0, 0.0, 0.0, 0.5, 0.4472135954999579
+this.predecessors,FIELD_ACCESS, line no: 22,this.successors,FIELD_ACCESS, 0.22360679774997896, 0.0, 0.0, 0.0, 0.5, 0.4472135954999579
+this.predecessors,FIELD_ACCESS, line no: 22,this.value,FIELD_ACCESS, 0.22360679774997896, 0.0, 0.0, 0.0, 0.5, 0.4472135954999579
+predecessors,SIMPLE_NAME, line no: 22,setPredecessors,SIMPLE_NAME, 0.22360679774997896, 0.0, 0.0, 0.0, 0.5, 0.4472135954999579
+predecessors,SIMPLE_NAME, line no: 22,getPredecessors,SIMPLE_NAME, 0.22360679774997896, 0.0, 0.0, 0.0, 0.5, 0.4472135954999579
+successor,SIMPLE_NAME, line no: 58,setSuccessor,SIMPLE_NAME, 0.22360679774997896, 0.0, 0.0, 0.0, 0.5, 0.4472135954999579
+successor,SIMPLE_NAME, line no: 58,getSuccessor,SIMPLE_NAME, 0.22360679774997896, 0.0, 0.0, 0.0, 0.5, 0.4472135954999579
+this.value=value,ASSIGNMENT, line no: 26,this.successor,FIELD_ACCESS, 0.2, 0.0, 0.0, 0.0, 0.4, 0.5
+this.value=value,ASSIGNMENT, line no: 26,this.successors,FIELD_ACCESS, 0.2, 0.0, 0.0, 0.0, 0.4, 0.5
+this.value=value,ASSIGNMENT, line no: 26,this.predecessors,FIELD_ACCESS, 0.2, 0.0, 0.0, 0.0, 0.4, 0.5
+this.value,FIELD_ACCESS, line no: 26,this.successor=successor,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.4, 0.5
+this.value,FIELD_ACCESS, line no: 26,this.successors=successors,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.4, 0.5
+this.value,FIELD_ACCESS, line no: 26,this.predecessors=predecessors,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.4, 0.5
+this.successor=successor,ASSIGNMENT, line no: 27,this.successors,FIELD_ACCESS, 0.2, 0.0, 0.0, 0.0, 0.4, 0.5
+this.successor=successor,ASSIGNMENT, line no: 27,this.predecessors,FIELD_ACCESS, 0.2, 0.0, 0.0, 0.0, 0.4, 0.5
+this.successor=successor,ASSIGNMENT, line no: 27,this.value,FIELD_ACCESS, 0.2, 0.0, 0.0, 0.0, 0.4, 0.5
+this.successor,FIELD_ACCESS, line no: 27,this.value=value,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.4, 0.5
+this.successor,FIELD_ACCESS, line no: 27,this.successors=successors,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.4, 0.5
+this.successor,FIELD_ACCESS, line no: 27,this.predecessors=predecessors,ASSIGNMENT, 0.2, 0.0, 0.0, 0.0, 0.4, 0.5
+this.value=value,ASSIGNMENT, line no: 19,this.successor,FIELD_ACCESS, 0.17888543819998318, 0.0, 0.0, 0.0, 0.4, 0.4472135954999579
+this.value=value,ASSIGNMENT, line no: 19,this.successors,FIELD_ACCESS, 0.17888543819998318, 0.0, 0.0, 0.0, 0.4, 0.4472135954999579
+this.value=value,ASSIGNMENT, line no: 19,this.predecessors,FIELD_ACCESS, 0.17888543819998318, 0.0, 0.0, 0.0, 0.4, 0.4472135954999579
+this.value,FIELD_ACCESS, line no: 19,this.successor=successor,ASSIGNMENT, 0.17888543819998318, 0.0, 0.0, 0.0, 0.4, 0.4472135954999579
+this.value,FIELD_ACCESS, line no: 19,this.successors=successors,ASSIGNMENT, 0.17888543819998318, 0.0, 0.0, 0.0, 0.4, 0.4472135954999579
+this.value,FIELD_ACCESS, line no: 19,this.predecessors=predecessors,ASSIGNMENT, 0.17888543819998318, 0.0, 0.0, 0.0, 0.4, 0.4472135954999579
+this.successor,FIELD_ACCESS, line no: 20,this.value=value,ASSIGNMENT, 0.17888543819998318, 0.0, 0.0, 0.0, 0.4, 0.4472135954999579
+this.successor,FIELD_ACCESS, line no: 20,this.successors=successors,ASSIGNMENT, 0.17888543819998318, 0.0, 0.0, 0.0, 0.4, 0.4472135954999579
+this.successor,FIELD_ACCESS, line no: 20,this.predecessors=predecessors,ASSIGNMENT, 0.17888543819998318, 0.0, 0.0, 0.0, 0.4, 0.4472135954999579
+this.successors,FIELD_ACCESS, line no: 21,this.value=value,ASSIGNMENT, 0.17888543819998318, 0.0, 0.0, 0.0, 0.4, 0.4472135954999579
+this.successors,FIELD_ACCESS, line no: 21,this.successor=successor,ASSIGNMENT, 0.17888543819998318, 0.0, 0.0, 0.0, 0.4, 0.4472135954999579
+this.successors,FIELD_ACCESS, line no: 21,this.predecessors=predecessors,ASSIGNMENT, 0.17888543819998318, 0.0, 0.0, 0.0, 0.4, 0.4472135954999579
+this.predecessors,FIELD_ACCESS, line no: 22,this.value=value,ASSIGNMENT, 0.17888543819998318, 0.0, 0.0, 0.0, 0.4, 0.4472135954999579
+this.predecessors,FIELD_ACCESS, line no: 22,this.successor=successor,ASSIGNMENT, 0.17888543819998318, 0.0, 0.0, 0.0, 0.4, 0.4472135954999579
+this.predecessors,FIELD_ACCESS, line no: 22,this.successors=successors,ASSIGNMENT, 0.17888543819998318, 0.0, 0.0, 0.0, 0.4, 0.4472135954999579
+tortoise,SIMPLE_NAME, line no: 21,hare == tortoise,INFIX_EXPRESSION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+tortoise.getSuccessor(),METHOD_INVOCATION, line no: 21,getSuccessor,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+tortoise,SIMPLE_NAME, line no: 21,hare == tortoise,INFIX_EXPRESSION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+getSuccessor,SIMPLE_NAME, line no: 21,hare.getSuccessor(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+getSuccessor,SIMPLE_NAME, line no: 21,tortoise.getSuccessor(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+getSuccessor,SIMPLE_NAME, line no: 21,hare.getSuccessor().getSuccessor(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+hare,SIMPLE_NAME, line no: 22,hare == tortoise,INFIX_EXPRESSION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+hare.getSuccessor().getSuccessor(),METHOD_INVOCATION, line no: 22,getSuccessor,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+hare.getSuccessor(),METHOD_INVOCATION, line no: 22,getSuccessor,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+hare,SIMPLE_NAME, line no: 22,hare == tortoise,INFIX_EXPRESSION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+getSuccessor,SIMPLE_NAME, line no: 22,hare.getSuccessor(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+getSuccessor,SIMPLE_NAME, line no: 22,tortoise.getSuccessor(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+getSuccessor,SIMPLE_NAME, line no: 22,hare.getSuccessor().getSuccessor(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+getSuccessor,SIMPLE_NAME, line no: 22,hare.getSuccessor(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+getSuccessor,SIMPLE_NAME, line no: 22,tortoise.getSuccessor(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+getSuccessor,SIMPLE_NAME, line no: 22,hare.getSuccessor().getSuccessor(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+hare == tortoise,INFIX_EXPRESSION, line no: 24,hare,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+hare == tortoise,INFIX_EXPRESSION, line no: 24,tortoise,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+hare,SIMPLE_NAME, line no: 24,hare == tortoise,INFIX_EXPRESSION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+tortoise,SIMPLE_NAME, line no: 24,hare == tortoise,INFIX_EXPRESSION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+value,SIMPLE_NAME, line no: 25,this.value,FIELD_ACCESS, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+successor,SIMPLE_NAME, line no: 25,this.successor,FIELD_ACCESS, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+this.value,FIELD_ACCESS, line no: 26,value,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+this.value,FIELD_ACCESS, line no: 26,this.successor=null,ASSIGNMENT, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+this.value,FIELD_ACCESS, line no: 26,this,THIS_EXPRESSION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+this,THIS_EXPRESSION, line no: 26,this.successor,FIELD_ACCESS, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+this,THIS_EXPRESSION, line no: 26,this.successors,FIELD_ACCESS, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+this,THIS_EXPRESSION, line no: 26,this.predecessors,FIELD_ACCESS, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+this,THIS_EXPRESSION, line no: 26,this.value,FIELD_ACCESS, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+value,SIMPLE_NAME, line no: 26,this.value,FIELD_ACCESS, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+value,SIMPLE_NAME, line no: 26,this.value,FIELD_ACCESS, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+this.successor,FIELD_ACCESS, line no: 27,successor,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+this.successor,FIELD_ACCESS, line no: 27,this,THIS_EXPRESSION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+this.successor,FIELD_ACCESS, line no: 27,this.value=null,ASSIGNMENT, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+this,THIS_EXPRESSION, line no: 27,this.successor,FIELD_ACCESS, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+this,THIS_EXPRESSION, line no: 27,this.successors,FIELD_ACCESS, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+this,THIS_EXPRESSION, line no: 27,this.predecessors,FIELD_ACCESS, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+this,THIS_EXPRESSION, line no: 27,this.value,FIELD_ACCESS, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+successor,SIMPLE_NAME, line no: 27,this.successor,FIELD_ACCESS, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+successor,SIMPLE_NAME, line no: 27,this.successor,FIELD_ACCESS, 0.16666666666666666, 0.0, 0.0, 0.0, 0.3333333333333333, 0.5
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,this.successors=successors,ASSIGNMENT, 0.16262312563634834, 0.0, 0.0, 0.0, 0.36363636363636365, 0.4472135954999579
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,this.predecessors=predecessors,ASSIGNMENT, 0.16262312563634834, 0.0, 0.0, 0.0, 0.36363636363636365, 0.4472135954999579
+hare,SIMPLE_NAME, line no: 14,hare == tortoise,INFIX_EXPRESSION, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+tortoise,SIMPLE_NAME, line no: 15,hare == tortoise,INFIX_EXPRESSION, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+hare.getSuccessor(),METHOD_INVOCATION, line no: 18,getSuccessor,SIMPLE_NAME, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+hare,SIMPLE_NAME, line no: 18,hare == tortoise,INFIX_EXPRESSION, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+getSuccessor,SIMPLE_NAME, line no: 18,hare.getSuccessor(),METHOD_INVOCATION, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+getSuccessor,SIMPLE_NAME, line no: 18,tortoise.getSuccessor(),METHOD_INVOCATION, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+getSuccessor,SIMPLE_NAME, line no: 18,hare.getSuccessor().getSuccessor(),METHOD_INVOCATION, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+value,SIMPLE_NAME, line no: 18,this.value,FIELD_ACCESS, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this.value,FIELD_ACCESS, line no: 19,value,SIMPLE_NAME, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this.value,FIELD_ACCESS, line no: 19,this.successor=null,ASSIGNMENT, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this.value,FIELD_ACCESS, line no: 19,this,THIS_EXPRESSION, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 19,this.successor,FIELD_ACCESS, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 19,this.successors,FIELD_ACCESS, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 19,this.predecessors,FIELD_ACCESS, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 19,this.value,FIELD_ACCESS, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+value,SIMPLE_NAME, line no: 19,this.value,FIELD_ACCESS, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+value,SIMPLE_NAME, line no: 19,this.value,FIELD_ACCESS, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this.successor=null,ASSIGNMENT, line no: 20,this.successors,FIELD_ACCESS, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this.successor=null,ASSIGNMENT, line no: 20,this.predecessors,FIELD_ACCESS, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this.successor=null,ASSIGNMENT, line no: 20,this.value,FIELD_ACCESS, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this.successor,FIELD_ACCESS, line no: 20,successor,SIMPLE_NAME, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this.successor,FIELD_ACCESS, line no: 20,this,THIS_EXPRESSION, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this.successor,FIELD_ACCESS, line no: 20,this.value=null,ASSIGNMENT, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 20,this.successor,FIELD_ACCESS, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 20,this.successors,FIELD_ACCESS, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 20,this.predecessors,FIELD_ACCESS, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 20,this.value,FIELD_ACCESS, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+successor,SIMPLE_NAME, line no: 20,this.successor,FIELD_ACCESS, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this.successors,FIELD_ACCESS, line no: 21,successors,SIMPLE_NAME, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this.successors,FIELD_ACCESS, line no: 21,this.successor=null,ASSIGNMENT, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this.successors,FIELD_ACCESS, line no: 21,this,THIS_EXPRESSION, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this.successors,FIELD_ACCESS, line no: 21,this.value=null,ASSIGNMENT, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 21,this.successor,FIELD_ACCESS, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 21,this.successors,FIELD_ACCESS, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 21,this.predecessors,FIELD_ACCESS, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 21,this.value,FIELD_ACCESS, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+successors,SIMPLE_NAME, line no: 21,this.successors,FIELD_ACCESS, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this.predecessors,FIELD_ACCESS, line no: 22,predecessors,SIMPLE_NAME, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this.predecessors,FIELD_ACCESS, line no: 22,this.successor=null,ASSIGNMENT, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this.predecessors,FIELD_ACCESS, line no: 22,this,THIS_EXPRESSION, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this.predecessors,FIELD_ACCESS, line no: 22,this.value=null,ASSIGNMENT, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 22,this.successor,FIELD_ACCESS, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 22,this.successors,FIELD_ACCESS, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 22,this.predecessors,FIELD_ACCESS, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 22,this.value,FIELD_ACCESS, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+predecessors,SIMPLE_NAME, line no: 22,this.predecessors,FIELD_ACCESS, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+successor,SIMPLE_NAME, line no: 58,this.successor,FIELD_ACCESS, 0.14907119849998596, 0.0, 0.0, 0.0, 0.3333333333333333, 0.4472135954999579
+tortoise=tortoise.getSuccessor(),ASSIGNMENT, line no: 21,getSuccessor,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.2857142857142857, 0.5
+getSuccessor,SIMPLE_NAME, line no: 21,tortoise=tortoise.getSuccessor(),ASSIGNMENT, 0.14285714285714285, 0.0, 0.0, 0.0, 0.2857142857142857, 0.5
+getSuccessor,SIMPLE_NAME, line no: 21,hare=hare.getSuccessor().getSuccessor(),ASSIGNMENT, 0.14285714285714285, 0.0, 0.0, 0.0, 0.2857142857142857, 0.5
+hare=hare.getSuccessor().getSuccessor(),ASSIGNMENT, line no: 22,getSuccessor,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.2857142857142857, 0.5
+getSuccessor,SIMPLE_NAME, line no: 22,tortoise=tortoise.getSuccessor(),ASSIGNMENT, 0.14285714285714285, 0.0, 0.0, 0.0, 0.2857142857142857, 0.5
+getSuccessor,SIMPLE_NAME, line no: 22,hare=hare.getSuccessor().getSuccessor(),ASSIGNMENT, 0.14285714285714285, 0.0, 0.0, 0.0, 0.2857142857142857, 0.5
+getSuccessor,SIMPLE_NAME, line no: 22,tortoise=tortoise.getSuccessor(),ASSIGNMENT, 0.14285714285714285, 0.0, 0.0, 0.0, 0.2857142857142857, 0.5
+getSuccessor,SIMPLE_NAME, line no: 22,hare=hare.getSuccessor().getSuccessor(),ASSIGNMENT, 0.14285714285714285, 0.0, 0.0, 0.0, 0.2857142857142857, 0.5
+getSuccessor,SIMPLE_NAME, line no: 18,tortoise=tortoise.getSuccessor(),ASSIGNMENT, 0.12777531299998798, 0.0, 0.0, 0.0, 0.2857142857142857, 0.4472135954999579
+getSuccessor,SIMPLE_NAME, line no: 18,hare=hare.getSuccessor().getSuccessor(),ASSIGNMENT, 0.12777531299998798, 0.0, 0.0, 0.0, 0.2857142857142857, 0.4472135954999579
+new ArrayList<>(),CLASS_INSTANCE_CREATION, line no: 21,ArrayList,SIMPLE_NAME, 0.12777531299998798, 0.0, 0.0, 0.0, 0.2857142857142857, 0.4472135954999579
+ArrayList,SIMPLE_NAME, line no: 21,new ArrayList<>(),CLASS_INSTANCE_CREATION, 0.12777531299998798, 0.0, 0.0, 0.0, 0.2857142857142857, 0.4472135954999579
+new ArrayList<>(),CLASS_INSTANCE_CREATION, line no: 22,ArrayList,SIMPLE_NAME, 0.12777531299998798, 0.0, 0.0, 0.0, 0.2857142857142857, 0.4472135954999579
+ArrayList,SIMPLE_NAME, line no: 22,new ArrayList<>(),CLASS_INSTANCE_CREATION, 0.12777531299998798, 0.0, 0.0, 0.0, 0.2857142857142857, 0.4472135954999579
+getSuccessor,SIMPLE_NAME, line no: 21,hare.getSuccessor() == null,INFIX_EXPRESSION, 0.125, 0.0, 0.0, 0.0, 0.25, 0.5
+getSuccessor,SIMPLE_NAME, line no: 22,hare.getSuccessor() == null,INFIX_EXPRESSION, 0.125, 0.0, 0.0, 0.0, 0.25, 0.5
+getSuccessor,SIMPLE_NAME, line no: 22,hare.getSuccessor() == null,INFIX_EXPRESSION, 0.125, 0.0, 0.0, 0.0, 0.25, 0.5
+value,SIMPLE_NAME, line no: 25,this.value=value,ASSIGNMENT, 0.125, 0.0, 0.0, 0.0, 0.25, 0.5
+successor,SIMPLE_NAME, line no: 25,this.successor=successor,ASSIGNMENT, 0.125, 0.0, 0.0, 0.0, 0.25, 0.5
+this.value=value,ASSIGNMENT, line no: 26,value,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.25, 0.5
+this.value=value,ASSIGNMENT, line no: 26,this,THIS_EXPRESSION, 0.125, 0.0, 0.0, 0.0, 0.25, 0.5
+this.value=value,ASSIGNMENT, line no: 26,this.successors=new ArrayList<>(),ASSIGNMENT, 0.125, 0.0, 0.0, 0.0, 0.25, 0.5
+this.value=value,ASSIGNMENT, line no: 26,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.125, 0.0, 0.0, 0.0, 0.25, 0.5
+this.value,FIELD_ACCESS, line no: 26,getValue,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.25, 0.5
+this,THIS_EXPRESSION, line no: 26,this.value=value,ASSIGNMENT, 0.125, 0.0, 0.0, 0.0, 0.25, 0.5
+this,THIS_EXPRESSION, line no: 26,this.successor=successor,ASSIGNMENT, 0.125, 0.0, 0.0, 0.0, 0.25, 0.5
+this,THIS_EXPRESSION, line no: 26,this.successors=successors,ASSIGNMENT, 0.125, 0.0, 0.0, 0.0, 0.25, 0.5
+this,THIS_EXPRESSION, line no: 26,this.predecessors=predecessors,ASSIGNMENT, 0.125, 0.0, 0.0, 0.0, 0.25, 0.5
+value,SIMPLE_NAME, line no: 26,this.value=value,ASSIGNMENT, 0.125, 0.0, 0.0, 0.0, 0.25, 0.5
+value,SIMPLE_NAME, line no: 26,this.value=value,ASSIGNMENT, 0.125, 0.0, 0.0, 0.0, 0.25, 0.5
+this.successor=successor,ASSIGNMENT, line no: 27,successor,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.25, 0.5
+this.successor=successor,ASSIGNMENT, line no: 27,this,THIS_EXPRESSION, 0.125, 0.0, 0.0, 0.0, 0.25, 0.5
+this.successor=successor,ASSIGNMENT, line no: 27,this.successors=new ArrayList<>(),ASSIGNMENT, 0.125, 0.0, 0.0, 0.0, 0.25, 0.5
+this.successor=successor,ASSIGNMENT, line no: 27,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.125, 0.0, 0.0, 0.0, 0.25, 0.5
+this.successor,FIELD_ACCESS, line no: 27,setSuccessor,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.25, 0.5
+this.successor,FIELD_ACCESS, line no: 27,getSuccessor,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.25, 0.5
+this,THIS_EXPRESSION, line no: 27,this.value=value,ASSIGNMENT, 0.125, 0.0, 0.0, 0.0, 0.25, 0.5
+this,THIS_EXPRESSION, line no: 27,this.successor=successor,ASSIGNMENT, 0.125, 0.0, 0.0, 0.0, 0.25, 0.5
+this,THIS_EXPRESSION, line no: 27,this.successors=successors,ASSIGNMENT, 0.125, 0.0, 0.0, 0.0, 0.25, 0.5
+this,THIS_EXPRESSION, line no: 27,this.predecessors=predecessors,ASSIGNMENT, 0.125, 0.0, 0.0, 0.0, 0.25, 0.5
+successor,SIMPLE_NAME, line no: 27,this.successor=successor,ASSIGNMENT, 0.125, 0.0, 0.0, 0.0, 0.25, 0.5
+successor,SIMPLE_NAME, line no: 27,this.successor=successor,ASSIGNMENT, 0.125, 0.0, 0.0, 0.0, 0.25, 0.5
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,this.successors,FIELD_ACCESS, 0.12196734422726124, 0.0, 0.0, 0.0, 0.2727272727272727, 0.4472135954999579
+this.successors,FIELD_ACCESS, line no: 21,this.successors=new ArrayList<>(),ASSIGNMENT, 0.12196734422726124, 0.0, 0.0, 0.0, 0.2727272727272727, 0.4472135954999579
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,this.predecessors,FIELD_ACCESS, 0.12196734422726124, 0.0, 0.0, 0.0, 0.2727272727272727, 0.4472135954999579
+this.predecessors,FIELD_ACCESS, line no: 22,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.12196734422726124, 0.0, 0.0, 0.0, 0.2727272727272727, 0.4472135954999579
+this.value=value,ASSIGNMENT, line no: 26,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.11538461538461539, 0.0, 0.0, 0.0, 0.23076923076923078, 0.5
+this.value=value,ASSIGNMENT, line no: 26,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.11538461538461539, 0.0, 0.0, 0.0, 0.23076923076923078, 0.5
+this.successor=successor,ASSIGNMENT, line no: 27,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.11538461538461539, 0.0, 0.0, 0.0, 0.23076923076923078, 0.5
+this.successor=successor,ASSIGNMENT, line no: 27,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.11538461538461539, 0.0, 0.0, 0.0, 0.23076923076923078, 0.5
+hare.getSuccessor() == null,INFIX_EXPRESSION, line no: 18,getSuccessor,SIMPLE_NAME, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+getSuccessor,SIMPLE_NAME, line no: 18,hare.getSuccessor() == null,INFIX_EXPRESSION, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+value,SIMPLE_NAME, line no: 18,this.value=value,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this.value=value,ASSIGNMENT, line no: 19,value,SIMPLE_NAME, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this.value=value,ASSIGNMENT, line no: 19,this,THIS_EXPRESSION, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this.value=value,ASSIGNMENT, line no: 19,this.successors=new ArrayList<>(),ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this.value=value,ASSIGNMENT, line no: 19,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this.value,FIELD_ACCESS, line no: 19,getValue,SIMPLE_NAME, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 19,this.value=value,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 19,this.successor=successor,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 19,this.successors=successors,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 19,this.predecessors=predecessors,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+value,SIMPLE_NAME, line no: 19,this.value=value,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+value,SIMPLE_NAME, line no: 19,this.value=value,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this.successor,FIELD_ACCESS, line no: 20,setSuccessor,SIMPLE_NAME, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this.successor,FIELD_ACCESS, line no: 20,getSuccessor,SIMPLE_NAME, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 20,this.value=value,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 20,this.successor=successor,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 20,this.successors=successors,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 20,this.predecessors=predecessors,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+successor,SIMPLE_NAME, line no: 20,this.successor=successor,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,this.value=value,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,this.successor=successor,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,this.predecessors=predecessors,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this.successors,FIELD_ACCESS, line no: 21,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this.successors,FIELD_ACCESS, line no: 21,setSuccessors,SIMPLE_NAME, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this.successors,FIELD_ACCESS, line no: 21,getSuccessors,SIMPLE_NAME, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 21,this.value=value,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 21,this.successor=successor,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 21,this.successors=successors,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 21,this.predecessors=predecessors,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+successors,SIMPLE_NAME, line no: 21,this.successors=successors,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+ArrayList,SIMPLE_NAME, line no: 21,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,this.value=value,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,this.successor=successor,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,this.successors=successors,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this.predecessors,FIELD_ACCESS, line no: 22,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this.predecessors,FIELD_ACCESS, line no: 22,setPredecessors,SIMPLE_NAME, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this.predecessors,FIELD_ACCESS, line no: 22,getPredecessors,SIMPLE_NAME, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 22,this.value=value,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 22,this.successor=successor,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 22,this.successors=successors,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 22,this.predecessors=predecessors,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+predecessors,SIMPLE_NAME, line no: 22,this.predecessors=predecessors,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+ArrayList,SIMPLE_NAME, line no: 22,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+successor,SIMPLE_NAME, line no: 58,this.successor=successor,ASSIGNMENT, 0.11180339887498948, 0.0, 0.0, 0.0, 0.25, 0.4472135954999579
+hare == tortoise,INFIX_EXPRESSION, line no: 24,hare.getSuccessor() == null,INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.2222222222222222, 0.5
+this.value=value,ASSIGNMENT, line no: 19,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.10320313742306722, 0.0, 0.0, 0.0, 0.23076923076923078, 0.4472135954999579
+this.value=value,ASSIGNMENT, line no: 19,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.10320313742306722, 0.0, 0.0, 0.0, 0.23076923076923078, 0.4472135954999579
+this.successor=null,ASSIGNMENT, line no: 20,this.successors=new ArrayList<>(),ASSIGNMENT, 0.10320313742306722, 0.0, 0.0, 0.0, 0.23076923076923078, 0.4472135954999579
+this.successor=null,ASSIGNMENT, line no: 20,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.10320313742306722, 0.0, 0.0, 0.0, 0.23076923076923078, 0.4472135954999579
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,this.successor=null,ASSIGNMENT, 0.10320313742306722, 0.0, 0.0, 0.0, 0.23076923076923078, 0.4472135954999579
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,this.value=null,ASSIGNMENT, 0.10320313742306722, 0.0, 0.0, 0.0, 0.23076923076923078, 0.4472135954999579
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,this.successor=null,ASSIGNMENT, 0.10320313742306722, 0.0, 0.0, 0.0, 0.23076923076923078, 0.4472135954999579
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,this.value=null,ASSIGNMENT, 0.10320313742306722, 0.0, 0.0, 0.0, 0.23076923076923078, 0.4472135954999579
+value,SIMPLE_NAME, line no: 25,this.value=null,ASSIGNMENT, 0.1, 0.0, 0.0, 0.0, 0.2, 0.5
+successor,SIMPLE_NAME, line no: 25,this.successor=null,ASSIGNMENT, 0.1, 0.0, 0.0, 0.0, 0.2, 0.5
+this.value=value,ASSIGNMENT, line no: 26,getValue,SIMPLE_NAME, 0.1, 0.0, 0.0, 0.0, 0.2, 0.5
+this.value,FIELD_ACCESS, line no: 26,java.util,QUALIFIED_NAME, 0.1, 0.0, 0.0, 0.0, 0.2, 0.5
+this,THIS_EXPRESSION, line no: 26,this.successor=null,ASSIGNMENT, 0.1, 0.0, 0.0, 0.0, 0.2, 0.5
+this,THIS_EXPRESSION, line no: 26,this.value=null,ASSIGNMENT, 0.1, 0.0, 0.0, 0.0, 0.2, 0.5
+value,SIMPLE_NAME, line no: 26,this.value=null,ASSIGNMENT, 0.1, 0.0, 0.0, 0.0, 0.2, 0.5
+value,SIMPLE_NAME, line no: 26,this.value=null,ASSIGNMENT, 0.1, 0.0, 0.0, 0.0, 0.2, 0.5
+this.successor=successor,ASSIGNMENT, line no: 27,setSuccessor,SIMPLE_NAME, 0.1, 0.0, 0.0, 0.0, 0.2, 0.5
+this.successor=successor,ASSIGNMENT, line no: 27,getSuccessor,SIMPLE_NAME, 0.1, 0.0, 0.0, 0.0, 0.2, 0.5
+this.successor,FIELD_ACCESS, line no: 27,java.util,QUALIFIED_NAME, 0.1, 0.0, 0.0, 0.0, 0.2, 0.5
+this,THIS_EXPRESSION, line no: 27,this.successor=null,ASSIGNMENT, 0.1, 0.0, 0.0, 0.0, 0.2, 0.5
+this,THIS_EXPRESSION, line no: 27,this.value=null,ASSIGNMENT, 0.1, 0.0, 0.0, 0.0, 0.2, 0.5
+successor,SIMPLE_NAME, line no: 27,this.successor=null,ASSIGNMENT, 0.1, 0.0, 0.0, 0.0, 0.2, 0.5
+successor,SIMPLE_NAME, line no: 27,this.successor=null,ASSIGNMENT, 0.1, 0.0, 0.0, 0.0, 0.2, 0.5
+hare.getSuccessor() == null,INFIX_EXPRESSION, line no: 18,hare == tortoise,INFIX_EXPRESSION, 0.09938079899999064, 0.0, 0.0, 0.0, 0.2222222222222222, 0.4472135954999579
+this.successor=null,ASSIGNMENT, line no: 20,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.09583148474999098, 0.0, 0.0, 0.0, 0.21428571428571427, 0.4472135954999579
+this.successor=null,ASSIGNMENT, line no: 20,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.09583148474999098, 0.0, 0.0, 0.0, 0.21428571428571427, 0.4472135954999579
+value,SIMPLE_NAME, line no: 18,this.value=null,ASSIGNMENT, 0.08944271909999159, 0.0, 0.0, 0.0, 0.2, 0.4472135954999579
+this.value=value,ASSIGNMENT, line no: 19,getValue,SIMPLE_NAME, 0.08944271909999159, 0.0, 0.0, 0.0, 0.2, 0.4472135954999579
+this.value,FIELD_ACCESS, line no: 19,java.util,QUALIFIED_NAME, 0.08944271909999159, 0.0, 0.0, 0.0, 0.2, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 19,this.successor=null,ASSIGNMENT, 0.08944271909999159, 0.0, 0.0, 0.0, 0.2, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 19,this.value=null,ASSIGNMENT, 0.08944271909999159, 0.0, 0.0, 0.0, 0.2, 0.4472135954999579
+value,SIMPLE_NAME, line no: 19,this.value=null,ASSIGNMENT, 0.08944271909999159, 0.0, 0.0, 0.0, 0.2, 0.4472135954999579
+value,SIMPLE_NAME, line no: 19,this.value=null,ASSIGNMENT, 0.08944271909999159, 0.0, 0.0, 0.0, 0.2, 0.4472135954999579
+this.successor=null,ASSIGNMENT, line no: 20,successor,SIMPLE_NAME, 0.08944271909999159, 0.0, 0.0, 0.0, 0.2, 0.4472135954999579
+this.successor=null,ASSIGNMENT, line no: 20,this,THIS_EXPRESSION, 0.08944271909999159, 0.0, 0.0, 0.0, 0.2, 0.4472135954999579
+this.successor=null,ASSIGNMENT, line no: 20,null,NULL_LITERAL, 0.08944271909999159, 0.0, 0.0, 0.0, 0.2, 0.4472135954999579
+this.successor,FIELD_ACCESS, line no: 20,java.util,QUALIFIED_NAME, 0.08944271909999159, 0.0, 0.0, 0.0, 0.2, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 20,this.successor=null,ASSIGNMENT, 0.08944271909999159, 0.0, 0.0, 0.0, 0.2, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 20,this.value=null,ASSIGNMENT, 0.08944271909999159, 0.0, 0.0, 0.0, 0.2, 0.4472135954999579
+successor,SIMPLE_NAME, line no: 20,this.successor=null,ASSIGNMENT, 0.08944271909999159, 0.0, 0.0, 0.0, 0.2, 0.4472135954999579
+null,NULL_LITERAL, line no: 20,this.successor=null,ASSIGNMENT, 0.08944271909999159, 0.0, 0.0, 0.0, 0.2, 0.4472135954999579
+null,NULL_LITERAL, line no: 20,this.value=null,ASSIGNMENT, 0.08944271909999159, 0.0, 0.0, 0.0, 0.2, 0.4472135954999579
+this.successors,FIELD_ACCESS, line no: 21,java.util,QUALIFIED_NAME, 0.08944271909999159, 0.0, 0.0, 0.0, 0.2, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 21,this.successor=null,ASSIGNMENT, 0.08944271909999159, 0.0, 0.0, 0.0, 0.2, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 21,this.value=null,ASSIGNMENT, 0.08944271909999159, 0.0, 0.0, 0.0, 0.2, 0.4472135954999579
+this.predecessors,FIELD_ACCESS, line no: 22,java.util,QUALIFIED_NAME, 0.08944271909999159, 0.0, 0.0, 0.0, 0.2, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 22,this.successor=null,ASSIGNMENT, 0.08944271909999159, 0.0, 0.0, 0.0, 0.2, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 22,this.value=null,ASSIGNMENT, 0.08944271909999159, 0.0, 0.0, 0.0, 0.2, 0.4472135954999579
+successor,SIMPLE_NAME, line no: 58,this.successor=null,ASSIGNMENT, 0.08944271909999159, 0.0, 0.0, 0.0, 0.2, 0.4472135954999579
+tortoise,SIMPLE_NAME, line no: 21,tortoise.getSuccessor(),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.16666666666666666, 0.5
+tortoise.getSuccessor(),METHOD_INVOCATION, line no: 21,tortoise,SIMPLE_NAME, 0.08333333333333333, 0.0, 0.0, 0.0, 0.16666666666666666, 0.5
+tortoise,SIMPLE_NAME, line no: 21,tortoise.getSuccessor(),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.16666666666666666, 0.5
+hare,SIMPLE_NAME, line no: 22,hare.getSuccessor(),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.16666666666666666, 0.5
+hare,SIMPLE_NAME, line no: 22,hare.getSuccessor().getSuccessor(),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.16666666666666666, 0.5
+hare.getSuccessor().getSuccessor(),METHOD_INVOCATION, line no: 22,hare,SIMPLE_NAME, 0.08333333333333333, 0.0, 0.0, 0.0, 0.16666666666666666, 0.5
+hare.getSuccessor(),METHOD_INVOCATION, line no: 22,hare,SIMPLE_NAME, 0.08333333333333333, 0.0, 0.0, 0.0, 0.16666666666666666, 0.5
+hare,SIMPLE_NAME, line no: 22,hare.getSuccessor(),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.16666666666666666, 0.5
+hare,SIMPLE_NAME, line no: 22,hare.getSuccessor().getSuccessor(),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.16666666666666666, 0.5
+hare,SIMPLE_NAME, line no: 24,hare.getSuccessor(),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.16666666666666666, 0.5
+hare,SIMPLE_NAME, line no: 24,hare.getSuccessor().getSuccessor(),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.16666666666666666, 0.5
+tortoise,SIMPLE_NAME, line no: 24,tortoise.getSuccessor(),METHOD_INVOCATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.16666666666666666, 0.5
+this.value=value,ASSIGNMENT, line no: 26,java.util,QUALIFIED_NAME, 0.08333333333333333, 0.0, 0.0, 0.0, 0.16666666666666666, 0.5
+this.value,FIELD_ACCESS, line no: 26,this.successors=new ArrayList<>(),ASSIGNMENT, 0.08333333333333333, 0.0, 0.0, 0.0, 0.16666666666666666, 0.5
+this.value,FIELD_ACCESS, line no: 26,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.08333333333333333, 0.0, 0.0, 0.0, 0.16666666666666666, 0.5
+this.successor=successor,ASSIGNMENT, line no: 27,java.util,QUALIFIED_NAME, 0.08333333333333333, 0.0, 0.0, 0.0, 0.16666666666666666, 0.5
+this.successor,FIELD_ACCESS, line no: 27,this.successors=new ArrayList<>(),ASSIGNMENT, 0.08333333333333333, 0.0, 0.0, 0.0, 0.16666666666666666, 0.5
+this.successor,FIELD_ACCESS, line no: 27,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.08333333333333333, 0.0, 0.0, 0.0, 0.16666666666666666, 0.5
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,ArrayList,SIMPLE_NAME, 0.08131156281817417, 0.0, 0.0, 0.0, 0.18181818181818182, 0.4472135954999579
+ArrayList,SIMPLE_NAME, line no: 21,this.successors=new ArrayList<>(),ASSIGNMENT, 0.08131156281817417, 0.0, 0.0, 0.0, 0.18181818181818182, 0.4472135954999579
+ArrayList,SIMPLE_NAME, line no: 21,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.08131156281817417, 0.0, 0.0, 0.0, 0.18181818181818182, 0.4472135954999579
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,ArrayList,SIMPLE_NAME, 0.08131156281817417, 0.0, 0.0, 0.0, 0.18181818181818182, 0.4472135954999579
+ArrayList,SIMPLE_NAME, line no: 22,this.successors=new ArrayList<>(),ASSIGNMENT, 0.08131156281817417, 0.0, 0.0, 0.0, 0.18181818181818182, 0.4472135954999579
+ArrayList,SIMPLE_NAME, line no: 22,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.08131156281817417, 0.0, 0.0, 0.0, 0.18181818181818182, 0.4472135954999579
+this.value,FIELD_ACCESS, line no: 26,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.07692307692307693, 0.0, 0.0, 0.0, 0.15384615384615385, 0.5
+this.value,FIELD_ACCESS, line no: 26,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.07692307692307693, 0.0, 0.0, 0.0, 0.15384615384615385, 0.5
+this.successor,FIELD_ACCESS, line no: 27,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.07692307692307693, 0.0, 0.0, 0.0, 0.15384615384615385, 0.5
+this.successor,FIELD_ACCESS, line no: 27,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.07692307692307693, 0.0, 0.0, 0.0, 0.15384615384615385, 0.5
+hare,SIMPLE_NAME, line no: 14,hare.getSuccessor(),METHOD_INVOCATION, 0.07453559924999298, 0.0, 0.0, 0.0, 0.16666666666666666, 0.4472135954999579
+hare,SIMPLE_NAME, line no: 14,hare.getSuccessor().getSuccessor(),METHOD_INVOCATION, 0.07453559924999298, 0.0, 0.0, 0.0, 0.16666666666666666, 0.4472135954999579
+tortoise,SIMPLE_NAME, line no: 15,tortoise.getSuccessor(),METHOD_INVOCATION, 0.07453559924999298, 0.0, 0.0, 0.0, 0.16666666666666666, 0.4472135954999579
+hare.getSuccessor(),METHOD_INVOCATION, line no: 18,hare,SIMPLE_NAME, 0.07453559924999298, 0.0, 0.0, 0.0, 0.16666666666666666, 0.4472135954999579
+hare,SIMPLE_NAME, line no: 18,hare.getSuccessor(),METHOD_INVOCATION, 0.07453559924999298, 0.0, 0.0, 0.0, 0.16666666666666666, 0.4472135954999579
+hare,SIMPLE_NAME, line no: 18,hare.getSuccessor().getSuccessor(),METHOD_INVOCATION, 0.07453559924999298, 0.0, 0.0, 0.0, 0.16666666666666666, 0.4472135954999579
+this.value=value,ASSIGNMENT, line no: 19,java.util,QUALIFIED_NAME, 0.07453559924999298, 0.0, 0.0, 0.0, 0.16666666666666666, 0.4472135954999579
+this.value,FIELD_ACCESS, line no: 19,this.successors=new ArrayList<>(),ASSIGNMENT, 0.07453559924999298, 0.0, 0.0, 0.0, 0.16666666666666666, 0.4472135954999579
+this.value,FIELD_ACCESS, line no: 19,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.07453559924999298, 0.0, 0.0, 0.0, 0.16666666666666666, 0.4472135954999579
+this.successor=null,ASSIGNMENT, line no: 20,setSuccessor,SIMPLE_NAME, 0.07453559924999298, 0.0, 0.0, 0.0, 0.16666666666666666, 0.4472135954999579
+this.successor=null,ASSIGNMENT, line no: 20,getSuccessor,SIMPLE_NAME, 0.07453559924999298, 0.0, 0.0, 0.0, 0.16666666666666666, 0.4472135954999579
+this.successor,FIELD_ACCESS, line no: 20,this.successors=new ArrayList<>(),ASSIGNMENT, 0.07453559924999298, 0.0, 0.0, 0.0, 0.16666666666666666, 0.4472135954999579
+this.successor,FIELD_ACCESS, line no: 20,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.07453559924999298, 0.0, 0.0, 0.0, 0.16666666666666666, 0.4472135954999579
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,this.successor,FIELD_ACCESS, 0.07453559924999298, 0.0, 0.0, 0.0, 0.16666666666666666, 0.4472135954999579
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,this.predecessors,FIELD_ACCESS, 0.07453559924999298, 0.0, 0.0, 0.0, 0.16666666666666666, 0.4472135954999579
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,this.value,FIELD_ACCESS, 0.07453559924999298, 0.0, 0.0, 0.0, 0.16666666666666666, 0.4472135954999579
+this.successors,FIELD_ACCESS, line no: 21,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.07453559924999298, 0.0, 0.0, 0.0, 0.16666666666666666, 0.4472135954999579
+ArrayList,SIMPLE_NAME, line no: 21,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.07453559924999298, 0.0, 0.0, 0.0, 0.16666666666666666, 0.4472135954999579
+ArrayList,SIMPLE_NAME, line no: 21,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.07453559924999298, 0.0, 0.0, 0.0, 0.16666666666666666, 0.4472135954999579
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,this.successor,FIELD_ACCESS, 0.07453559924999298, 0.0, 0.0, 0.0, 0.16666666666666666, 0.4472135954999579
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,this.successors,FIELD_ACCESS, 0.07453559924999298, 0.0, 0.0, 0.0, 0.16666666666666666, 0.4472135954999579
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,this.value,FIELD_ACCESS, 0.07453559924999298, 0.0, 0.0, 0.0, 0.16666666666666666, 0.4472135954999579
+this.predecessors,FIELD_ACCESS, line no: 22,this.successors=new ArrayList<>(),ASSIGNMENT, 0.07453559924999298, 0.0, 0.0, 0.0, 0.16666666666666666, 0.4472135954999579
+ArrayList,SIMPLE_NAME, line no: 22,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.07453559924999298, 0.0, 0.0, 0.0, 0.16666666666666666, 0.4472135954999579
+ArrayList,SIMPLE_NAME, line no: 22,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.07453559924999298, 0.0, 0.0, 0.0, 0.16666666666666666, 0.4472135954999579
+tortoise=tortoise.getSuccessor(),ASSIGNMENT, line no: 21,tortoise,SIMPLE_NAME, 0.07142857142857142, 0.0, 0.0, 0.0, 0.14285714285714285, 0.5
+tortoise,SIMPLE_NAME, line no: 21,tortoise=tortoise.getSuccessor(),ASSIGNMENT, 0.07142857142857142, 0.0, 0.0, 0.0, 0.14285714285714285, 0.5
+tortoise,SIMPLE_NAME, line no: 21,tortoise=tortoise.getSuccessor(),ASSIGNMENT, 0.07142857142857142, 0.0, 0.0, 0.0, 0.14285714285714285, 0.5
+hare=hare.getSuccessor().getSuccessor(),ASSIGNMENT, line no: 22,hare,SIMPLE_NAME, 0.07142857142857142, 0.0, 0.0, 0.0, 0.14285714285714285, 0.5
+hare,SIMPLE_NAME, line no: 22,hare=hare.getSuccessor().getSuccessor(),ASSIGNMENT, 0.07142857142857142, 0.0, 0.0, 0.0, 0.14285714285714285, 0.5
+hare,SIMPLE_NAME, line no: 22,hare=hare.getSuccessor().getSuccessor(),ASSIGNMENT, 0.07142857142857142, 0.0, 0.0, 0.0, 0.14285714285714285, 0.5
+hare,SIMPLE_NAME, line no: 24,hare=hare.getSuccessor().getSuccessor(),ASSIGNMENT, 0.07142857142857142, 0.0, 0.0, 0.0, 0.14285714285714285, 0.5
+tortoise,SIMPLE_NAME, line no: 24,tortoise=tortoise.getSuccessor(),ASSIGNMENT, 0.07142857142857142, 0.0, 0.0, 0.0, 0.14285714285714285, 0.5
+this.value,FIELD_ACCESS, line no: 19,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.06880209161537815, 0.0, 0.0, 0.0, 0.15384615384615385, 0.4472135954999579
+this.value,FIELD_ACCESS, line no: 19,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.06880209161537815, 0.0, 0.0, 0.0, 0.15384615384615385, 0.4472135954999579
+this.successor,FIELD_ACCESS, line no: 20,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.06880209161537815, 0.0, 0.0, 0.0, 0.15384615384615385, 0.4472135954999579
+this.successor,FIELD_ACCESS, line no: 20,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.06880209161537815, 0.0, 0.0, 0.0, 0.15384615384615385, 0.4472135954999579
+this.successors,FIELD_ACCESS, line no: 21,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.06880209161537815, 0.0, 0.0, 0.0, 0.15384615384615385, 0.4472135954999579
+this.predecessors,FIELD_ACCESS, line no: 22,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.06880209161537815, 0.0, 0.0, 0.0, 0.15384615384615385, 0.4472135954999579
+hare,SIMPLE_NAME, line no: 14,hare=hare.getSuccessor().getSuccessor(),ASSIGNMENT, 0.06388765649999399, 0.0, 0.0, 0.0, 0.14285714285714285, 0.4472135954999579
+tortoise,SIMPLE_NAME, line no: 15,tortoise=tortoise.getSuccessor(),ASSIGNMENT, 0.06388765649999399, 0.0, 0.0, 0.0, 0.14285714285714285, 0.4472135954999579
+hare,SIMPLE_NAME, line no: 18,hare=hare.getSuccessor().getSuccessor(),ASSIGNMENT, 0.06388765649999399, 0.0, 0.0, 0.0, 0.14285714285714285, 0.4472135954999579
+this.successor=null,ASSIGNMENT, line no: 20,java.util,QUALIFIED_NAME, 0.06388765649999399, 0.0, 0.0, 0.0, 0.14285714285714285, 0.4472135954999579
+tortoise.getSuccessor(),METHOD_INVOCATION, line no: 21,java.util,QUALIFIED_NAME, 0.0625, 0.0, 0.0, 0.0, 0.125, 0.5
+tortoise.getSuccessor(),METHOD_INVOCATION, line no: 21,hare == tortoise,INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.125, 0.5
+hare,SIMPLE_NAME, line no: 22,hare.getSuccessor() == null,INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.125, 0.5
+hare.getSuccessor().getSuccessor(),METHOD_INVOCATION, line no: 22,java.util,QUALIFIED_NAME, 0.0625, 0.0, 0.0, 0.0, 0.125, 0.5
+hare.getSuccessor().getSuccessor(),METHOD_INVOCATION, line no: 22,hare == tortoise,INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.125, 0.5
+hare.getSuccessor(),METHOD_INVOCATION, line no: 22,java.util,QUALIFIED_NAME, 0.0625, 0.0, 0.0, 0.0, 0.125, 0.5
+hare.getSuccessor(),METHOD_INVOCATION, line no: 22,hare == tortoise,INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.125, 0.5
+hare,SIMPLE_NAME, line no: 22,hare.getSuccessor() == null,INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.125, 0.5
+hare == tortoise,INFIX_EXPRESSION, line no: 24,hare.getSuccessor(),METHOD_INVOCATION, 0.0625, 0.0, 0.0, 0.0, 0.125, 0.5
+hare == tortoise,INFIX_EXPRESSION, line no: 24,tortoise.getSuccessor(),METHOD_INVOCATION, 0.0625, 0.0, 0.0, 0.0, 0.125, 0.5
+hare == tortoise,INFIX_EXPRESSION, line no: 24,hare.getSuccessor().getSuccessor(),METHOD_INVOCATION, 0.0625, 0.0, 0.0, 0.0, 0.125, 0.5
+hare,SIMPLE_NAME, line no: 24,hare.getSuccessor() == null,INFIX_EXPRESSION, 0.0625, 0.0, 0.0, 0.0, 0.125, 0.5
+Node,SIMPLE_NAME, line no: 25,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.0625, 0.0, 0.0, 0.0, 0.125, 0.5
+Node,SIMPLE_NAME, line no: 25,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.0625, 0.0, 0.0, 0.0, 0.125, 0.5
+hare,SIMPLE_NAME, line no: 14,hare.getSuccessor() == null,INFIX_EXPRESSION, 0.05590169943749474, 0.0, 0.0, 0.0, 0.125, 0.4472135954999579
+hare.getSuccessor() == null,INFIX_EXPRESSION, line no: 18,hare,SIMPLE_NAME, 0.05590169943749474, 0.0, 0.0, 0.0, 0.125, 0.4472135954999579
+hare.getSuccessor() == null,INFIX_EXPRESSION, line no: 18,null,NULL_LITERAL, 0.05590169943749474, 0.0, 0.0, 0.0, 0.125, 0.4472135954999579
+hare.getSuccessor(),METHOD_INVOCATION, line no: 18,java.util,QUALIFIED_NAME, 0.05590169943749474, 0.0, 0.0, 0.0, 0.125, 0.4472135954999579
+hare.getSuccessor(),METHOD_INVOCATION, line no: 18,hare == tortoise,INFIX_EXPRESSION, 0.05590169943749474, 0.0, 0.0, 0.0, 0.125, 0.4472135954999579
+hare,SIMPLE_NAME, line no: 18,hare.getSuccessor() == null,INFIX_EXPRESSION, 0.05590169943749474, 0.0, 0.0, 0.0, 0.125, 0.4472135954999579
+null,NULL_LITERAL, line no: 18,hare.getSuccessor() == null,INFIX_EXPRESSION, 0.05590169943749474, 0.0, 0.0, 0.0, 0.125, 0.4472135954999579
+Node,SIMPLE_NAME, line no: 18,new ArrayList<Node>(),CLASS_INSTANCE_CREATION, 0.05590169943749474, 0.0, 0.0, 0.0, 0.125, 0.4472135954999579
+tortoise=tortoise.getSuccessor(),ASSIGNMENT, line no: 21,java.util,QUALIFIED_NAME, 0.05555555555555555, 0.0, 0.0, 0.0, 0.1111111111111111, 0.5
+tortoise=tortoise.getSuccessor(),ASSIGNMENT, line no: 21,hare == tortoise,INFIX_EXPRESSION, 0.05555555555555555, 0.0, 0.0, 0.0, 0.1111111111111111, 0.5
+hare=hare.getSuccessor().getSuccessor(),ASSIGNMENT, line no: 22,java.util,QUALIFIED_NAME, 0.05555555555555555, 0.0, 0.0, 0.0, 0.1111111111111111, 0.5
+hare=hare.getSuccessor().getSuccessor(),ASSIGNMENT, line no: 22,hare == tortoise,INFIX_EXPRESSION, 0.05555555555555555, 0.0, 0.0, 0.0, 0.1111111111111111, 0.5
+hare == tortoise,INFIX_EXPRESSION, line no: 24,tortoise=tortoise.getSuccessor(),ASSIGNMENT, 0.05555555555555555, 0.0, 0.0, 0.0, 0.1111111111111111, 0.5
+hare == tortoise,INFIX_EXPRESSION, line no: 24,hare=hare.getSuccessor().getSuccessor(),ASSIGNMENT, 0.05555555555555555, 0.0, 0.0, 0.0, 0.1111111111111111, 0.5
+this,THIS_EXPRESSION, line no: 26,this.successors=new ArrayList<>(),ASSIGNMENT, 0.045454545454545456, 0.0, 0.0, 0.0, 0.09090909090909091, 0.5
+this,THIS_EXPRESSION, line no: 26,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.045454545454545456, 0.0, 0.0, 0.0, 0.09090909090909091, 0.5
+this,THIS_EXPRESSION, line no: 27,this.successors=new ArrayList<>(),ASSIGNMENT, 0.045454545454545456, 0.0, 0.0, 0.0, 0.09090909090909091, 0.5
+this,THIS_EXPRESSION, line no: 27,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.045454545454545456, 0.0, 0.0, 0.0, 0.09090909090909091, 0.5
+hare.getSuccessor() == null,INFIX_EXPRESSION, line no: 18,java.util,QUALIFIED_NAME, 0.044721359549995794, 0.0, 0.0, 0.0, 0.1, 0.4472135954999579
+Node,SIMPLE_NAME, line no: 25,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.041666666666666664, 0.0, 0.0, 0.0, 0.08333333333333333, 0.5
+Node,SIMPLE_NAME, line no: 25,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.041666666666666664, 0.0, 0.0, 0.0, 0.08333333333333333, 0.5
+Node,SIMPLE_NAME, line no: 25,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.041666666666666664, 0.0, 0.0, 0.0, 0.08333333333333333, 0.5
+Node,SIMPLE_NAME, line no: 25,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.041666666666666664, 0.0, 0.0, 0.0, 0.08333333333333333, 0.5
+this,THIS_EXPRESSION, line no: 26,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.041666666666666664, 0.0, 0.0, 0.0, 0.08333333333333333, 0.5
+this,THIS_EXPRESSION, line no: 26,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.041666666666666664, 0.0, 0.0, 0.0, 0.08333333333333333, 0.5
+this,THIS_EXPRESSION, line no: 27,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.041666666666666664, 0.0, 0.0, 0.0, 0.08333333333333333, 0.5
+this,THIS_EXPRESSION, line no: 27,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.041666666666666664, 0.0, 0.0, 0.0, 0.08333333333333333, 0.5
+this,THIS_EXPRESSION, line no: 19,this.successors=new ArrayList<>(),ASSIGNMENT, 0.040655781409087086, 0.0, 0.0, 0.0, 0.09090909090909091, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 19,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.040655781409087086, 0.0, 0.0, 0.0, 0.09090909090909091, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 20,this.successors=new ArrayList<>(),ASSIGNMENT, 0.040655781409087086, 0.0, 0.0, 0.0, 0.09090909090909091, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 20,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.040655781409087086, 0.0, 0.0, 0.0, 0.09090909090909091, 0.4472135954999579
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,successors,SIMPLE_NAME, 0.040655781409087086, 0.0, 0.0, 0.0, 0.09090909090909091, 0.4472135954999579
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,this,THIS_EXPRESSION, 0.040655781409087086, 0.0, 0.0, 0.0, 0.09090909090909091, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 21,this.successors=new ArrayList<>(),ASSIGNMENT, 0.040655781409087086, 0.0, 0.0, 0.0, 0.09090909090909091, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 21,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.040655781409087086, 0.0, 0.0, 0.0, 0.09090909090909091, 0.4472135954999579
+successors,SIMPLE_NAME, line no: 21,this.successors=new ArrayList<>(),ASSIGNMENT, 0.040655781409087086, 0.0, 0.0, 0.0, 0.09090909090909091, 0.4472135954999579
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,predecessors,SIMPLE_NAME, 0.040655781409087086, 0.0, 0.0, 0.0, 0.09090909090909091, 0.4472135954999579
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,this,THIS_EXPRESSION, 0.040655781409087086, 0.0, 0.0, 0.0, 0.09090909090909091, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 22,this.successors=new ArrayList<>(),ASSIGNMENT, 0.040655781409087086, 0.0, 0.0, 0.0, 0.09090909090909091, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 22,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.040655781409087086, 0.0, 0.0, 0.0, 0.09090909090909091, 0.4472135954999579
+predecessors,SIMPLE_NAME, line no: 22,this.predecessors=new ArrayList<>(),ASSIGNMENT, 0.040655781409087086, 0.0, 0.0, 0.0, 0.09090909090909091, 0.4472135954999579
+Node,SIMPLE_NAME, line no: 18,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.03726779962499649, 0.0, 0.0, 0.0, 0.08333333333333333, 0.4472135954999579
+Node,SIMPLE_NAME, line no: 18,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.03726779962499649, 0.0, 0.0, 0.0, 0.08333333333333333, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 19,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.03726779962499649, 0.0, 0.0, 0.0, 0.08333333333333333, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 19,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.03726779962499649, 0.0, 0.0, 0.0, 0.08333333333333333, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 20,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.03726779962499649, 0.0, 0.0, 0.0, 0.08333333333333333, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 20,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.03726779962499649, 0.0, 0.0, 0.0, 0.08333333333333333, 0.4472135954999579
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,setSuccessors,SIMPLE_NAME, 0.03726779962499649, 0.0, 0.0, 0.0, 0.08333333333333333, 0.4472135954999579
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,getSuccessors,SIMPLE_NAME, 0.03726779962499649, 0.0, 0.0, 0.0, 0.08333333333333333, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 21,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.03726779962499649, 0.0, 0.0, 0.0, 0.08333333333333333, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 21,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.03726779962499649, 0.0, 0.0, 0.0, 0.08333333333333333, 0.4472135954999579
+successors,SIMPLE_NAME, line no: 21,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.03726779962499649, 0.0, 0.0, 0.0, 0.08333333333333333, 0.4472135954999579
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,setPredecessors,SIMPLE_NAME, 0.03726779962499649, 0.0, 0.0, 0.0, 0.08333333333333333, 0.4472135954999579
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,getPredecessors,SIMPLE_NAME, 0.03726779962499649, 0.0, 0.0, 0.0, 0.08333333333333333, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 22,this.successors=new ArrayList<Node>(),ASSIGNMENT, 0.03726779962499649, 0.0, 0.0, 0.0, 0.08333333333333333, 0.4472135954999579
+this,THIS_EXPRESSION, line no: 22,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.03726779962499649, 0.0, 0.0, 0.0, 0.08333333333333333, 0.4472135954999579
+predecessors,SIMPLE_NAME, line no: 22,this.predecessors=new ArrayList<Node>(),ASSIGNMENT, 0.03726779962499649, 0.0, 0.0, 0.0, 0.08333333333333333, 0.4472135954999579
+this.successors=new ArrayList<>(),ASSIGNMENT, line no: 21,java.util,QUALIFIED_NAME, 0.034401045807689073, 0.0, 0.0, 0.0, 0.07692307692307693, 0.4472135954999579
+this.predecessors=new ArrayList<>(),ASSIGNMENT, line no: 22,java.util,QUALIFIED_NAME, 0.034401045807689073, 0.0, 0.0, 0.0, 0.07692307692307693, 0.4472135954999579

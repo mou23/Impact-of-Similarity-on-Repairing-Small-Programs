@@ -1,0 +1,58 @@
+max_so_far=Math.max(max_so_far max_ending_here),ASSIGNMENT, line no: 20,Math.max(max_so_far max_ending_here),METHOD_INVOCATION, 0.7257747386024233, 0.0, 0.0, 0.0, 0.8888888888888888, 0.8164965809277261
+Math.max(max_so_far max_ending_here),METHOD_INVOCATION, line no: 20,max_so_far=Math.max(max_so_far max_ending_here),ASSIGNMENT, 0.7257747386024233, 0.0, 0.0, 0.0, 0.8888888888888888, 0.8164965809277261
+max_ending_here=max_ending_here + x,ASSIGNMENT, line no: 19,max_ending_here + x,INFIX_EXPRESSION, 0.6123724356957946, 0.0, 0.0, 0.0, 0.75, 0.8164965809277261
+max_ending_here + x,INFIX_EXPRESSION, line no: 19,max_ending_here=max_ending_here + x,ASSIGNMENT, 0.6123724356957946, 0.0, 0.0, 0.0, 0.75, 0.8164965809277261
+max_ending_here,SIMPLE_NAME, line no: 15,max_ending_here + x,INFIX_EXPRESSION, 0.2721655269759087, 0.0, 0.0, 0.0, 0.3333333333333333, 0.8164965809277261
+x,SIMPLE_NAME, line no: 18,max_ending_here + x,INFIX_EXPRESSION, 0.2721655269759087, 0.0, 0.0, 0.0, 0.3333333333333333, 0.8164965809277261
+max_ending_here,SIMPLE_NAME, line no: 19,max_ending_here + x,INFIX_EXPRESSION, 0.2721655269759087, 0.0, 0.0, 0.0, 0.3333333333333333, 0.8164965809277261
+max_ending_here + x,INFIX_EXPRESSION, line no: 19,max_ending_here,SIMPLE_NAME, 0.2721655269759087, 0.0, 0.0, 0.0, 0.3333333333333333, 0.8164965809277261
+max_ending_here + x,INFIX_EXPRESSION, line no: 19,x,SIMPLE_NAME, 0.2721655269759087, 0.0, 0.0, 0.0, 0.3333333333333333, 0.8164965809277261
+max_ending_here,SIMPLE_NAME, line no: 19,max_ending_here + x,INFIX_EXPRESSION, 0.2721655269759087, 0.0, 0.0, 0.0, 0.3333333333333333, 0.8164965809277261
+x,SIMPLE_NAME, line no: 19,max_ending_here + x,INFIX_EXPRESSION, 0.2721655269759087, 0.0, 0.0, 0.0, 0.3333333333333333, 0.8164965809277261
+max_ending_here,SIMPLE_NAME, line no: 20,max_ending_here + x,INFIX_EXPRESSION, 0.2721655269759087, 0.0, 0.0, 0.0, 0.3333333333333333, 0.8164965809277261
+max_ending_here,SIMPLE_NAME, line no: 15,max_ending_here=max_ending_here + x,ASSIGNMENT, 0.20412414523193154, 0.0, 0.0, 0.0, 0.25, 0.8164965809277261
+x,SIMPLE_NAME, line no: 18,max_ending_here=max_ending_here + x,ASSIGNMENT, 0.20412414523193154, 0.0, 0.0, 0.0, 0.25, 0.8164965809277261
+max_ending_here=max_ending_here + x,ASSIGNMENT, line no: 19,max_ending_here,SIMPLE_NAME, 0.20412414523193154, 0.0, 0.0, 0.0, 0.25, 0.8164965809277261
+max_ending_here=max_ending_here + x,ASSIGNMENT, line no: 19,x,SIMPLE_NAME, 0.20412414523193154, 0.0, 0.0, 0.0, 0.25, 0.8164965809277261
+max_ending_here,SIMPLE_NAME, line no: 19,max_ending_here=max_ending_here + x,ASSIGNMENT, 0.20412414523193154, 0.0, 0.0, 0.0, 0.25, 0.8164965809277261
+max_ending_here,SIMPLE_NAME, line no: 19,max_ending_here=max_ending_here + x,ASSIGNMENT, 0.20412414523193154, 0.0, 0.0, 0.0, 0.25, 0.8164965809277261
+x,SIMPLE_NAME, line no: 19,max_ending_here=max_ending_here + x,ASSIGNMENT, 0.20412414523193154, 0.0, 0.0, 0.0, 0.25, 0.8164965809277261
+max_ending_here,SIMPLE_NAME, line no: 20,max_ending_here=max_ending_here + x,ASSIGNMENT, 0.20412414523193154, 0.0, 0.0, 0.0, 0.25, 0.8164965809277261
+max_ending_here=max_ending_here + x,ASSIGNMENT, line no: 19,max_so_far=Math.max(max_so_far max_ending_here),ASSIGNMENT, 0.14845392380504113, 0.0, 0.0, 0.0, 0.18181818181818182, 0.8164965809277261
+max_so_far=Math.max(max_so_far max_ending_here),ASSIGNMENT, line no: 20,max_ending_here=max_ending_here + x,ASSIGNMENT, 0.14845392380504113, 0.0, 0.0, 0.0, 0.18181818181818182, 0.8164965809277261
+max_ending_here,SIMPLE_NAME, line no: 15,Math.max(max_so_far max_ending_here),METHOD_INVOCATION, 0.10206207261596577, 0.0, 0.0, 0.0, 0.125, 0.8164965809277261
+max_so_far,SIMPLE_NAME, line no: 16,Math.max(max_so_far max_ending_here),METHOD_INVOCATION, 0.10206207261596577, 0.0, 0.0, 0.0, 0.125, 0.8164965809277261
+max_ending_here,SIMPLE_NAME, line no: 19,Math.max(max_so_far max_ending_here),METHOD_INVOCATION, 0.10206207261596577, 0.0, 0.0, 0.0, 0.125, 0.8164965809277261
+max_ending_here,SIMPLE_NAME, line no: 19,Math.max(max_so_far max_ending_here),METHOD_INVOCATION, 0.10206207261596577, 0.0, 0.0, 0.0, 0.125, 0.8164965809277261
+max_so_far,SIMPLE_NAME, line no: 20,Math.max(max_so_far max_ending_here),METHOD_INVOCATION, 0.10206207261596577, 0.0, 0.0, 0.0, 0.125, 0.8164965809277261
+Math.max(max_so_far max_ending_here),METHOD_INVOCATION, line no: 20,max_ending_here,SIMPLE_NAME, 0.10206207261596577, 0.0, 0.0, 0.0, 0.125, 0.8164965809277261
+Math.max(max_so_far max_ending_here),METHOD_INVOCATION, line no: 20,max_so_far,SIMPLE_NAME, 0.10206207261596577, 0.0, 0.0, 0.0, 0.125, 0.8164965809277261
+Math.max(max_so_far max_ending_here),METHOD_INVOCATION, line no: 20,Math,SIMPLE_NAME, 0.10206207261596577, 0.0, 0.0, 0.0, 0.125, 0.8164965809277261
+Math.max(max_so_far max_ending_here),METHOD_INVOCATION, line no: 20,max,SIMPLE_NAME, 0.10206207261596577, 0.0, 0.0, 0.0, 0.125, 0.8164965809277261
+Math,SIMPLE_NAME, line no: 20,Math.max(max_so_far max_ending_here),METHOD_INVOCATION, 0.10206207261596577, 0.0, 0.0, 0.0, 0.125, 0.8164965809277261
+max,SIMPLE_NAME, line no: 20,Math.max(max_so_far max_ending_here),METHOD_INVOCATION, 0.10206207261596577, 0.0, 0.0, 0.0, 0.125, 0.8164965809277261
+max_so_far,SIMPLE_NAME, line no: 20,Math.max(max_so_far max_ending_here),METHOD_INVOCATION, 0.10206207261596577, 0.0, 0.0, 0.0, 0.125, 0.8164965809277261
+max_ending_here,SIMPLE_NAME, line no: 20,Math.max(max_so_far max_ending_here),METHOD_INVOCATION, 0.10206207261596577, 0.0, 0.0, 0.0, 0.125, 0.8164965809277261
+max_so_far,SIMPLE_NAME, line no: 23,Math.max(max_so_far max_ending_here),METHOD_INVOCATION, 0.10206207261596577, 0.0, 0.0, 0.0, 0.125, 0.8164965809277261
+max_ending_here,SIMPLE_NAME, line no: 15,max_so_far=Math.max(max_so_far max_ending_here),ASSIGNMENT, 0.0907218423253029, 0.0, 0.0, 0.0, 0.1111111111111111, 0.8164965809277261
+max_so_far,SIMPLE_NAME, line no: 16,max_so_far=Math.max(max_so_far max_ending_here),ASSIGNMENT, 0.0907218423253029, 0.0, 0.0, 0.0, 0.1111111111111111, 0.8164965809277261
+max_ending_here,SIMPLE_NAME, line no: 19,max_so_far=Math.max(max_so_far max_ending_here),ASSIGNMENT, 0.0907218423253029, 0.0, 0.0, 0.0, 0.1111111111111111, 0.8164965809277261
+max_ending_here,SIMPLE_NAME, line no: 19,max_so_far=Math.max(max_so_far max_ending_here),ASSIGNMENT, 0.0907218423253029, 0.0, 0.0, 0.0, 0.1111111111111111, 0.8164965809277261
+max_so_far=Math.max(max_so_far max_ending_here),ASSIGNMENT, line no: 20,max_ending_here,SIMPLE_NAME, 0.0907218423253029, 0.0, 0.0, 0.0, 0.1111111111111111, 0.8164965809277261
+max_so_far=Math.max(max_so_far max_ending_here),ASSIGNMENT, line no: 20,max_so_far,SIMPLE_NAME, 0.0907218423253029, 0.0, 0.0, 0.0, 0.1111111111111111, 0.8164965809277261
+max_so_far=Math.max(max_so_far max_ending_here),ASSIGNMENT, line no: 20,Math,SIMPLE_NAME, 0.0907218423253029, 0.0, 0.0, 0.0, 0.1111111111111111, 0.8164965809277261
+max_so_far=Math.max(max_so_far max_ending_here),ASSIGNMENT, line no: 20,max,SIMPLE_NAME, 0.0907218423253029, 0.0, 0.0, 0.0, 0.1111111111111111, 0.8164965809277261
+max_so_far,SIMPLE_NAME, line no: 20,max_so_far=Math.max(max_so_far max_ending_here),ASSIGNMENT, 0.0907218423253029, 0.0, 0.0, 0.0, 0.1111111111111111, 0.8164965809277261
+Math,SIMPLE_NAME, line no: 20,max_so_far=Math.max(max_so_far max_ending_here),ASSIGNMENT, 0.0907218423253029, 0.0, 0.0, 0.0, 0.1111111111111111, 0.8164965809277261
+max,SIMPLE_NAME, line no: 20,max_so_far=Math.max(max_so_far max_ending_here),ASSIGNMENT, 0.0907218423253029, 0.0, 0.0, 0.0, 0.1111111111111111, 0.8164965809277261
+max_so_far,SIMPLE_NAME, line no: 20,max_so_far=Math.max(max_so_far max_ending_here),ASSIGNMENT, 0.0907218423253029, 0.0, 0.0, 0.0, 0.1111111111111111, 0.8164965809277261
+max_ending_here,SIMPLE_NAME, line no: 20,max_so_far=Math.max(max_so_far max_ending_here),ASSIGNMENT, 0.0907218423253029, 0.0, 0.0, 0.0, 0.1111111111111111, 0.8164965809277261
+max_so_far,SIMPLE_NAME, line no: 23,max_so_far=Math.max(max_so_far max_ending_here),ASSIGNMENT, 0.0907218423253029, 0.0, 0.0, 0.0, 0.1111111111111111, 0.8164965809277261
+max_ending_here + x,INFIX_EXPRESSION, line no: 19,Math.max(max_so_far max_ending_here),METHOD_INVOCATION, 0.08164965809277262, 0.0, 0.0, 0.0, 0.1, 0.8164965809277261
+Math.max(max_so_far max_ending_here),METHOD_INVOCATION, line no: 20,java.util,QUALIFIED_NAME, 0.08164965809277262, 0.0, 0.0, 0.0, 0.1, 0.8164965809277261
+Math.max(max_so_far max_ending_here),METHOD_INVOCATION, line no: 20,max_ending_here + x,INFIX_EXPRESSION, 0.08164965809277262, 0.0, 0.0, 0.0, 0.1, 0.8164965809277261
+max_ending_here=max_ending_here + x,ASSIGNMENT, line no: 19,Math.max(max_so_far max_ending_here),METHOD_INVOCATION, 0.07422696190252057, 0.0, 0.0, 0.0, 0.09090909090909091, 0.8164965809277261
+max_ending_here + x,INFIX_EXPRESSION, line no: 19,max_so_far=Math.max(max_so_far max_ending_here),ASSIGNMENT, 0.07422696190252057, 0.0, 0.0, 0.0, 0.09090909090909091, 0.8164965809277261
+max_so_far=Math.max(max_so_far max_ending_here),ASSIGNMENT, line no: 20,java.util,QUALIFIED_NAME, 0.07422696190252057, 0.0, 0.0, 0.0, 0.09090909090909091, 0.8164965809277261
+max_so_far=Math.max(max_so_far max_ending_here),ASSIGNMENT, line no: 20,max_ending_here + x,INFIX_EXPRESSION, 0.07422696190252057, 0.0, 0.0, 0.0, 0.09090909090909091, 0.8164965809277261
+Math.max(max_so_far max_ending_here),METHOD_INVOCATION, line no: 20,max_ending_here=max_ending_here + x,ASSIGNMENT, 0.07422696190252057, 0.0, 0.0, 0.0, 0.09090909090909091, 0.8164965809277261

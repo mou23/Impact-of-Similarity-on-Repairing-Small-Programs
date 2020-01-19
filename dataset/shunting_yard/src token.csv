@@ -1,0 +1,730 @@
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 30,opstack.isEmpty(),METHOD_INVOCATION, 0.8571428571428571, 0.0, 0.0, 0.0, 0.8571428571428571, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 30,!opstack.isEmpty(),PREFIX_EXPRESSION, 0.8571428571428571, 0.0, 0.0, 0.0, 0.8571428571428571, 1.0
+precedence.get(opstack.getLast()),METHOD_INVOCATION, line no: 30,opstack.getLast(),METHOD_INVOCATION, 0.8571428571428571, 0.0, 0.0, 0.0, 0.8571428571428571, 1.0
+opstack.getLast(),METHOD_INVOCATION, line no: 30,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.8571428571428571, 0.0, 0.0, 0.0, 0.8571428571428571, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 36,opstack.isEmpty(),METHOD_INVOCATION, 0.8571428571428571, 0.0, 0.0, 0.0, 0.8571428571428571, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 36,!opstack.isEmpty(),PREFIX_EXPRESSION, 0.8571428571428571, 0.0, 0.0, 0.0, 0.8571428571428571, 1.0
+precedence.put("+" 1),METHOD_INVOCATION, line no: 16,precedence.put("-" 1),METHOD_INVOCATION, 0.7777777777777778, 0.0, 0.0, 0.0, 0.7777777777777778, 1.0
+precedence.put("-" 1),METHOD_INVOCATION, line no: 17,precedence.put("+" 1),METHOD_INVOCATION, 0.7777777777777778, 0.0, 0.0, 0.0, 0.7777777777777778, 1.0
+precedence.put("*" 2),METHOD_INVOCATION, line no: 18,precedence.put("/" 2),METHOD_INVOCATION, 0.7777777777777778, 0.0, 0.0, 0.0, 0.7777777777777778, 1.0
+precedence.put("/" 2),METHOD_INVOCATION, line no: 19,precedence.put("*" 2),METHOD_INVOCATION, 0.7777777777777778, 0.0, 0.0, 0.0, 0.7777777777777778, 1.0
+precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.7777777777777778, 0.0, 0.0, 0.0, 0.7777777777777778, 1.0
+precedence.get(opstack.getLast()),METHOD_INVOCATION, line no: 30,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.7777777777777778, 0.0, 0.0, 0.0, 0.7777777777777778, 1.0
+!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.6923076923076923, 0.0, 0.0, 0.0, 0.6923076923076923, 1.0
+precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.6923076923076923, 0.0, 0.0, 0.0, 0.6923076923076923, 1.0
+precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,precedence.get(operator),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,opstack.getLast(),METHOD_INVOCATION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+precedence.get(operator),METHOD_INVOCATION, line no: 30,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+opstack.getLast(),METHOD_INVOCATION, line no: 30,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.6666666666666666, 0.0, 0.0, 0.0, 0.6666666666666666, 1.0
+precedence.get(operator),METHOD_INVOCATION, line no: 30,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.625, 0.0, 0.0, 0.0, 0.625, 1.0
+precedence.get(opstack.getLast()),METHOD_INVOCATION, line no: 30,precedence.get(operator),METHOD_INVOCATION, 0.625, 0.0, 0.0, 0.0, 0.625, 1.0
+precedence.put("+" 1),METHOD_INVOCATION, line no: 16,precedence.put("*" 2),METHOD_INVOCATION, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+precedence.put("+" 1),METHOD_INVOCATION, line no: 16,precedence.put("/" 2),METHOD_INVOCATION, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+precedence.put("-" 1),METHOD_INVOCATION, line no: 17,precedence.put("*" 2),METHOD_INVOCATION, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+precedence.put("-" 1),METHOD_INVOCATION, line no: 17,precedence.put("/" 2),METHOD_INVOCATION, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+precedence.put("*" 2),METHOD_INVOCATION, line no: 18,precedence.put("+" 1),METHOD_INVOCATION, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+precedence.put("*" 2),METHOD_INVOCATION, line no: 18,precedence.put("-" 1),METHOD_INVOCATION, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+precedence.put("/" 2),METHOD_INVOCATION, line no: 19,precedence.put("+" 1),METHOD_INVOCATION, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+precedence.put("/" 2),METHOD_INVOCATION, line no: 19,precedence.put("-" 1),METHOD_INVOCATION, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+(Integer)token,CAST_EXPRESSION, line no: 27,(String)token,CAST_EXPRESSION, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+(String)token,CAST_EXPRESSION, line no: 29,(Integer)token,CAST_EXPRESSION, 0.6, 0.0, 0.0, 0.0, 0.6, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 21,new ArrayDeque(),CLASS_INSTANCE_CREATION, 0.5714285714285714, 0.0, 0.0, 0.0, 0.5714285714285714, 1.0
+new ArrayDeque(),CLASS_INSTANCE_CREATION, line no: 22,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.5714285714285714, 0.0, 0.0, 0.0, 0.5714285714285714, 1.0
+rpntokens.add((Integer)token),METHOD_INVOCATION, line no: 27,(Integer)token,CAST_EXPRESSION, 0.5714285714285714, 0.0, 0.0, 0.0, 0.5714285714285714, 1.0
+(Integer)token,CAST_EXPRESSION, line no: 27,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.5714285714285714, 0.0, 0.0, 0.0, 0.5714285714285714, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 30,opstack.pop(),METHOD_INVOCATION, 0.5714285714285714, 0.0, 0.0, 0.0, 0.5714285714285714, 1.0
+opstack.getLast(),METHOD_INVOCATION, line no: 30,opstack.pop(),METHOD_INVOCATION, 0.5714285714285714, 0.0, 0.0, 0.0, 0.5714285714285714, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 36,opstack.pop(),METHOD_INVOCATION, 0.5714285714285714, 0.0, 0.0, 0.0, 0.5714285714285714, 1.0
+rpntokens.add((Integer)token),METHOD_INVOCATION, line no: 27,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.5555555555555556, 0.0, 0.0, 0.0, 0.5555555555555556, 1.0
+!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,!opstack.isEmpty(),PREFIX_EXPRESSION, 0.5384615384615384, 0.0, 0.0, 0.0, 0.5384615384615384, 1.0
+!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.5384615384615384, 0.0, 0.0, 0.0, 0.5384615384615384, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 30,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.5384615384615384, 0.0, 0.0, 0.0, 0.5384615384615384, 1.0
+precedence.get(opstack.getLast()),METHOD_INVOCATION, line no: 30,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.5384615384615384, 0.0, 0.0, 0.0, 0.5384615384615384, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 36,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.5384615384615384, 0.0, 0.0, 0.0, 0.5384615384615384, 1.0
+Map,SIMPLE_NAME, line no: 15,HashMap,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+HashMap,SIMPLE_NAME, line no: 15,Map,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,List,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,List,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+Integer.class.isInstance(token),METHOD_INVOCATION, line no: 25,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+Integer.class.isInstance(token),METHOD_INVOCATION, line no: 25,(Integer)token,CAST_EXPRESSION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+rpntokens.add((Integer)token),METHOD_INVOCATION, line no: 27,Integer.class.isInstance(token),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+(Integer)token,CAST_EXPRESSION, line no: 27,Integer.class.isInstance(token),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 30,opstack.pop(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 30,opstack.getLast(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+precedence.get(operator),METHOD_INVOCATION, line no: 30,opstack.getLast(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+get,SIMPLE_NAME, line no: 30,getLast,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+precedence.get(opstack.getLast()),METHOD_INVOCATION, line no: 30,opstack.pop(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+get,SIMPLE_NAME, line no: 30,getLast,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+opstack.getLast(),METHOD_INVOCATION, line no: 30,opstack.isEmpty(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+opstack.getLast(),METHOD_INVOCATION, line no: 30,precedence.get(operator),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+getLast,SIMPLE_NAME, line no: 30,get,SIMPLE_NAME, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 36,opstack.pop(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 36,opstack.getLast(),METHOD_INVOCATION, 0.5, 0.0, 0.0, 0.0, 0.5, 1.0
+!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,opstack.isEmpty(),METHOD_INVOCATION, 0.46153846153846156, 0.0, 0.0, 0.0, 0.46153846153846156, 1.0
+!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,precedence.get(operator),METHOD_INVOCATION, 0.46153846153846156, 0.0, 0.0, 0.0, 0.46153846153846156, 1.0
+!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,opstack.getLast(),METHOD_INVOCATION, 0.46153846153846156, 0.0, 0.0, 0.0, 0.46153846153846156, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 30,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.46153846153846156, 0.0, 0.0, 0.0, 0.46153846153846156, 1.0
+precedence.get(operator),METHOD_INVOCATION, line no: 30,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.46153846153846156, 0.0, 0.0, 0.0, 0.46153846153846156, 1.0
+opstack.getLast(),METHOD_INVOCATION, line no: 30,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.46153846153846156, 0.0, 0.0, 0.0, 0.46153846153846156, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 36,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.46153846153846156, 0.0, 0.0, 0.0, 0.46153846153846156, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 30,opstack.getLast(),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 30,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 30,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+precedence.get(opstack.getLast()),METHOD_INVOCATION, line no: 30,opstack.isEmpty(),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+opstack.getLast(),METHOD_INVOCATION, line no: 30,!opstack.isEmpty(),PREFIX_EXPRESSION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+opstack.getLast(),METHOD_INVOCATION, line no: 30,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 36,opstack.getLast(),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 36,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 36,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.4444444444444444, 0.0, 0.0, 0.0, 0.4444444444444444, 1.0
+precedence.put("+" 1),METHOD_INVOCATION, line no: 16,precedence.get(operator),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+precedence.put("-" 1),METHOD_INVOCATION, line no: 17,precedence.get(operator),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+precedence.put("*" 2),METHOD_INVOCATION, line no: 18,precedence.get(operator),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+precedence.put("/" 2),METHOD_INVOCATION, line no: 19,precedence.get(operator),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+ArrayDeque,SIMPLE_NAME, line no: 22,new ArrayDeque(),CLASS_INSTANCE_CREATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+new ArrayDeque(),CLASS_INSTANCE_CREATION, line no: 22,ArrayDeque,SIMPLE_NAME, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+ArrayDeque,SIMPLE_NAME, line no: 22,new ArrayDeque(),CLASS_INSTANCE_CREATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+Integer.class.isInstance(token),METHOD_INVOCATION, line no: 25,opstack.isEmpty(),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 30,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 30,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 30,Integer.class.isInstance(token),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,opstack.pop(),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+precedence.get(operator),METHOD_INVOCATION, line no: 30,precedence.put("+" 1),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+precedence.get(operator),METHOD_INVOCATION, line no: 30,precedence.put("-" 1),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+precedence.get(operator),METHOD_INVOCATION, line no: 30,precedence.put("*" 2),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+precedence.get(operator),METHOD_INVOCATION, line no: 30,precedence.put("/" 2),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+precedence.get(opstack.getLast()),METHOD_INVOCATION, line no: 30,!opstack.isEmpty(),PREFIX_EXPRESSION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+precedence.get(opstack.getLast()),METHOD_INVOCATION, line no: 30,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 36,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 36,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 36,Integer.class.isInstance(token),METHOD_INVOCATION, 0.4, 0.0, 0.0, 0.0, 0.4, 1.0
+Integer.class.isInstance(token),METHOD_INVOCATION, line no: 25,Integer.class,TYPE_LITERAL, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+Integer.class,TYPE_LITERAL, line no: 25,Integer.class.isInstance(token),METHOD_INVOCATION, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+rpntokens.add((Integer)token),METHOD_INVOCATION, line no: 27,(String)token,CAST_EXPRESSION, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+(String)token,CAST_EXPRESSION, line no: 29,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+precedence.get(operator),METHOD_INVOCATION, line no: 30,opstack.pop(),METHOD_INVOCATION, 0.375, 0.0, 0.0, 0.0, 0.375, 1.0
+precedence.put("+" 1),METHOD_INVOCATION, line no: 16,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+precedence.put("-" 1),METHOD_INVOCATION, line no: 17,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+precedence.put("*" 2),METHOD_INVOCATION, line no: 18,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+precedence.put("/" 2),METHOD_INVOCATION, line no: 19,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+Integer.class.isInstance(token),METHOD_INVOCATION, line no: 25,!opstack.isEmpty(),PREFIX_EXPRESSION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 30,Integer.class.isInstance(token),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 30,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,opstack.isEmpty(),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+precedence.get(opstack.getLast()),METHOD_INVOCATION, line no: 30,precedence.put("+" 1),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+precedence.get(opstack.getLast()),METHOD_INVOCATION, line no: 30,precedence.put("-" 1),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+precedence.get(opstack.getLast()),METHOD_INVOCATION, line no: 30,precedence.put("*" 2),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+precedence.get(opstack.getLast()),METHOD_INVOCATION, line no: 30,precedence.put("/" 2),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 36,Integer.class.isInstance(token),METHOD_INVOCATION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 36,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.36363636363636365, 0.0, 0.0, 0.0, 0.36363636363636365, 1.0
+Integer,SIMPLE_NAME, line no: 15,Integer.class,TYPE_LITERAL, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+Integer,SIMPLE_NAME, line no: 15,Integer.class,TYPE_LITERAL, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,ArrayDeque,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 21,ArrayList,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,ArrayDeque,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+ArrayDeque,SIMPLE_NAME, line no: 22,ArrayList,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+ArrayDeque,SIMPLE_NAME, line no: 22,ArrayList,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+Integer.class.isInstance(token),METHOD_INVOCATION, line no: 25,(String)token,CAST_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+Integer.class,TYPE_LITERAL, line no: 25,Integer,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+Integer,SIMPLE_NAME, line no: 25,Integer.class,TYPE_LITERAL, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+isInstance,SIMPLE_NAME, line no: 25,isEmpty,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+rpntokens.add((Integer)token),METHOD_INVOCATION, line no: 27,opstack.pop(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+Integer,SIMPLE_NAME, line no: 27,Integer.class,TYPE_LITERAL, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+(String)token,CAST_EXPRESSION, line no: 29,Integer.class.isInstance(token),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 30,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 30,isEmpty,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 30,precedence.get(operator),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+isEmpty,SIMPLE_NAME, line no: 30,isInstance,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+isEmpty,SIMPLE_NAME, line no: 30,opstack.isEmpty(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,!opstack.isEmpty(),PREFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+precedence.get(operator),METHOD_INVOCATION, line no: 30,opstack.isEmpty(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+opstack.getLast(),METHOD_INVOCATION, line no: 30,getLast,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+getLast,SIMPLE_NAME, line no: 30,opstack.getLast(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 36,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 36,isEmpty,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 36,precedence.get(operator),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+isEmpty,SIMPLE_NAME, line no: 36,isInstance,SIMPLE_NAME, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+isEmpty,SIMPLE_NAME, line no: 36,opstack.isEmpty(),METHOD_INVOCATION, 0.3333333333333333, 0.0, 0.0, 0.0, 0.3333333333333333, 1.0
+precedence.put("+" 1),METHOD_INVOCATION, line no: 16,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+precedence.put("-" 1),METHOD_INVOCATION, line no: 17,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+precedence.put("*" 2),METHOD_INVOCATION, line no: 18,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+precedence.put("/" 2),METHOD_INVOCATION, line no: 19,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,precedence.put("+" 1),METHOD_INVOCATION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,precedence.put("-" 1),METHOD_INVOCATION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,precedence.put("*" 2),METHOD_INVOCATION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,precedence.put("/" 2),METHOD_INVOCATION, 0.3076923076923077, 0.0, 0.0, 0.0, 0.3076923076923077, 1.0
+precedence.put("+" 1),METHOD_INVOCATION, line no: 16,opstack.pop(),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+precedence.put("-" 1),METHOD_INVOCATION, line no: 17,opstack.pop(),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+precedence.put("*" 2),METHOD_INVOCATION, line no: 18,opstack.pop(),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+precedence.put("/" 2),METHOD_INVOCATION, line no: 19,opstack.pop(),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+Integer.class.isInstance(token),METHOD_INVOCATION, line no: 25,opstack.pop(),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+rpntokens.add((Integer)token),METHOD_INVOCATION, line no: 27,opstack.isEmpty(),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+rpntokens.add((Integer)token),METHOD_INVOCATION, line no: 27,precedence.get(operator),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+rpntokens.add((Integer)token),METHOD_INVOCATION, line no: 27,opstack.getLast(),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 30,precedence.get(operator),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 30,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+precedence.get(operator),METHOD_INVOCATION, line no: 30,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+precedence.get(operator),METHOD_INVOCATION, line no: 30,!opstack.isEmpty(),PREFIX_EXPRESSION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+precedence.get(operator),METHOD_INVOCATION, line no: 30,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+opstack.getLast(),METHOD_INVOCATION, line no: 30,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 36,precedence.get(operator),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 36,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.3, 0.0, 0.0, 0.0, 0.3, 1.0
+new ArrayDeque(),CLASS_INSTANCE_CREATION, line no: 22,(Integer)token,CAST_EXPRESSION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+new ArrayDeque(),CLASS_INSTANCE_CREATION, line no: 22,(String)token,CAST_EXPRESSION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+(Integer)token,CAST_EXPRESSION, line no: 27,new ArrayDeque(),CLASS_INSTANCE_CREATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+(Integer)token,CAST_EXPRESSION, line no: 27,opstack.pop(),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+(String)token,CAST_EXPRESSION, line no: 29,new ArrayDeque(),CLASS_INSTANCE_CREATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+(String)token,CAST_EXPRESSION, line no: 29,opstack.pop(),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,opstack.pop(),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 30,isEmpty,SIMPLE_NAME, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+isEmpty,SIMPLE_NAME, line no: 30,!opstack.isEmpty(),PREFIX_EXPRESSION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+precedence.get(opstack.getLast()),METHOD_INVOCATION, line no: 30,getLast,SIMPLE_NAME, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+getLast,SIMPLE_NAME, line no: 30,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 36,isEmpty,SIMPLE_NAME, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+isEmpty,SIMPLE_NAME, line no: 36,!opstack.isEmpty(),PREFIX_EXPRESSION, 0.2857142857142857, 0.0, 0.0, 0.0, 0.2857142857142857, 1.0
+new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, line no: 15,(Integer)token,CAST_EXPRESSION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, line no: 15,(String)token,CAST_EXPRESSION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+precedence.put("+" 1),METHOD_INVOCATION, line no: 16,opstack.isEmpty(),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+precedence.put("+" 1),METHOD_INVOCATION, line no: 16,opstack.getLast(),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+precedence.put("-" 1),METHOD_INVOCATION, line no: 17,opstack.isEmpty(),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+precedence.put("-" 1),METHOD_INVOCATION, line no: 17,opstack.getLast(),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+precedence.put("*" 2),METHOD_INVOCATION, line no: 18,opstack.isEmpty(),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+precedence.put("*" 2),METHOD_INVOCATION, line no: 18,opstack.getLast(),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+precedence.put("/" 2),METHOD_INVOCATION, line no: 19,opstack.isEmpty(),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+precedence.put("/" 2),METHOD_INVOCATION, line no: 19,opstack.getLast(),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+Integer.class.isInstance(token),METHOD_INVOCATION, line no: 25,precedence.get(operator),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+Integer.class.isInstance(token),METHOD_INVOCATION, line no: 25,opstack.getLast(),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+rpntokens.add((Integer)token),METHOD_INVOCATION, line no: 27,!opstack.isEmpty(),PREFIX_EXPRESSION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+rpntokens.add((Integer)token),METHOD_INVOCATION, line no: 27,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+(Integer)token,CAST_EXPRESSION, line no: 27,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+(String)token,CAST_EXPRESSION, line no: 29,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 30,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 30,precedence.put("+" 1),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 30,precedence.put("-" 1),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 30,precedence.put("*" 2),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 30,precedence.put("/" 2),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+precedence.get(operator),METHOD_INVOCATION, line no: 30,Integer.class.isInstance(token),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+precedence.get(opstack.getLast()),METHOD_INVOCATION, line no: 30,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+opstack.getLast(),METHOD_INVOCATION, line no: 30,precedence.put("+" 1),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+opstack.getLast(),METHOD_INVOCATION, line no: 30,precedence.put("-" 1),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+opstack.getLast(),METHOD_INVOCATION, line no: 30,precedence.put("*" 2),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+opstack.getLast(),METHOD_INVOCATION, line no: 30,precedence.put("/" 2),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+opstack.getLast(),METHOD_INVOCATION, line no: 30,Integer.class.isInstance(token),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 36,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 36,precedence.put("+" 1),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 36,precedence.put("-" 1),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 36,precedence.put("*" 2),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 36,precedence.put("/" 2),METHOD_INVOCATION, 0.2727272727272727, 0.0, 0.0, 0.0, 0.2727272727272727, 1.0
+String,SIMPLE_NAME, line no: 15,(String)token,CAST_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+Integer,SIMPLE_NAME, line no: 15,(Integer)token,CAST_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, line no: 15,new ArrayDeque(),CLASS_INSTANCE_CREATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+String,SIMPLE_NAME, line no: 15,(String)token,CAST_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+Integer,SIMPLE_NAME, line no: 15,(Integer)token,CAST_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+precedence.put("+" 1),METHOD_INVOCATION, line no: 16,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+precedence.put("+" 1),METHOD_INVOCATION, line no: 16,!opstack.isEmpty(),PREFIX_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+precedence.put("+" 1),METHOD_INVOCATION, line no: 16,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+precedence.put("-" 1),METHOD_INVOCATION, line no: 17,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+precedence.put("-" 1),METHOD_INVOCATION, line no: 17,!opstack.isEmpty(),PREFIX_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+precedence.put("-" 1),METHOD_INVOCATION, line no: 17,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+precedence.put("*" 2),METHOD_INVOCATION, line no: 18,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+precedence.put("*" 2),METHOD_INVOCATION, line no: 18,!opstack.isEmpty(),PREFIX_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+precedence.put("*" 2),METHOD_INVOCATION, line no: 18,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+precedence.put("/" 2),METHOD_INVOCATION, line no: 19,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+precedence.put("/" 2),METHOD_INVOCATION, line no: 19,!opstack.isEmpty(),PREFIX_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+precedence.put("/" 2),METHOD_INVOCATION, line no: 19,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 21,(Integer)token,CAST_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 21,(String)token,CAST_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+new ArrayDeque(),CLASS_INSTANCE_CREATION, line no: 22,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+new ArrayDeque(),CLASS_INSTANCE_CREATION, line no: 22,opstack.pop(),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+token,SIMPLE_NAME, line no: 24,(Integer)token,CAST_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+token,SIMPLE_NAME, line no: 24,(String)token,CAST_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+Integer.class.isInstance(token),METHOD_INVOCATION, line no: 25,isInstance,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+Integer.class.isInstance(token),METHOD_INVOCATION, line no: 25,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+Integer.class.isInstance(token),METHOD_INVOCATION, line no: 25,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+Integer.class,TYPE_LITERAL, line no: 25,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+Integer,SIMPLE_NAME, line no: 25,(Integer)token,CAST_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+isInstance,SIMPLE_NAME, line no: 25,Integer.class.isInstance(token),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+token,SIMPLE_NAME, line no: 25,(Integer)token,CAST_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+token,SIMPLE_NAME, line no: 25,(String)token,CAST_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+rpntokens.add((Integer)token),METHOD_INVOCATION, line no: 27,precedence.put("+" 1),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+rpntokens.add((Integer)token),METHOD_INVOCATION, line no: 27,precedence.put("-" 1),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+rpntokens.add((Integer)token),METHOD_INVOCATION, line no: 27,precedence.put("*" 2),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+rpntokens.add((Integer)token),METHOD_INVOCATION, line no: 27,precedence.put("/" 2),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+rpntokens.add((Integer)token),METHOD_INVOCATION, line no: 27,Integer.class,TYPE_LITERAL, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+(Integer)token,CAST_EXPRESSION, line no: 27,Integer,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+(Integer)token,CAST_EXPRESSION, line no: 27,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+(Integer)token,CAST_EXPRESSION, line no: 27,token,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+(Integer)token,CAST_EXPRESSION, line no: 27,opstack.isEmpty(),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+(Integer)token,CAST_EXPRESSION, line no: 27,precedence.get(operator),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+(Integer)token,CAST_EXPRESSION, line no: 27,opstack.getLast(),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+Integer,SIMPLE_NAME, line no: 27,(Integer)token,CAST_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+token,SIMPLE_NAME, line no: 27,(Integer)token,CAST_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+token,SIMPLE_NAME, line no: 27,(String)token,CAST_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+String,SIMPLE_NAME, line no: 29,(String)token,CAST_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+(String)token,CAST_EXPRESSION, line no: 29,String,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+(String)token,CAST_EXPRESSION, line no: 29,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+(String)token,CAST_EXPRESSION, line no: 29,token,SIMPLE_NAME, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+(String)token,CAST_EXPRESSION, line no: 29,opstack.isEmpty(),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+(String)token,CAST_EXPRESSION, line no: 29,precedence.get(operator),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+(String)token,CAST_EXPRESSION, line no: 29,opstack.getLast(),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+String,SIMPLE_NAME, line no: 29,(String)token,CAST_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+token,SIMPLE_NAME, line no: 29,(Integer)token,CAST_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+token,SIMPLE_NAME, line no: 29,(String)token,CAST_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 30,precedence.put("+" 1),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 30,precedence.put("-" 1),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 30,precedence.put("*" 2),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 30,precedence.put("/" 2),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 30,(Integer)token,CAST_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 30,(String)token,CAST_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+precedence.get(operator),METHOD_INVOCATION, line no: 30,(Integer)token,CAST_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+precedence.get(operator),METHOD_INVOCATION, line no: 30,(String)token,CAST_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+precedence.get(opstack.getLast()),METHOD_INVOCATION, line no: 30,Integer.class.isInstance(token),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+opstack.getLast(),METHOD_INVOCATION, line no: 30,(Integer)token,CAST_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+opstack.getLast(),METHOD_INVOCATION, line no: 30,(String)token,CAST_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 36,precedence.put("+" 1),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 36,precedence.put("-" 1),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 36,precedence.put("*" 2),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 36,precedence.put("/" 2),METHOD_INVOCATION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 36,(Integer)token,CAST_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 36,(String)token,CAST_EXPRESSION, 0.25, 0.0, 0.0, 0.0, 0.25, 1.0
+precedence.put("+" 1),METHOD_INVOCATION, line no: 16,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.23529411764705882, 0.0, 0.0, 0.0, 0.23529411764705882, 1.0
+precedence.put("-" 1),METHOD_INVOCATION, line no: 17,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.23529411764705882, 0.0, 0.0, 0.0, 0.23529411764705882, 1.0
+precedence.put("*" 2),METHOD_INVOCATION, line no: 18,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.23529411764705882, 0.0, 0.0, 0.0, 0.23529411764705882, 1.0
+precedence.put("/" 2),METHOD_INVOCATION, line no: 19,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.23529411764705882, 0.0, 0.0, 0.0, 0.23529411764705882, 1.0
+Integer.class.isInstance(token),METHOD_INVOCATION, line no: 25,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.23529411764705882, 0.0, 0.0, 0.0, 0.23529411764705882, 1.0
+!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,precedence.put("+" 1),METHOD_INVOCATION, 0.23529411764705882, 0.0, 0.0, 0.0, 0.23529411764705882, 1.0
+!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,precedence.put("-" 1),METHOD_INVOCATION, 0.23529411764705882, 0.0, 0.0, 0.0, 0.23529411764705882, 1.0
+!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,precedence.put("*" 2),METHOD_INVOCATION, 0.23529411764705882, 0.0, 0.0, 0.0, 0.23529411764705882, 1.0
+!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,precedence.put("/" 2),METHOD_INVOCATION, 0.23529411764705882, 0.0, 0.0, 0.0, 0.23529411764705882, 1.0
+!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,Integer.class.isInstance(token),METHOD_INVOCATION, 0.23529411764705882, 0.0, 0.0, 0.0, 0.23529411764705882, 1.0
+new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, line no: 15,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+precedence.put("+" 1),METHOD_INVOCATION, line no: 16,Integer.class.isInstance(token),METHOD_INVOCATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+precedence.put("-" 1),METHOD_INVOCATION, line no: 17,Integer.class.isInstance(token),METHOD_INVOCATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+precedence.put("*" 2),METHOD_INVOCATION, line no: 18,Integer.class.isInstance(token),METHOD_INVOCATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+precedence.put("/" 2),METHOD_INVOCATION, line no: 19,Integer.class.isInstance(token),METHOD_INVOCATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 21,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+Integer.class.isInstance(token),METHOD_INVOCATION, line no: 25,precedence.put("+" 1),METHOD_INVOCATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+Integer.class.isInstance(token),METHOD_INVOCATION, line no: 25,precedence.put("-" 1),METHOD_INVOCATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+Integer.class.isInstance(token),METHOD_INVOCATION, line no: 25,precedence.put("*" 2),METHOD_INVOCATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+Integer.class.isInstance(token),METHOD_INVOCATION, line no: 25,precedence.put("/" 2),METHOD_INVOCATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+rpntokens.add((Integer)token),METHOD_INVOCATION, line no: 27,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.23076923076923078, 0.0, 0.0, 0.0, 0.23076923076923078, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 21,opstack.pop(),METHOD_INVOCATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+new ArrayDeque(),CLASS_INSTANCE_CREATION, line no: 22,opstack.isEmpty(),METHOD_INVOCATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+new ArrayDeque(),CLASS_INSTANCE_CREATION, line no: 22,precedence.get(operator),METHOD_INVOCATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+new ArrayDeque(),CLASS_INSTANCE_CREATION, line no: 22,opstack.getLast(),METHOD_INVOCATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+(Integer)token,CAST_EXPRESSION, line no: 27,!opstack.isEmpty(),PREFIX_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+(Integer)token,CAST_EXPRESSION, line no: 27,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+(Integer)token,CAST_EXPRESSION, line no: 27,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+(String)token,CAST_EXPRESSION, line no: 29,!opstack.isEmpty(),PREFIX_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+(String)token,CAST_EXPRESSION, line no: 29,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+(String)token,CAST_EXPRESSION, line no: 29,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 30,(Integer)token,CAST_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 30,(String)token,CAST_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 30,new ArrayDeque(),CLASS_INSTANCE_CREATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,getLast,SIMPLE_NAME, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+precedence.get(operator),METHOD_INVOCATION, line no: 30,new ArrayDeque(),CLASS_INSTANCE_CREATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+precedence.get(opstack.getLast()),METHOD_INVOCATION, line no: 30,(Integer)token,CAST_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+precedence.get(opstack.getLast()),METHOD_INVOCATION, line no: 30,(String)token,CAST_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+opstack.getLast(),METHOD_INVOCATION, line no: 30,new ArrayDeque(),CLASS_INSTANCE_CREATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+getLast,SIMPLE_NAME, line no: 30,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 36,(Integer)token,CAST_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 36,(String)token,CAST_EXPRESSION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 36,new ArrayDeque(),CLASS_INSTANCE_CREATION, 0.2222222222222222, 0.0, 0.0, 0.0, 0.2222222222222222, 1.0
+new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, line no: 15,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+Integer.class.isInstance(token),METHOD_INVOCATION, line no: 25,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+rpntokens.add((Integer)token),METHOD_INVOCATION, line no: 27,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,Integer.class.isInstance(token),METHOD_INVOCATION, 0.21428571428571427, 0.0, 0.0, 0.0, 0.21428571428571427, 1.0
+new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, line no: 15,HashMap,SIMPLE_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, line no: 15,precedence.put("+" 1),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, line no: 15,precedence.put("-" 1),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, line no: 15,precedence.put("*" 2),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, line no: 15,precedence.put("/" 2),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, line no: 15,Integer.class.isInstance(token),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+HashMap,SIMPLE_NAME, line no: 15,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+precedence.put("+" 1),METHOD_INVOCATION, line no: 16,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+precedence.put("+" 1),METHOD_INVOCATION, line no: 16,(Integer)token,CAST_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+precedence.put("+" 1),METHOD_INVOCATION, line no: 16,(String)token,CAST_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+precedence.put("-" 1),METHOD_INVOCATION, line no: 17,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+precedence.put("-" 1),METHOD_INVOCATION, line no: 17,(Integer)token,CAST_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+precedence.put("-" 1),METHOD_INVOCATION, line no: 17,(String)token,CAST_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+precedence.put("*" 2),METHOD_INVOCATION, line no: 18,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+precedence.put("*" 2),METHOD_INVOCATION, line no: 18,(Integer)token,CAST_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+precedence.put("*" 2),METHOD_INVOCATION, line no: 18,(String)token,CAST_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+precedence.put("/" 2),METHOD_INVOCATION, line no: 19,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+precedence.put("/" 2),METHOD_INVOCATION, line no: 19,(Integer)token,CAST_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+precedence.put("/" 2),METHOD_INVOCATION, line no: 19,(String)token,CAST_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 21,opstack.isEmpty(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 21,precedence.get(operator),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 21,opstack.getLast(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+opstack,SIMPLE_NAME, line no: 22,opstack.pop(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+new ArrayDeque(),CLASS_INSTANCE_CREATION, line no: 22,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+new ArrayDeque(),CLASS_INSTANCE_CREATION, line no: 22,!opstack.isEmpty(),PREFIX_EXPRESSION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+new ArrayDeque(),CLASS_INSTANCE_CREATION, line no: 22,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+new ArrayDeque(),CLASS_INSTANCE_CREATION, line no: 22,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+Integer.class.isInstance(token),METHOD_INVOCATION, line no: 25,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+Integer.class,TYPE_LITERAL, line no: 25,java.util,QUALIFIED_NAME, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+rpntokens.add((Integer)token),METHOD_INVOCATION, line no: 27,new ArrayDeque(),CLASS_INSTANCE_CREATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+(Integer)token,CAST_EXPRESSION, line no: 27,precedence.put("+" 1),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+(Integer)token,CAST_EXPRESSION, line no: 27,precedence.put("-" 1),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+(Integer)token,CAST_EXPRESSION, line no: 27,precedence.put("*" 2),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+(Integer)token,CAST_EXPRESSION, line no: 27,precedence.put("/" 2),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+(String)token,CAST_EXPRESSION, line no: 29,precedence.put("+" 1),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+(String)token,CAST_EXPRESSION, line no: 29,precedence.put("-" 1),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+(String)token,CAST_EXPRESSION, line no: 29,precedence.put("*" 2),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+(String)token,CAST_EXPRESSION, line no: 29,precedence.put("/" 2),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 30,new ArrayDeque(),CLASS_INSTANCE_CREATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 30,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+opstack,SIMPLE_NAME, line no: 30,opstack.pop(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+precedence.get(operator),METHOD_INVOCATION, line no: 30,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+precedence.get(opstack.getLast()),METHOD_INVOCATION, line no: 30,new ArrayDeque(),CLASS_INSTANCE_CREATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+opstack.getLast(),METHOD_INVOCATION, line no: 30,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+opstack,SIMPLE_NAME, line no: 30,opstack.pop(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 36,new ArrayDeque(),CLASS_INSTANCE_CREATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 36,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+opstack,SIMPLE_NAME, line no: 36,opstack.pop(),METHOD_INVOCATION, 0.2, 0.0, 0.0, 0.0, 0.2, 1.0
+precedence.put("+" 1),METHOD_INVOCATION, line no: 16,new ArrayDeque(),CLASS_INSTANCE_CREATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+precedence.put("-" 1),METHOD_INVOCATION, line no: 17,new ArrayDeque(),CLASS_INSTANCE_CREATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+precedence.put("*" 2),METHOD_INVOCATION, line no: 18,new ArrayDeque(),CLASS_INSTANCE_CREATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+precedence.put("/" 2),METHOD_INVOCATION, line no: 19,new ArrayDeque(),CLASS_INSTANCE_CREATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 21,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 21,!opstack.isEmpty(),PREFIX_EXPRESSION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 21,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 21,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+new ArrayDeque(),CLASS_INSTANCE_CREATION, line no: 22,precedence.put("+" 1),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+new ArrayDeque(),CLASS_INSTANCE_CREATION, line no: 22,precedence.put("-" 1),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+new ArrayDeque(),CLASS_INSTANCE_CREATION, line no: 22,precedence.put("*" 2),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+new ArrayDeque(),CLASS_INSTANCE_CREATION, line no: 22,precedence.put("/" 2),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+new ArrayDeque(),CLASS_INSTANCE_CREATION, line no: 22,Integer.class.isInstance(token),METHOD_INVOCATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+Integer.class.isInstance(token),METHOD_INVOCATION, line no: 25,new ArrayDeque(),CLASS_INSTANCE_CREATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+rpntokens.add((Integer)token),METHOD_INVOCATION, line no: 27,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+(Integer)token,CAST_EXPRESSION, line no: 27,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+(String)token,CAST_EXPRESSION, line no: 29,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 30,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,(Integer)token,CAST_EXPRESSION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,(String)token,CAST_EXPRESSION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+precedence.get(opstack.getLast()),METHOD_INVOCATION, line no: 30,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 36,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.18181818181818182, 0.0, 0.0, 0.0, 0.18181818181818182, 1.0
+rpntokens.add((Integer)token),METHOD_INVOCATION, line no: 27,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.17647058823529413, 0.0, 0.0, 0.0, 0.17647058823529413, 1.0
+!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.17647058823529413, 0.0, 0.0, 0.0, 0.17647058823529413, 1.0
+precedence,SIMPLE_NAME, line no: 15,precedence.get(operator),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+precedence.put("+" 1),METHOD_INVOCATION, line no: 16,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+precedence,SIMPLE_NAME, line no: 16,precedence.get(operator),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+precedence.put("-" 1),METHOD_INVOCATION, line no: 17,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+precedence,SIMPLE_NAME, line no: 17,precedence.get(operator),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+precedence.put("*" 2),METHOD_INVOCATION, line no: 18,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+precedence,SIMPLE_NAME, line no: 18,precedence.get(operator),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+precedence.put("/" 2),METHOD_INVOCATION, line no: 19,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+precedence,SIMPLE_NAME, line no: 19,precedence.get(operator),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,new ArrayDeque(),CLASS_INSTANCE_CREATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 21,List,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 21,precedence.put("+" 1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 21,precedence.put("-" 1),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 21,precedence.put("*" 2),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 21,precedence.put("/" 2),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 21,100,NUMBER_LITERAL, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 21,Integer.class.isInstance(token),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,new ArrayDeque(),CLASS_INSTANCE_CREATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+100,NUMBER_LITERAL, line no: 21,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+opstack,SIMPLE_NAME, line no: 22,opstack.isEmpty(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+opstack,SIMPLE_NAME, line no: 22,opstack.getLast(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayDeque(),CLASS_INSTANCE_CREATION, line no: 22,ArrayList,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new ArrayDeque(),CLASS_INSTANCE_CREATION, line no: 22,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+Integer.class.isInstance(token),METHOD_INVOCATION, line no: 25,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+Integer.class,TYPE_LITERAL, line no: 25,(Integer)token,CAST_EXPRESSION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+(Integer)token,CAST_EXPRESSION, line no: 27,Integer.class,TYPE_LITERAL, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+operator,SIMPLE_NAME, line no: 29,precedence.get(operator),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 30,opstack,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+opstack,SIMPLE_NAME, line no: 30,opstack.isEmpty(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+opstack,SIMPLE_NAME, line no: 30,opstack.getLast(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,new ArrayDeque(),CLASS_INSTANCE_CREATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+precedence.get(operator),METHOD_INVOCATION, line no: 30,precedence,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+precedence.get(operator),METHOD_INVOCATION, line no: 30,operator,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+precedence.get(operator),METHOD_INVOCATION, line no: 30,get,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+precedence,SIMPLE_NAME, line no: 30,precedence.get(operator),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+get,SIMPLE_NAME, line no: 30,precedence.get(operator),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+get,SIMPLE_NAME, line no: 30,opstack.getLast(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+operator,SIMPLE_NAME, line no: 30,precedence.get(operator),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+precedence,SIMPLE_NAME, line no: 30,precedence.get(operator),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+get,SIMPLE_NAME, line no: 30,precedence.get(operator),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+get,SIMPLE_NAME, line no: 30,opstack.getLast(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+opstack.getLast(),METHOD_INVOCATION, line no: 30,opstack,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+opstack.getLast(),METHOD_INVOCATION, line no: 30,get,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+opstack,SIMPLE_NAME, line no: 30,opstack.isEmpty(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+opstack,SIMPLE_NAME, line no: 30,opstack.getLast(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 36,opstack,SIMPLE_NAME, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+opstack,SIMPLE_NAME, line no: 36,opstack.isEmpty(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+opstack,SIMPLE_NAME, line no: 36,opstack.getLast(),METHOD_INVOCATION, 0.16666666666666666, 0.0, 0.0, 0.0, 0.16666666666666666, 1.0
+new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, line no: 15,opstack.pop(),METHOD_INVOCATION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 21,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,isEmpty,SIMPLE_NAME, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,getLast,SIMPLE_NAME, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+isEmpty,SIMPLE_NAME, line no: 30,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+getLast,SIMPLE_NAME, line no: 30,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+isEmpty,SIMPLE_NAME, line no: 36,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.15384615384615385, 0.0, 0.0, 0.0, 0.15384615384615385, 1.0
+Integer,SIMPLE_NAME, line no: 15,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+precedence,SIMPLE_NAME, line no: 15,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, line no: 15,opstack.isEmpty(),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, line no: 15,precedence.get(operator),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, line no: 15,opstack.getLast(),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+Integer,SIMPLE_NAME, line no: 15,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+precedence,SIMPLE_NAME, line no: 16,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+precedence,SIMPLE_NAME, line no: 17,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+precedence,SIMPLE_NAME, line no: 18,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+precedence,SIMPLE_NAME, line no: 19,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+rpntokens,SIMPLE_NAME, line no: 21,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+rpntokens,SIMPLE_NAME, line no: 21,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 21,ArrayDeque,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+ArrayDeque,SIMPLE_NAME, line no: 22,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+opstack,SIMPLE_NAME, line no: 22,!opstack.isEmpty(),PREFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+opstack,SIMPLE_NAME, line no: 22,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+opstack,SIMPLE_NAME, line no: 22,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+ArrayDeque,SIMPLE_NAME, line no: 22,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+token,SIMPLE_NAME, line no: 24,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+Integer.class,TYPE_LITERAL, line no: 25,opstack.pop(),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+Integer,SIMPLE_NAME, line no: 25,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+isInstance,SIMPLE_NAME, line no: 25,opstack.isEmpty(),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+token,SIMPLE_NAME, line no: 25,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+rpntokens.add((Integer)token),METHOD_INVOCATION, line no: 27,Integer,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+rpntokens.add((Integer)token),METHOD_INVOCATION, line no: 27,rpntokens,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+rpntokens.add((Integer)token),METHOD_INVOCATION, line no: 27,token,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+rpntokens.add((Integer)token),METHOD_INVOCATION, line no: 27,add,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+rpntokens,SIMPLE_NAME, line no: 27,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+rpntokens,SIMPLE_NAME, line no: 27,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+add,SIMPLE_NAME, line no: 27,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+add,SIMPLE_NAME, line no: 27,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+Integer,SIMPLE_NAME, line no: 27,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+token,SIMPLE_NAME, line no: 27,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+token,SIMPLE_NAME, line no: 29,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 30,opstack,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 30,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 30,isInstance,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+opstack,SIMPLE_NAME, line no: 30,!opstack.isEmpty(),PREFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+opstack,SIMPLE_NAME, line no: 30,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+opstack,SIMPLE_NAME, line no: 30,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+precedence.get(operator),METHOD_INVOCATION, line no: 30,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+precedence.get(operator),METHOD_INVOCATION, line no: 30,getLast,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+precedence,SIMPLE_NAME, line no: 30,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+get,SIMPLE_NAME, line no: 30,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+precedence.get(opstack.getLast()),METHOD_INVOCATION, line no: 30,precedence,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+precedence.get(opstack.getLast()),METHOD_INVOCATION, line no: 30,opstack,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+precedence.get(opstack.getLast()),METHOD_INVOCATION, line no: 30,get,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+precedence,SIMPLE_NAME, line no: 30,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+get,SIMPLE_NAME, line no: 30,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+opstack.getLast(),METHOD_INVOCATION, line no: 30,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+opstack,SIMPLE_NAME, line no: 30,!opstack.isEmpty(),PREFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+opstack,SIMPLE_NAME, line no: 30,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+opstack,SIMPLE_NAME, line no: 30,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+getLast,SIMPLE_NAME, line no: 30,precedence.get(operator),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 36,opstack,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 36,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 36,isInstance,SIMPLE_NAME, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+opstack,SIMPLE_NAME, line no: 36,!opstack.isEmpty(),PREFIX_EXPRESSION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+opstack,SIMPLE_NAME, line no: 36,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+opstack,SIMPLE_NAME, line no: 36,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+rpntokens,SIMPLE_NAME, line no: 40,rpntokens.add((Integer)token),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+rpntokens,SIMPLE_NAME, line no: 40,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.14285714285714285, 0.0, 0.0, 0.0, 0.14285714285714285, 1.0
+new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, line no: 15,!opstack.isEmpty(),PREFIX_EXPRESSION, 0.13333333333333333, 0.0, 0.0, 0.0, 0.13333333333333333, 1.0
+new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, line no: 15,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.13333333333333333, 0.0, 0.0, 0.0, 0.13333333333333333, 1.0
+new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, line no: 15,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.13333333333333333, 0.0, 0.0, 0.0, 0.13333333333333333, 1.0
+(Integer)token,CAST_EXPRESSION, line no: 27,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.13333333333333333, 0.0, 0.0, 0.0, 0.13333333333333333, 1.0
+(String)token,CAST_EXPRESSION, line no: 29,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.13333333333333333, 0.0, 0.0, 0.0, 0.13333333333333333, 1.0
+!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,(Integer)token,CAST_EXPRESSION, 0.13333333333333333, 0.0, 0.0, 0.0, 0.13333333333333333, 1.0
+!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,(String)token,CAST_EXPRESSION, 0.13333333333333333, 0.0, 0.0, 0.0, 0.13333333333333333, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 30,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.13333333333333333, 0.0, 0.0, 0.0, 0.13333333333333333, 1.0
+precedence.get(opstack.getLast()),METHOD_INVOCATION, line no: 30,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.13333333333333333, 0.0, 0.0, 0.0, 0.13333333333333333, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 36,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.13333333333333333, 0.0, 0.0, 0.0, 0.13333333333333333, 1.0
+Integer,SIMPLE_NAME, line no: 15,Integer.class.isInstance(token),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence,SIMPLE_NAME, line no: 15,precedence.put("+" 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence,SIMPLE_NAME, line no: 15,precedence.put("-" 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence,SIMPLE_NAME, line no: 15,precedence.put("*" 2),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence,SIMPLE_NAME, line no: 15,precedence.put("/" 2),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Integer,SIMPLE_NAME, line no: 15,Integer.class.isInstance(token),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence.put("+" 1),METHOD_INVOCATION, line no: 16,precedence,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence.put("+" 1),METHOD_INVOCATION, line no: 16,put,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence.put("+" 1),METHOD_INVOCATION, line no: 16,"+",STRING_LITERAL, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence.put("+" 1),METHOD_INVOCATION, line no: 16,1,NUMBER_LITERAL, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence,SIMPLE_NAME, line no: 16,precedence.put("+" 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence,SIMPLE_NAME, line no: 16,precedence.put("-" 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence,SIMPLE_NAME, line no: 16,precedence.put("*" 2),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence,SIMPLE_NAME, line no: 16,precedence.put("/" 2),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+put,SIMPLE_NAME, line no: 16,precedence.put("+" 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+put,SIMPLE_NAME, line no: 16,precedence.put("-" 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+put,SIMPLE_NAME, line no: 16,precedence.put("*" 2),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+put,SIMPLE_NAME, line no: 16,precedence.put("/" 2),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+"+",STRING_LITERAL, line no: 16,precedence.put("+" 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+1,NUMBER_LITERAL, line no: 16,precedence.put("+" 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+1,NUMBER_LITERAL, line no: 16,precedence.put("-" 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence.put("-" 1),METHOD_INVOCATION, line no: 17,precedence,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence.put("-" 1),METHOD_INVOCATION, line no: 17,put,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence.put("-" 1),METHOD_INVOCATION, line no: 17,1,NUMBER_LITERAL, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence.put("-" 1),METHOD_INVOCATION, line no: 17,"-",STRING_LITERAL, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence,SIMPLE_NAME, line no: 17,precedence.put("+" 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence,SIMPLE_NAME, line no: 17,precedence.put("-" 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence,SIMPLE_NAME, line no: 17,precedence.put("*" 2),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence,SIMPLE_NAME, line no: 17,precedence.put("/" 2),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+put,SIMPLE_NAME, line no: 17,precedence.put("+" 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+put,SIMPLE_NAME, line no: 17,precedence.put("-" 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+put,SIMPLE_NAME, line no: 17,precedence.put("*" 2),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+put,SIMPLE_NAME, line no: 17,precedence.put("/" 2),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+"-",STRING_LITERAL, line no: 17,precedence.put("-" 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+1,NUMBER_LITERAL, line no: 17,precedence.put("+" 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+1,NUMBER_LITERAL, line no: 17,precedence.put("-" 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence.put("*" 2),METHOD_INVOCATION, line no: 18,precedence,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence.put("*" 2),METHOD_INVOCATION, line no: 18,put,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence.put("*" 2),METHOD_INVOCATION, line no: 18,"*",STRING_LITERAL, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence.put("*" 2),METHOD_INVOCATION, line no: 18,2,NUMBER_LITERAL, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence,SIMPLE_NAME, line no: 18,precedence.put("+" 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence,SIMPLE_NAME, line no: 18,precedence.put("-" 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence,SIMPLE_NAME, line no: 18,precedence.put("*" 2),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence,SIMPLE_NAME, line no: 18,precedence.put("/" 2),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+put,SIMPLE_NAME, line no: 18,precedence.put("+" 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+put,SIMPLE_NAME, line no: 18,precedence.put("-" 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+put,SIMPLE_NAME, line no: 18,precedence.put("*" 2),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+put,SIMPLE_NAME, line no: 18,precedence.put("/" 2),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+"*",STRING_LITERAL, line no: 18,precedence.put("*" 2),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+2,NUMBER_LITERAL, line no: 18,precedence.put("*" 2),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+2,NUMBER_LITERAL, line no: 18,precedence.put("/" 2),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence.put("/" 2),METHOD_INVOCATION, line no: 19,precedence,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence.put("/" 2),METHOD_INVOCATION, line no: 19,put,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence.put("/" 2),METHOD_INVOCATION, line no: 19,2,NUMBER_LITERAL, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence.put("/" 2),METHOD_INVOCATION, line no: 19,"/",STRING_LITERAL, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence,SIMPLE_NAME, line no: 19,precedence.put("+" 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence,SIMPLE_NAME, line no: 19,precedence.put("-" 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence,SIMPLE_NAME, line no: 19,precedence.put("*" 2),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence,SIMPLE_NAME, line no: 19,precedence.put("/" 2),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+put,SIMPLE_NAME, line no: 19,precedence.put("+" 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+put,SIMPLE_NAME, line no: 19,precedence.put("-" 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+put,SIMPLE_NAME, line no: 19,precedence.put("*" 2),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+put,SIMPLE_NAME, line no: 19,precedence.put("/" 2),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+"/",STRING_LITERAL, line no: 19,precedence.put("/" 2),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+2,NUMBER_LITERAL, line no: 19,precedence.put("*" 2),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+2,NUMBER_LITERAL, line no: 19,precedence.put("/" 2),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+new ArrayDeque(),CLASS_INSTANCE_CREATION, line no: 22,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+token,SIMPLE_NAME, line no: 24,Integer.class.isInstance(token),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Integer.class.isInstance(token),METHOD_INVOCATION, line no: 25,Integer,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Integer.class.isInstance(token),METHOD_INVOCATION, line no: 25,token,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Integer.class,TYPE_LITERAL, line no: 25,opstack.isEmpty(),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Integer.class,TYPE_LITERAL, line no: 25,precedence.get(operator),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Integer.class,TYPE_LITERAL, line no: 25,opstack.getLast(),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Integer,SIMPLE_NAME, line no: 25,Integer.class.isInstance(token),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+isInstance,SIMPLE_NAME, line no: 25,!opstack.isEmpty(),PREFIX_EXPRESSION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+token,SIMPLE_NAME, line no: 25,Integer.class.isInstance(token),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+Integer,SIMPLE_NAME, line no: 27,Integer.class.isInstance(token),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+token,SIMPLE_NAME, line no: 27,Integer.class.isInstance(token),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+token,SIMPLE_NAME, line no: 29,Integer.class.isInstance(token),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,new ArrayDeque(),CLASS_INSTANCE_CREATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 30,isInstance,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 30,java.util,QUALIFIED_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 30,Integer.class,TYPE_LITERAL, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence.get(operator),METHOD_INVOCATION, line no: 30,java.util,QUALIFIED_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence.get(operator),METHOD_INVOCATION, line no: 30,Integer.class,TYPE_LITERAL, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence,SIMPLE_NAME, line no: 30,precedence.put("+" 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence,SIMPLE_NAME, line no: 30,precedence.put("-" 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence,SIMPLE_NAME, line no: 30,precedence.put("*" 2),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence,SIMPLE_NAME, line no: 30,precedence.put("/" 2),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence,SIMPLE_NAME, line no: 30,precedence.put("+" 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence,SIMPLE_NAME, line no: 30,precedence.put("-" 1),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence,SIMPLE_NAME, line no: 30,precedence.put("*" 2),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+precedence,SIMPLE_NAME, line no: 30,precedence.put("/" 2),METHOD_INVOCATION, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+opstack.getLast(),METHOD_INVOCATION, line no: 30,java.util,QUALIFIED_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+opstack.getLast(),METHOD_INVOCATION, line no: 30,Integer.class,TYPE_LITERAL, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 36,isInstance,SIMPLE_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 36,java.util,QUALIFIED_NAME, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+opstack.isEmpty(),METHOD_INVOCATION, line no: 36,Integer.class,TYPE_LITERAL, 0.125, 0.0, 0.0, 0.0, 0.125, 1.0
+new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, line no: 15,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.11764705882352941, 0.0, 0.0, 0.0, 0.11764705882352941, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 21,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.11764705882352941, 0.0, 0.0, 0.0, 0.11764705882352941, 1.0
+!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.11764705882352941, 0.0, 0.0, 0.0, 0.11764705882352941, 1.0
+precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.11764705882352941, 0.0, 0.0, 0.0, 0.11764705882352941, 1.0
+precedence,SIMPLE_NAME, line no: 15,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+precedence,SIMPLE_NAME, line no: 16,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+precedence,SIMPLE_NAME, line no: 17,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+precedence,SIMPLE_NAME, line no: 18,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+precedence,SIMPLE_NAME, line no: 19,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+opstack,SIMPLE_NAME, line no: 22,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+Integer.class.isInstance(token),METHOD_INVOCATION, line no: 25,isEmpty,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+Integer.class,TYPE_LITERAL, line no: 25,!opstack.isEmpty(),PREFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+Integer.class,TYPE_LITERAL, line no: 25,precedence.get(opstack.getLast()),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+Integer.class,TYPE_LITERAL, line no: 25,rpntokens.add(opstack.pop()),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+rpntokens.add((Integer)token),METHOD_INVOCATION, line no: 27,java.util,QUALIFIED_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+operator,SIMPLE_NAME, line no: 29,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 30,java.util,QUALIFIED_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 30,Integer.class,TYPE_LITERAL, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+opstack,SIMPLE_NAME, line no: 30,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+isEmpty,SIMPLE_NAME, line no: 30,Integer.class.isInstance(token),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,precedence,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,opstack,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,operator,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,get,SIMPLE_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+precedence,SIMPLE_NAME, line no: 30,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+get,SIMPLE_NAME, line no: 30,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+operator,SIMPLE_NAME, line no: 30,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+precedence.get(opstack.getLast()),METHOD_INVOCATION, line no: 30,java.util,QUALIFIED_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+precedence.get(opstack.getLast()),METHOD_INVOCATION, line no: 30,Integer.class,TYPE_LITERAL, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+precedence,SIMPLE_NAME, line no: 30,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+get,SIMPLE_NAME, line no: 30,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+opstack,SIMPLE_NAME, line no: 30,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 36,java.util,QUALIFIED_NAME, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+!opstack.isEmpty(),PREFIX_EXPRESSION, line no: 36,Integer.class,TYPE_LITERAL, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+opstack,SIMPLE_NAME, line no: 36,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+isEmpty,SIMPLE_NAME, line no: 36,Integer.class.isInstance(token),METHOD_INVOCATION, 0.1111111111111111, 0.0, 0.0, 0.0, 0.1111111111111111, 1.0
+Map,SIMPLE_NAME, line no: 15,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+String,SIMPLE_NAME, line no: 15,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+Integer,SIMPLE_NAME, line no: 15,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, line no: 15,Map,SIMPLE_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, line no: 15,String,SIMPLE_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, line no: 15,Integer,SIMPLE_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+String,SIMPLE_NAME, line no: 15,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+Integer,SIMPLE_NAME, line no: 15,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+precedence.put("+" 1),METHOD_INVOCATION, line no: 16,java.util,QUALIFIED_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+precedence.put("+" 1),METHOD_INVOCATION, line no: 16,Integer.class,TYPE_LITERAL, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+precedence.put("-" 1),METHOD_INVOCATION, line no: 17,java.util,QUALIFIED_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+precedence.put("-" 1),METHOD_INVOCATION, line no: 17,Integer.class,TYPE_LITERAL, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+precedence.put("*" 2),METHOD_INVOCATION, line no: 18,java.util,QUALIFIED_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+precedence.put("*" 2),METHOD_INVOCATION, line no: 18,Integer.class,TYPE_LITERAL, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+precedence.put("/" 2),METHOD_INVOCATION, line no: 19,java.util,QUALIFIED_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+precedence.put("/" 2),METHOD_INVOCATION, line no: 19,Integer.class,TYPE_LITERAL, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+Integer.class.isInstance(token),METHOD_INVOCATION, line no: 25,java.util,QUALIFIED_NAME, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+Integer.class,TYPE_LITERAL, line no: 25,precedence.put("+" 1),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+Integer.class,TYPE_LITERAL, line no: 25,precedence.put("-" 1),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+Integer.class,TYPE_LITERAL, line no: 25,precedence.put("*" 2),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+Integer.class,TYPE_LITERAL, line no: 25,precedence.put("/" 2),METHOD_INVOCATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+Integer,SIMPLE_NAME, line no: 25,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+Integer,SIMPLE_NAME, line no: 27,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+String,SIMPLE_NAME, line no: 29,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+String,SIMPLE_NAME, line no: 29,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.1, 0.0, 0.0, 0.0, 0.1, 1.0
+new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, line no: 15,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.09523809523809523, 0.0, 0.0, 0.0, 0.09523809523809523, 1.0
+!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.09523809523809523, 0.0, 0.0, 0.0, 0.09523809523809523, 1.0
+Integer.class,TYPE_LITERAL, line no: 25,precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,java.util,QUALIFIED_NAME, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,Integer.class,TYPE_LITERAL, 0.09090909090909091, 0.0, 0.0, 0.0, 0.09090909090909091, 1.0
+new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, line no: 15,Integer.class,TYPE_LITERAL, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+Integer.class,TYPE_LITERAL, line no: 25,new HashMap<String Integer>(),CLASS_INSTANCE_CREATION, 0.08333333333333333, 0.0, 0.0, 0.0, 0.08333333333333333, 1.0
+precedence,SIMPLE_NAME, line no: 15,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+precedence,SIMPLE_NAME, line no: 16,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+precedence,SIMPLE_NAME, line no: 17,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+precedence,SIMPLE_NAME, line no: 18,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+precedence,SIMPLE_NAME, line no: 19,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+opstack,SIMPLE_NAME, line no: 22,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+operator,SIMPLE_NAME, line no: 29,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,precedence,SIMPLE_NAME, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,opstack,SIMPLE_NAME, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,operator,SIMPLE_NAME, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,get,SIMPLE_NAME, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+opstack,SIMPLE_NAME, line no: 30,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+precedence,SIMPLE_NAME, line no: 30,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+get,SIMPLE_NAME, line no: 30,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+operator,SIMPLE_NAME, line no: 30,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+precedence,SIMPLE_NAME, line no: 30,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+get,SIMPLE_NAME, line no: 30,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+opstack,SIMPLE_NAME, line no: 30,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+opstack,SIMPLE_NAME, line no: 36,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.07692307692307693, 0.0, 0.0, 0.0, 0.07692307692307693, 1.0
+isInstance,SIMPLE_NAME, line no: 25,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.07142857142857142, 0.0, 0.0, 0.0, 0.07142857142857142, 1.0
+!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,isInstance,SIMPLE_NAME, 0.07142857142857142, 0.0, 0.0, 0.0, 0.07142857142857142, 1.0
+Integer.class,TYPE_LITERAL, line no: 25,!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, 0.06666666666666667, 0.0, 0.0, 0.0, 0.06666666666666667, 1.0
+!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,java.util,QUALIFIED_NAME, 0.06666666666666667, 0.0, 0.0, 0.0, 0.06666666666666667, 1.0
+!opstack.isEmpty() && precedence.get(operator) <= precedence.get(opstack.getLast()),INFIX_EXPRESSION, line no: 30,Integer.class,TYPE_LITERAL, 0.06666666666666667, 0.0, 0.0, 0.0, 0.06666666666666667, 1.0
