@@ -1,5 +1,12 @@
 Test,Pass-Fail,Runtime(ns)
-buggy_java_programs.LIS_TEST#test_0,FAIL,31921976
-buggy_java_programs.LIS_TEST#test_1,FAIL,54539760
-buggy_java_programs.LIS_TEST#test_2,FAIL,44211036
-buggy_java_programs.LIS_TEST#test_3,FAIL,35247286
+buggy_java_programs.GET_FACTORS_TEST#test_0,PASS,29507303
+buggy_java_programs.GET_FACTORS_TEST#test_1,FAIL,37804156
+buggy_java_programs.GET_FACTORS_TEST#test_10,FAIL,32187563
+buggy_java_programs.GET_FACTORS_TEST#test_2,FAIL,60529863
+buggy_java_programs.GET_FACTORS_TEST#test_3,FAIL,57518754
+buggy_java_programs.GET_FACTORS_TEST#test_4,FAIL,39699245
+buggy_java_programs.GET_FACTORS_TEST#test_5,FAIL,40119117
+buggy_java_programs.GET_FACTORS_TEST#test_6,FAIL,60780579
+buggy_java_programs.GET_FACTORS_TEST#test_7,FAIL,31571121
+buggy_java_programs.GET_FACTORS_TEST#test_8,FAIL,44401545
+buggy_java_programs.GET_FACTORS_TEST#test_9,FAIL,39282280
