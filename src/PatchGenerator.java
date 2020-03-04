@@ -80,17 +80,20 @@ public class PatchGenerator {
 		this.compilationUnit = (CompilationUnit) parser.createAST(null);
 //		System.out.println("Collecting Fixing Ingredients");
 		
-//		Tokenizer tokenizer = Tokenizer.createTokenizer();
 //		tokenizer.tokenize(file.getAbsolutePath());
 //		this.compilationUnit.accept(new VariableCollector());
 //		System.out.println("DONE");
 		this.compilationUnit.accept(ingredientCollector);
+		
+		Tokenizer tokenizer = Tokenizer.createTokenizer();
+		tokenizer.tokenize(this.ingredientCollector.faultyNodes);
+		tokenizer.tokenize(this.ingredientCollector.fixingIngredients);
 //		System.out.println("INGREDIENT");
 //		System.out.println(IngredientCollector.fixingIngredients.size());
-		for(int i=0; i<this.ingredientCollector.fixingIngredients.size(); i++) {
-			System.out.println(this.ingredientCollector.fixingIngredients.get(i).toString());
-			System.out.println(this.ingredientCollector.fixingIngredients.get(i).tokens);
-		}
+//		for(int i=0; i<this.ingredientCollector.fixingIngredients.size(); i++) {
+//			System.out.println(this.ingredientCollector.fixingIngredients.get(i).toString());
+//			System.out.println(this.ingredientCollector.fixingIngredients.get(i).tokens);
+//		}
 		//			System.out.println(IngredientCollector.faultyNodes.size());
 		//		
 //		System.out.println("VARIABLES");

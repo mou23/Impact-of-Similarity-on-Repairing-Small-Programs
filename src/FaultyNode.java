@@ -8,7 +8,7 @@ public class FaultyNode extends Node {
 	
 	public FaultyNode() {
 		this.genealogy = null;
-		this.tokens = null;
+		this.tokens = new HashMap<String,Integer>();
 	}
 	
 	@Override

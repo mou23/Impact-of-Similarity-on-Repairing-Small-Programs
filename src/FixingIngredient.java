@@ -7,7 +7,7 @@ public class FixingIngredient extends Node{
 	
 	public FixingIngredient() {
 		this.genealogy = null;
-		this.tokens = null;
+		this.tokens = new HashMap<String,Integer>(); 
 	}
 	
 	@Override

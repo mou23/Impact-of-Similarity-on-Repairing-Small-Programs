@@ -37,7 +37,6 @@ public class IngredientCollector extends ASTVisitor {
 
 	private void collectFaultyNode(ASTNode node) {
 		PatchGenerator patchGenerator = PatchGenerator.createPatchGenerator();
-//		Tokenizer tokenizer = Tokenizer.createTokenizer();
 		
 		FaultyNode faultyNode = new FaultyNode();
 		faultyNode.node = node;
@@ -57,12 +56,12 @@ public class IngredientCollector extends ASTVisitor {
 		faultyNode.suspiciousValue = (double)total/((double)faultyNode.endLine-faultyNode.startLine+1);
 		if(faultyNode.suspiciousValue>0) {
 //			System.out.println("SUSP " + node);
+//			Tokenizer tokenizer = Tokenizer.createTokenizer();
 			ModelExtractor modelExtractor = ModelExtractor.createModelExtractor();
-			Tokenizer tokenizer = Tokenizer.createTokenizer();
 			faultyNode.type = modelExtractor.getNodeType(node);
 //			faultyNode.genealogy = modelExtractor.getGenealogyContext(node);
 //			faultyNode.variableAccessed = modelExtractor.getVariableContext(node);
-			faultyNode.tokens = tokenizer.tokenize(node.toString());
+//			faultyNode.tokens = tokenizer.tokenize(node.toString());
 			this.faultyNodes.add(faultyNode);
 		}
 	}
@@ -70,7 +69,7 @@ public class IngredientCollector extends ASTVisitor {
 	private void findFixingIngredients(ASTNode node) {
 		PatchGenerator patchGenerator = PatchGenerator.createPatchGenerator();
 		ModelExtractor modelExtractor = ModelExtractor.createModelExtractor();
-		Tokenizer tokenizer = Tokenizer.createTokenizer();
+//		Tokenizer tokenizer = Tokenizer.createTokenizer();
 		
 		FixingIngredient fixingIngredient = new FixingIngredient();
 		fixingIngredient.node = node;
@@ -80,9 +79,8 @@ public class IngredientCollector extends ASTVisitor {
 //		fixingIngredient.genealogy = modelExtractor.getGenealogyContext(node);
 //		fixingIngredient.variableAccessed = modelExtractor.getVariableContext(node);
 //		fixingIngredient.context = modelExtractor.getContext(fixingIngredient, 6);
-		fixingIngredient.tokens = tokenizer.tokenize(node.toString());
+//		fixingIngredient.tokens = tokenizer.tokenize(node.toString());
 		this.fixingIngredients.add(fixingIngredient);
-
 //		
 	} 
 }
