@@ -87,9 +87,10 @@ public class PatchGenerator {
 		this.compilationUnit.accept(ingredientCollector);
 //		System.out.println("INGREDIENT");
 //		System.out.println(IngredientCollector.fixingIngredients.size());
-//		for(int i=0; i<IngredientCollector.fixingIngredients.size(); i++) {
-//			System.out.println(IngredientCollector.fixingIngredients.get(i));
-//		}
+		for(int i=0; i<this.ingredientCollector.fixingIngredients.size(); i++) {
+			System.out.println(this.ingredientCollector.fixingIngredients.get(i).toString());
+			System.out.println(this.ingredientCollector.fixingIngredients.get(i).tokens);
+		}
 		//			System.out.println(IngredientCollector.faultyNodes.size());
 		//		
 //		System.out.println("VARIABLES");

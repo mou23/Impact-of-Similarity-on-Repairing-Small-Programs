@@ -60,9 +60,8 @@ public class IngredientCollector extends ASTVisitor {
 			ModelExtractor modelExtractor = ModelExtractor.createModelExtractor();
 			Tokenizer tokenizer = Tokenizer.createTokenizer();
 			faultyNode.type = modelExtractor.getNodeType(node);
-			faultyNode.type = modelExtractor.getNodeType(node);
-			faultyNode.genealogy = modelExtractor.getGenealogyContext(node);
-			faultyNode.variableAccessed = modelExtractor.getVariableContext(node);
+//			faultyNode.genealogy = modelExtractor.getGenealogyContext(node);
+//			faultyNode.variableAccessed = modelExtractor.getVariableContext(node);
 			faultyNode.tokens = tokenizer.tokenize(node.toString());
 			this.faultyNodes.add(faultyNode);
 		}
@@ -78,9 +77,9 @@ public class IngredientCollector extends ASTVisitor {
 		fixingIngredient.startLine = patchGenerator.compilationUnit.getLineNumber(node.getStartPosition());
 		fixingIngredient.endLine = patchGenerator.compilationUnit.getLineNumber(node.getStartPosition()+node.getLength());
 		fixingIngredient.type = modelExtractor.getNodeType(node);
-		fixingIngredient.genealogy = modelExtractor.getGenealogyContext(node);
-		fixingIngredient.variableAccessed = modelExtractor.getVariableContext(node);
-		fixingIngredient.context = modelExtractor.getContext(fixingIngredient, 6);
+//		fixingIngredient.genealogy = modelExtractor.getGenealogyContext(node);
+//		fixingIngredient.variableAccessed = modelExtractor.getVariableContext(node);
+//		fixingIngredient.context = modelExtractor.getContext(fixingIngredient, 6);
 		fixingIngredient.tokens = tokenizer.tokenize(node.toString());
 		this.fixingIngredients.add(fixingIngredient);
 

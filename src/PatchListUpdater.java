@@ -21,6 +21,10 @@ public class PatchListUpdater {
 			if(currentPatch.filename.equals(candidatePatch.filename) && currentPatch.faultyNode==candidatePatch.faultyNode && currentPatch.fixingIngredient.toString().equals(candidatePatch.fixingIngredient.toString())) {
 				if(currentPatch.score<candidatePatch.score) {
 					currentPatch.score = candidatePatch.score;
+					currentPatch.genealogyScore = candidatePatch.genealogyScore;
+					currentPatch.variableScore = candidatePatch.variableScore;
+					currentPatch.LCS = candidatePatch.LCS;
+					currentPatch.tokenScore = candidatePatch.tokenScore;
 				}
 				return;
 			}

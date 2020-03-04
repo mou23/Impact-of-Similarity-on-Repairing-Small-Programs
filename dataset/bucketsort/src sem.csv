@@ -1,0 +1,1457 @@
+counts,SIMPLE_NAME, line no: 15,ArrayList,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,sorted_arr,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,ArrayList,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,Collections.nCopies(k 0),METHOD_INVOCATION, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,Integer,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,count,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,counts.get(x) + 1,INFIX_EXPRESSION, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,counts.get(x),METHOD_INVOCATION, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,ArrayList,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,arr,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,sorted_arr,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,Integer,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,x,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,get,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,count,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,Integer,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,set,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,get,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,count,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,counts.get(x),METHOD_INVOCATION, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,x,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,get,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,ArrayList,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,counts,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,ArrayList,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,0,NUMBER_LITERAL, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,k,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,100,NUMBER_LITERAL, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,Integer,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,x,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,ArrayList,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,arr,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,counts,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,Integer,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,x,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,k,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,0,NUMBER_LITERAL, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,100,NUMBER_LITERAL, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,i,SIMPLE_NAME, 2.0, 1.0, 1.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,0,NUMBER_LITERAL, 1.9836065573770492, 0.9836065573770492, 1.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,k,SIMPLE_NAME, 1.9836065573770492, 0.9836065573770492, 1.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,100,NUMBER_LITERAL, 1.9836065573770492, 0.9836065573770492, 1.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 1.9833333333333334, 0.9833333333333333, 1.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,x,SIMPLE_NAME, 1.9833333333333334, 0.9833333333333333, 1.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,count,SIMPLE_NAME, 1.9833333333333334, 0.9833333333333333, 1.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,k,SIMPLE_NAME, 1.9833333333333334, 0.9833333333333333, 1.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,x,SIMPLE_NAME, 1.9833333333333334, 0.9833333333333333, 1.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,count,SIMPLE_NAME, 1.9833333333333334, 0.9833333333333333, 1.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 1.9830508474576272, 0.9830508474576272, 1.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 1.9830508474576272, 0.9830508474576272, 1.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,counts,SIMPLE_NAME, 1.9830508474576272, 0.9830508474576272, 1.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,sorted_arr,SIMPLE_NAME, 1.9830508474576272, 0.9830508474576272, 1.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 1.9830508474576272, 0.9830508474576272, 1.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 1.9830508474576272, 0.9830508474576272, 1.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,counts,SIMPLE_NAME, 1.9830508474576272, 0.9830508474576272, 1.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,sorted_arr,SIMPLE_NAME, 1.9830508474576272, 0.9830508474576272, 1.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,0,NUMBER_LITERAL, 1.9830508474576272, 0.9830508474576272, 1.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,100,NUMBER_LITERAL, 1.9830508474576272, 0.9830508474576272, 1.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,k,SIMPLE_NAME, 1.9830508474576272, 0.9830508474576272, 1.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,i,SIMPLE_NAME, 1.9830508474576272, 0.9830508474576272, 1.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,ArrayList,SIMPLE_NAME, 1.9827586206896552, 0.9827586206896551, 1.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,counts,SIMPLE_NAME, 1.9827586206896552, 0.9827586206896551, 1.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,sorted_arr,SIMPLE_NAME, 1.9827586206896552, 0.9827586206896551, 1.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,ArrayList,SIMPLE_NAME, 1.9827586206896552, 0.9827586206896551, 1.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,counts,SIMPLE_NAME, 1.9827586206896552, 0.9827586206896551, 1.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,sorted_arr,SIMPLE_NAME, 1.9827586206896552, 0.9827586206896551, 1.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,ArrayList,SIMPLE_NAME, 1.9827586206896552, 0.9827586206896551, 1.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,arr,SIMPLE_NAME, 1.9827586206896552, 0.9827586206896551, 1.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,counts,SIMPLE_NAME, 1.9827586206896552, 0.9827586206896551, 1.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,100,NUMBER_LITERAL, 1.9672131147540983, 0.9672131147540983, 1.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,i,SIMPLE_NAME, 1.9672131147540983, 0.9672131147540983, 1.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,counts,SIMPLE_NAME, 1.9666666666666668, 0.9666666666666667, 1.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,sorted_arr,SIMPLE_NAME, 1.9666666666666668, 0.9666666666666667, 1.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,counts,SIMPLE_NAME, 1.9666666666666668, 0.9666666666666667, 1.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,sorted_arr,SIMPLE_NAME, 1.9666666666666668, 0.9666666666666667, 1.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,i,SIMPLE_NAME, 1.9666666666666668, 0.9666666666666667, 1.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,arr,SIMPLE_NAME, 1.9661016949152543, 0.9661016949152542, 1.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,arr,SIMPLE_NAME, 1.9661016949152543, 0.9661016949152542, 1.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 1.9655172413793105, 0.9655172413793104, 1.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 1.9655172413793105, 0.9655172413793104, 1.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 1.9655172413793105, 0.9655172413793104, 1.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 1.9655172413793105, 0.9655172413793104, 1.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 1.9655172413793105, 0.9655172413793104, 1.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 1.9655172413793105, 0.9655172413793104, 1.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,counts,SIMPLE_NAME, 1.9516129032258065, 0.9516129032258065, 1.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 1.9516129032258065, 0.9516129032258065, 1.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,sorted_arr,SIMPLE_NAME, 1.9516129032258065, 0.9516129032258065, 1.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 1.9516129032258065, 0.9516129032258065, 1.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,counts,SIMPLE_NAME, 1.9516129032258065, 0.9516129032258065, 1.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 1.9516129032258065, 0.9516129032258065, 1.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,sorted_arr,SIMPLE_NAME, 1.9516129032258065, 0.9516129032258065, 1.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 1.9516129032258065, 0.9516129032258065, 1.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,i,SIMPLE_NAME, 1.9508196721311475, 0.9508196721311475, 1.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,arr,SIMPLE_NAME, 1.95, 0.95, 1.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 1.95, 0.95, 1.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 1.95, 0.95, 1.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,x,SIMPLE_NAME, 1.95, 0.95, 1.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,count,SIMPLE_NAME, 1.95, 0.95, 1.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,arr,SIMPLE_NAME, 1.95, 0.95, 1.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 1.95, 0.95, 1.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 1.95, 0.95, 1.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,x,SIMPLE_NAME, 1.95, 0.95, 1.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,count,SIMPLE_NAME, 1.95, 0.95, 1.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,arr,SIMPLE_NAME, 1.9491525423728815, 0.9491525423728814, 1.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,arr,SIMPLE_NAME, 1.9491525423728815, 0.9491525423728814, 1.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,ArrayList,SIMPLE_NAME, 1.9411764705882353, 0.9411764705882353, 1.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,arr,SIMPLE_NAME, 1.9411764705882353, 0.9411764705882353, 1.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 1.9411764705882353, 0.9411764705882353, 1.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,sorted_arr,SIMPLE_NAME, 1.9411764705882353, 0.9411764705882353, 1.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 1.9411764705882353, 0.9411764705882353, 1.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,Integer,SIMPLE_NAME, 1.9411764705882353, 0.9411764705882353, 1.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,count,SIMPLE_NAME, 1.9411764705882353, 0.9411764705882353, 1.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,Integer,SIMPLE_NAME, 1.9411764705882353, 0.9411764705882353, 1.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,count,SIMPLE_NAME, 1.9411764705882353, 0.9411764705882353, 1.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,counts.get(x) + 1,INFIX_EXPRESSION, 1.9375, 0.9375, 1.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,k,SIMPLE_NAME, 1.9375, 0.9375, 1.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,0,NUMBER_LITERAL, 1.9375, 0.9375, 1.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,100,NUMBER_LITERAL, 1.9375, 0.9375, 1.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,i,SIMPLE_NAME, 1.9375, 0.9375, 1.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,k,SIMPLE_NAME, 1.9375, 0.9375, 1.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,0,NUMBER_LITERAL, 1.9375, 0.9375, 1.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,100,NUMBER_LITERAL, 1.9375, 0.9375, 1.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,i++,POSTFIX_EXPRESSION, 1.9375, 0.9375, 1.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 1.9333333333333333, 0.9333333333333333, 1.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,k,SIMPLE_NAME, 1.9333333333333333, 0.9333333333333333, 1.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,0,NUMBER_LITERAL, 1.9333333333333333, 0.9333333333333333, 1.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,100,NUMBER_LITERAL, 1.9333333333333333, 0.9333333333333333, 1.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,arr,SIMPLE_NAME, 1.9193548387096775, 0.9193548387096774, 1.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,x,SIMPLE_NAME, 1.9193548387096775, 0.9193548387096774, 1.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,count,SIMPLE_NAME, 1.9193548387096775, 0.9193548387096774, 1.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,arr,SIMPLE_NAME, 1.9193548387096775, 0.9193548387096774, 1.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,x,SIMPLE_NAME, 1.9193548387096775, 0.9193548387096774, 1.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,count,SIMPLE_NAME, 1.9193548387096775, 0.9193548387096774, 1.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,set,SIMPLE_NAME, 1.8823529411764706, 0.8823529411764706, 1.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,set,SIMPLE_NAME, 1.8823529411764706, 0.8823529411764706, 1.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 1.875, 0.875, 1.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,get,SIMPLE_NAME, 1.8235294117647058, 0.8235294117647058, 1.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,i++,POSTFIX_EXPRESSION, 1.8235294117647058, 0.8235294117647058, 1.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,set,SIMPLE_NAME, 1.7647058823529411, 0.7647058823529411, 1.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,1,NUMBER_LITERAL, 1.7333333333333334, 0.7333333333333333, 1.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,1,NUMBER_LITERAL, 1.7058823529411766, 0.7058823529411765, 1.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,i++,POSTFIX_EXPRESSION, 1.6875, 0.6875, 1.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,1,NUMBER_LITERAL, 1.6875, 0.6875, 1.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,Collections.nCopies(count i),METHOD_INVOCATION, 1.6666666666666665, 1.0, 0.6666666666666666, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 1.6041666666666665, 0.9375, 0.6666666666666666, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,Collections.nCopies(count i),METHOD_INVOCATION, 1.4333333333333333, 0.9333333333333333, 0.5, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,i++,POSTFIX_EXPRESSION, 1.375, 0.875, 0.5, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,get,SIMPLE_NAME, 1.271186440677966, 0.2711864406779661, 1.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,get,SIMPLE_NAME, 1.271186440677966, 0.2711864406779661, 1.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,get,SIMPLE_NAME, 1.2666666666666666, 0.26666666666666666, 1.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,get,SIMPLE_NAME, 1.2666666666666666, 0.26666666666666666, 1.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,get,SIMPLE_NAME, 1.2666666666666666, 0.26666666666666666, 1.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,get,SIMPLE_NAME, 1.2666666666666666, 0.26666666666666666, 1.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,i++,POSTFIX_EXPRESSION, 1.2666666666666666, 0.9333333333333333, 0.3333333333333333, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 1.2666666666666666, 0.9333333333333333, 0.3333333333333333, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,get,SIMPLE_NAME, 1.2580645161290323, 0.25806451612903225, 1.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,get,SIMPLE_NAME, 1.2580645161290323, 0.25806451612903225, 1.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,set,SIMPLE_NAME, 1.2542372881355932, 0.2542372881355932, 1.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,1,NUMBER_LITERAL, 1.2542372881355932, 0.2542372881355932, 1.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,1,NUMBER_LITERAL, 1.2542372881355932, 0.2542372881355932, 1.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,set,SIMPLE_NAME, 1.2542372881355932, 0.2542372881355932, 1.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,set,SIMPLE_NAME, 1.25, 0.25, 1.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,set,SIMPLE_NAME, 1.25, 0.25, 1.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,set,SIMPLE_NAME, 1.25, 0.25, 1.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,1,NUMBER_LITERAL, 1.25, 0.25, 1.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,set,SIMPLE_NAME, 1.25, 0.25, 1.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,1,NUMBER_LITERAL, 1.2459016393442623, 0.2459016393442623, 1.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,1,NUMBER_LITERAL, 1.2459016393442623, 0.2459016393442623, 1.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,set,SIMPLE_NAME, 1.2419354838709677, 0.24193548387096775, 1.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,set,SIMPLE_NAME, 1.2419354838709677, 0.24193548387096775, 1.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,i++,POSTFIX_EXPRESSION, 1.2372881355932204, 0.23728813559322035, 1.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,i++,POSTFIX_EXPRESSION, 1.2372881355932204, 0.23728813559322035, 1.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,i++,POSTFIX_EXPRESSION, 1.2333333333333334, 0.23333333333333334, 1.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,i++,POSTFIX_EXPRESSION, 1.2295081967213115, 0.22950819672131148, 1.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,i++,POSTFIX_EXPRESSION, 1.2295081967213115, 0.22950819672131148, 1.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,bucketsort,SIMPLE_NAME, 1.0666666666666667, 0.06666666666666667, 1.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,bucketsort,SIMPLE_NAME, 1.0625, 0.0625, 1.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,bucketsort,SIMPLE_NAME, 1.0588235294117647, 0.058823529411764705, 1.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,bucketsort,SIMPLE_NAME, 1.0172413793103448, 0.017241379310344827, 1.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,bucketsort,SIMPLE_NAME, 1.0172413793103448, 0.017241379310344827, 1.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,bucketsort,SIMPLE_NAME, 1.0172413793103448, 0.017241379310344827, 1.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,bucketsort,SIMPLE_NAME, 1.0169491525423728, 0.01694915254237288, 1.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,bucketsort,SIMPLE_NAME, 1.0169491525423728, 0.01694915254237288, 1.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,bucketsort,SIMPLE_NAME, 1.0169491525423728, 0.01694915254237288, 1.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,bucketsort,SIMPLE_NAME, 1.0169491525423728, 0.01694915254237288, 1.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,bucketsort,SIMPLE_NAME, 1.0166666666666666, 0.016666666666666666, 1.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,bucketsort,SIMPLE_NAME, 1.0166666666666666, 0.016666666666666666, 1.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,bucketsort,SIMPLE_NAME, 1.0161290322580645, 0.016129032258064516, 1.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,bucketsort,SIMPLE_NAME, 1.0161290322580645, 0.016129032258064516, 1.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,Integer,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,ArrayList,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,Integer,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,k,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,Collections,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,nCopies,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,i,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,Integer,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,k,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,Collections,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,nCopies,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,0,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,100,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,Integer,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,ArrayList,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,k,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,Collections,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,nCopies,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,0,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,k,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,nCopies,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,k,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,Collections,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,Collections,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,nCopies,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,Integer,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,x,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,count,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,ArrayList,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,Integer,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,arr,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,k,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,counts,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,Collections.nCopies(k 0),METHOD_INVOCATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,Collections,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,nCopies,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,0,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,x,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,set,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,get,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,1,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,sorted_arr,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,100,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,i,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,count,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,Integer,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,k,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,Collections.nCopies(k 0),METHOD_INVOCATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,Collections,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,nCopies,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,0,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,x,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,set,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,get,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,100,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,i,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,count,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,ArrayList,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,arr,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,k,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,counts,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,Collections.nCopies(k 0),METHOD_INVOCATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,Collections,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,nCopies,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,0,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,sorted_arr,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,100,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,i,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,ArrayList,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,arr,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,k,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,counts,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,Collections.nCopies(k 0),METHOD_INVOCATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,Collections,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,nCopies,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,0,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,sorted_arr,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,100,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,i,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,counts,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,x,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,get,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,1,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,counts,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,x,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,get,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,x,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,get,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,counts,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,counts,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,Integer,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,ArrayList,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,Integer,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,k,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,Collections,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,nCopies,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,i,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,Integer,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,k,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,Collections.nCopies(k 0),METHOD_INVOCATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,Collections,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,nCopies,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,0,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,100,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,Integer,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,ArrayList,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,ArrayList,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,Integer,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,counts,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,Collections,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,nCopies,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,sorted_arr,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,Integer,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,x,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,count,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,ArrayList,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,Integer,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,arr,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,k,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,counts,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,Collections.nCopies(k 0),METHOD_INVOCATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,Collections,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,nCopies,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,0,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,x,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,sorted_arr,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,100,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,i,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,count,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,addAll,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,Integer,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,k,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,Collections.nCopies(k 0),METHOD_INVOCATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,Collections,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,nCopies,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,0,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,x,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,100,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,i,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,count,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,addAll,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,ArrayList,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,Integer,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,arr,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,k,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,counts,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,Collections.nCopies(k 0),METHOD_INVOCATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,Collections,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,nCopies,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,0,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,x,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,sorted_arr,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,100,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,i,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,count,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,ArrayList,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,Integer,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,arr,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,k,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,counts,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,Collections.nCopies(k 0),METHOD_INVOCATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,Collections,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,nCopies,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,0,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,x,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,sorted_arr,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,100,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,i,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,count,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,ArrayList,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,Integer,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,arr,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,k,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,counts,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,Collections.nCopies(k 0),METHOD_INVOCATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,nCopies,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,0,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,x,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,sorted_arr,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,100,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,i,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,count,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,ArrayList,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,Integer,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,arr,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,k,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,counts,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,Collections.nCopies(k 0),METHOD_INVOCATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,Collections,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,0,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,x,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,sorted_arr,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,100,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,i,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,count,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,ArrayList,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,arr,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,k,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,counts,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,Collections.nCopies(k 0),METHOD_INVOCATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,Collections,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,nCopies,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,0,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,sorted_arr,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,100,NUMBER_LITERAL, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,i,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,ArrayList,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,Integer,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,arr,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,counts,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,Collections.nCopies(k 0),METHOD_INVOCATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,Collections,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,nCopies,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,x,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,sorted_arr,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,count,SIMPLE_NAME, 1.0, 1.0, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,ArrayList,SIMPLE_NAME, 0.9836065573770492, 0.9836065573770492, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,Integer,SIMPLE_NAME, 0.9836065573770492, 0.9836065573770492, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,Collections.nCopies(k 0),METHOD_INVOCATION, 0.9836065573770492, 0.9836065573770492, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,0,NUMBER_LITERAL, 0.9836065573770492, 0.9836065573770492, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,ArrayList,SIMPLE_NAME, 0.9836065573770492, 0.9836065573770492, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,Integer,SIMPLE_NAME, 0.9836065573770492, 0.9836065573770492, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,Collections.nCopies(k 0),METHOD_INVOCATION, 0.9836065573770492, 0.9836065573770492, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,0,NUMBER_LITERAL, 0.9836065573770492, 0.9836065573770492, 0.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,ArrayList,SIMPLE_NAME, 0.9836065573770492, 0.9836065573770492, 0.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,Integer,SIMPLE_NAME, 0.9836065573770492, 0.9836065573770492, 0.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,Collections.nCopies(k 0),METHOD_INVOCATION, 0.9836065573770492, 0.9836065573770492, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,Collections.nCopies(k 0),METHOD_INVOCATION, 0.9836065573770492, 0.9836065573770492, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,Collections,SIMPLE_NAME, 0.9836065573770492, 0.9836065573770492, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,nCopies,SIMPLE_NAME, 0.9836065573770492, 0.9836065573770492, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,ArrayList,SIMPLE_NAME, 0.9833333333333333, 0.9833333333333333, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,Integer,SIMPLE_NAME, 0.9833333333333333, 0.9833333333333333, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.9833333333333333, 0.9833333333333333, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,100,NUMBER_LITERAL, 0.9833333333333333, 0.9833333333333333, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,ArrayList,SIMPLE_NAME, 0.9833333333333333, 0.9833333333333333, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,Integer,SIMPLE_NAME, 0.9833333333333333, 0.9833333333333333, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 0.9833333333333333, 0.9833333333333333, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,Collections.nCopies(k 0),METHOD_INVOCATION, 0.9833333333333333, 0.9833333333333333, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,Collections,SIMPLE_NAME, 0.9833333333333333, 0.9833333333333333, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,nCopies,SIMPLE_NAME, 0.9833333333333333, 0.9833333333333333, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.9833333333333333, 0.9833333333333333, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,Collections.nCopies(k 0),METHOD_INVOCATION, 0.9830508474576272, 0.9830508474576272, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,0,NUMBER_LITERAL, 0.9830508474576272, 0.9830508474576272, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,100,NUMBER_LITERAL, 0.9830508474576272, 0.9830508474576272, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,i,SIMPLE_NAME, 0.9830508474576272, 0.9830508474576272, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,arr,SIMPLE_NAME, 0.9830508474576272, 0.9830508474576272, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,Collections.nCopies(k 0),METHOD_INVOCATION, 0.9830508474576272, 0.9830508474576272, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,0,NUMBER_LITERAL, 0.9830508474576272, 0.9830508474576272, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,100,NUMBER_LITERAL, 0.9830508474576272, 0.9830508474576272, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,i,SIMPLE_NAME, 0.9830508474576272, 0.9830508474576272, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 0.9830508474576272, 0.9830508474576272, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,Collections.nCopies(k 0),METHOD_INVOCATION, 0.9830508474576272, 0.9830508474576272, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.9830508474576272, 0.9830508474576272, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,ArrayList,SIMPLE_NAME, 0.9830508474576272, 0.9830508474576272, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,Integer,SIMPLE_NAME, 0.9830508474576272, 0.9830508474576272, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,counts,SIMPLE_NAME, 0.9830508474576272, 0.9830508474576272, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 0.9830508474576272, 0.9830508474576272, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,Collections.nCopies(k 0),METHOD_INVOCATION, 0.9830508474576272, 0.9830508474576272, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,Collections,SIMPLE_NAME, 0.9830508474576272, 0.9830508474576272, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,nCopies,SIMPLE_NAME, 0.9830508474576272, 0.9830508474576272, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,sorted_arr,SIMPLE_NAME, 0.9830508474576272, 0.9830508474576272, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.9830508474576272, 0.9830508474576272, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,arr,SIMPLE_NAME, 0.9830508474576272, 0.9830508474576272, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,k,SIMPLE_NAME, 0.9827586206896551, 0.9827586206896551, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,Collections,SIMPLE_NAME, 0.9827586206896551, 0.9827586206896551, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,nCopies,SIMPLE_NAME, 0.9827586206896551, 0.9827586206896551, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,i,SIMPLE_NAME, 0.9827586206896551, 0.9827586206896551, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,k,SIMPLE_NAME, 0.9827586206896551, 0.9827586206896551, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,Collections,SIMPLE_NAME, 0.9827586206896551, 0.9827586206896551, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,nCopies,SIMPLE_NAME, 0.9827586206896551, 0.9827586206896551, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,i,SIMPLE_NAME, 0.9827586206896551, 0.9827586206896551, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,Integer,SIMPLE_NAME, 0.9827586206896551, 0.9827586206896551, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,k,SIMPLE_NAME, 0.9827586206896551, 0.9827586206896551, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,Collections,SIMPLE_NAME, 0.9827586206896551, 0.9827586206896551, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,nCopies,SIMPLE_NAME, 0.9827586206896551, 0.9827586206896551, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,x,SIMPLE_NAME, 0.9827586206896551, 0.9827586206896551, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,i,SIMPLE_NAME, 0.9827586206896551, 0.9827586206896551, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,count,SIMPLE_NAME, 0.9827586206896551, 0.9827586206896551, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,k,SIMPLE_NAME, 0.967741935483871, 0.967741935483871, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,Collections,SIMPLE_NAME, 0.967741935483871, 0.967741935483871, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,nCopies,SIMPLE_NAME, 0.967741935483871, 0.967741935483871, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,k,SIMPLE_NAME, 0.967741935483871, 0.967741935483871, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,Collections,SIMPLE_NAME, 0.967741935483871, 0.967741935483871, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,nCopies,SIMPLE_NAME, 0.967741935483871, 0.967741935483871, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,k,SIMPLE_NAME, 0.967741935483871, 0.967741935483871, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,Collections,SIMPLE_NAME, 0.967741935483871, 0.967741935483871, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,nCopies,SIMPLE_NAME, 0.967741935483871, 0.967741935483871, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,k,SIMPLE_NAME, 0.967741935483871, 0.967741935483871, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,Collections,SIMPLE_NAME, 0.967741935483871, 0.967741935483871, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,nCopies,SIMPLE_NAME, 0.967741935483871, 0.967741935483871, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,counts,SIMPLE_NAME, 0.9672131147540983, 0.9672131147540983, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 0.9672131147540983, 0.9672131147540983, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,sorted_arr,SIMPLE_NAME, 0.9672131147540983, 0.9672131147540983, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.9672131147540983, 0.9672131147540983, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,100,NUMBER_LITERAL, 0.9672131147540983, 0.9672131147540983, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,i,SIMPLE_NAME, 0.9672131147540983, 0.9672131147540983, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,counts,SIMPLE_NAME, 0.9672131147540983, 0.9672131147540983, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 0.9672131147540983, 0.9672131147540983, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,sorted_arr,SIMPLE_NAME, 0.9672131147540983, 0.9672131147540983, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.9672131147540983, 0.9672131147540983, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,100,NUMBER_LITERAL, 0.9672131147540983, 0.9672131147540983, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,i,SIMPLE_NAME, 0.9672131147540983, 0.9672131147540983, 0.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,counts,SIMPLE_NAME, 0.9672131147540983, 0.9672131147540983, 0.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 0.9672131147540983, 0.9672131147540983, 0.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,sorted_arr,SIMPLE_NAME, 0.9672131147540983, 0.9672131147540983, 0.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.9672131147540983, 0.9672131147540983, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,ArrayList,SIMPLE_NAME, 0.9672131147540983, 0.9672131147540983, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,Integer,SIMPLE_NAME, 0.9672131147540983, 0.9672131147540983, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 0.9672131147540983, 0.9672131147540983, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.9672131147540983, 0.9672131147540983, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,k,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,Collections,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,nCopies,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,i,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,k,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,counts,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,Collections,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,nCopies,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,sorted_arr,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,i,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,counts,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,sorted_arr,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,i,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,ArrayList,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,arr,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,k,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,Collections,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,nCopies,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,i,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,k,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,counts,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,Collections,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,nCopies,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,sorted_arr,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,i,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,counts,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,sorted_arr,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,ArrayList,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,arr,SIMPLE_NAME, 0.9666666666666667, 0.9666666666666667, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,x,SIMPLE_NAME, 0.9661016949152542, 0.9661016949152542, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,count,SIMPLE_NAME, 0.9661016949152542, 0.9661016949152542, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,ArrayList,SIMPLE_NAME, 0.9661016949152542, 0.9661016949152542, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,k,SIMPLE_NAME, 0.9661016949152542, 0.9661016949152542, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,counts,SIMPLE_NAME, 0.9661016949152542, 0.9661016949152542, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,Collections,SIMPLE_NAME, 0.9661016949152542, 0.9661016949152542, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,nCopies,SIMPLE_NAME, 0.9661016949152542, 0.9661016949152542, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,sorted_arr,SIMPLE_NAME, 0.9661016949152542, 0.9661016949152542, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,i,SIMPLE_NAME, 0.9661016949152542, 0.9661016949152542, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,x,SIMPLE_NAME, 0.9661016949152542, 0.9661016949152542, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,count,SIMPLE_NAME, 0.9661016949152542, 0.9661016949152542, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,arr,SIMPLE_NAME, 0.9661016949152542, 0.9661016949152542, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,x,SIMPLE_NAME, 0.9661016949152542, 0.9661016949152542, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,count,SIMPLE_NAME, 0.9661016949152542, 0.9661016949152542, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,ArrayList,SIMPLE_NAME, 0.9661016949152542, 0.9661016949152542, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,k,SIMPLE_NAME, 0.9661016949152542, 0.9661016949152542, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,counts,SIMPLE_NAME, 0.9661016949152542, 0.9661016949152542, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,Collections,SIMPLE_NAME, 0.9661016949152542, 0.9661016949152542, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,nCopies,SIMPLE_NAME, 0.9661016949152542, 0.9661016949152542, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,sorted_arr,SIMPLE_NAME, 0.9661016949152542, 0.9661016949152542, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,i,SIMPLE_NAME, 0.9661016949152542, 0.9661016949152542, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,Collections.nCopies(k 0),METHOD_INVOCATION, 0.9655172413793104, 0.9655172413793104, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,0,NUMBER_LITERAL, 0.9655172413793104, 0.9655172413793104, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,100,NUMBER_LITERAL, 0.9655172413793104, 0.9655172413793104, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,Collections.nCopies(k 0),METHOD_INVOCATION, 0.9655172413793104, 0.9655172413793104, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,0,NUMBER_LITERAL, 0.9655172413793104, 0.9655172413793104, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,100,NUMBER_LITERAL, 0.9655172413793104, 0.9655172413793104, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,Collections.nCopies(k 0),METHOD_INVOCATION, 0.9655172413793104, 0.9655172413793104, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,0,NUMBER_LITERAL, 0.9655172413793104, 0.9655172413793104, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,100,NUMBER_LITERAL, 0.9655172413793104, 0.9655172413793104, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,Collections.nCopies(k 0),METHOD_INVOCATION, 0.9516129032258065, 0.9516129032258065, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,0,NUMBER_LITERAL, 0.9516129032258065, 0.9516129032258065, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,100,NUMBER_LITERAL, 0.9516129032258065, 0.9516129032258065, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,i,SIMPLE_NAME, 0.9516129032258065, 0.9516129032258065, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,counts,SIMPLE_NAME, 0.9516129032258065, 0.9516129032258065, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 0.9516129032258065, 0.9516129032258065, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,Collections.nCopies(k 0),METHOD_INVOCATION, 0.9516129032258065, 0.9516129032258065, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,0,NUMBER_LITERAL, 0.9516129032258065, 0.9516129032258065, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,sorted_arr,SIMPLE_NAME, 0.9516129032258065, 0.9516129032258065, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.9516129032258065, 0.9516129032258065, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,100,NUMBER_LITERAL, 0.9516129032258065, 0.9516129032258065, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,i,SIMPLE_NAME, 0.9516129032258065, 0.9516129032258065, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,Collections.nCopies(k 0),METHOD_INVOCATION, 0.9516129032258065, 0.9516129032258065, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,0,NUMBER_LITERAL, 0.9516129032258065, 0.9516129032258065, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,100,NUMBER_LITERAL, 0.9516129032258065, 0.9516129032258065, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,i,SIMPLE_NAME, 0.9516129032258065, 0.9516129032258065, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,counts,SIMPLE_NAME, 0.9516129032258065, 0.9516129032258065, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 0.9516129032258065, 0.9516129032258065, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,Collections.nCopies(k 0),METHOD_INVOCATION, 0.9516129032258065, 0.9516129032258065, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,0,NUMBER_LITERAL, 0.9516129032258065, 0.9516129032258065, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,sorted_arr,SIMPLE_NAME, 0.9516129032258065, 0.9516129032258065, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.9516129032258065, 0.9516129032258065, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,100,NUMBER_LITERAL, 0.9516129032258065, 0.9516129032258065, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,i,SIMPLE_NAME, 0.9516129032258065, 0.9516129032258065, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,counts,SIMPLE_NAME, 0.9508196721311475, 0.9508196721311475, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,sorted_arr,SIMPLE_NAME, 0.9508196721311475, 0.9508196721311475, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,Collections.nCopies(k 0),METHOD_INVOCATION, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,0,NUMBER_LITERAL, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,x,SIMPLE_NAME, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,100,NUMBER_LITERAL, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,count,SIMPLE_NAME, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,arr,SIMPLE_NAME, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,Collections.nCopies(k 0),METHOD_INVOCATION, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,0,NUMBER_LITERAL, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,100,NUMBER_LITERAL, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,k,SIMPLE_NAME, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,counts,SIMPLE_NAME, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,Collections,SIMPLE_NAME, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,nCopies,SIMPLE_NAME, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,sorted_arr,SIMPLE_NAME, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,i,SIMPLE_NAME, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,Collections.nCopies(k 0),METHOD_INVOCATION, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,0,NUMBER_LITERAL, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,x,SIMPLE_NAME, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,100,NUMBER_LITERAL, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,count,SIMPLE_NAME, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,arr,SIMPLE_NAME, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,Collections.nCopies(k 0),METHOD_INVOCATION, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,0,NUMBER_LITERAL, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,100,NUMBER_LITERAL, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,k,SIMPLE_NAME, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,counts,SIMPLE_NAME, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,Collections,SIMPLE_NAME, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,nCopies,SIMPLE_NAME, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,sorted_arr,SIMPLE_NAME, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,i,SIMPLE_NAME, 0.95, 0.95, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,x,SIMPLE_NAME, 0.9491525423728814, 0.9491525423728814, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,count,SIMPLE_NAME, 0.9491525423728814, 0.9491525423728814, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 0.9491525423728814, 0.9491525423728814, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,Collections.nCopies(k 0),METHOD_INVOCATION, 0.9491525423728814, 0.9491525423728814, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,0,NUMBER_LITERAL, 0.9491525423728814, 0.9491525423728814, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.9491525423728814, 0.9491525423728814, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,100,NUMBER_LITERAL, 0.9491525423728814, 0.9491525423728814, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,x,SIMPLE_NAME, 0.9491525423728814, 0.9491525423728814, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,count,SIMPLE_NAME, 0.9491525423728814, 0.9491525423728814, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,arr,SIMPLE_NAME, 0.9491525423728814, 0.9491525423728814, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,x,SIMPLE_NAME, 0.9491525423728814, 0.9491525423728814, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,count,SIMPLE_NAME, 0.9491525423728814, 0.9491525423728814, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 0.9491525423728814, 0.9491525423728814, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,Collections.nCopies(k 0),METHOD_INVOCATION, 0.9491525423728814, 0.9491525423728814, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,0,NUMBER_LITERAL, 0.9491525423728814, 0.9491525423728814, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.9491525423728814, 0.9491525423728814, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,100,NUMBER_LITERAL, 0.9491525423728814, 0.9491525423728814, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,Integer,SIMPLE_NAME, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,k,SIMPLE_NAME, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,Collections.nCopies(k 0),METHOD_INVOCATION, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,Collections,SIMPLE_NAME, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,nCopies,SIMPLE_NAME, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,0,NUMBER_LITERAL, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,counts.get(x),METHOD_INVOCATION, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,100,NUMBER_LITERAL, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,i,SIMPLE_NAME, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,count,SIMPLE_NAME, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,ArrayList,SIMPLE_NAME, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,arr,SIMPLE_NAME, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,k,SIMPLE_NAME, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,Collections.nCopies(k 0),METHOD_INVOCATION, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,Collections,SIMPLE_NAME, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,nCopies,SIMPLE_NAME, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,0,NUMBER_LITERAL, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,counts.get(x),METHOD_INVOCATION, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,sorted_arr,SIMPLE_NAME, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,100,NUMBER_LITERAL, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,i,SIMPLE_NAME, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,ArrayList,SIMPLE_NAME, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,arr,SIMPLE_NAME, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,k,SIMPLE_NAME, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,Collections.nCopies(k 0),METHOD_INVOCATION, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,Collections,SIMPLE_NAME, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,nCopies,SIMPLE_NAME, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,0,NUMBER_LITERAL, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,counts.get(x),METHOD_INVOCATION, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,sorted_arr,SIMPLE_NAME, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,100,NUMBER_LITERAL, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,i,SIMPLE_NAME, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,addAll,SIMPLE_NAME, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,Collections.nCopies(count i),METHOD_INVOCATION, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,addAll,SIMPLE_NAME, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,Collections.nCopies(count i),METHOD_INVOCATION, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,addAll,SIMPLE_NAME, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,Collections.nCopies(count i),METHOD_INVOCATION, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,addAll,SIMPLE_NAME, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,Collections.nCopies(count i),METHOD_INVOCATION, 0.9411764705882353, 0.9411764705882353, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,ArrayList,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,Integer,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,arr,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,k,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,Collections.nCopies(k 0),METHOD_INVOCATION, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,Collections,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,nCopies,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,0,NUMBER_LITERAL, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,1,NUMBER_LITERAL, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,sorted_arr,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,100,NUMBER_LITERAL, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,i,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,count,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,ArrayList,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,Integer,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,arr,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,counts,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,Collections.nCopies(k 0),METHOD_INVOCATION, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,Collections,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,nCopies,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,x,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,counts.get(x) + 1,INFIX_EXPRESSION, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,counts.get(x),METHOD_INVOCATION, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,get,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,sorted_arr,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,count,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,Collections.nCopies(count i),METHOD_INVOCATION, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,Collections.nCopies(count i),METHOD_INVOCATION, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,addAll,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,ArrayList,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,Integer,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,arr,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,counts,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,Collections.nCopies(k 0),METHOD_INVOCATION, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,Collections,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,nCopies,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,x,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,sorted_arr,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,count,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,addAll,SIMPLE_NAME, 0.9375, 0.9375, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,arr,SIMPLE_NAME, 0.9344262295081968, 0.9344262295081968, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,x,SIMPLE_NAME, 0.9344262295081968, 0.9344262295081968, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,count,SIMPLE_NAME, 0.9344262295081968, 0.9344262295081968, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,arr,SIMPLE_NAME, 0.9344262295081968, 0.9344262295081968, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,x,SIMPLE_NAME, 0.9344262295081968, 0.9344262295081968, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,count,SIMPLE_NAME, 0.9344262295081968, 0.9344262295081968, 0.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,arr,SIMPLE_NAME, 0.9344262295081968, 0.9344262295081968, 0.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,x,SIMPLE_NAME, 0.9344262295081968, 0.9344262295081968, 0.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,count,SIMPLE_NAME, 0.9344262295081968, 0.9344262295081968, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,arr,SIMPLE_NAME, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,x,SIMPLE_NAME, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,count,SIMPLE_NAME, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,Collections.nCopies(k 0),METHOD_INVOCATION, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,0,NUMBER_LITERAL, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,100,NUMBER_LITERAL, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,counts.get(x) + 1,INFIX_EXPRESSION, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,counts.get(x),METHOD_INVOCATION, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,1,NUMBER_LITERAL, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,counts.get(x) + 1,INFIX_EXPRESSION, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,counts.get(x),METHOD_INVOCATION, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,1,NUMBER_LITERAL, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,counts.get(x) + 1,INFIX_EXPRESSION, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,counts.get(x),METHOD_INVOCATION, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,1,NUMBER_LITERAL, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,ArrayList,SIMPLE_NAME, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,Integer,SIMPLE_NAME, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,arr,SIMPLE_NAME, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,k,SIMPLE_NAME, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,Collections.nCopies(k 0),METHOD_INVOCATION, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,Collections,SIMPLE_NAME, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,nCopies,SIMPLE_NAME, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,0,NUMBER_LITERAL, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,set,SIMPLE_NAME, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,sorted_arr,SIMPLE_NAME, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,100,NUMBER_LITERAL, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,i,SIMPLE_NAME, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,count,SIMPLE_NAME, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,arr,SIMPLE_NAME, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,x,SIMPLE_NAME, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,count,SIMPLE_NAME, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,Collections.nCopies(k 0),METHOD_INVOCATION, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,0,NUMBER_LITERAL, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,100,NUMBER_LITERAL, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,ArrayList,SIMPLE_NAME, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,Integer,SIMPLE_NAME, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,arr,SIMPLE_NAME, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,counts,SIMPLE_NAME, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,Collections.nCopies(k 0),METHOD_INVOCATION, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,Collections,SIMPLE_NAME, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,nCopies,SIMPLE_NAME, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,x,SIMPLE_NAME, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,sorted_arr,SIMPLE_NAME, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,count,SIMPLE_NAME, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,addAll,SIMPLE_NAME, 0.9333333333333333, 0.9333333333333333, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,x,SIMPLE_NAME, 0.9193548387096774, 0.9193548387096774, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,count,SIMPLE_NAME, 0.9193548387096774, 0.9193548387096774, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,arr,SIMPLE_NAME, 0.9193548387096774, 0.9193548387096774, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,x,SIMPLE_NAME, 0.9193548387096774, 0.9193548387096774, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,count,SIMPLE_NAME, 0.9193548387096774, 0.9193548387096774, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,arr,SIMPLE_NAME, 0.9193548387096774, 0.9193548387096774, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,arr,SIMPLE_NAME, 0.9180327868852459, 0.9180327868852459, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,x,SIMPLE_NAME, 0.9180327868852459, 0.9180327868852459, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,count,SIMPLE_NAME, 0.9180327868852459, 0.9180327868852459, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,set,SIMPLE_NAME, 0.8823529411764706, 0.8823529411764706, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,counts.get(x) + 1,INFIX_EXPRESSION, 0.8823529411764706, 0.8823529411764706, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,1,NUMBER_LITERAL, 0.8823529411764706, 0.8823529411764706, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,counts.get(x) + 1,INFIX_EXPRESSION, 0.8823529411764706, 0.8823529411764706, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,1,NUMBER_LITERAL, 0.8823529411764706, 0.8823529411764706, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,counts.get(x) + 1,INFIX_EXPRESSION, 0.8823529411764706, 0.8823529411764706, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,1,NUMBER_LITERAL, 0.8823529411764706, 0.8823529411764706, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.8823529411764706, 0.8823529411764706, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.8823529411764706, 0.8823529411764706, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.8823529411764706, 0.8823529411764706, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.8823529411764706, 0.8823529411764706, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,set,SIMPLE_NAME, 0.875, 0.875, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.875, 0.875, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,set,SIMPLE_NAME, 0.875, 0.875, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,i++,POSTFIX_EXPRESSION, 0.875, 0.875, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,i++,POSTFIX_EXPRESSION, 0.875, 0.875, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,get,SIMPLE_NAME, 0.875, 0.875, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.875, 0.875, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,Collections.nCopies(count i),METHOD_INVOCATION, 0.875, 0.875, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.8666666666666667, 0.8666666666666667, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,addAll,SIMPLE_NAME, 0.8666666666666667, 0.8666666666666667, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,Collections.nCopies(count i),METHOD_INVOCATION, 0.8666666666666667, 0.8666666666666667, 0.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.8666666666666667, 0.8666666666666667, 0.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,addAll,SIMPLE_NAME, 0.8666666666666667, 0.8666666666666667, 0.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,Collections.nCopies(count i),METHOD_INVOCATION, 0.8666666666666667, 0.8666666666666667, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.8666666666666667, 0.8666666666666667, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,addAll,SIMPLE_NAME, 0.8666666666666667, 0.8666666666666667, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,Collections.nCopies(count i),METHOD_INVOCATION, 0.8666666666666667, 0.8666666666666667, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,set,SIMPLE_NAME, 0.8666666666666667, 0.8666666666666667, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,get,SIMPLE_NAME, 0.8666666666666667, 0.8666666666666667, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.8571428571428571, 0.8571428571428571, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,addAll,SIMPLE_NAME, 0.8571428571428571, 0.8571428571428571, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,Collections.nCopies(count i),METHOD_INVOCATION, 0.8571428571428571, 0.8571428571428571, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.8235294117647058, 0.8235294117647058, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,Collections.nCopies(count i),METHOD_INVOCATION, 0.8235294117647058, 0.8235294117647058, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.8235294117647058, 0.8235294117647058, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,Collections.nCopies(count i),METHOD_INVOCATION, 0.8235294117647058, 0.8235294117647058, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.8235294117647058, 0.8235294117647058, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,Collections.nCopies(count i),METHOD_INVOCATION, 0.8235294117647058, 0.8235294117647058, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,get,SIMPLE_NAME, 0.8235294117647058, 0.8235294117647058, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,i++,POSTFIX_EXPRESSION, 0.8235294117647058, 0.8235294117647058, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,get,SIMPLE_NAME, 0.8235294117647058, 0.8235294117647058, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,i++,POSTFIX_EXPRESSION, 0.8235294117647058, 0.8235294117647058, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,i++,POSTFIX_EXPRESSION, 0.8235294117647058, 0.8235294117647058, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,get,SIMPLE_NAME, 0.8235294117647058, 0.8235294117647058, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,Collections.nCopies(count i),METHOD_INVOCATION, 0.8125, 0.8125, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,set,SIMPLE_NAME, 0.8125, 0.8125, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,get,SIMPLE_NAME, 0.8125, 0.8125, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,set,SIMPLE_NAME, 0.8125, 0.8125, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,get,SIMPLE_NAME, 0.8125, 0.8125, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,set,SIMPLE_NAME, 0.8125, 0.8125, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,counts.get(x),METHOD_INVOCATION, 0.8125, 0.8125, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,i++,POSTFIX_EXPRESSION, 0.8, 0.8, 0.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,i++,POSTFIX_EXPRESSION, 0.8, 0.8, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,i++,POSTFIX_EXPRESSION, 0.8, 0.8, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.8, 0.8, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,addAll,SIMPLE_NAME, 0.8, 0.8, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,Collections.nCopies(count i),METHOD_INVOCATION, 0.8, 0.8, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.8, 0.8, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,counts.get(x) + 1,INFIX_EXPRESSION, 0.8, 0.8, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,counts.get(x),METHOD_INVOCATION, 0.8, 0.8, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,1,NUMBER_LITERAL, 0.8, 0.8, 0.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,set,SIMPLE_NAME, 0.8, 0.8, 0.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,get,SIMPLE_NAME, 0.8, 0.8, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,i++,POSTFIX_EXPRESSION, 0.7857142857142857, 0.7857142857142857, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.7647058823529411, 0.7647058823529411, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,addAll,SIMPLE_NAME, 0.7647058823529411, 0.7647058823529411, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.7647058823529411, 0.7647058823529411, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,addAll,SIMPLE_NAME, 0.7647058823529411, 0.7647058823529411, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.7647058823529411, 0.7647058823529411, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,addAll,SIMPLE_NAME, 0.7647058823529411, 0.7647058823529411, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,set,SIMPLE_NAME, 0.7647058823529411, 0.7647058823529411, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,counts.get(x),METHOD_INVOCATION, 0.7647058823529411, 0.7647058823529411, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,set,SIMPLE_NAME, 0.7647058823529411, 0.7647058823529411, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,counts.get(x),METHOD_INVOCATION, 0.7647058823529411, 0.7647058823529411, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,counts.get(x),METHOD_INVOCATION, 0.7647058823529411, 0.7647058823529411, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,set,SIMPLE_NAME, 0.7647058823529411, 0.7647058823529411, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,counts.get(x),METHOD_INVOCATION, 0.7647058823529411, 0.7647058823529411, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.75, 0.75, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,addAll,SIMPLE_NAME, 0.75, 0.75, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.75, 0.75, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,addAll,SIMPLE_NAME, 0.75, 0.75, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,Collections.nCopies(count i),METHOD_INVOCATION, 0.75, 0.75, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.75, 0.75, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,counts.get(x) + 1,INFIX_EXPRESSION, 0.75, 0.75, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,counts.get(x),METHOD_INVOCATION, 0.75, 0.75, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,1,NUMBER_LITERAL, 0.75, 0.75, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.75, 0.75, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,counts.get(x) + 1,INFIX_EXPRESSION, 0.75, 0.75, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,counts.get(x),METHOD_INVOCATION, 0.75, 0.75, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,1,NUMBER_LITERAL, 0.75, 0.75, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.75, 0.75, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,counts.get(x) + 1,INFIX_EXPRESSION, 0.75, 0.75, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,1,NUMBER_LITERAL, 0.75, 0.75, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,set,SIMPLE_NAME, 0.75, 0.75, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,get,SIMPLE_NAME, 0.75, 0.75, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,i++,POSTFIX_EXPRESSION, 0.7333333333333333, 0.7333333333333333, 0.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.7333333333333333, 0.7333333333333333, 0.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,counts.get(x) + 1,INFIX_EXPRESSION, 0.7333333333333333, 0.7333333333333333, 0.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,counts.get(x),METHOD_INVOCATION, 0.7333333333333333, 0.7333333333333333, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,i++,POSTFIX_EXPRESSION, 0.7058823529411765, 0.7058823529411765, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,i++,POSTFIX_EXPRESSION, 0.7058823529411765, 0.7058823529411765, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,i++,POSTFIX_EXPRESSION, 0.7058823529411765, 0.7058823529411765, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.7058823529411765, 0.7058823529411765, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,counts.get(x) + 1,INFIX_EXPRESSION, 0.7058823529411765, 0.7058823529411765, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,1,NUMBER_LITERAL, 0.7058823529411765, 0.7058823529411765, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.7058823529411765, 0.7058823529411765, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,counts.get(x) + 1,INFIX_EXPRESSION, 0.7058823529411765, 0.7058823529411765, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,1,NUMBER_LITERAL, 0.7058823529411765, 0.7058823529411765, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.7058823529411765, 0.7058823529411765, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,counts.get(x) + 1,INFIX_EXPRESSION, 0.7058823529411765, 0.7058823529411765, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,1,NUMBER_LITERAL, 0.7058823529411765, 0.7058823529411765, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.7058823529411765, 0.7058823529411765, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,counts.get(x) + 1,INFIX_EXPRESSION, 0.7058823529411765, 0.7058823529411765, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,i++,POSTFIX_EXPRESSION, 0.6875, 0.6875, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.6875, 0.6875, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,counts.get(x) + 1,INFIX_EXPRESSION, 0.6875, 0.6875, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,counts.get(x),METHOD_INVOCATION, 0.6875, 0.6875, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,get,SIMPLE_NAME, 0.27586206896551724, 0.27586206896551724, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,addAll,SIMPLE_NAME, 0.27586206896551724, 0.27586206896551724, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,Collections.nCopies(count i),METHOD_INVOCATION, 0.27586206896551724, 0.27586206896551724, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,get,SIMPLE_NAME, 0.27586206896551724, 0.27586206896551724, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,addAll,SIMPLE_NAME, 0.27586206896551724, 0.27586206896551724, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,Collections.nCopies(count i),METHOD_INVOCATION, 0.27586206896551724, 0.27586206896551724, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,get,SIMPLE_NAME, 0.27586206896551724, 0.27586206896551724, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,addAll,SIMPLE_NAME, 0.27586206896551724, 0.27586206896551724, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,Collections.nCopies(count i),METHOD_INVOCATION, 0.27586206896551724, 0.27586206896551724, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,get,SIMPLE_NAME, 0.2711864406779661, 0.2711864406779661, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,addAll,SIMPLE_NAME, 0.2711864406779661, 0.2711864406779661, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,Collections.nCopies(count i),METHOD_INVOCATION, 0.2711864406779661, 0.2711864406779661, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,get,SIMPLE_NAME, 0.2711864406779661, 0.2711864406779661, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,addAll,SIMPLE_NAME, 0.2711864406779661, 0.2711864406779661, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,Collections.nCopies(count i),METHOD_INVOCATION, 0.2711864406779661, 0.2711864406779661, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,addAll,SIMPLE_NAME, 0.2711864406779661, 0.2711864406779661, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,Collections.nCopies(count i),METHOD_INVOCATION, 0.2711864406779661, 0.2711864406779661, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,get,SIMPLE_NAME, 0.2711864406779661, 0.2711864406779661, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,addAll,SIMPLE_NAME, 0.2711864406779661, 0.2711864406779661, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,Collections.nCopies(count i),METHOD_INVOCATION, 0.2711864406779661, 0.2711864406779661, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,get,SIMPLE_NAME, 0.2711864406779661, 0.2711864406779661, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,addAll,SIMPLE_NAME, 0.2711864406779661, 0.2711864406779661, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,Collections.nCopies(count i),METHOD_INVOCATION, 0.2711864406779661, 0.2711864406779661, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,get,SIMPLE_NAME, 0.2711864406779661, 0.2711864406779661, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,addAll,SIMPLE_NAME, 0.2711864406779661, 0.2711864406779661, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,Collections.nCopies(count i),METHOD_INVOCATION, 0.2711864406779661, 0.2711864406779661, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,get,SIMPLE_NAME, 0.2711864406779661, 0.2711864406779661, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,addAll,SIMPLE_NAME, 0.2711864406779661, 0.2711864406779661, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,Collections.nCopies(count i),METHOD_INVOCATION, 0.2711864406779661, 0.2711864406779661, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,addAll,SIMPLE_NAME, 0.2711864406779661, 0.2711864406779661, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,Collections.nCopies(count i),METHOD_INVOCATION, 0.2711864406779661, 0.2711864406779661, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,get,SIMPLE_NAME, 0.26666666666666666, 0.26666666666666666, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,addAll,SIMPLE_NAME, 0.26666666666666666, 0.26666666666666666, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,Collections.nCopies(count i),METHOD_INVOCATION, 0.26666666666666666, 0.26666666666666666, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,addAll,SIMPLE_NAME, 0.26666666666666666, 0.26666666666666666, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,Collections.nCopies(count i),METHOD_INVOCATION, 0.26666666666666666, 0.26666666666666666, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,get,SIMPLE_NAME, 0.26666666666666666, 0.26666666666666666, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,addAll,SIMPLE_NAME, 0.26666666666666666, 0.26666666666666666, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,Collections.nCopies(count i),METHOD_INVOCATION, 0.26666666666666666, 0.26666666666666666, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,addAll,SIMPLE_NAME, 0.26666666666666666, 0.26666666666666666, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,Collections.nCopies(count i),METHOD_INVOCATION, 0.26666666666666666, 0.26666666666666666, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,get,SIMPLE_NAME, 0.26666666666666666, 0.26666666666666666, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,addAll,SIMPLE_NAME, 0.26666666666666666, 0.26666666666666666, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,Collections.nCopies(count i),METHOD_INVOCATION, 0.26666666666666666, 0.26666666666666666, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,addAll,SIMPLE_NAME, 0.26666666666666666, 0.26666666666666666, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,Collections.nCopies(count i),METHOD_INVOCATION, 0.26666666666666666, 0.26666666666666666, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,get,SIMPLE_NAME, 0.26666666666666666, 0.26666666666666666, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,addAll,SIMPLE_NAME, 0.26666666666666666, 0.26666666666666666, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,Collections.nCopies(count i),METHOD_INVOCATION, 0.26666666666666666, 0.26666666666666666, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,addAll,SIMPLE_NAME, 0.26666666666666666, 0.26666666666666666, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,Collections.nCopies(count i),METHOD_INVOCATION, 0.26666666666666666, 0.26666666666666666, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,get,SIMPLE_NAME, 0.26229508196721313, 0.26229508196721313, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,addAll,SIMPLE_NAME, 0.26229508196721313, 0.26229508196721313, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,Collections.nCopies(count i),METHOD_INVOCATION, 0.26229508196721313, 0.26229508196721313, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,get,SIMPLE_NAME, 0.26229508196721313, 0.26229508196721313, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,addAll,SIMPLE_NAME, 0.26229508196721313, 0.26229508196721313, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,Collections.nCopies(count i),METHOD_INVOCATION, 0.26229508196721313, 0.26229508196721313, 0.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,get,SIMPLE_NAME, 0.26229508196721313, 0.26229508196721313, 0.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,addAll,SIMPLE_NAME, 0.26229508196721313, 0.26229508196721313, 0.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,Collections.nCopies(count i),METHOD_INVOCATION, 0.26229508196721313, 0.26229508196721313, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,get,SIMPLE_NAME, 0.26229508196721313, 0.26229508196721313, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,addAll,SIMPLE_NAME, 0.26229508196721313, 0.26229508196721313, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,Collections.nCopies(count i),METHOD_INVOCATION, 0.26229508196721313, 0.26229508196721313, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,set,SIMPLE_NAME, 0.25862068965517243, 0.25862068965517243, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,counts.get(x),METHOD_INVOCATION, 0.25862068965517243, 0.25862068965517243, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,1,NUMBER_LITERAL, 0.25862068965517243, 0.25862068965517243, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.25862068965517243, 0.25862068965517243, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,set,SIMPLE_NAME, 0.25862068965517243, 0.25862068965517243, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,counts.get(x),METHOD_INVOCATION, 0.25862068965517243, 0.25862068965517243, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,1,NUMBER_LITERAL, 0.25862068965517243, 0.25862068965517243, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.25862068965517243, 0.25862068965517243, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,set,SIMPLE_NAME, 0.25862068965517243, 0.25862068965517243, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,counts.get(x),METHOD_INVOCATION, 0.25862068965517243, 0.25862068965517243, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,1,NUMBER_LITERAL, 0.25862068965517243, 0.25862068965517243, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.25862068965517243, 0.25862068965517243, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,get,SIMPLE_NAME, 0.25806451612903225, 0.25806451612903225, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,addAll,SIMPLE_NAME, 0.25806451612903225, 0.25806451612903225, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,Collections.nCopies(count i),METHOD_INVOCATION, 0.25806451612903225, 0.25806451612903225, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,addAll,SIMPLE_NAME, 0.25806451612903225, 0.25806451612903225, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,Collections.nCopies(count i),METHOD_INVOCATION, 0.25806451612903225, 0.25806451612903225, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,get,SIMPLE_NAME, 0.25806451612903225, 0.25806451612903225, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,addAll,SIMPLE_NAME, 0.25806451612903225, 0.25806451612903225, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,Collections.nCopies(count i),METHOD_INVOCATION, 0.25806451612903225, 0.25806451612903225, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,addAll,SIMPLE_NAME, 0.25806451612903225, 0.25806451612903225, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,Collections.nCopies(count i),METHOD_INVOCATION, 0.25806451612903225, 0.25806451612903225, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,set,SIMPLE_NAME, 0.2542372881355932, 0.2542372881355932, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,counts.get(x),METHOD_INVOCATION, 0.2542372881355932, 0.2542372881355932, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,1,NUMBER_LITERAL, 0.2542372881355932, 0.2542372881355932, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.2542372881355932, 0.2542372881355932, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,set,SIMPLE_NAME, 0.2542372881355932, 0.2542372881355932, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,counts.get(x),METHOD_INVOCATION, 0.2542372881355932, 0.2542372881355932, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,1,NUMBER_LITERAL, 0.2542372881355932, 0.2542372881355932, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.2542372881355932, 0.2542372881355932, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,counts.get(x),METHOD_INVOCATION, 0.2542372881355932, 0.2542372881355932, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,1,NUMBER_LITERAL, 0.2542372881355932, 0.2542372881355932, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.2542372881355932, 0.2542372881355932, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,set,SIMPLE_NAME, 0.2542372881355932, 0.2542372881355932, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,counts.get(x),METHOD_INVOCATION, 0.2542372881355932, 0.2542372881355932, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,1,NUMBER_LITERAL, 0.2542372881355932, 0.2542372881355932, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.2542372881355932, 0.2542372881355932, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,set,SIMPLE_NAME, 0.2542372881355932, 0.2542372881355932, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,counts.get(x),METHOD_INVOCATION, 0.2542372881355932, 0.2542372881355932, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,1,NUMBER_LITERAL, 0.2542372881355932, 0.2542372881355932, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.2542372881355932, 0.2542372881355932, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,set,SIMPLE_NAME, 0.2542372881355932, 0.2542372881355932, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,counts.get(x),METHOD_INVOCATION, 0.2542372881355932, 0.2542372881355932, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.2542372881355932, 0.2542372881355932, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,set,SIMPLE_NAME, 0.2542372881355932, 0.2542372881355932, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,counts.get(x),METHOD_INVOCATION, 0.2542372881355932, 0.2542372881355932, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.2542372881355932, 0.2542372881355932, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,counts.get(x),METHOD_INVOCATION, 0.2542372881355932, 0.2542372881355932, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,1,NUMBER_LITERAL, 0.2542372881355932, 0.2542372881355932, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.2542372881355932, 0.2542372881355932, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,set,SIMPLE_NAME, 0.25, 0.25, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,counts.get(x),METHOD_INVOCATION, 0.25, 0.25, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,1,NUMBER_LITERAL, 0.25, 0.25, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.25, 0.25, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,counts.get(x),METHOD_INVOCATION, 0.25, 0.25, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,1,NUMBER_LITERAL, 0.25, 0.25, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.25, 0.25, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,set,SIMPLE_NAME, 0.25, 0.25, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,counts.get(x),METHOD_INVOCATION, 0.25, 0.25, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,1,NUMBER_LITERAL, 0.25, 0.25, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.25, 0.25, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,counts.get(x),METHOD_INVOCATION, 0.25, 0.25, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,1,NUMBER_LITERAL, 0.25, 0.25, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.25, 0.25, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,set,SIMPLE_NAME, 0.25, 0.25, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,counts.get(x),METHOD_INVOCATION, 0.25, 0.25, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,1,NUMBER_LITERAL, 0.25, 0.25, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.25, 0.25, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,counts.get(x),METHOD_INVOCATION, 0.25, 0.25, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,1,NUMBER_LITERAL, 0.25, 0.25, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.25, 0.25, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,set,SIMPLE_NAME, 0.25, 0.25, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,counts.get(x),METHOD_INVOCATION, 0.25, 0.25, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.25, 0.25, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,counts.get(x),METHOD_INVOCATION, 0.25, 0.25, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,1,NUMBER_LITERAL, 0.25, 0.25, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.25, 0.25, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,set,SIMPLE_NAME, 0.2459016393442623, 0.2459016393442623, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,counts.get(x),METHOD_INVOCATION, 0.2459016393442623, 0.2459016393442623, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,1,NUMBER_LITERAL, 0.2459016393442623, 0.2459016393442623, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.2459016393442623, 0.2459016393442623, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,set,SIMPLE_NAME, 0.2459016393442623, 0.2459016393442623, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,counts.get(x),METHOD_INVOCATION, 0.2459016393442623, 0.2459016393442623, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,1,NUMBER_LITERAL, 0.2459016393442623, 0.2459016393442623, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.2459016393442623, 0.2459016393442623, 0.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,set,SIMPLE_NAME, 0.2459016393442623, 0.2459016393442623, 0.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,counts.get(x),METHOD_INVOCATION, 0.2459016393442623, 0.2459016393442623, 0.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.2459016393442623, 0.2459016393442623, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,set,SIMPLE_NAME, 0.2459016393442623, 0.2459016393442623, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,counts.get(x),METHOD_INVOCATION, 0.2459016393442623, 0.2459016393442623, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.2459016393442623, 0.2459016393442623, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,set,SIMPLE_NAME, 0.24193548387096775, 0.24193548387096775, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,counts.get(x),METHOD_INVOCATION, 0.24193548387096775, 0.24193548387096775, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,1,NUMBER_LITERAL, 0.24193548387096775, 0.24193548387096775, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.24193548387096775, 0.24193548387096775, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,counts.get(x),METHOD_INVOCATION, 0.24193548387096775, 0.24193548387096775, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,1,NUMBER_LITERAL, 0.24193548387096775, 0.24193548387096775, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.24193548387096775, 0.24193548387096775, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,set,SIMPLE_NAME, 0.24193548387096775, 0.24193548387096775, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,counts.get(x),METHOD_INVOCATION, 0.24193548387096775, 0.24193548387096775, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,1,NUMBER_LITERAL, 0.24193548387096775, 0.24193548387096775, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.24193548387096775, 0.24193548387096775, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,counts.get(x),METHOD_INVOCATION, 0.24193548387096775, 0.24193548387096775, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,1,NUMBER_LITERAL, 0.24193548387096775, 0.24193548387096775, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, 0.24193548387096775, 0.24193548387096775, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.2413793103448276, 0.2413793103448276, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,counts.get(x) + 1,INFIX_EXPRESSION, 0.2413793103448276, 0.2413793103448276, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,i++,POSTFIX_EXPRESSION, 0.2413793103448276, 0.2413793103448276, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.2413793103448276, 0.2413793103448276, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,counts.get(x) + 1,INFIX_EXPRESSION, 0.2413793103448276, 0.2413793103448276, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,i++,POSTFIX_EXPRESSION, 0.2413793103448276, 0.2413793103448276, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.2413793103448276, 0.2413793103448276, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,counts.get(x) + 1,INFIX_EXPRESSION, 0.2413793103448276, 0.2413793103448276, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,i++,POSTFIX_EXPRESSION, 0.2413793103448276, 0.2413793103448276, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.23728813559322035, 0.23728813559322035, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,counts.get(x) + 1,INFIX_EXPRESSION, 0.23728813559322035, 0.23728813559322035, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,i++,POSTFIX_EXPRESSION, 0.23728813559322035, 0.23728813559322035, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.23728813559322035, 0.23728813559322035, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,counts.get(x) + 1,INFIX_EXPRESSION, 0.23728813559322035, 0.23728813559322035, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,i++,POSTFIX_EXPRESSION, 0.23728813559322035, 0.23728813559322035, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.23728813559322035, 0.23728813559322035, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,counts.get(x) + 1,INFIX_EXPRESSION, 0.23728813559322035, 0.23728813559322035, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,i++,POSTFIX_EXPRESSION, 0.23728813559322035, 0.23728813559322035, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.23728813559322035, 0.23728813559322035, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,counts.get(x) + 1,INFIX_EXPRESSION, 0.23728813559322035, 0.23728813559322035, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,i++,POSTFIX_EXPRESSION, 0.23728813559322035, 0.23728813559322035, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.23728813559322035, 0.23728813559322035, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,counts.get(x) + 1,INFIX_EXPRESSION, 0.23728813559322035, 0.23728813559322035, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,i++,POSTFIX_EXPRESSION, 0.23728813559322035, 0.23728813559322035, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.23728813559322035, 0.23728813559322035, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,counts.get(x) + 1,INFIX_EXPRESSION, 0.23728813559322035, 0.23728813559322035, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.23728813559322035, 0.23728813559322035, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,counts.get(x) + 1,INFIX_EXPRESSION, 0.23728813559322035, 0.23728813559322035, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.23728813559322035, 0.23728813559322035, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,counts.get(x) + 1,INFIX_EXPRESSION, 0.23728813559322035, 0.23728813559322035, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,i++,POSTFIX_EXPRESSION, 0.23728813559322035, 0.23728813559322035, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.23333333333333334, 0.23333333333333334, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,counts.get(x) + 1,INFIX_EXPRESSION, 0.23333333333333334, 0.23333333333333334, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,i++,POSTFIX_EXPRESSION, 0.23333333333333334, 0.23333333333333334, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.23333333333333334, 0.23333333333333334, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,counts.get(x) + 1,INFIX_EXPRESSION, 0.23333333333333334, 0.23333333333333334, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,i++,POSTFIX_EXPRESSION, 0.23333333333333334, 0.23333333333333334, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.23333333333333334, 0.23333333333333334, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,counts.get(x) + 1,INFIX_EXPRESSION, 0.23333333333333334, 0.23333333333333334, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,i++,POSTFIX_EXPRESSION, 0.23333333333333334, 0.23333333333333334, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.23333333333333334, 0.23333333333333334, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,counts.get(x) + 1,INFIX_EXPRESSION, 0.23333333333333334, 0.23333333333333334, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,i++,POSTFIX_EXPRESSION, 0.23333333333333334, 0.23333333333333334, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.23333333333333334, 0.23333333333333334, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,counts.get(x) + 1,INFIX_EXPRESSION, 0.23333333333333334, 0.23333333333333334, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,i++,POSTFIX_EXPRESSION, 0.23333333333333334, 0.23333333333333334, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.23333333333333334, 0.23333333333333334, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,counts.get(x) + 1,INFIX_EXPRESSION, 0.23333333333333334, 0.23333333333333334, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,i++,POSTFIX_EXPRESSION, 0.23333333333333334, 0.23333333333333334, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.23333333333333334, 0.23333333333333334, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,counts.get(x) + 1,INFIX_EXPRESSION, 0.23333333333333334, 0.23333333333333334, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.23333333333333334, 0.23333333333333334, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,counts.get(x) + 1,INFIX_EXPRESSION, 0.23333333333333334, 0.23333333333333334, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,i++,POSTFIX_EXPRESSION, 0.23333333333333334, 0.23333333333333334, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.22950819672131148, 0.22950819672131148, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,counts.get(x) + 1,INFIX_EXPRESSION, 0.22950819672131148, 0.22950819672131148, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,i++,POSTFIX_EXPRESSION, 0.22950819672131148, 0.22950819672131148, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.22950819672131148, 0.22950819672131148, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,counts.get(x) + 1,INFIX_EXPRESSION, 0.22950819672131148, 0.22950819672131148, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,i++,POSTFIX_EXPRESSION, 0.22950819672131148, 0.22950819672131148, 0.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.22950819672131148, 0.22950819672131148, 0.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,counts.get(x) + 1,INFIX_EXPRESSION, 0.22950819672131148, 0.22950819672131148, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.22950819672131148, 0.22950819672131148, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,counts.get(x) + 1,INFIX_EXPRESSION, 0.22950819672131148, 0.22950819672131148, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.22580645161290322, 0.22580645161290322, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,counts.get(x) + 1,INFIX_EXPRESSION, 0.22580645161290322, 0.22580645161290322, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,i++,POSTFIX_EXPRESSION, 0.22580645161290322, 0.22580645161290322, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.22580645161290322, 0.22580645161290322, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,counts.get(x) + 1,INFIX_EXPRESSION, 0.22580645161290322, 0.22580645161290322, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,i++,POSTFIX_EXPRESSION, 0.22580645161290322, 0.22580645161290322, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.22580645161290322, 0.22580645161290322, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,counts.get(x) + 1,INFIX_EXPRESSION, 0.22580645161290322, 0.22580645161290322, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,i++,POSTFIX_EXPRESSION, 0.22580645161290322, 0.22580645161290322, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,counts.set(x counts.get(x) + 1),METHOD_INVOCATION, 0.22580645161290322, 0.22580645161290322, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,counts.get(x) + 1,INFIX_EXPRESSION, 0.22580645161290322, 0.22580645161290322, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,i++,POSTFIX_EXPRESSION, 0.22580645161290322, 0.22580645161290322, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,buggy_java_programs,SIMPLE_NAME, 0.07142857142857142, 0.07142857142857142, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,java,SIMPLE_NAME, 0.07142857142857142, 0.07142857142857142, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,util,SIMPLE_NAME, 0.07142857142857142, 0.07142857142857142, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,BUCKETSORT,SIMPLE_NAME, 0.07142857142857142, 0.07142857142857142, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,bucketsort,SIMPLE_NAME, 0.07142857142857142, 0.07142857142857142, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,buggy_java_programs,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,java,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,util,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,BUCKETSORT,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,buggy_java_programs,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,java,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,util,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,BUCKETSORT,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,bucketsort,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,buggy_java_programs,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,java,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,util,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,BUCKETSORT,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,bucketsort,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,buggy_java_programs,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,java,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,util,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,BUCKETSORT,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,bucketsort,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,buggy_java_programs,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,java,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,util,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,BUCKETSORT,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,bucketsort,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,buggy_java_programs,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,java,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,util,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,BUCKETSORT,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,bucketsort,SIMPLE_NAME, 0.06666666666666667, 0.06666666666666667, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,buggy_java_programs,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,java,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,util,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,BUCKETSORT,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,bucketsort,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,buggy_java_programs,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,java,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,util,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,BUCKETSORT,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,bucketsort,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,buggy_java_programs,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,java,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,util,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,BUCKETSORT,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,buggy_java_programs,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,java,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,util,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,BUCKETSORT,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,bucketsort,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,buggy_java_programs,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,java,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,util,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,BUCKETSORT,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,bucketsort,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,buggy_java_programs,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,java,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,util,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,BUCKETSORT,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,bucketsort,SIMPLE_NAME, 0.0625, 0.0625, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,buggy_java_programs,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,java,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,util,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,BUCKETSORT,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,buggy_java_programs,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,java,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,util,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,BUCKETSORT,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,bucketsort,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,buggy_java_programs,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,java,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,util,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,BUCKETSORT,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,bucketsort,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,buggy_java_programs,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,java,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,util,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,BUCKETSORT,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,bucketsort,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,buggy_java_programs,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,java,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,util,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,BUCKETSORT,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,bucketsort,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,buggy_java_programs,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,java,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,util,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,BUCKETSORT,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,bucketsort,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,buggy_java_programs,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,java,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,util,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,BUCKETSORT,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,bucketsort,SIMPLE_NAME, 0.058823529411764705, 0.058823529411764705, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,buggy_java_programs,SIMPLE_NAME, 0.017241379310344827, 0.017241379310344827, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,java,SIMPLE_NAME, 0.017241379310344827, 0.017241379310344827, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,util,SIMPLE_NAME, 0.017241379310344827, 0.017241379310344827, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,BUCKETSORT,SIMPLE_NAME, 0.017241379310344827, 0.017241379310344827, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,buggy_java_programs,SIMPLE_NAME, 0.017241379310344827, 0.017241379310344827, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,java,SIMPLE_NAME, 0.017241379310344827, 0.017241379310344827, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,util,SIMPLE_NAME, 0.017241379310344827, 0.017241379310344827, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,BUCKETSORT,SIMPLE_NAME, 0.017241379310344827, 0.017241379310344827, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,buggy_java_programs,SIMPLE_NAME, 0.017241379310344827, 0.017241379310344827, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,java,SIMPLE_NAME, 0.017241379310344827, 0.017241379310344827, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,util,SIMPLE_NAME, 0.017241379310344827, 0.017241379310344827, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,BUCKETSORT,SIMPLE_NAME, 0.017241379310344827, 0.017241379310344827, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,java,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,util,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,BUCKETSORT,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,java,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,util,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,BUCKETSORT,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,buggy_java_programs,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,java,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,util,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,BUCKETSORT,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,bucketsort,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,java,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,util,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,BUCKETSORT,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,java,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,util,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,BUCKETSORT,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,java,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,util,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,BUCKETSORT,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,bucketsort,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,java,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,util,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,BUCKETSORT,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,bucketsort,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,buggy_java_programs,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,java,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,util,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,BUCKETSORT,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,bucketsort,SIMPLE_NAME, 0.01694915254237288, 0.01694915254237288, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,java,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,util,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,BUCKETSORT,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,java,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,util,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,BUCKETSORT,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,bucketsort,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,java,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,util,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,BUCKETSORT,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,bucketsort,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,buggy_java_programs,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,java,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,util,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,BUCKETSORT,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,bucketsort,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,java,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,util,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,BUCKETSORT,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,java,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,util,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,BUCKETSORT,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,bucketsort,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,java,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,util,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,BUCKETSORT,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,bucketsort,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,buggy_java_programs,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,java,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,util,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,BUCKETSORT,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,bucketsort,SIMPLE_NAME, 0.016666666666666666, 0.016666666666666666, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.01639344262295082, 0.01639344262295082, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,java,SIMPLE_NAME, 0.01639344262295082, 0.01639344262295082, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,util,SIMPLE_NAME, 0.01639344262295082, 0.01639344262295082, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,BUCKETSORT,SIMPLE_NAME, 0.01639344262295082, 0.01639344262295082, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,bucketsort,SIMPLE_NAME, 0.01639344262295082, 0.01639344262295082, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.01639344262295082, 0.01639344262295082, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,java,SIMPLE_NAME, 0.01639344262295082, 0.01639344262295082, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,util,SIMPLE_NAME, 0.01639344262295082, 0.01639344262295082, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,BUCKETSORT,SIMPLE_NAME, 0.01639344262295082, 0.01639344262295082, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,bucketsort,SIMPLE_NAME, 0.01639344262295082, 0.01639344262295082, 0.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.01639344262295082, 0.01639344262295082, 0.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,java,SIMPLE_NAME, 0.01639344262295082, 0.01639344262295082, 0.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,util,SIMPLE_NAME, 0.01639344262295082, 0.01639344262295082, 0.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,BUCKETSORT,SIMPLE_NAME, 0.01639344262295082, 0.01639344262295082, 0.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,bucketsort,SIMPLE_NAME, 0.01639344262295082, 0.01639344262295082, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.01639344262295082, 0.01639344262295082, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,java,SIMPLE_NAME, 0.01639344262295082, 0.01639344262295082, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,util,SIMPLE_NAME, 0.01639344262295082, 0.01639344262295082, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,BUCKETSORT,SIMPLE_NAME, 0.01639344262295082, 0.01639344262295082, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,bucketsort,SIMPLE_NAME, 0.01639344262295082, 0.01639344262295082, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.016129032258064516, 0.016129032258064516, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,java,SIMPLE_NAME, 0.016129032258064516, 0.016129032258064516, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,util,SIMPLE_NAME, 0.016129032258064516, 0.016129032258064516, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,BUCKETSORT,SIMPLE_NAME, 0.016129032258064516, 0.016129032258064516, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.016129032258064516, 0.016129032258064516, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,java,SIMPLE_NAME, 0.016129032258064516, 0.016129032258064516, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,util,SIMPLE_NAME, 0.016129032258064516, 0.016129032258064516, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,BUCKETSORT,SIMPLE_NAME, 0.016129032258064516, 0.016129032258064516, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,bucketsort,SIMPLE_NAME, 0.016129032258064516, 0.016129032258064516, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.016129032258064516, 0.016129032258064516, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,java,SIMPLE_NAME, 0.016129032258064516, 0.016129032258064516, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,util,SIMPLE_NAME, 0.016129032258064516, 0.016129032258064516, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,BUCKETSORT,SIMPLE_NAME, 0.016129032258064516, 0.016129032258064516, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.016129032258064516, 0.016129032258064516, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,java,SIMPLE_NAME, 0.016129032258064516, 0.016129032258064516, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,util,SIMPLE_NAME, 0.016129032258064516, 0.016129032258064516, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,BUCKETSORT,SIMPLE_NAME, 0.016129032258064516, 0.016129032258064516, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,bucketsort,SIMPLE_NAME, 0.016129032258064516, 0.016129032258064516, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 15,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(Collections.nCopies(k 0)),CLASS_INSTANCE_CREATION, line no: 15,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 15,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 15,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(k 0),METHOD_INVOCATION, line no: 15,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 15,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 15,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+k,SIMPLE_NAME, line no: 15,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 15,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 16,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 16,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+counts.set(x counts.get(x) + 1),METHOD_INVOCATION, line no: 17,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+set,SIMPLE_NAME, line no: 17,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+counts.get(x) + 1,INFIX_EXPRESSION, line no: 17,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+counts.get(x),METHOD_INVOCATION, line no: 17,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+counts,SIMPLE_NAME, line no: 17,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 17,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+x,SIMPLE_NAME, line no: 17,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<Integer>(100),CLASS_INSTANCE_CREATION, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 21,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Integer,SIMPLE_NAME, line no: 22,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 22,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 22,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr.addAll(Collections.nCopies(count i)),METHOD_INVOCATION, line no: 23,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 23,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 23,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Collections.nCopies(count i),METHOD_INVOCATION, line no: 23,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Collections,SIMPLE_NAME, line no: 23,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+nCopies,SIMPLE_NAME, line no: 23,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+count,SIMPLE_NAME, line no: 23,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 23,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i++,POSTFIX_EXPRESSION, line no: 24,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 24,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+sorted_arr,SIMPLE_NAME, line no: 27,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0

@@ -1,2 +1,130 @@
-dataset/get_factors/
 Localizing Fault
+Fault Localizaton done!
+Preparing Testcases
+FixingIngredient [node=buggy_java_programs, startLine=1, endLine=1, type=SIMPLE_NAME]
+{buggy_java_programs=1}
+FixingIngredient [node=java.util, startLine=2, endLine=2, type=QUALIFIED_NAME]
+{java=1, util=1, .=1}
+FixingIngredient [node=java, startLine=2, endLine=2, type=SIMPLE_NAME]
+{java=1}
+FixingIngredient [node=util, startLine=2, endLine=2, type=SIMPLE_NAME]
+{util=1}
+FixingIngredient [node=BUCKETSORT, startLine=13, endLine=13, type=SIMPLE_NAME]
+{bucketsort=1}
+FixingIngredient [node=ArrayList, startLine=14, endLine=14, type=SIMPLE_NAME]
+{array=1, list=1}
+FixingIngredient [node=Integer, startLine=14, endLine=14, type=SIMPLE_NAME]
+{integer=1}
+FixingIngredient [node=bucketsort, startLine=14, endLine=14, type=SIMPLE_NAME]
+{bucketsort=1}
+FixingIngredient [node=ArrayList, startLine=14, endLine=14, type=SIMPLE_NAME]
+{array=1, list=1}
+FixingIngredient [node=Integer, startLine=14, endLine=14, type=SIMPLE_NAME]
+{integer=1}
+FixingIngredient [node=arr, startLine=14, endLine=14, type=SIMPLE_NAME]
+{arr=1}
+FixingIngredient [node=k, startLine=14, endLine=14, type=SIMPLE_NAME]
+{k=1}
+FixingIngredient [node=ArrayList, startLine=15, endLine=15, type=SIMPLE_NAME]
+{array=1, list=1}
+FixingIngredient [node=Integer, startLine=15, endLine=15, type=SIMPLE_NAME]
+{integer=1}
+FixingIngredient [node=counts, startLine=15, endLine=15, type=SIMPLE_NAME]
+{counts=1}
+FixingIngredient [node=new ArrayList<Integer>(Collections.nCopies(k,0)), startLine=15, endLine=15, type=CLASS_INSTANCE_CREATION]
+{new=1, (=2, )=2, integer=1, k=1, list=1, ,=1, .=1, n=1, 0=1, copies=1, array=1, collections=1, <=1, >=1}
+FixingIngredient [node=ArrayList, startLine=15, endLine=15, type=SIMPLE_NAME]
+{array=1, list=1}
+FixingIngredient [node=Integer, startLine=15, endLine=15, type=SIMPLE_NAME]
+{integer=1}
+FixingIngredient [node=Collections.nCopies(k,0), startLine=15, endLine=15, type=METHOD_INVOCATION]
+{0=1, copies=1, collections=1, (=1, )=1, k=1, ,=1, .=1, n=1}
+FixingIngredient [node=Collections, startLine=15, endLine=15, type=SIMPLE_NAME]
+{collections=1}
+FixingIngredient [node=nCopies, startLine=15, endLine=15, type=SIMPLE_NAME]
+{copies=1, n=1}
+FixingIngredient [node=k, startLine=15, endLine=15, type=SIMPLE_NAME]
+{k=1}
+FixingIngredient [node=0, startLine=15, endLine=15, type=NUMBER_LITERAL]
+{0=1}
+FixingIngredient [node=Integer, startLine=16, endLine=16, type=SIMPLE_NAME]
+{integer=1}
+FixingIngredient [node=x, startLine=16, endLine=16, type=SIMPLE_NAME]
+{x=1}
+FixingIngredient [node=arr, startLine=16, endLine=16, type=SIMPLE_NAME]
+{arr=1}
+FixingIngredient [node=counts.set(x,counts.get(x) + 1), startLine=17, endLine=17, type=METHOD_INVOCATION]
+{1=1, set=1, counts=2, get=1, (=2, x=2, )=2, +=1, ,=1, .=2}
+FixingIngredient [node=counts, startLine=17, endLine=17, type=SIMPLE_NAME]
+{counts=1}
+FixingIngredient [node=set, startLine=17, endLine=17, type=SIMPLE_NAME]
+{set=1}
+FixingIngredient [node=x, startLine=17, endLine=17, type=SIMPLE_NAME]
+{x=1}
+FixingIngredient [node=counts.get(x) + 1, startLine=17, endLine=17, type=INFIX_EXPRESSION]
+{1=1, counts=1, get=1, (=1, x=1, )=1, +=1, .=1}
+FixingIngredient [node=counts.get(x), startLine=17, endLine=17, type=METHOD_INVOCATION]
+{counts=1, get=1, (=1, x=1, )=1, .=1}
+FixingIngredient [node=counts, startLine=17, endLine=17, type=SIMPLE_NAME]
+{counts=1}
+FixingIngredient [node=get, startLine=17, endLine=17, type=SIMPLE_NAME]
+{get=1}
+FixingIngredient [node=x, startLine=17, endLine=17, type=SIMPLE_NAME]
+{x=1}
+FixingIngredient [node=1, startLine=17, endLine=17, type=NUMBER_LITERAL]
+{1=1}
+FixingIngredient [node=ArrayList, startLine=20, endLine=20, type=SIMPLE_NAME]
+{array=1, list=1}
+FixingIngredient [node=Integer, startLine=20, endLine=20, type=SIMPLE_NAME]
+{integer=1}
+FixingIngredient [node=sorted_arr, startLine=20, endLine=20, type=SIMPLE_NAME]
+{sorted_arr=1}
+FixingIngredient [node=new ArrayList<Integer>(100), startLine=20, endLine=20, type=CLASS_INSTANCE_CREATION]
+{new=1, 100=1, array=1, (=1, )=1, integer=1, list=1, <=1, >=1}
+FixingIngredient [node=ArrayList, startLine=20, endLine=20, type=SIMPLE_NAME]
+{array=1, list=1}
+FixingIngredient [node=Integer, startLine=20, endLine=20, type=SIMPLE_NAME]
+{integer=1}
+FixingIngredient [node=100, startLine=20, endLine=20, type=NUMBER_LITERAL]
+{100=1}
+FixingIngredient [node=i, startLine=21, endLine=21, type=SIMPLE_NAME]
+{i=1}
+FixingIngredient [node=0, startLine=21, endLine=21, type=NUMBER_LITERAL]
+{0=1}
+FixingIngredient [node=Integer, startLine=22, endLine=22, type=SIMPLE_NAME]
+{integer=1}
+FixingIngredient [node=count, startLine=22, endLine=22, type=SIMPLE_NAME]
+{count=1}
+FixingIngredient [node=arr, startLine=22, endLine=22, type=SIMPLE_NAME]
+{arr=1}
+FixingIngredient [node=sorted_arr.addAll(Collections.nCopies(count,i)), startLine=23, endLine=23, type=METHOD_INVOCATION]
+{add=1, all=1, copies=1, sorted_arr=1, collections=1, (=2, count=1, i=1, )=2, ,=1, .=2, n=1}
+FixingIngredient [node=sorted_arr, startLine=23, endLine=23, type=SIMPLE_NAME]
+{sorted_arr=1}
+FixingIngredient [node=addAll, startLine=23, endLine=23, type=SIMPLE_NAME]
+{add=1, all=1}
+FixingIngredient [node=Collections.nCopies(count,i), startLine=23, endLine=23, type=METHOD_INVOCATION]
+{copies=1, collections=1, (=1, count=1, i=1, )=1, ,=1, .=1, n=1}
+FixingIngredient [node=Collections, startLine=23, endLine=23, type=SIMPLE_NAME]
+{collections=1}
+FixingIngredient [node=nCopies, startLine=23, endLine=23, type=SIMPLE_NAME]
+{copies=1, n=1}
+FixingIngredient [node=count, startLine=23, endLine=23, type=SIMPLE_NAME]
+{count=1}
+FixingIngredient [node=i, startLine=23, endLine=23, type=SIMPLE_NAME]
+{i=1}
+FixingIngredient [node=i++, startLine=24, endLine=24, type=POSTFIX_EXPRESSION]
+{++=1, i=1}
+FixingIngredient [node=i, startLine=24, endLine=24, type=SIMPLE_NAME]
+{i=1}
+FixingIngredient [node=sorted_arr, startLine=27, endLine=27, type=SIMPLE_NAME]
+{sorted_arr=1}
+1457
+Correct Patch Generated!
+Elapsed time: 57.981053975 seconds
+File no 1094
+arr
+counts
+Total Candidate Patches: 1457
+Correct Patch Rank: 1145
+SHESH
