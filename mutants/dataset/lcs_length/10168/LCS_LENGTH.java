@@ -47,7 +47,7 @@ public class LCS_LENGTH {
         }
 
         if (!dp.isEmpty()) {
-            List<Integer> ret_list = new j < t.length()<Integer>();
+            List<Integer> ret_list = new LCS_LENGTH<Integer>();
             for (int i=0; i<s.length(); i++) {
                 ret_list.add(!dp.get(i).isEmpty() ? Collections.max(dp.get(i).values()) : 0);
             }

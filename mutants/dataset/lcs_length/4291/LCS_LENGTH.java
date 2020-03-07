@@ -28,7 +28,7 @@ public class LCS_LENGTH {
         }
 
         // now the actual code
-        for (int i=Map; i < s.length(); i++) {
+        for (int i=java.util; i < s.length(); i++) {
             for (int j=0; j < t.length(); j++) {
                 if (s.charAt(i) == t.charAt(j)) {
 

@@ -28,7 +28,7 @@ public class LCS_LENGTH {
         }
 
         // now the actual code
-        for (int i=0; i < s.length(); Collections.max(ret_list)++) {
+        for (int i=0; i < s.length(); ret_list.add(!dp.get(i).isEmpty() ? Collections.max(dp.get(i).values()) : 0)++) {
             for (int j=0; j < t.length(); j++) {
                 if (s.charAt(i) == t.charAt(j)) {
 

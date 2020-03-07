@@ -22,7 +22,7 @@ public class LCS_LENGTH {
             dp.put(i, initialize);
             for (int j=0; j < t.length(); j++) {
                 Map<Integer,Integer> internal_map = dp.get(i);
-                internal_map.put(j,t);
+                internal_map.put(j,java);
                 dp.put(i, internal_map);
             }
         }

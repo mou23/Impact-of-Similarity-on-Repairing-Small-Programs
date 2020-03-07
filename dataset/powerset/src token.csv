@@ -341,3 +341,1830 @@ addAll,SIMPLE_NAME, line no: 25,empty_set.add(new ArrayList()),METHOD_INVOCATION
 !arr.isEmpty(),PREFIX_EXPRESSION, line no: 15,java.util,QUALIFIED_NAME, 0.09938079899999064, 0.0, 0.0, 0.0, 0.1111111111111111, 0.8944271909999159
 empty_set.add(new ArrayList()),METHOD_INVOCATION, line no: 32,addAll,SIMPLE_NAME, 0.09938079899999064, 0.0, 0.0, 0.0, 0.1111111111111111, 0.8944271909999159
 empty_set.add(new ArrayList()),METHOD_INVOCATION, line no: 32,java.util,QUALIFIED_NAME, 0.08944271909999159, 0.0, 0.0, 0.0, 0.1, 0.8944271909999159
+!arr.isEmpty(),PREFIX_EXPRESSION, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+!arr.isEmpty(),PREFIX_EXPRESSION, line no: 15,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+!arr.isEmpty(),PREFIX_EXPRESSION, line no: 15,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+!arr.isEmpty(),PREFIX_EXPRESSION, line no: 15,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+!arr.isEmpty(),PREFIX_EXPRESSION, line no: 15,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+!arr.isEmpty(),PREFIX_EXPRESSION, line no: 15,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+!arr.isEmpty(),PREFIX_EXPRESSION, line no: 15,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+!arr.isEmpty(),PREFIX_EXPRESSION, line no: 15,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+!arr.isEmpty(),PREFIX_EXPRESSION, line no: 15,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+!arr.isEmpty(),PREFIX_EXPRESSION, line no: 15,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+!arr.isEmpty(),PREFIX_EXPRESSION, line no: 15,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+!arr.isEmpty(),PREFIX_EXPRESSION, line no: 15,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+!arr.isEmpty(),PREFIX_EXPRESSION, line no: 15,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+!arr.isEmpty(),PREFIX_EXPRESSION, line no: 15,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+!arr.isEmpty(),PREFIX_EXPRESSION, line no: 15,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+!arr.isEmpty(),PREFIX_EXPRESSION, line no: 15,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+!arr.isEmpty(),PREFIX_EXPRESSION, line no: 15,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+!arr.isEmpty(),PREFIX_EXPRESSION, line no: 15,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+!arr.isEmpty(),PREFIX_EXPRESSION, line no: 15,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+!arr.isEmpty(),PREFIX_EXPRESSION, line no: 15,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr.isEmpty(),METHOD_INVOCATION, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr.isEmpty(),METHOD_INVOCATION, line no: 15,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr.isEmpty(),METHOD_INVOCATION, line no: 15,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr.isEmpty(),METHOD_INVOCATION, line no: 15,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr.isEmpty(),METHOD_INVOCATION, line no: 15,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr.isEmpty(),METHOD_INVOCATION, line no: 15,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr.isEmpty(),METHOD_INVOCATION, line no: 15,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr.isEmpty(),METHOD_INVOCATION, line no: 15,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr.isEmpty(),METHOD_INVOCATION, line no: 15,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr.isEmpty(),METHOD_INVOCATION, line no: 15,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr.isEmpty(),METHOD_INVOCATION, line no: 15,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr.isEmpty(),METHOD_INVOCATION, line no: 15,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr.isEmpty(),METHOD_INVOCATION, line no: 15,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr.isEmpty(),METHOD_INVOCATION, line no: 15,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr.isEmpty(),METHOD_INVOCATION, line no: 15,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr.isEmpty(),METHOD_INVOCATION, line no: 15,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr.isEmpty(),METHOD_INVOCATION, line no: 15,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr.isEmpty(),METHOD_INVOCATION, line no: 15,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr.isEmpty(),METHOD_INVOCATION, line no: 15,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr.isEmpty(),METHOD_INVOCATION, line no: 15,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,empty_set.add(new ArrayList()),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+arr,SIMPLE_NAME, line no: 15,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,empty_set.add(new ArrayList()),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+isEmpty,SIMPLE_NAME, line no: 15,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+Object,SIMPLE_NAME, line no: 16,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,empty_set.add(new ArrayList()),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Object,SIMPLE_NAME, line no: 16,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,empty_set.add(new ArrayList()),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 16,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.get(0),METHOD_INVOCATION, line no: 16,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.get(0),METHOD_INVOCATION, line no: 16,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.get(0),METHOD_INVOCATION, line no: 16,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.get(0),METHOD_INVOCATION, line no: 16,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.get(0),METHOD_INVOCATION, line no: 16,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.get(0),METHOD_INVOCATION, line no: 16,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.get(0),METHOD_INVOCATION, line no: 16,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.get(0),METHOD_INVOCATION, line no: 16,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.get(0),METHOD_INVOCATION, line no: 16,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.get(0),METHOD_INVOCATION, line no: 16,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.get(0),METHOD_INVOCATION, line no: 16,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.get(0),METHOD_INVOCATION, line no: 16,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.get(0),METHOD_INVOCATION, line no: 16,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.get(0),METHOD_INVOCATION, line no: 16,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.get(0),METHOD_INVOCATION, line no: 16,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.get(0),METHOD_INVOCATION, line no: 16,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.get(0),METHOD_INVOCATION, line no: 16,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.get(0),METHOD_INVOCATION, line no: 16,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.get(0),METHOD_INVOCATION, line no: 16,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,empty_set.add(new ArrayList()),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 16,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,empty_set.add(new ArrayList()),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+get,SIMPLE_NAME, line no: 16,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,empty_set.add(new ArrayList()),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.remove(0),METHOD_INVOCATION, line no: 17,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.remove(0),METHOD_INVOCATION, line no: 17,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.remove(0),METHOD_INVOCATION, line no: 17,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.remove(0),METHOD_INVOCATION, line no: 17,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.remove(0),METHOD_INVOCATION, line no: 17,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.remove(0),METHOD_INVOCATION, line no: 17,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.remove(0),METHOD_INVOCATION, line no: 17,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.remove(0),METHOD_INVOCATION, line no: 17,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.remove(0),METHOD_INVOCATION, line no: 17,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.remove(0),METHOD_INVOCATION, line no: 17,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.remove(0),METHOD_INVOCATION, line no: 17,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.remove(0),METHOD_INVOCATION, line no: 17,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.remove(0),METHOD_INVOCATION, line no: 17,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.remove(0),METHOD_INVOCATION, line no: 17,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.remove(0),METHOD_INVOCATION, line no: 17,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.remove(0),METHOD_INVOCATION, line no: 17,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.remove(0),METHOD_INVOCATION, line no: 17,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.remove(0),METHOD_INVOCATION, line no: 17,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr.remove(0),METHOD_INVOCATION, line no: 17,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,empty_set.add(new ArrayList()),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 17,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,empty_set.add(new ArrayList()),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+remove,SIMPLE_NAME, line no: 17,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,empty_set.add(new ArrayList()),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 17,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 18,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,empty_set.add(new ArrayList()),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 18,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,empty_set.add(new ArrayList()),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+arr,SIMPLE_NAME, line no: 18,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,empty_set.add(new ArrayList()),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 19,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset(rest),METHOD_INVOCATION, line no: 19,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset(rest),METHOD_INVOCATION, line no: 19,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset(rest),METHOD_INVOCATION, line no: 19,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset(rest),METHOD_INVOCATION, line no: 19,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset(rest),METHOD_INVOCATION, line no: 19,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset(rest),METHOD_INVOCATION, line no: 19,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset(rest),METHOD_INVOCATION, line no: 19,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset(rest),METHOD_INVOCATION, line no: 19,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset(rest),METHOD_INVOCATION, line no: 19,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset(rest),METHOD_INVOCATION, line no: 19,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset(rest),METHOD_INVOCATION, line no: 19,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset(rest),METHOD_INVOCATION, line no: 19,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset(rest),METHOD_INVOCATION, line no: 19,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset(rest),METHOD_INVOCATION, line no: 19,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset(rest),METHOD_INVOCATION, line no: 19,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset(rest),METHOD_INVOCATION, line no: 19,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset(rest),METHOD_INVOCATION, line no: 19,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset(rest),METHOD_INVOCATION, line no: 19,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset(rest),METHOD_INVOCATION, line no: 19,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset(rest),METHOD_INVOCATION, line no: 19,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,empty_set.add(new ArrayList()),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+powerset,SIMPLE_NAME, line no: 19,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,empty_set.add(new ArrayList()),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest,SIMPLE_NAME, line no: 19,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,empty_set.add(new ArrayList()),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 21,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, line no: 21,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, line no: 21,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, line no: 21,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, line no: 21,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, line no: 21,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, line no: 21,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, line no: 21,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, line no: 21,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, line no: 21,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, line no: 21,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, line no: 21,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, line no: 21,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, line no: 21,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, line no: 21,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, line no: 21,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, line no: 21,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, line no: 21,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 21,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,empty_set.add(new ArrayList()),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 21,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,empty_set.add(new ArrayList()),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 22,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 22,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 22,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 22,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 22,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 22,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 22,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 22,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 22,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 22,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 22,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 22,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 22,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 22,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 22,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 22,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 22,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 22,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 22,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 22,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 22,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(100),CLASS_INSTANCE_CREATION, line no: 22,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 22,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,empty_set.add(new ArrayList()),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+100,NUMBER_LITERAL, line no: 22,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.add(first),METHOD_INVOCATION, line no: 23,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.add(first),METHOD_INVOCATION, line no: 23,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.add(first),METHOD_INVOCATION, line no: 23,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.add(first),METHOD_INVOCATION, line no: 23,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.add(first),METHOD_INVOCATION, line no: 23,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.add(first),METHOD_INVOCATION, line no: 23,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.add(first),METHOD_INVOCATION, line no: 23,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.add(first),METHOD_INVOCATION, line no: 23,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.add(first),METHOD_INVOCATION, line no: 23,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.add(first),METHOD_INVOCATION, line no: 23,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.add(first),METHOD_INVOCATION, line no: 23,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.add(first),METHOD_INVOCATION, line no: 23,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.add(first),METHOD_INVOCATION, line no: 23,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.add(first),METHOD_INVOCATION, line no: 23,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.add(first),METHOD_INVOCATION, line no: 23,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.add(first),METHOD_INVOCATION, line no: 23,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.add(first),METHOD_INVOCATION, line no: 23,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.add(first),METHOD_INVOCATION, line no: 23,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,empty_set.add(new ArrayList()),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 23,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 23,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,empty_set.add(new ArrayList()),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+first,SIMPLE_NAME, line no: 23,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 24,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,empty_set.add(new ArrayList()),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 24,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,empty_set.add(new ArrayList()),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+rest_subsets,SIMPLE_NAME, line no: 24,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.addAll(subset),METHOD_INVOCATION, line no: 25,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.addAll(subset),METHOD_INVOCATION, line no: 25,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.addAll(subset),METHOD_INVOCATION, line no: 25,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.addAll(subset),METHOD_INVOCATION, line no: 25,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.addAll(subset),METHOD_INVOCATION, line no: 25,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.addAll(subset),METHOD_INVOCATION, line no: 25,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.addAll(subset),METHOD_INVOCATION, line no: 25,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.addAll(subset),METHOD_INVOCATION, line no: 25,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.addAll(subset),METHOD_INVOCATION, line no: 25,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.addAll(subset),METHOD_INVOCATION, line no: 25,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.addAll(subset),METHOD_INVOCATION, line no: 25,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.addAll(subset),METHOD_INVOCATION, line no: 25,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.addAll(subset),METHOD_INVOCATION, line no: 25,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.addAll(subset),METHOD_INVOCATION, line no: 25,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.addAll(subset),METHOD_INVOCATION, line no: 25,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.addAll(subset),METHOD_INVOCATION, line no: 25,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.addAll(subset),METHOD_INVOCATION, line no: 25,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add.addAll(subset),METHOD_INVOCATION, line no: 25,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,empty_set.add(new ArrayList()),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 25,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+addAll,SIMPLE_NAME, line no: 25,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,empty_set.add(new ArrayList()),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+subset,SIMPLE_NAME, line no: 25,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output.add(to_add),METHOD_INVOCATION, line no: 27,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output.add(to_add),METHOD_INVOCATION, line no: 27,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output.add(to_add),METHOD_INVOCATION, line no: 27,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output.add(to_add),METHOD_INVOCATION, line no: 27,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output.add(to_add),METHOD_INVOCATION, line no: 27,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output.add(to_add),METHOD_INVOCATION, line no: 27,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output.add(to_add),METHOD_INVOCATION, line no: 27,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output.add(to_add),METHOD_INVOCATION, line no: 27,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output.add(to_add),METHOD_INVOCATION, line no: 27,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output.add(to_add),METHOD_INVOCATION, line no: 27,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output.add(to_add),METHOD_INVOCATION, line no: 27,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output.add(to_add),METHOD_INVOCATION, line no: 27,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output.add(to_add),METHOD_INVOCATION, line no: 27,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output.add(to_add),METHOD_INVOCATION, line no: 27,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output.add(to_add),METHOD_INVOCATION, line no: 27,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output.add(to_add),METHOD_INVOCATION, line no: 27,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output.add(to_add),METHOD_INVOCATION, line no: 27,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output.add(to_add),METHOD_INVOCATION, line no: 27,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,empty_set.add(new ArrayList()),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 27,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+add,SIMPLE_NAME, line no: 27,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,empty_set.add(new ArrayList()),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+to_add,SIMPLE_NAME, line no: 27,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,empty_set.add(new ArrayList()),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+output,SIMPLE_NAME, line no: 29,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 31,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 31,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, line no: 31,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, line no: 31,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, line no: 31,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, line no: 31,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, line no: 31,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, line no: 31,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, line no: 31,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, line no: 31,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, line no: 31,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, line no: 31,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, line no: 31,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, line no: 31,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, line no: 31,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, line no: 31,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, line no: 31,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, line no: 31,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, line no: 31,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, line no: 31,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, line no: 31,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, line no: 31,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, line no: 31,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, line no: 31,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 31,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set.add(new ArrayList()),METHOD_INVOCATION, line no: 32,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set.add(new ArrayList()),METHOD_INVOCATION, line no: 32,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set.add(new ArrayList()),METHOD_INVOCATION, line no: 32,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set.add(new ArrayList()),METHOD_INVOCATION, line no: 32,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set.add(new ArrayList()),METHOD_INVOCATION, line no: 32,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set.add(new ArrayList()),METHOD_INVOCATION, line no: 32,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set.add(new ArrayList()),METHOD_INVOCATION, line no: 32,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set.add(new ArrayList()),METHOD_INVOCATION, line no: 32,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set.add(new ArrayList()),METHOD_INVOCATION, line no: 32,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set.add(new ArrayList()),METHOD_INVOCATION, line no: 32,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set.add(new ArrayList()),METHOD_INVOCATION, line no: 32,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set.add(new ArrayList()),METHOD_INVOCATION, line no: 32,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set.add(new ArrayList()),METHOD_INVOCATION, line no: 32,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set.add(new ArrayList()),METHOD_INVOCATION, line no: 32,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set.add(new ArrayList()),METHOD_INVOCATION, line no: 32,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set.add(new ArrayList()),METHOD_INVOCATION, line no: 32,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set.add(new ArrayList()),METHOD_INVOCATION, line no: 32,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set.add(new ArrayList()),METHOD_INVOCATION, line no: 32,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 32,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+add,SIMPLE_NAME, line no: 32,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 32,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 32,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 32,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 32,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 32,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 32,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 32,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 32,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 32,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 32,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 32,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 32,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 32,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 32,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 32,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 32,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 32,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 32,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 32,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 32,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 32,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 32,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 32,empty_set,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,POWERSET,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,powerset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,arr,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,!arr.isEmpty(),PREFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,arr.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,Object,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,first,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,arr.get(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,get,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,arr.remove(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,remove,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,rest_subsets,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,powerset(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,output,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,new ArrayList<ArrayList>(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,100,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,to_add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,new ArrayList(100),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,to_add.add(first),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,subset,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,to_add.addAll(subset),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,output.add(to_add),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,new ArrayList<ArrayList>(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+empty_set,SIMPLE_NAME, line no: 33,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159

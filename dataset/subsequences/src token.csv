@@ -211,3 +211,1166 @@ i++,POSTFIX_EXPRESSION, line no: 20,subsequences(i + 1 b k - 1),METHOD_INVOCATIO
 subsequences(i + 1 b k - 1),METHOD_INVOCATION, line no: 22,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.06880209161537815, 0.0, 0.0, 0.0, 0.07692307692307693, 0.8944271909999159
 int i=a,VARIABLE_DECLARATION_EXPRESSION, line no: 20,subsequences(i + 1 b k - 1),METHOD_INVOCATION, 0.06153846153846154, 0.0, 0.0, 0.0, 0.07692307692307693, 0.8
 i < b + 1 - k,INFIX_EXPRESSION, line no: 20,rest.add(0 i),METHOD_INVOCATION, 0.05714285714285714, 0.0, 0.0, 0.0, 0.07142857142857142, 0.8
+k == 0,INFIX_EXPRESSION, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k == 0,INFIX_EXPRESSION, line no: 15,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k == 0,INFIX_EXPRESSION, line no: 15,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k == 0,INFIX_EXPRESSION, line no: 15,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k == 0,INFIX_EXPRESSION, line no: 15,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k == 0,INFIX_EXPRESSION, line no: 15,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k == 0,INFIX_EXPRESSION, line no: 15,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k == 0,INFIX_EXPRESSION, line no: 15,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k == 0,INFIX_EXPRESSION, line no: 15,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k == 0,INFIX_EXPRESSION, line no: 15,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k == 0,INFIX_EXPRESSION, line no: 15,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k == 0,INFIX_EXPRESSION, line no: 15,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k == 0,INFIX_EXPRESSION, line no: 15,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k == 0,INFIX_EXPRESSION, line no: 15,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k == 0,INFIX_EXPRESSION, line no: 15,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k == 0,INFIX_EXPRESSION, line no: 15,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k == 0,INFIX_EXPRESSION, line no: 15,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k == 0,INFIX_EXPRESSION, line no: 15,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k == 0,INFIX_EXPRESSION, line no: 15,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k == 0,INFIX_EXPRESSION, line no: 15,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k == 0,INFIX_EXPRESSION, line no: 15,i + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k == 0,INFIX_EXPRESSION, line no: 15,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k == 0,INFIX_EXPRESSION, line no: 15,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k == 0,INFIX_EXPRESSION, line no: 15,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k == 0,INFIX_EXPRESSION, line no: 15,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k,SIMPLE_NAME, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k,SIMPLE_NAME, line no: 15,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k,SIMPLE_NAME, line no: 15,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k,SIMPLE_NAME, line no: 15,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k,SIMPLE_NAME, line no: 15,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k,SIMPLE_NAME, line no: 15,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k,SIMPLE_NAME, line no: 15,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k,SIMPLE_NAME, line no: 15,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k,SIMPLE_NAME, line no: 15,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k,SIMPLE_NAME, line no: 15,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k,SIMPLE_NAME, line no: 15,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k,SIMPLE_NAME, line no: 15,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k,SIMPLE_NAME, line no: 15,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k,SIMPLE_NAME, line no: 15,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k,SIMPLE_NAME, line no: 15,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k,SIMPLE_NAME, line no: 15,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k,SIMPLE_NAME, line no: 15,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k,SIMPLE_NAME, line no: 15,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k,SIMPLE_NAME, line no: 15,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k,SIMPLE_NAME, line no: 15,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k,SIMPLE_NAME, line no: 15,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k,SIMPLE_NAME, line no: 15,i + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k,SIMPLE_NAME, line no: 15,rest.add(0 i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k,SIMPLE_NAME, line no: 15,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k,SIMPLE_NAME, line no: 15,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k,SIMPLE_NAME, line no: 15,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+k,SIMPLE_NAME, line no: 15,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,i < b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,subsequences(i + 1 b k - 1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,i + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+0,NUMBER_LITERAL, line no: 15,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 16,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 16,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 16,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 16,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 16,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 16,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 16,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 16,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 16,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 16,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 16,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 16,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 16,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 16,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 16,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 16,i < b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 16,b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 16,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 16,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 16,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 16,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 16,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 16,i + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 16,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 16,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+new ArrayList(),CLASS_INSTANCE_CREATION, line no: 16,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,i < b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,subsequences(i + 1 b k - 1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,i + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,rest.add(0 i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 16,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+ArrayList,SIMPLE_NAME, line no: 19,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,i < b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,subsequences(i + 1 b k - 1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,i + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,rest.add(0 i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,i < b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,subsequences(i + 1 b k - 1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,i + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,rest.add(0 i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 19,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 19,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 19,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 19,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 19,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 19,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 19,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 19,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 19,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 19,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 19,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 19,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 19,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 19,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 19,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 19,i < b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 19,b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 19,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 19,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 19,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 19,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 19,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 19,i + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 19,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 19,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 19,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,i < b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,subsequences(i + 1 b k - 1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,i + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,rest.add(0 i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 19,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,i < b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,subsequences(i + 1 b k - 1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,i + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,rest.add(0 i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+50,NUMBER_LITERAL, line no: 19,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+int i=a,VARIABLE_DECLARATION_EXPRESSION, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+int i=a,VARIABLE_DECLARATION_EXPRESSION, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+int i=a,VARIABLE_DECLARATION_EXPRESSION, line no: 20,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+int i=a,VARIABLE_DECLARATION_EXPRESSION, line no: 20,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+int i=a,VARIABLE_DECLARATION_EXPRESSION, line no: 20,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+int i=a,VARIABLE_DECLARATION_EXPRESSION, line no: 20,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+int i=a,VARIABLE_DECLARATION_EXPRESSION, line no: 20,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+int i=a,VARIABLE_DECLARATION_EXPRESSION, line no: 20,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+int i=a,VARIABLE_DECLARATION_EXPRESSION, line no: 20,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+int i=a,VARIABLE_DECLARATION_EXPRESSION, line no: 20,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+int i=a,VARIABLE_DECLARATION_EXPRESSION, line no: 20,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+int i=a,VARIABLE_DECLARATION_EXPRESSION, line no: 20,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+int i=a,VARIABLE_DECLARATION_EXPRESSION, line no: 20,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+int i=a,VARIABLE_DECLARATION_EXPRESSION, line no: 20,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+int i=a,VARIABLE_DECLARATION_EXPRESSION, line no: 20,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+int i=a,VARIABLE_DECLARATION_EXPRESSION, line no: 20,b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+int i=a,VARIABLE_DECLARATION_EXPRESSION, line no: 20,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+int i=a,VARIABLE_DECLARATION_EXPRESSION, line no: 20,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+int i=a,VARIABLE_DECLARATION_EXPRESSION, line no: 20,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+int i=a,VARIABLE_DECLARATION_EXPRESSION, line no: 20,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+int i=a,VARIABLE_DECLARATION_EXPRESSION, line no: 20,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+int i=a,VARIABLE_DECLARATION_EXPRESSION, line no: 20,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+int i=a,VARIABLE_DECLARATION_EXPRESSION, line no: 20,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+int i=a,VARIABLE_DECLARATION_EXPRESSION, line no: 20,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+int i=a,VARIABLE_DECLARATION_EXPRESSION, line no: 20,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,i < b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,subsequences(i + 1 b k - 1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,i + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,rest.add(0 i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+a,SIMPLE_NAME, line no: 20,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i < b + 1 - k,INFIX_EXPRESSION, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i < b + 1 - k,INFIX_EXPRESSION, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i < b + 1 - k,INFIX_EXPRESSION, line no: 20,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i < b + 1 - k,INFIX_EXPRESSION, line no: 20,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i < b + 1 - k,INFIX_EXPRESSION, line no: 20,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i < b + 1 - k,INFIX_EXPRESSION, line no: 20,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i < b + 1 - k,INFIX_EXPRESSION, line no: 20,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i < b + 1 - k,INFIX_EXPRESSION, line no: 20,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i < b + 1 - k,INFIX_EXPRESSION, line no: 20,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i < b + 1 - k,INFIX_EXPRESSION, line no: 20,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i < b + 1 - k,INFIX_EXPRESSION, line no: 20,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i < b + 1 - k,INFIX_EXPRESSION, line no: 20,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i < b + 1 - k,INFIX_EXPRESSION, line no: 20,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i < b + 1 - k,INFIX_EXPRESSION, line no: 20,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i < b + 1 - k,INFIX_EXPRESSION, line no: 20,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i < b + 1 - k,INFIX_EXPRESSION, line no: 20,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i < b + 1 - k,INFIX_EXPRESSION, line no: 20,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i < b + 1 - k,INFIX_EXPRESSION, line no: 20,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i < b + 1 - k,INFIX_EXPRESSION, line no: 20,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1 - k,INFIX_EXPRESSION, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1 - k,INFIX_EXPRESSION, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1 - k,INFIX_EXPRESSION, line no: 20,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1 - k,INFIX_EXPRESSION, line no: 20,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1 - k,INFIX_EXPRESSION, line no: 20,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1 - k,INFIX_EXPRESSION, line no: 20,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1 - k,INFIX_EXPRESSION, line no: 20,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1 - k,INFIX_EXPRESSION, line no: 20,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1 - k,INFIX_EXPRESSION, line no: 20,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1 - k,INFIX_EXPRESSION, line no: 20,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1 - k,INFIX_EXPRESSION, line no: 20,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1 - k,INFIX_EXPRESSION, line no: 20,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1 - k,INFIX_EXPRESSION, line no: 20,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1 - k,INFIX_EXPRESSION, line no: 20,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1 - k,INFIX_EXPRESSION, line no: 20,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1 - k,INFIX_EXPRESSION, line no: 20,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1 - k,INFIX_EXPRESSION, line no: 20,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1 - k,INFIX_EXPRESSION, line no: 20,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1 - k,INFIX_EXPRESSION, line no: 20,rest.add(0 i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1 - k,INFIX_EXPRESSION, line no: 20,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1 - k,INFIX_EXPRESSION, line no: 20,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1 - k,INFIX_EXPRESSION, line no: 20,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1 - k,INFIX_EXPRESSION, line no: 20,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1,INFIX_EXPRESSION, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1,INFIX_EXPRESSION, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1,INFIX_EXPRESSION, line no: 20,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1,INFIX_EXPRESSION, line no: 20,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1,INFIX_EXPRESSION, line no: 20,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1,INFIX_EXPRESSION, line no: 20,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1,INFIX_EXPRESSION, line no: 20,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1,INFIX_EXPRESSION, line no: 20,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1,INFIX_EXPRESSION, line no: 20,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1,INFIX_EXPRESSION, line no: 20,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1,INFIX_EXPRESSION, line no: 20,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1,INFIX_EXPRESSION, line no: 20,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1,INFIX_EXPRESSION, line no: 20,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1,INFIX_EXPRESSION, line no: 20,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1,INFIX_EXPRESSION, line no: 20,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1,INFIX_EXPRESSION, line no: 20,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1,INFIX_EXPRESSION, line no: 20,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1,INFIX_EXPRESSION, line no: 20,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1,INFIX_EXPRESSION, line no: 20,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1,INFIX_EXPRESSION, line no: 20,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1,INFIX_EXPRESSION, line no: 20,rest.add(0 i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1,INFIX_EXPRESSION, line no: 20,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1,INFIX_EXPRESSION, line no: 20,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1,INFIX_EXPRESSION, line no: 20,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b + 1,INFIX_EXPRESSION, line no: 20,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b,SIMPLE_NAME, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b,SIMPLE_NAME, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b,SIMPLE_NAME, line no: 20,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b,SIMPLE_NAME, line no: 20,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b,SIMPLE_NAME, line no: 20,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b,SIMPLE_NAME, line no: 20,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b,SIMPLE_NAME, line no: 20,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b,SIMPLE_NAME, line no: 20,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b,SIMPLE_NAME, line no: 20,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b,SIMPLE_NAME, line no: 20,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b,SIMPLE_NAME, line no: 20,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b,SIMPLE_NAME, line no: 20,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b,SIMPLE_NAME, line no: 20,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b,SIMPLE_NAME, line no: 20,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b,SIMPLE_NAME, line no: 20,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b,SIMPLE_NAME, line no: 20,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b,SIMPLE_NAME, line no: 20,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b,SIMPLE_NAME, line no: 20,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b,SIMPLE_NAME, line no: 20,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b,SIMPLE_NAME, line no: 20,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b,SIMPLE_NAME, line no: 20,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b,SIMPLE_NAME, line no: 20,i + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b,SIMPLE_NAME, line no: 20,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b,SIMPLE_NAME, line no: 20,rest.add(0 i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b,SIMPLE_NAME, line no: 20,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b,SIMPLE_NAME, line no: 20,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b,SIMPLE_NAME, line no: 20,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+b,SIMPLE_NAME, line no: 20,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1,NUMBER_LITERAL, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1,NUMBER_LITERAL, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1,NUMBER_LITERAL, line no: 20,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1,NUMBER_LITERAL, line no: 20,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1,NUMBER_LITERAL, line no: 20,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1,NUMBER_LITERAL, line no: 20,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1,NUMBER_LITERAL, line no: 20,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1,NUMBER_LITERAL, line no: 20,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1,NUMBER_LITERAL, line no: 20,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1,NUMBER_LITERAL, line no: 20,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1,NUMBER_LITERAL, line no: 20,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1,NUMBER_LITERAL, line no: 20,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1,NUMBER_LITERAL, line no: 20,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1,NUMBER_LITERAL, line no: 20,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1,NUMBER_LITERAL, line no: 20,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1,NUMBER_LITERAL, line no: 20,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1,NUMBER_LITERAL, line no: 20,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1,NUMBER_LITERAL, line no: 20,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1,NUMBER_LITERAL, line no: 20,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1,NUMBER_LITERAL, line no: 20,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1,NUMBER_LITERAL, line no: 20,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1,NUMBER_LITERAL, line no: 20,rest.add(0 i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1,NUMBER_LITERAL, line no: 20,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1,NUMBER_LITERAL, line no: 20,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1,NUMBER_LITERAL, line no: 20,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1,NUMBER_LITERAL, line no: 20,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+k,SIMPLE_NAME, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+k,SIMPLE_NAME, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+k,SIMPLE_NAME, line no: 20,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+k,SIMPLE_NAME, line no: 20,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+k,SIMPLE_NAME, line no: 20,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+k,SIMPLE_NAME, line no: 20,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+k,SIMPLE_NAME, line no: 20,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+k,SIMPLE_NAME, line no: 20,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+k,SIMPLE_NAME, line no: 20,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+k,SIMPLE_NAME, line no: 20,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+k,SIMPLE_NAME, line no: 20,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+k,SIMPLE_NAME, line no: 20,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+k,SIMPLE_NAME, line no: 20,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+k,SIMPLE_NAME, line no: 20,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+k,SIMPLE_NAME, line no: 20,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+k,SIMPLE_NAME, line no: 20,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+k,SIMPLE_NAME, line no: 20,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+k,SIMPLE_NAME, line no: 20,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+k,SIMPLE_NAME, line no: 20,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+k,SIMPLE_NAME, line no: 20,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+k,SIMPLE_NAME, line no: 20,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+k,SIMPLE_NAME, line no: 20,i + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+k,SIMPLE_NAME, line no: 20,rest.add(0 i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+k,SIMPLE_NAME, line no: 20,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+k,SIMPLE_NAME, line no: 20,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+k,SIMPLE_NAME, line no: 20,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+k,SIMPLE_NAME, line no: 20,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i++,POSTFIX_EXPRESSION, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i++,POSTFIX_EXPRESSION, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i++,POSTFIX_EXPRESSION, line no: 20,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i++,POSTFIX_EXPRESSION, line no: 20,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i++,POSTFIX_EXPRESSION, line no: 20,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i++,POSTFIX_EXPRESSION, line no: 20,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i++,POSTFIX_EXPRESSION, line no: 20,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i++,POSTFIX_EXPRESSION, line no: 20,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i++,POSTFIX_EXPRESSION, line no: 20,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i++,POSTFIX_EXPRESSION, line no: 20,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i++,POSTFIX_EXPRESSION, line no: 20,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i++,POSTFIX_EXPRESSION, line no: 20,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i++,POSTFIX_EXPRESSION, line no: 20,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i++,POSTFIX_EXPRESSION, line no: 20,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i++,POSTFIX_EXPRESSION, line no: 20,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i++,POSTFIX_EXPRESSION, line no: 20,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i++,POSTFIX_EXPRESSION, line no: 20,b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i++,POSTFIX_EXPRESSION, line no: 20,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i++,POSTFIX_EXPRESSION, line no: 20,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i++,POSTFIX_EXPRESSION, line no: 20,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i++,POSTFIX_EXPRESSION, line no: 20,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i++,POSTFIX_EXPRESSION, line no: 20,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i++,POSTFIX_EXPRESSION, line no: 20,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i++,POSTFIX_EXPRESSION, line no: 20,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i++,POSTFIX_EXPRESSION, line no: 20,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i++,POSTFIX_EXPRESSION, line no: 20,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+i,SIMPLE_NAME, line no: 20,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ArrayList,SIMPLE_NAME, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,i < b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,subsequences(i + 1 b k - 1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,i + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,rest.add(0 i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,i < b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,subsequences(i + 1 b k - 1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,i + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,rest.add(0 i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 21,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 21,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 21,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 21,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 21,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 21,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 21,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 21,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 21,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 21,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 21,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 21,i < b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 21,b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 21,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 21,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 21,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 21,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 21,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 21,i + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 21,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 21,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+new ArrayList(50),CLASS_INSTANCE_CREATION, line no: 21,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,i < b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,subsequences(i + 1 b k - 1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,i + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,rest.add(0 i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 21,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,i < b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,subsequences(i + 1 b k - 1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,i + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,rest.add(0 i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+50,NUMBER_LITERAL, line no: 21,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,i < b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,subsequences(i + 1 b k - 1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,i + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,rest.add(0 i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ArrayList,SIMPLE_NAME, line no: 22,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,i < b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,subsequences(i + 1 b k - 1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,i + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+rest,SIMPLE_NAME, line no: 22,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences(i + 1 b k - 1),METHOD_INVOCATION, line no: 22,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences(i + 1 b k - 1),METHOD_INVOCATION, line no: 22,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences(i + 1 b k - 1),METHOD_INVOCATION, line no: 22,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences(i + 1 b k - 1),METHOD_INVOCATION, line no: 22,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences(i + 1 b k - 1),METHOD_INVOCATION, line no: 22,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences(i + 1 b k - 1),METHOD_INVOCATION, line no: 22,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences(i + 1 b k - 1),METHOD_INVOCATION, line no: 22,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences(i + 1 b k - 1),METHOD_INVOCATION, line no: 22,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences(i + 1 b k - 1),METHOD_INVOCATION, line no: 22,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences(i + 1 b k - 1),METHOD_INVOCATION, line no: 22,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences(i + 1 b k - 1),METHOD_INVOCATION, line no: 22,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences(i + 1 b k - 1),METHOD_INVOCATION, line no: 22,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences(i + 1 b k - 1),METHOD_INVOCATION, line no: 22,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,i < b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,i + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,rest.add(0 i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+subsequences,SIMPLE_NAME, line no: 22,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i + 1,INFIX_EXPRESSION, line no: 22,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i + 1,INFIX_EXPRESSION, line no: 22,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i + 1,INFIX_EXPRESSION, line no: 22,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i + 1,INFIX_EXPRESSION, line no: 22,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i + 1,INFIX_EXPRESSION, line no: 22,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i + 1,INFIX_EXPRESSION, line no: 22,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i + 1,INFIX_EXPRESSION, line no: 22,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i + 1,INFIX_EXPRESSION, line no: 22,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i + 1,INFIX_EXPRESSION, line no: 22,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i + 1,INFIX_EXPRESSION, line no: 22,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i + 1,INFIX_EXPRESSION, line no: 22,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i + 1,INFIX_EXPRESSION, line no: 22,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i + 1,INFIX_EXPRESSION, line no: 22,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i + 1,INFIX_EXPRESSION, line no: 22,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i + 1,INFIX_EXPRESSION, line no: 22,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i + 1,INFIX_EXPRESSION, line no: 22,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i + 1,INFIX_EXPRESSION, line no: 22,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i + 1,INFIX_EXPRESSION, line no: 22,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i + 1,INFIX_EXPRESSION, line no: 22,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i + 1,INFIX_EXPRESSION, line no: 22,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i + 1,INFIX_EXPRESSION, line no: 22,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i + 1,INFIX_EXPRESSION, line no: 22,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i,SIMPLE_NAME, line no: 22,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i,SIMPLE_NAME, line no: 22,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i,SIMPLE_NAME, line no: 22,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i,SIMPLE_NAME, line no: 22,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i,SIMPLE_NAME, line no: 22,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i,SIMPLE_NAME, line no: 22,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i,SIMPLE_NAME, line no: 22,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i,SIMPLE_NAME, line no: 22,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i,SIMPLE_NAME, line no: 22,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i,SIMPLE_NAME, line no: 22,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i,SIMPLE_NAME, line no: 22,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i,SIMPLE_NAME, line no: 22,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i,SIMPLE_NAME, line no: 22,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i,SIMPLE_NAME, line no: 22,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i,SIMPLE_NAME, line no: 22,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i,SIMPLE_NAME, line no: 22,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i,SIMPLE_NAME, line no: 22,b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i,SIMPLE_NAME, line no: 22,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i,SIMPLE_NAME, line no: 22,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i,SIMPLE_NAME, line no: 22,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i,SIMPLE_NAME, line no: 22,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i,SIMPLE_NAME, line no: 22,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i,SIMPLE_NAME, line no: 22,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i,SIMPLE_NAME, line no: 22,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i,SIMPLE_NAME, line no: 22,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+i,SIMPLE_NAME, line no: 22,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,rest.add(0 i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+b,SIMPLE_NAME, line no: 22,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+b,SIMPLE_NAME, line no: 22,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+b,SIMPLE_NAME, line no: 22,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+b,SIMPLE_NAME, line no: 22,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+b,SIMPLE_NAME, line no: 22,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+b,SIMPLE_NAME, line no: 22,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+b,SIMPLE_NAME, line no: 22,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+b,SIMPLE_NAME, line no: 22,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+b,SIMPLE_NAME, line no: 22,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+b,SIMPLE_NAME, line no: 22,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+b,SIMPLE_NAME, line no: 22,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+b,SIMPLE_NAME, line no: 22,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+b,SIMPLE_NAME, line no: 22,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+b,SIMPLE_NAME, line no: 22,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+b,SIMPLE_NAME, line no: 22,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+b,SIMPLE_NAME, line no: 22,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+b,SIMPLE_NAME, line no: 22,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+b,SIMPLE_NAME, line no: 22,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+b,SIMPLE_NAME, line no: 22,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+b,SIMPLE_NAME, line no: 22,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+b,SIMPLE_NAME, line no: 22,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+b,SIMPLE_NAME, line no: 22,i + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+b,SIMPLE_NAME, line no: 22,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+b,SIMPLE_NAME, line no: 22,rest.add(0 i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+b,SIMPLE_NAME, line no: 22,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+b,SIMPLE_NAME, line no: 22,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+b,SIMPLE_NAME, line no: 22,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+b,SIMPLE_NAME, line no: 22,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k - 1,INFIX_EXPRESSION, line no: 22,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k - 1,INFIX_EXPRESSION, line no: 22,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k - 1,INFIX_EXPRESSION, line no: 22,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k - 1,INFIX_EXPRESSION, line no: 22,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k - 1,INFIX_EXPRESSION, line no: 22,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k - 1,INFIX_EXPRESSION, line no: 22,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k - 1,INFIX_EXPRESSION, line no: 22,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k - 1,INFIX_EXPRESSION, line no: 22,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k - 1,INFIX_EXPRESSION, line no: 22,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k - 1,INFIX_EXPRESSION, line no: 22,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k - 1,INFIX_EXPRESSION, line no: 22,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k - 1,INFIX_EXPRESSION, line no: 22,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k - 1,INFIX_EXPRESSION, line no: 22,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k - 1,INFIX_EXPRESSION, line no: 22,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k - 1,INFIX_EXPRESSION, line no: 22,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k - 1,INFIX_EXPRESSION, line no: 22,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k - 1,INFIX_EXPRESSION, line no: 22,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k - 1,INFIX_EXPRESSION, line no: 22,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k - 1,INFIX_EXPRESSION, line no: 22,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k - 1,INFIX_EXPRESSION, line no: 22,rest.add(0 i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k - 1,INFIX_EXPRESSION, line no: 22,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k - 1,INFIX_EXPRESSION, line no: 22,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k - 1,INFIX_EXPRESSION, line no: 22,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k - 1,INFIX_EXPRESSION, line no: 22,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k,SIMPLE_NAME, line no: 22,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k,SIMPLE_NAME, line no: 22,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k,SIMPLE_NAME, line no: 22,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k,SIMPLE_NAME, line no: 22,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k,SIMPLE_NAME, line no: 22,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k,SIMPLE_NAME, line no: 22,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k,SIMPLE_NAME, line no: 22,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k,SIMPLE_NAME, line no: 22,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k,SIMPLE_NAME, line no: 22,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k,SIMPLE_NAME, line no: 22,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k,SIMPLE_NAME, line no: 22,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k,SIMPLE_NAME, line no: 22,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k,SIMPLE_NAME, line no: 22,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k,SIMPLE_NAME, line no: 22,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k,SIMPLE_NAME, line no: 22,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k,SIMPLE_NAME, line no: 22,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k,SIMPLE_NAME, line no: 22,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k,SIMPLE_NAME, line no: 22,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k,SIMPLE_NAME, line no: 22,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k,SIMPLE_NAME, line no: 22,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k,SIMPLE_NAME, line no: 22,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k,SIMPLE_NAME, line no: 22,i + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k,SIMPLE_NAME, line no: 22,rest.add(0 i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k,SIMPLE_NAME, line no: 22,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k,SIMPLE_NAME, line no: 22,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k,SIMPLE_NAME, line no: 22,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+k,SIMPLE_NAME, line no: 22,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,rest.add(0 i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,ret.addAll(base),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+1,NUMBER_LITERAL, line no: 22,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret.addAll(base),METHOD_INVOCATION, line no: 26,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret.addAll(base),METHOD_INVOCATION, line no: 26,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret.addAll(base),METHOD_INVOCATION, line no: 26,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret.addAll(base),METHOD_INVOCATION, line no: 26,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret.addAll(base),METHOD_INVOCATION, line no: 26,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret.addAll(base),METHOD_INVOCATION, line no: 26,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret.addAll(base),METHOD_INVOCATION, line no: 26,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret.addAll(base),METHOD_INVOCATION, line no: 26,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret.addAll(base),METHOD_INVOCATION, line no: 26,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret.addAll(base),METHOD_INVOCATION, line no: 26,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret.addAll(base),METHOD_INVOCATION, line no: 26,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret.addAll(base),METHOD_INVOCATION, line no: 26,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret.addAll(base),METHOD_INVOCATION, line no: 26,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret.addAll(base),METHOD_INVOCATION, line no: 26,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret.addAll(base),METHOD_INVOCATION, line no: 26,i < b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret.addAll(base),METHOD_INVOCATION, line no: 26,b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret.addAll(base),METHOD_INVOCATION, line no: 26,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret.addAll(base),METHOD_INVOCATION, line no: 26,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret.addAll(base),METHOD_INVOCATION, line no: 26,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret.addAll(base),METHOD_INVOCATION, line no: 26,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret.addAll(base),METHOD_INVOCATION, line no: 26,i + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret.addAll(base),METHOD_INVOCATION, line no: 26,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,i < b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,subsequences(i + 1 b k - 1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,i + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,rest.add(0 i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 26,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+addAll,SIMPLE_NAME, line no: 26,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+addAll,SIMPLE_NAME, line no: 26,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+addAll,SIMPLE_NAME, line no: 26,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+addAll,SIMPLE_NAME, line no: 26,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+addAll,SIMPLE_NAME, line no: 26,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+addAll,SIMPLE_NAME, line no: 26,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+addAll,SIMPLE_NAME, line no: 26,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+addAll,SIMPLE_NAME, line no: 26,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+addAll,SIMPLE_NAME, line no: 26,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+addAll,SIMPLE_NAME, line no: 26,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+addAll,SIMPLE_NAME, line no: 26,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+addAll,SIMPLE_NAME, line no: 26,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+addAll,SIMPLE_NAME, line no: 26,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+addAll,SIMPLE_NAME, line no: 26,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+addAll,SIMPLE_NAME, line no: 26,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+addAll,SIMPLE_NAME, line no: 26,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+addAll,SIMPLE_NAME, line no: 26,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+addAll,SIMPLE_NAME, line no: 26,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+addAll,SIMPLE_NAME, line no: 26,i < b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+addAll,SIMPLE_NAME, line no: 26,b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+addAll,SIMPLE_NAME, line no: 26,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+addAll,SIMPLE_NAME, line no: 26,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+addAll,SIMPLE_NAME, line no: 26,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+addAll,SIMPLE_NAME, line no: 26,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+addAll,SIMPLE_NAME, line no: 26,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+addAll,SIMPLE_NAME, line no: 26,subsequences(i + 1 b k - 1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+addAll,SIMPLE_NAME, line no: 26,i + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+addAll,SIMPLE_NAME, line no: 26,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,ret,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,i < b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,subsequences(i + 1 b k - 1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,i + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,rest.add(0 i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+base,SIMPLE_NAME, line no: 26,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8944271909999159
+ret,SIMPLE_NAME, line no: 30,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,SUBSEQUENCES,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,ArrayList,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,subsequences,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,a,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,k,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,k == 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,new ArrayList(),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,new ArrayList(50),CLASS_INSTANCE_CREATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,50,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,int i=a,VARIABLE_DECLARATION_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,i < b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,b + 1 - k,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,b + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,i++,POSTFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,rest,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,subsequences(i + 1 b k - 1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,i + 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,k - 1,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,rest.add(0 i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,add,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,base.add(rest),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+ret,SIMPLE_NAME, line no: 30,addAll,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8

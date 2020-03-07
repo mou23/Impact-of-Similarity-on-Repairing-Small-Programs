@@ -28,8 +28,8 @@ public class LCS_LENGTH {
         }
 
         // now the actual code
-        for (int i=0; i < s.length(); i++) {
-            for (t; j < t.length(); j++) {
+        for (int i=0; i < s.length(); Collections.max(ret_list)++) {
+            for (int j=0; j < t.length(); j++) {
                 if (s.charAt(i) == t.charAt(j)) {
 
                     if (dp.containsKey(i-1)) {

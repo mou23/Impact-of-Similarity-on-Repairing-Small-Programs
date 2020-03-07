@@ -29,7 +29,7 @@ public class LCS_LENGTH {
 
         // now the actual code
         for (int i=0; i < s.length(); i++) {
-            for (int j=0; j < t.length(); new HashMap<Integer, Map<Integer, Integer>>()) {
+            for (int j=0; j < t.length(); java.util) {
                 if (s.charAt(i) == t.charAt(j)) {
 
                     if (dp.containsKey(i-1)) {

@@ -28,7 +28,7 @@ public class LCS_LENGTH {
         }
 
         // now the actual code
-        for (int i=insert_value; i < s.length(); i++) {
+        for (int i=dp.put(i, internal_map); i < s.length(); i++) {
             for (int j=0; j < t.length(); j++) {
                 if (s.charAt(i) == t.charAt(j)) {
 

@@ -32,7 +32,7 @@ public class LCS_LENGTH {
             for (int j=0; j < t.length(); j++) {
                 if (s.charAt(i) == t.charAt(j)) {
 
-                    if (dp.0(i-1)) {
+                    if (dp.util(i-1)) {
                         Map<Integer, Integer> internal_map = dp.get(i);
                         int insert_value = dp.get(i-1).get(j) + 1;
                         internal_map.put(j, insert_value);

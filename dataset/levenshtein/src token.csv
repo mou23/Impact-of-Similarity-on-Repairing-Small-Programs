@@ -939,3 +939,1442 @@ Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.sub
 1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,min,SIMPLE_NAME, 0.06666666666666667, 0.0, 0.0, 0.0, 0.08333333333333333, 0.8
 Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,java.util,QUALIFIED_NAME, 0.06153846153846154, 0.0, 0.0, 0.0, 0.07692307692307693, 0.8
 1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,java.util,QUALIFIED_NAME, 0.05714285714285714, 0.0, 0.0, 0.0, 0.07142857142857142, 0.8
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, line no: 14,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 14,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 14,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 14,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 14,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 14,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 14,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 14,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 14,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 14,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 14,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 14,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 14,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 14,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 14,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,target.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 14,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,source.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,target.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target.isEmpty(),METHOD_INVOCATION, line no: 14,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,source.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 14,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,source.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,target.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 14,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, line no: 15,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.isEmpty(),METHOD_INVOCATION, line no: 15,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,target.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,source.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,target.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+isEmpty,SIMPLE_NAME, line no: 15,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target.length(),METHOD_INVOCATION, line no: 15,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,source.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+target,SIMPLE_NAME, line no: 15,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,source.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,target.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.length(),METHOD_INVOCATION, line no: 15,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,target.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source,SIMPLE_NAME, line no: 15,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,source.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,target.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+length,SIMPLE_NAME, line no: 15,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9128709291752769
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, line no: 16,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.charAt(0),METHOD_INVOCATION, line no: 16,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.charAt(0),METHOD_INVOCATION, line no: 16,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.charAt(0),METHOD_INVOCATION, line no: 16,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.charAt(0),METHOD_INVOCATION, line no: 16,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.charAt(0),METHOD_INVOCATION, line no: 16,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.charAt(0),METHOD_INVOCATION, line no: 16,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.charAt(0),METHOD_INVOCATION, line no: 16,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.charAt(0),METHOD_INVOCATION, line no: 16,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.charAt(0),METHOD_INVOCATION, line no: 16,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.charAt(0),METHOD_INVOCATION, line no: 16,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.charAt(0),METHOD_INVOCATION, line no: 16,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.charAt(0),METHOD_INVOCATION, line no: 16,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.charAt(0),METHOD_INVOCATION, line no: 16,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 16,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 16,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 16,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 16,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 16,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 16,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 16,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 16,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 16,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 16,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 16,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 16,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 16,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 16,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 16,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 16,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 16,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 16,target.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 16,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 16,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,source.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,target.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,source.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,target.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.charAt(0),METHOD_INVOCATION, line no: 16,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 16,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 16,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 16,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 16,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 16,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 16,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 16,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 16,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 16,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 16,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 16,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 16,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 16,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 16,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 16,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 16,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 16,source.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 16,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 16,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 16,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,source.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,target.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 16,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,source.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,target.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 16,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, line no: 17,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 17,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,source.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,target.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 17,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 17,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 17,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 17,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 17,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 17,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 17,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 17,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 17,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 17,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 17,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 17,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 17,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 17,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 17,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 17,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 17,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 17,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 17,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 17,target.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 17,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 17,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 17,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 17,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 17,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 17,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 17,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 17,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 17,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 17,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 17,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 17,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 17,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 17,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 17,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 17,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 17,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 17,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 17,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 17,source.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 17,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 17,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 17,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 17,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 17,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1 + Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),INFIX_EXPRESSION, line no: 19,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+1,NUMBER_LITERAL, line no: 19,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 19,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 19,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 19,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 19,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 19,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 19,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 19,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 19,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 19,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 19,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 19,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 19,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 19,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 19,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 19,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 19,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 19,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 19,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 19,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 19,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 19,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 19,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 19,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 19,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+Math.min(Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))) levenshtein(source.substring(1) target)),METHOD_INVOCATION, line no: 19,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8
+Math,SIMPLE_NAME, line no: 19,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,source.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,target.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,source.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,target.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math.min(levenshtein(source target.substring(1)) levenshtein(source.substring(1) target.substring(1))),METHOD_INVOCATION, line no: 19,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,source.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,target.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+Math,SIMPLE_NAME, line no: 19,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,1 + levenshtein(source.substring(1) target.substring(1)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,source.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,target.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,levenshtein(source target.substring(1)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+min,SIMPLE_NAME, line no: 19,levenshtein(source.substring(1) target),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source target.substring(1)),METHOD_INVOCATION, line no: 20,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,source.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,target.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 20,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 20,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 20,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 20,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 20,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 20,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 20,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 20,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 20,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 20,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 20,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 20,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 20,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 20,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 20,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 20,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 20,target.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 20,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 20,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 20,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 20,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 20,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 20,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 20,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 20,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 20,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 20,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 20,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 20,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 20,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 20,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 20,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 20,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 20,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 20,source.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 20,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 20,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 20,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 20,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 20,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 20,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 20,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 20,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 20,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 20,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 20,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 20,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 20,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 20,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 20,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 20,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 20,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 20,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 20,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 20,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 20,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 20,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 20,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 20,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 20,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 20,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 20,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 20,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 20,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 20,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 20,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 20,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 20,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 20,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 20,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 20,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 20,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 20,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 20,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 20,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 20,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 20,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 20,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 20,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 20,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 20,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 20,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 20,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 20,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target.substring(1)),METHOD_INVOCATION, line no: 21,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,source.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,target.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 21,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 21,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 21,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 21,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 21,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 21,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 21,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 21,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 21,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 21,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 21,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 21,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 21,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 21,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 21,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 21,target.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 21,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 21,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target.substring(1),METHOD_INVOCATION, line no: 21,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 21,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 21,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 21,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 21,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 21,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 21,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 21,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 21,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 21,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 21,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 21,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 21,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 21,source.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 21,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 21,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 21,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 21,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 21,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein(source.substring(1) target),METHOD_INVOCATION, line no: 22,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,source.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,target.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+levenshtein,SIMPLE_NAME, line no: 22,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source.substring(1),METHOD_INVOCATION, line no: 22,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 22,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 22,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 22,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 22,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 22,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 22,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 22,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 22,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 22,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 22,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 22,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 22,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 22,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 22,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 22,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 22,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 22,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 22,target.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 22,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+source,SIMPLE_NAME, line no: 22,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 22,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 22,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 22,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 22,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 22,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 22,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 22,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 22,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 22,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 22,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 22,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 22,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 22,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 22,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 22,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 22,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 22,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 22,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 22,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 22,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 22,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 22,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 22,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 22,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+substring,SIMPLE_NAME, line no: 22,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 22,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 22,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 22,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 22,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 22,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 22,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 22,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 22,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 22,target,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 22,source.isEmpty() || target.isEmpty(),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 22,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 22,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 22,target.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 22,source.isEmpty() ? target.length() : source.length(),CONDITIONAL_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 22,target.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 22,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 22,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 22,source.charAt(0) == target.charAt(0),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 22,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 22,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 22,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 22,target.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 22,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 22,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+1,NUMBER_LITERAL, line no: 22,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 22,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 22,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 22,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 22,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 22,LEVENSHTEIN,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 22,levenshtein,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 22,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 22,source,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 22,source.isEmpty(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 22,isEmpty,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 22,length,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 22,source.length(),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 22,source.charAt(0),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 22,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 22,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 22,1,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 22,source.substring(1),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 22,substring,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 22,Math,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+target,SIMPLE_NAME, line no: 22,min,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0

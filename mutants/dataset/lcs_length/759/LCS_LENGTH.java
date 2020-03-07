@@ -14,7 +14,7 @@ public class LCS_LENGTH {
         // make a Counter
         // pair? no! just hashtable to a hashtable.. woo.. currying
 
-        Map<Integer, Map<Integer,Integer>> dp = new HashMap<Integer,Map<Integer,s.charAt(i) == t.charAt(j)>>();
+        Map<Integer, Map<Integer,Integer>> dp = new HashMap<Integer,Map<Integer,dp.put(i, internal_map)>>();
 
         // just set all the internal maps to 0
         for (int i=0; i < s.length(); i++) {

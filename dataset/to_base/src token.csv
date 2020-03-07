@@ -146,3 +146,630 @@ i=num % b,ASSIGNMENT, line no: 19,result + String.valueOf(alphabet.charAt(i)),IN
 num=num / b,ASSIGNMENT, line no: 20,result=result + String.valueOf(alphabet.charAt(i)),ASSIGNMENT, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
 result=result + String.valueOf(alphabet.charAt(i)),ASSIGNMENT, line no: 21,num=num / b,ASSIGNMENT, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
 result + String.valueOf(alphabet.charAt(i)),INFIX_EXPRESSION, line no: 21,i=num % b,ASSIGNMENT, 0.0625, 0.0, 0.0, 0.0, 0.0625, 1.0
+String,SIMPLE_NAME, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 15,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 15,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 15,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 15,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 15,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 15,num,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 15,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 15,result,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 15,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 15,alphabet,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 15,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 15,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 15,num > 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 15,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 15,i=num % b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 15,num % b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 15,num=num / b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 15,num / b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 15,valueOf,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 15,alphabet.charAt(i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 15,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 15,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 15,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 15,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 15,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 15,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 15,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 15,num,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 15,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 15,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 15,alphabet,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 15,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 15,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 15,num > 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 15,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 15,i=num % b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 15,num % b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 15,num=num / b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 15,num / b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 15,String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 15,valueOf,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 15,alphabet.charAt(i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 15,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"",STRING_LITERAL, line no: 15,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"",STRING_LITERAL, line no: 15,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"",STRING_LITERAL, line no: 15,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"",STRING_LITERAL, line no: 15,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"",STRING_LITERAL, line no: 15,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"",STRING_LITERAL, line no: 15,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"",STRING_LITERAL, line no: 15,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"",STRING_LITERAL, line no: 15,num,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"",STRING_LITERAL, line no: 15,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"",STRING_LITERAL, line no: 15,result,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"",STRING_LITERAL, line no: 15,alphabet,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"",STRING_LITERAL, line no: 15,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"",STRING_LITERAL, line no: 15,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"",STRING_LITERAL, line no: 15,num > 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"",STRING_LITERAL, line no: 15,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"",STRING_LITERAL, line no: 15,i=num % b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"",STRING_LITERAL, line no: 15,num % b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"",STRING_LITERAL, line no: 15,num=num / b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"",STRING_LITERAL, line no: 15,num / b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"",STRING_LITERAL, line no: 15,result=result + String.valueOf(alphabet.charAt(i)),ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"",STRING_LITERAL, line no: 15,result + String.valueOf(alphabet.charAt(i)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"",STRING_LITERAL, line no: 15,String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"",STRING_LITERAL, line no: 15,valueOf,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"",STRING_LITERAL, line no: 15,alphabet.charAt(i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"",STRING_LITERAL, line no: 15,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 16,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 16,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 16,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 16,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 16,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 16,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 16,num,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 16,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 16,result,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 16,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 16,alphabet,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 16,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 16,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 16,num > 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 16,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 16,i=num % b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 16,num % b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 16,num=num / b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 16,num / b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 16,valueOf,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 16,alphabet.charAt(i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 16,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 16,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 16,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 16,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 16,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 16,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 16,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 16,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 16,num,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 16,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 16,result,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 16,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 16,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 16,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 16,num > 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 16,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 16,i=num % b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 16,num % b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 16,num=num / b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 16,num / b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 16,valueOf,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 16,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, line no: 16,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, line no: 16,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, line no: 16,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, line no: 16,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, line no: 16,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, line no: 16,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, line no: 16,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, line no: 16,num,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, line no: 16,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, line no: 16,result,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, line no: 16,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, line no: 16,alphabet,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, line no: 16,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, line no: 16,num > 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, line no: 16,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, line no: 16,i=num % b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, line no: 16,num % b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, line no: 16,num=num / b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, line no: 16,num / b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, line no: 16,result=result + String.valueOf(alphabet.charAt(i)),ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, line no: 16,result + String.valueOf(alphabet.charAt(i)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, line no: 16,String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, line no: 16,valueOf,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, line no: 16,alphabet.charAt(i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, line no: 16,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num > 0,INFIX_EXPRESSION, line no: 18,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num > 0,INFIX_EXPRESSION, line no: 18,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num > 0,INFIX_EXPRESSION, line no: 18,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num > 0,INFIX_EXPRESSION, line no: 18,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num > 0,INFIX_EXPRESSION, line no: 18,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num > 0,INFIX_EXPRESSION, line no: 18,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num > 0,INFIX_EXPRESSION, line no: 18,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num > 0,INFIX_EXPRESSION, line no: 18,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num > 0,INFIX_EXPRESSION, line no: 18,result,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num > 0,INFIX_EXPRESSION, line no: 18,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num > 0,INFIX_EXPRESSION, line no: 18,alphabet,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num > 0,INFIX_EXPRESSION, line no: 18,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num > 0,INFIX_EXPRESSION, line no: 18,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num > 0,INFIX_EXPRESSION, line no: 18,result=result + String.valueOf(alphabet.charAt(i)),ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num > 0,INFIX_EXPRESSION, line no: 18,result + String.valueOf(alphabet.charAt(i)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num > 0,INFIX_EXPRESSION, line no: 18,String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num > 0,INFIX_EXPRESSION, line no: 18,valueOf,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num > 0,INFIX_EXPRESSION, line no: 18,alphabet.charAt(i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num > 0,INFIX_EXPRESSION, line no: 18,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 18,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 18,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 18,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 18,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 18,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 18,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 18,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 18,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 18,result,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 18,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 18,alphabet,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 18,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 18,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 18,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 18,result=result + String.valueOf(alphabet.charAt(i)),ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 18,result + String.valueOf(alphabet.charAt(i)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 18,String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 18,valueOf,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 18,alphabet.charAt(i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 18,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 18,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 18,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 18,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 18,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 18,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 18,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 18,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 18,num,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 18,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 18,result,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 18,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 18,alphabet,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 18,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 18,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 18,i=num % b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 18,num % b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 18,num=num / b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 18,num / b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 18,result=result + String.valueOf(alphabet.charAt(i)),ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 18,result + String.valueOf(alphabet.charAt(i)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 18,String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 18,valueOf,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 18,alphabet.charAt(i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+0,NUMBER_LITERAL, line no: 18,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i=num % b,ASSIGNMENT, line no: 19,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i=num % b,ASSIGNMENT, line no: 19,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i=num % b,ASSIGNMENT, line no: 19,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i=num % b,ASSIGNMENT, line no: 19,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i=num % b,ASSIGNMENT, line no: 19,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i=num % b,ASSIGNMENT, line no: 19,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i=num % b,ASSIGNMENT, line no: 19,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i=num % b,ASSIGNMENT, line no: 19,result,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i=num % b,ASSIGNMENT, line no: 19,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i=num % b,ASSIGNMENT, line no: 19,alphabet,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i=num % b,ASSIGNMENT, line no: 19,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i=num % b,ASSIGNMENT, line no: 19,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i=num % b,ASSIGNMENT, line no: 19,valueOf,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i=num % b,ASSIGNMENT, line no: 19,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 19,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 19,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 19,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 19,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 19,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 19,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 19,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 19,num,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 19,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 19,result,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 19,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 19,alphabet,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 19,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 19,num > 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 19,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 19,num % b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 19,num=num / b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 19,num / b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 19,valueOf,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 19,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num % b,INFIX_EXPRESSION, line no: 19,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num % b,INFIX_EXPRESSION, line no: 19,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num % b,INFIX_EXPRESSION, line no: 19,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num % b,INFIX_EXPRESSION, line no: 19,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num % b,INFIX_EXPRESSION, line no: 19,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num % b,INFIX_EXPRESSION, line no: 19,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num % b,INFIX_EXPRESSION, line no: 19,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num % b,INFIX_EXPRESSION, line no: 19,result,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num % b,INFIX_EXPRESSION, line no: 19,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num % b,INFIX_EXPRESSION, line no: 19,alphabet,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num % b,INFIX_EXPRESSION, line no: 19,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num % b,INFIX_EXPRESSION, line no: 19,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num % b,INFIX_EXPRESSION, line no: 19,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num % b,INFIX_EXPRESSION, line no: 19,result=result + String.valueOf(alphabet.charAt(i)),ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num % b,INFIX_EXPRESSION, line no: 19,result + String.valueOf(alphabet.charAt(i)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num % b,INFIX_EXPRESSION, line no: 19,String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num % b,INFIX_EXPRESSION, line no: 19,valueOf,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num % b,INFIX_EXPRESSION, line no: 19,alphabet.charAt(i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num % b,INFIX_EXPRESSION, line no: 19,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 19,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 19,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 19,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 19,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 19,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 19,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 19,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 19,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 19,result,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 19,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 19,alphabet,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 19,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 19,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 19,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 19,result=result + String.valueOf(alphabet.charAt(i)),ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 19,result + String.valueOf(alphabet.charAt(i)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 19,String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 19,valueOf,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 19,alphabet.charAt(i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 19,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 19,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 19,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 19,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 19,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 19,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 19,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 19,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 19,num,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 19,result,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 19,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 19,alphabet,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 19,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 19,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 19,num > 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 19,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 19,result=result + String.valueOf(alphabet.charAt(i)),ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 19,result + String.valueOf(alphabet.charAt(i)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 19,String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 19,valueOf,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 19,alphabet.charAt(i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 19,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num=num / b,ASSIGNMENT, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num=num / b,ASSIGNMENT, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num=num / b,ASSIGNMENT, line no: 20,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num=num / b,ASSIGNMENT, line no: 20,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num=num / b,ASSIGNMENT, line no: 20,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num=num / b,ASSIGNMENT, line no: 20,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num=num / b,ASSIGNMENT, line no: 20,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num=num / b,ASSIGNMENT, line no: 20,result,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num=num / b,ASSIGNMENT, line no: 20,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num=num / b,ASSIGNMENT, line no: 20,alphabet,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num=num / b,ASSIGNMENT, line no: 20,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num=num / b,ASSIGNMENT, line no: 20,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num=num / b,ASSIGNMENT, line no: 20,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num=num / b,ASSIGNMENT, line no: 20,result + String.valueOf(alphabet.charAt(i)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num=num / b,ASSIGNMENT, line no: 20,String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num=num / b,ASSIGNMENT, line no: 20,valueOf,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num=num / b,ASSIGNMENT, line no: 20,alphabet.charAt(i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num=num / b,ASSIGNMENT, line no: 20,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,result,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,alphabet,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,result=result + String.valueOf(alphabet.charAt(i)),ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,result + String.valueOf(alphabet.charAt(i)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,valueOf,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,alphabet.charAt(i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num / b,INFIX_EXPRESSION, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num / b,INFIX_EXPRESSION, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num / b,INFIX_EXPRESSION, line no: 20,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num / b,INFIX_EXPRESSION, line no: 20,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num / b,INFIX_EXPRESSION, line no: 20,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num / b,INFIX_EXPRESSION, line no: 20,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num / b,INFIX_EXPRESSION, line no: 20,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num / b,INFIX_EXPRESSION, line no: 20,result,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num / b,INFIX_EXPRESSION, line no: 20,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num / b,INFIX_EXPRESSION, line no: 20,alphabet,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num / b,INFIX_EXPRESSION, line no: 20,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num / b,INFIX_EXPRESSION, line no: 20,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num / b,INFIX_EXPRESSION, line no: 20,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num / b,INFIX_EXPRESSION, line no: 20,result=result + String.valueOf(alphabet.charAt(i)),ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num / b,INFIX_EXPRESSION, line no: 20,result + String.valueOf(alphabet.charAt(i)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num / b,INFIX_EXPRESSION, line no: 20,String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num / b,INFIX_EXPRESSION, line no: 20,valueOf,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num / b,INFIX_EXPRESSION, line no: 20,alphabet.charAt(i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num / b,INFIX_EXPRESSION, line no: 20,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,result,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,alphabet,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,result=result + String.valueOf(alphabet.charAt(i)),ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,result + String.valueOf(alphabet.charAt(i)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,valueOf,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,alphabet.charAt(i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+num,SIMPLE_NAME, line no: 20,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 20,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 20,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 20,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 20,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 20,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 20,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 20,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 20,num,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 20,result,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 20,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 20,alphabet,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 20,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 20,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 20,num > 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 20,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 20,result=result + String.valueOf(alphabet.charAt(i)),ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 20,result + String.valueOf(alphabet.charAt(i)),INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 20,String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 20,valueOf,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 20,alphabet.charAt(i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+b,SIMPLE_NAME, line no: 20,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result=result + String.valueOf(alphabet.charAt(i)),ASSIGNMENT, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result=result + String.valueOf(alphabet.charAt(i)),ASSIGNMENT, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result=result + String.valueOf(alphabet.charAt(i)),ASSIGNMENT, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result=result + String.valueOf(alphabet.charAt(i)),ASSIGNMENT, line no: 21,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result=result + String.valueOf(alphabet.charAt(i)),ASSIGNMENT, line no: 21,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result=result + String.valueOf(alphabet.charAt(i)),ASSIGNMENT, line no: 21,num,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result=result + String.valueOf(alphabet.charAt(i)),ASSIGNMENT, line no: 21,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result=result + String.valueOf(alphabet.charAt(i)),ASSIGNMENT, line no: 21,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result=result + String.valueOf(alphabet.charAt(i)),ASSIGNMENT, line no: 21,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result=result + String.valueOf(alphabet.charAt(i)),ASSIGNMENT, line no: 21,num > 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result=result + String.valueOf(alphabet.charAt(i)),ASSIGNMENT, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result=result + String.valueOf(alphabet.charAt(i)),ASSIGNMENT, line no: 21,num % b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result=result + String.valueOf(alphabet.charAt(i)),ASSIGNMENT, line no: 21,num / b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,num,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,alphabet,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,num > 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,i=num % b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,num % b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,num=num / b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,num / b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,valueOf,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,alphabet.charAt(i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result + String.valueOf(alphabet.charAt(i)),INFIX_EXPRESSION, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result + String.valueOf(alphabet.charAt(i)),INFIX_EXPRESSION, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result + String.valueOf(alphabet.charAt(i)),INFIX_EXPRESSION, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result + String.valueOf(alphabet.charAt(i)),INFIX_EXPRESSION, line no: 21,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result + String.valueOf(alphabet.charAt(i)),INFIX_EXPRESSION, line no: 21,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result + String.valueOf(alphabet.charAt(i)),INFIX_EXPRESSION, line no: 21,num,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result + String.valueOf(alphabet.charAt(i)),INFIX_EXPRESSION, line no: 21,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result + String.valueOf(alphabet.charAt(i)),INFIX_EXPRESSION, line no: 21,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result + String.valueOf(alphabet.charAt(i)),INFIX_EXPRESSION, line no: 21,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result + String.valueOf(alphabet.charAt(i)),INFIX_EXPRESSION, line no: 21,num > 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result + String.valueOf(alphabet.charAt(i)),INFIX_EXPRESSION, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result + String.valueOf(alphabet.charAt(i)),INFIX_EXPRESSION, line no: 21,num % b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result + String.valueOf(alphabet.charAt(i)),INFIX_EXPRESSION, line no: 21,num=num / b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result + String.valueOf(alphabet.charAt(i)),INFIX_EXPRESSION, line no: 21,num / b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,num,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,alphabet,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,num > 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,i=num % b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,num % b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,num=num / b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,num / b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,valueOf,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,alphabet.charAt(i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 21,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, line no: 21,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, line no: 21,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, line no: 21,num,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, line no: 21,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, line no: 21,result,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, line no: 21,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, line no: 21,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, line no: 21,num > 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, line no: 21,num % b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, line no: 21,num=num / b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, line no: 21,num / b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 21,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 21,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 21,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 21,num,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 21,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 21,result,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 21,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 21,alphabet,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 21,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 21,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 21,num > 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 21,i=num % b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 21,num % b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 21,num=num / b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 21,num / b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 21,valueOf,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 21,alphabet.charAt(i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+String,SIMPLE_NAME, line no: 21,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+valueOf,SIMPLE_NAME, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+valueOf,SIMPLE_NAME, line no: 21,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+valueOf,SIMPLE_NAME, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+valueOf,SIMPLE_NAME, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+valueOf,SIMPLE_NAME, line no: 21,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+valueOf,SIMPLE_NAME, line no: 21,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+valueOf,SIMPLE_NAME, line no: 21,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+valueOf,SIMPLE_NAME, line no: 21,num,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+valueOf,SIMPLE_NAME, line no: 21,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+valueOf,SIMPLE_NAME, line no: 21,result,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+valueOf,SIMPLE_NAME, line no: 21,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+valueOf,SIMPLE_NAME, line no: 21,alphabet,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+valueOf,SIMPLE_NAME, line no: 21,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+valueOf,SIMPLE_NAME, line no: 21,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+valueOf,SIMPLE_NAME, line no: 21,num > 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+valueOf,SIMPLE_NAME, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+valueOf,SIMPLE_NAME, line no: 21,i=num % b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+valueOf,SIMPLE_NAME, line no: 21,num % b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+valueOf,SIMPLE_NAME, line no: 21,num=num / b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+valueOf,SIMPLE_NAME, line no: 21,num / b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+valueOf,SIMPLE_NAME, line no: 21,alphabet.charAt(i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+valueOf,SIMPLE_NAME, line no: 21,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet.charAt(i),METHOD_INVOCATION, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet.charAt(i),METHOD_INVOCATION, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet.charAt(i),METHOD_INVOCATION, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet.charAt(i),METHOD_INVOCATION, line no: 21,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet.charAt(i),METHOD_INVOCATION, line no: 21,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet.charAt(i),METHOD_INVOCATION, line no: 21,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet.charAt(i),METHOD_INVOCATION, line no: 21,num,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet.charAt(i),METHOD_INVOCATION, line no: 21,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet.charAt(i),METHOD_INVOCATION, line no: 21,result,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet.charAt(i),METHOD_INVOCATION, line no: 21,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet.charAt(i),METHOD_INVOCATION, line no: 21,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet.charAt(i),METHOD_INVOCATION, line no: 21,num > 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet.charAt(i),METHOD_INVOCATION, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet.charAt(i),METHOD_INVOCATION, line no: 21,num % b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet.charAt(i),METHOD_INVOCATION, line no: 21,num=num / b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet.charAt(i),METHOD_INVOCATION, line no: 21,num / b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet.charAt(i),METHOD_INVOCATION, line no: 21,valueOf,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 21,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 21,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 21,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 21,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 21,num,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 21,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 21,result,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 21,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 21,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 21,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 21,num > 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 21,i=num % b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 21,num % b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 21,num=num / b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 21,num / b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 21,valueOf,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+alphabet,SIMPLE_NAME, line no: 21,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 21,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 21,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 21,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 21,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 21,num,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 21,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 21,result,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 21,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 21,alphabet,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 21,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 21,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 21,num > 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 21,i=num % b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 21,num % b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 21,num=num / b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 21,num / b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+charAt,SIMPLE_NAME, line no: 21,valueOf,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,num,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,result,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,alphabet,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,num > 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,num % b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,num=num / b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,num / b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,valueOf,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+i,SIMPLE_NAME, line no: 21,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 24,buggy_java_programs,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 24,java.util,QUALIFIED_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 24,java,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 24,util,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 24,TO_BASE,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 24,String,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 24,to_base,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 24,num,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 24,b,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 24,"",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 24,alphabet,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 24,"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",STRING_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 24,i,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 24,num > 0,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 24,0,NUMBER_LITERAL, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 24,i=num % b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 24,num % b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 24,num=num / b,ASSIGNMENT, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 24,num / b,INFIX_EXPRESSION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 24,String.valueOf(alphabet.charAt(i)),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 24,valueOf,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 24,alphabet.charAt(i),METHOD_INVOCATION, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+result,SIMPLE_NAME, line no: 24,charAt,SIMPLE_NAME, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0

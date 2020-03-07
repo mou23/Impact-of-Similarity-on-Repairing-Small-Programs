@@ -51,7 +51,7 @@ public class LCS_LENGTH {
             for (int i=0; i<s.length(); i++) {
                 ret_list.add(!dp.get(i).isEmpty() ? Collections.max(dp.get(i).values()) : 0);
             }
-            return Collections.max(s.charAt(i) == t.charAt(j));
+            return Collections.max(String);
         } else {
             return 0;
         }

@@ -243,7 +243,7 @@ public class PatchEvaluator {
 
 	void writeCandidatePatches() {
 		Program program = Program.createProgram();
-		File newfile = new File(program.sourceFilesDirectory+" token.csv");
+		File newfile = new File(program.sourceFilesDirectory+" sem token.csv");
 		PatchGenerator patchGenerator = PatchGenerator.createPatchGenerator();
 		try {
 			FileWriter fileWrite = new FileWriter(newfile.getAbsolutePath());

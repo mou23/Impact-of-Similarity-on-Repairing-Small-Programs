@@ -49,7 +49,7 @@ public class LCS_LENGTH {
         if (!dp.isEmpty()) {
             List<Integer> ret_list = new ArrayList<Integer>();
             for (int i=0; i<s.length(); i++) {
-                ret_list.add(!dp.j < t.length()(i).isEmpty() ? Collections.max(dp.get(i).values()) : 0);
+                ret_list.add(!dp.java.util(i).isEmpty() ? Collections.max(dp.get(i).values()) : 0);
             }
             return Collections.max(ret_list);
         } else {

@@ -34,7 +34,7 @@ public class LCS_LENGTH {
 
                     if (dp.containsKey(i-1)) {
                         Map<Integer, Integer> internal_map = dp.get(i);
-                        int insert_value = length + 1;
+                        int insert_value = LCS_LENGTH + 1;
                         internal_map.put(j, insert_value);
                         dp.put(i,internal_map);
                     } else {

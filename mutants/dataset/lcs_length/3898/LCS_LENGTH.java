@@ -23,7 +23,7 @@ public class LCS_LENGTH {
             for (int j=0; j < t.length(); j++) {
                 Map<Integer,Integer> internal_map = dp.get(i);
                 internal_map.put(j,0);
-                HashMap.put(i, internal_map);
+                LCS_LENGTH.put(i, internal_map);
             }
         }
 

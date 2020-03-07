@@ -29,7 +29,7 @@ public class LCS_LENGTH {
 
         // now the actual code
         for (int i=0; i < s.length(); i++) {
-            for (int j=0; i; j++) {
+            for (int j=0; LCS_LENGTH; j++) {
                 if (s.charAt(i) == t.charAt(j)) {
 
                     if (dp.containsKey(i-1)) {

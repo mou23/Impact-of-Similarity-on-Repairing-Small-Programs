@@ -36,7 +36,7 @@ public class Tokenizer {
 //			fileWrite.write();
 //			fileWrite.close();
 			writeExpressions(nodes);	
-			ProcessBuilder processBuilder = new ProcessBuilder("python","tokenizer.py");
+			ProcessBuilder processBuilder = new ProcessBuilder("python3","tokenizer.py");
 			Process process = processBuilder.start();
 
 			BufferedReader in = new BufferedReader(new InputStreamReader(process.getInputStream()));

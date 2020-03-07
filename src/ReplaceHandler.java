@@ -37,39 +37,39 @@ public class ReplaceHandler {
 				candidatePatch.filename = patchGenerator.file.getName();
 						
 				ModelExtractor modelExtractor = ModelExtractor.createModelExtractor();
-//				candidatePatch.genealogyScore = modelExtractor.getGenealogySimilarityScore(faultyNode.genealogy, fixingIngredient.genealogy);
-//				if(faultyNode.type.equals("SIMPLE_NAME") || fixingIngredient.type.equals("SIMPLE_NAME")) {
-//					
-//					IBinding faultyBinding = ((Expression)faultyNode.node).resolveTypeBinding();
-//					IBinding fixingBinding = ((Expression)fixingIngredient.node).resolveTypeBinding();
-//					if(faultyBinding!=null && fixingBinding!=null && faultyBinding.equals(fixingBinding)) {
-//						//							System.out.println(faultyNode.node + " line : " + faultyNode.startLine);
-//						//							System.out.println(fixingIngredient.node + " line : " + fixingIngredient.startLine);
-//						candidatePatch.variableScore = 1.0;
-//					}
-////					System.out.println("FAULT "+faultyNode.toString()  + " "+ faultyBinding);
-////					System.out.println("FIX " +fixingIngredient.toString()+ " "+fixingBinding);
-//				}
-//				
-//				else if(faultyNode.type.equals("BOOLEAN_LITERAL") || fixingIngredient.type.equals("BOOLEAN_LITERAL")
-//						|| faultyNode.type.equals("NUMBER_LITERAL") || fixingIngredient.type.equals("NUMBER_LITERAL")
-//						|| faultyNode.type.equals("NULL_LITERAL") || fixingIngredient.type.equals("NULL_LITERAL")
-//						|| faultyNode.type.equals("CHARACTER_LITERAL") || fixingIngredient.type.equals("CHARACTER_LITERAL")
-//						|| faultyNode.type.equals("STRING_LITERAL") || fixingIngredient.type.equals("STRING_LITERAL")) {
-//					IBinding faultyBinding = ((Expression)faultyNode.node).resolveTypeBinding();
-//					IBinding fixingBinding = ((Expression)fixingIngredient.node).resolveTypeBinding();
-//					if(faultyBinding!=null && fixingBinding!=null && faultyBinding.equals(fixingBinding)) {
-//						//							System.out.println(faultyNode.node + " line : " + faultyNode.startLine);
-//						//							System.out.println(fixingIngredient.node + " line : " + fixingIngredient.startLine);
-//						candidatePatch.variableScore = 1.0;
-//					}
-//				}
-//				else {
-//					candidatePatch.variableScore = modelExtractor.getVariableSimilarityScore(faultyNode.variableAccessed, fixingIngredient.variableAccessed);
-//				}
+				candidatePatch.genealogyScore = modelExtractor.getGenealogySimilarityScore(faultyNode.genealogy, fixingIngredient.genealogy);
+				if(faultyNode.type.equals("SIMPLE_NAME") || fixingIngredient.type.equals("SIMPLE_NAME")) {
+					
+					IBinding faultyBinding = ((Expression)faultyNode.node).resolveTypeBinding();
+					IBinding fixingBinding = ((Expression)fixingIngredient.node).resolveTypeBinding();
+					if(faultyBinding!=null && fixingBinding!=null && faultyBinding.equals(fixingBinding)) {
+						//							System.out.println(faultyNode.node + " line : " + faultyNode.startLine);
+						//							System.out.println(fixingIngredient.node + " line : " + fixingIngredient.startLine);
+						candidatePatch.variableScore = 1.0;
+					}
+//					System.out.println("FAULT "+faultyNode.toString()  + " "+ faultyBinding);
+//					System.out.println("FIX " +fixingIngredient.toString()+ " "+fixingBinding);
+				}
+				
+				else if(faultyNode.type.equals("BOOLEAN_LITERAL") || fixingIngredient.type.equals("BOOLEAN_LITERAL")
+						|| faultyNode.type.equals("NUMBER_LITERAL") || fixingIngredient.type.equals("NUMBER_LITERAL")
+						|| faultyNode.type.equals("NULL_LITERAL") || fixingIngredient.type.equals("NULL_LITERAL")
+						|| faultyNode.type.equals("CHARACTER_LITERAL") || fixingIngredient.type.equals("CHARACTER_LITERAL")
+						|| faultyNode.type.equals("STRING_LITERAL") || fixingIngredient.type.equals("STRING_LITERAL")) {
+					IBinding faultyBinding = ((Expression)faultyNode.node).resolveTypeBinding();
+					IBinding fixingBinding = ((Expression)fixingIngredient.node).resolveTypeBinding();
+					if(faultyBinding!=null && fixingBinding!=null && faultyBinding.equals(fixingBinding)) {
+						//							System.out.println(faultyNode.node + " line : " + faultyNode.startLine);
+						//							System.out.println(fixingIngredient.node + " line : " + fixingIngredient.startLine);
+						candidatePatch.variableScore = 1.0;
+					}
+				}
+				else {
+					candidatePatch.variableScore = modelExtractor.getVariableSimilarityScore(faultyNode.variableAccessed, fixingIngredient.variableAccessed);
+				}
 				candidatePatch.tokenScore = modelExtractor.getTokenSimilarityScore(faultyNode.tokens, fixingIngredient.tokens);
 //				candidatePatch.LCS = modelExtractor.getNormalizedLongestCommonSubsequence(faultyNode.node.toString(), fixingIngredient.node.toString());
-				candidatePatch.score = candidatePatch.suspiciousScore*(candidatePatch.tokenScore); //candidatePatch.genealogyScore+candidatePatch.variableScore+
+				candidatePatch.score = candidatePatch.suspiciousScore*(candidatePatch.genealogyScore+candidatePatch.variableScore+candidatePatch.tokenScore); //
 //				System.out.println(candidatePatch.genealogyScore+" "+candidatePatch.variableScore+" "+candidatePatch.tokenScore);
 //				if(candidatePatch.score>0) {
 				this.patchListUpdater.updatePatchList(candidatePatch);

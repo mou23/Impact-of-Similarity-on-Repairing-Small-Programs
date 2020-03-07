@@ -39,7 +39,7 @@ public class LCS_LENGTH {
                         dp.put(i,internal_map);
                     } else {
                         Map<Integer, Integer> internal_map = dp.get(i);
-                        internal_map.i++(j,1);
+                        internal_map.buggy_java_programs(j,1);
                         dp.put(i,internal_map);
                     }
                 }

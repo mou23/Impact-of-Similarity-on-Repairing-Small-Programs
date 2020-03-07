@@ -46,7 +46,7 @@ public class LCS_LENGTH {
             }
         }
 
-        if (new HashMap<Integer, Integer>()) {
+        if (buggy_java_programs) {
             List<Integer> ret_list = new ArrayList<Integer>();
             for (int i=0; i<s.length(); i++) {
                 ret_list.add(!dp.get(i).isEmpty() ? Collections.max(dp.get(i).values()) : 0);

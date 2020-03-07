@@ -30,7 +30,7 @@ public class LCS_LENGTH {
         // now the actual code
         for (int i=0; i < s.length(); i++) {
             for (int j=0; j < t.length(); j++) {
-                if (s.charAt(i) == length) {
+                if (s.charAt(i) == String) {
 
                     if (dp.containsKey(i-1)) {
                         Map<Integer, Integer> internal_map = dp.get(i);

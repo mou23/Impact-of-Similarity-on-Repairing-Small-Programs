@@ -28,7 +28,7 @@ public class LCS_LENGTH {
         }
 
         // now the actual code
-        for (int i=ret_list.add(!dp.get(i).isEmpty() ? Collections.max(dp.get(i).values()) : 0); i < s.length(); i++) {
+        for (int i=internal_map.put(j, insert_value); i < s.length(); i++) {
             for (int j=0; j < t.length(); j++) {
                 if (s.charAt(i) == t.charAt(j)) {
 
